@@ -1,0 +1,4 @@
+This the list of the Translation Notes pages.
+
+
+<nspages vi:obs:notes:frames -title -exclude:home -textPages="List of Translation Notes:">

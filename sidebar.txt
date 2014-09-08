@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vi:home|Door43 (vi)]]
+
+**Resources**
+
+  * [[vi:obs|Open Bible Stories (vi)]]
+
+
+**Recent Changes**
+{{changes>ns = vi}}
+
+**Latest Status**
+{{page>en:uwadmin:vi:obs:status}}
+
