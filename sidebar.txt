@@ -10,6 +10,10 @@
   * [[vi:obs|Open Bible Stories (vi)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vi|d43-vi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vi/archive/master.zip|d43-vi.zip]]
+
 **Recent Changes**
 {{changes>ns = vi}}
 
