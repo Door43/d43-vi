@@ -13,43 +13,43 @@ Hầu hết các nhà cầm quyền tôn giáo của người Do Thái không ti
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:45-01|{{:en:obs:obs-45-01.jpg?200|Frame 45-01}}]]\\ 
+[[:vi:obs:notes:frames:45-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?200|Frame 45-01}}]]\\ 
 Phép Lạ Của Ê-tiên [45-01]\\ 
 
-[[:vi:obs:notes:frames:45-02|{{:en:obs:obs-45-02.jpg?200|Frame 45-02}}]]\\ 
+[[:vi:obs:notes:frames:45-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?200|Frame 45-02}}]]\\ 
 Ê-tiên bị bắt [45-02]\\ 
 
-[[:vi:obs:notes:frames:45-03|{{:en:obs:obs-45-03.jpg?200|Frame 45-03}}]]\\ 
+[[:vi:obs:notes:frames:45-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?200|Frame 45-03}}]]\\ 
 Chính Các Ngươi Đã Giết Đấng Mê-si [45-03]\\ 
 
-[[:vi:obs:notes:frames:45-04|{{:en:obs:obs-45-04.jpg?200|Frame 45-04}}]]\\ 
+[[:vi:obs:notes:frames:45-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?200|Frame 45-04}}]]\\ 
 Ê-tiên Bị Ném Đá [45-04]\\ 
 
-[[:vi:obs:notes:frames:45-05|{{:en:obs:obs-45-05.jpg?200|Frame 45-05}}]]\\ 
+[[:vi:obs:notes:frames:45-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?200|Frame 45-05}}]]\\ 
 Lời Cầu Nguyện Của Ê-tiên [45-05]\\ 
 
-[[:vi:obs:notes:frames:45-06|{{:en:obs:obs-45-06.jpg?200|Frame 45-06}}]]\\ 
+[[:vi:obs:notes:frames:45-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?200|Frame 45-06}}]]\\ 
 Người The People Attacked the Believers [45-06]\\ 
 
-[[:vi:obs:notes:frames:45-07|{{:en:obs:obs-45-07.jpg?200|Frame 45-07}}]]\\ 
+[[:vi:obs:notes:frames:45-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?200|Frame 45-07}}]]\\ 
 Phi-líp Trên Con Đường Trong Sa Mạc [45-07]\\ 
 
-[[:en:obs-training:frames:45-08|{{:en:obs:obs-45-08.jpg?200|Frame 45-08}}]]\\ 
+[[:en:obs-training:frames:45-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?200|Frame 45-08}}]]\\ 
 Người Ê-thi-ô-pi Đọc Ê-sai [45-08]\\ 
 
-[[:vi:obs:notes:frames:45-09|{{:en:obs:obs-45-09.jpg?200|Frame 45-09}}]]\\ 
+[[:vi:obs:notes:frames:45-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?200|Frame 45-09}}]]\\ 
 Phi-líp Gặp Người Ê-thi-ô-pi [45-09]\\ 
 
-[[:vi:obs:notes:frames:45-10|{{:en:obs:obs-45-10.jpg?200|Frame 45-10}}]]\\ 
+[[:vi:obs:notes:frames:45-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?200|Frame 45-10}}]]\\ 
 Phi-líp Giảng Về Chúa Jêsus [45-10]\\ 
 
-[[:vi:obs:notes:frames:45-11|{{:en:obs:obs-45-11.jpg?200|Frame 45-11}}]]\\ 
+[[:vi:obs:notes:frames:45-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?200|Frame 45-11}}]]\\ 
 Có Nước Ở Đây [45-11]\\ 
 
-[[:vi:obs:notes:frames:45-12|{{:en:obs:obs-45-12.jpg?200|Frame 45-12}}]]\\ 
+[[:vi:obs:notes:frames:45-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?200|Frame 45-12}}]]\\ 
 Phi-líp Làm Phép Báp-tem Cho Người Ê-thi-ô-pi [45-12]\\ 
 
-[[:vi:obs:notes:frames:45-13|{{:en:obs:obs-45-13.jpg?200|Frame 45-13}}]]\\ 
+[[:vi:obs:notes:frames:45-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?200|Frame 45-13}}]]\\ 
 Người Ê-thi-ô-pi Trở Về Nhà [45-13]\\ 
 
 //A Bible story from: Acts 6:8-8:5; 8:26-40//

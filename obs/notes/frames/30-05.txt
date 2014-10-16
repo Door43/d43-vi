@@ -1,7 +1,7 @@
 ===== Five Loaves and Two Fish [30-05] =====
 
 
-{{:en:obs:obs-30-05.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
 
 
 ===== Điều khoản quan trọng: =====

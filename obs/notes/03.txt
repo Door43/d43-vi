@@ -13,52 +13,52 @@ Tội lỗi của A-đam và Ê-va đã trải qua trên toàn thể loài ngư�
 Click on the images below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:03-01|{{:en:obs:obs-03-01.jpg?200|Frame 03-01}}]]\\
+[[:vi:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?200|Frame 03-01}}]]\\
 Tội lỗi gia tăng [03-01]\\
 \\
-[[:vi:obs:notes:frames:03-02|{{:en:obs:obs-03-02.jpg?200|Frame 03-02}}]]\\
+[[:vi:obs:notes:frames:03-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?200|Frame 03-02}}]]\\
 Nô-ê được ơn [03-02]\\
 \\
-[[:vi:obs:notes:frames:03-03|{{:en:obs:obs-03-03.jpg?200|Frame 03-03}}]]\\
+[[:vi:obs:notes:frames:03-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?200|Frame 03-03}}]]\\
 Con tàu lớn  [03-03]\\
 \\
-[[:vi:obs:notes:frames:03-04|{{:en:obs:obs-03-04.jpg?200|Frame 03-04}}]]\\
+[[:vi:obs:notes:frames:03-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?200|Frame 03-04}}]]\\
 Sự đóng tàu  [03-04]\\
 \\
-[[:vi:obs:notes:frames:03-05|{{:en:obs:obs-03-05.jpg?200|Frame 03-05}}]]\\
+[[:vi:obs:notes:frames:03-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?200|Frame 03-05}}]]\\
 Sự lên tàu  [03-05]\\
 \\
-[[:vi:obs:notes:frames:03-06|{{:en:obs:obs-03-06.jpg?200|Frame 03-06}}]]\\
+[[:vi:obs:notes:frames:03-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?200|Frame 03-06}}]]\\
 Các loài vật lên tàu  [03-06]\\
 \\
-[[:vi:obs:notes:frames:03-07|{{:en:obs:obs-03-07.jpg?200|Frame 03-07}}]]\\
+[[:vi:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?200|Frame 03-07}}]]\\
 Bắt đầu mưa  [03-07]\\
 \\
-[[:vi:obs:notes:frames:03-08|{{:en:obs:obs-03-08.jpg?200|Frame 03-08}}]]\\
+[[:vi:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?200|Frame 03-08}}]]\\
 An toàn khỏi trận lụt  [03-08]\\
 \\
-[[:vi:obs:notes:frames:03-09|{{:en:obs:obs-03-09.jpg?200|Frame 03-09}}]]\\
+[[:vi:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?200|Frame 03-09}}]]\\
 Mưa tạnh  [03-09]\\
 \\
-[[:vi:obs:notes:frames:03-10|{{:en:obs:obs-03-10.jpg?200|Frame 03-10}}]]\\
+[[:vi:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?200|Frame 03-10}}]]\\
 Con quạ  [03-10]\\
 \\
-[[:vi:obs:notes:frames:03-11|{{:en:obs:obs-03-11.jpg?200|Frame 03-11}}]]\\
+[[:vi:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?200|Frame 03-11}}]]\\
 Chim bồ câu  [03-11]\\
 \\
-[[:vi:obs:notes:frames:03-12|{{:en:obs:obs-03-12.jpg?200|Frame 03-12}}]]\\
+[[:vi:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?200|Frame 03-12}}]]\\
 Đất khô  [03-12]\\
 \\
-[[:vi:obs:notes:frames:03-13|{{:en:obs:obs-03-13.jpg?200|Frame 03-13}}]]\\
+[[:vi:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?200|Frame 03-13}}]]\\
 Rời tàu  [03-13]\\
 \\
-[[:vi:obs:notes:frames:03-14|{{:en:obs:obs-03-14.jpg?200|Frame 03-14}}]]\\
+[[:vi:obs:notes:frames:03-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?200|Frame 03-14}}]]\\
 Của lễ của Nô-ê  [03-14]\\
 \\
-[[:vi:obs:notes:frames:03-15|{{:en:obs:obs-03-15.jpg?200|Frame 03-15}}]]\\
+[[:vi:obs:notes:frames:03-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?200|Frame 03-15}}]]\\
 Lời hứa của Đức Chúa Trời  [03-15]\\
 \\
-[[:vi:obs:notes:frames:03-16|{{:en:obs:obs-03-16.jpg?200|Frame 03-16}}]]\\
+[[:vi:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?200|Frame 03-16}}]]\\
 Cầu vồng  [03-16]\\
 \\
 

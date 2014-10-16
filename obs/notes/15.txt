@@ -13,43 +13,43 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:15-01|{{:en:obs:obs-15-01.jpg?200|Frame 15-01}}]]\\ 
+[[:vi:obs:notes:frames:15-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?200|Frame 15-01}}]]\\ 
 Hai thám tử do thám [15-01]\\ 
 
-[[:vi:obs:notes:frames:15-02|{{:en:obs:obs-15-02.jpg?200|Frame 15-02}}]]\\ 
+[[:vi:obs:notes:frames:15-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?200|Frame 15-02}}]]\\ 
 Vượt sông Giô-đanh [15-02]\\ 
 
-[[:vi:obs:notes:frames:15-03|{{:en:obs:obs-15-03.jpg?200|Frame 15-03}}]]\\ 
+[[:vi:obs:notes:frames:15-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?200|Frame 15-03}}]]\\ 
 Diễu hành quanh thành Giê-ri-cô [15-03]\\ 
 
-[[:vi:obs:notes:frames:15-04|{{:en:obs:obs-15-04.jpg?200|Frame 15-04}}]]\\ 
+[[:vi:obs:notes:frames:15-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?200|Frame 15-04}}]]\\ 
 Ngợi khen Đức Chúa Trời [15-04]\\ 
 
-[[:vi:obs:notes:frames:15-05|{{:en:obs:obs-15-05.jpg?200|Frame 15-05}}]]\\ 
+[[:vi:obs:notes:frames:15-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?200|Frame 15-05}}]]\\ 
 Những bức tường sụp đổ [15-05]\\ 
 
-[[:vi:obs:notes:frames:15-06|{{:en:obs:obs-15-06.jpg?200|Frame 15-06}}]]\\ 
+[[:vi:obs:notes:frames:15-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg?200|Frame 15-06}}]]\\ 
 Dân Ghi-bê-ôn nói dối [15-06]\\ 
 
-[[:vi:obs:notes:frames:15-07|{{:en:obs:obs-15-07.jpg?200|Frame 15-07}}]]\\ 
+[[:vi:obs:notes:frames:15-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?200|Frame 15-07}}]]\\ 
 Dân Ghi-bê-ôn lâm nguy [15-07]\\ 
 
-[[:vi:obs:notes:frames:15-08|{{:en:obs:obs-15-08.jpg?200|Frame 15-08}}]]\\ 
+[[:vi:obs:notes:frames:15-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-08.jpg?200|Frame 15-08}}]]\\ 
 Người Y-sơ-ra-ên giúp dân Ghi-bê-ôn [15-08]\\ 
 
-[[:vi:obs:notes:frames:15-09|{{:en:obs:obs-15-09.jpg?200|Frame 15-09}}]]\\ 
+[[:vi:obs:notes:frames:15-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-09.jpg?200|Frame 15-09}}]]\\ 
 Đức Chúa Trời chiến đấu cùng dân A-mô-rí [15-09]\\ 
 
-[[:vi:obs:notes:frames:15-10|{{:en:obs:obs-15-10.jpg?200|Frame 15-10}}]]\\ 
+[[:vi:obs:notes:frames:15-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?200|Frame 15-10}}]]\\ 
 Mặt trời đứng yên [15-10]\\ 
 
-[[:vi:obs:notes:frames:15-11|{{:en:obs:obs-15-11.jpg?200|Frame 15-11}}]]\\ 
+[[:vi:obs:notes:frames:15-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?200|Frame 15-11}}]]\\ 
 Dân Y-sơ-ra-ên đánh bại dân Ca-na-an [15-11]\\ 
 
-[[:vi:obs:notes:frames:15-12|{{:en:obs:obs-15-12.jpg?200|Frame 15-12}}]]\\ 
+[[:vi:obs:notes:frames:15-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?200|Frame 15-12}}]]\\ 
 Phân chia vùng Đất Hứa [15-12]\\ 
 
-[[:vi:obs:notes:frames:15-13|{{:en:obs:obs-15-13.jpg?200|Frame 15-13}}]]\\ 
+[[:vi:obs:notes:frames:15-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?200|Frame 15-13}}]]\\ 
 Giô-suê nhắc lại Giao ước [15-13]\\ 
 
 

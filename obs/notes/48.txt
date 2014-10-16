@@ -12,46 +12,46 @@
 
 Click on the links below to translate each frame of the story.
 
-[[:vi:obs:notes:frames:48-01|{{:en:obs:obs-48-01.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink&200}}]]\\ 
 Tạo Vật Hoàn Hảo [48-01]
 
-[[:vi:obs:notes:frames:48-02|{{:en:obs:obs-48-02.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&200}}]]\\ 
 A-đam và Ê-va Phạm Tội [48-02]
 
-[[:vi:obs:notes:frames:48-03|{{:en:obs:obs-48-03.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink&200}}]]\\ 
 Những Kẻ Thù Của Đức Chúa Trời [48-03]
 
-[[:vi:obs:notes:frames:48-04|{{:en:obs:obs-48-04.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-04.jpg?nolink&200}}]]\\ 
 Chúa Jêsus Sẽ Dầy Đạp Sa-tan [48-04]
 
-[[:vi:obs:notes:frames:48-05|{{:en:obs:obs-48-05.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&200}}]]\\ 
 Một Con Đường Cứu Rỗi [48-05]
 
-[[:vi:obs:notes:frames:48-06|{{:en:obs:obs-48-06.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink&200}}]]\\ 
 Thầy Tế Lễ Thượng Phẩm [48-06]
 
-[[:vi:obs:notes:frames:48-07|{{:en:obs:obs-48-07.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-07.jpg?nolink&200}}]]\\ 
 Dân Sự Của Đức Chúa Trời [48-07]
 
-[[:vi:obs:notes:frames:48-08|{{:en:obs:obs-48-08.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink&200}}]]\\ 
 Chiên Con Của Đức Chúa Trời [48-08]
 
-[[:vi:obs:notes:frames:48-09|{{:en:obs:obs-48-09.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&200}}]]\\ 
 Lễ Vượt Qua [48-09]
 
-[[:vi:obs:notes:frames:48-10|{{:en:obs:obs-48-10.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink&200}}]]\\ 
 Chiên Con Lễ Vượt Qua [48-10]
 
-[[:vi:obs:notes:frames:48-11|{{:en:obs:obs-48-11.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?nolink&200}}]]\\ 
 Giao Ước Mới Của Đức Chúa Trời [48-11]
 
-[[:vi:obs:notes:frames:48-12|{{:en:obs:obs-48-12.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink&200}}]]\\ 
 Lời Đức Chúa Trời [48-12]
 
-[[:vi:obs:notes:frames:48-13|{{:en:obs:obs-48-13.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink&200}}]]\\ 
 Một Hậu Tự Của Đa-vít [48-13]
 
-[[:vi:obs:notes:frames:48-14|{{:en:obs:obs-48-14.jpg?nolink&200}}]]\\ 
+[[:vi:obs:notes:frames:48-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink&200}}]]\\ 
 Vua Của Hoàn Vũ [48-14]
 
 

@@ -13,46 +13,46 @@ Sau-lơ bắt đầu sử dụng tên La-mã, là Phao-lô. Ông và Si-la đi �
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:47-01|{{:en:obs:obs-47-01.jpg?200|Frame 47-01}}]]\\ 
+[[:vi:obs:notes:frames:47-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?200|Frame 47-01}}]]\\ 
 Phao-lô và Si-la tại Phi-líp [47-01]\\ 
 
-[[:vi:obs:notes:frames:47-02|{{:en:obs:obs-47-02.jpg?200|Frame 47-02}}]]\\ 
+[[:vi:obs:notes:frames:47-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?200|Frame 47-02}}]]\\ 
 Lyđi Được Báp-tem [47-02]\\ 
 
-[[:vi:obs:notes:frames:47-03|{{:en:obs:obs-47-03.jpg?200|Frame 47-03}}]]\\ 
+[[:vi:obs:notes:frames:47-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?200|Frame 47-03}}]]\\ 
 Cô Gái Nô Lệ [47-03]\\ 
 
-[[:vi:obs:notes:frames:47-04|{{:en:obs:obs-47-04.jpg?200|Frame 47-04}}]]\\ 
+[[:vi:obs:notes:frames:47-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?200|Frame 47-04}}]]\\ 
 Lời Chứng Của Ma Quỷ [47-04]\\ 
 
-[[:vi:obs:notes:frames:47-05|{{:en:obs:obs-47-05.jpg?200|Frame 47-05}}]]\\ 
+[[:vi:obs:notes:frames:47-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?200|Frame 47-05}}]]\\ 
 Phao-lô Chữa Lành Cho Đứa Đầy Tớ Gái [47-05]\\ 
 
-[[:vi:obs:notes:frames:47-06|{{:en:obs:obs-47-06.jpg?200|Frame 47-06}}]]\\ 
+[[:vi:obs:notes:frames:47-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?200|Frame 47-06}}]]\\ 
 Dân Chúng Giận Dữ [47-06]\\ 
 
-[[:vi:obs:notes:frames:47-07|{{:en:obs:obs-47-07.jpg?200|Frame 47-07}}]]\\ 
+[[:vi:obs:notes:frames:47-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?200|Frame 47-07}}]]\\ 
 Phao-lô và Si-la Bị Bắt [47-07]\\ 
 
-[[:vi:obs:notes:frames:47-08|{{:en:obs:obs-47-08.jpg?200|Frame 47-08}}]]\\ 
+[[:vi:obs:notes:frames:47-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?200|Frame 47-08}}]]\\ 
 Phao-lô và Si-la Ở Tù [47-08]\\ 
 
-[[:vi:obs:notes:frames:47-09|{{:en:obs:obs-47-09.jpg?200|Frame 47-09}}]]\\ 
+[[:vi:obs:notes:frames:47-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?200|Frame 47-09}}]]\\ 
 Động Đất [47-09]\\ 
 
-[[:vi:obs:notes:frames:47-10|{{:en:obs:obs-47-10.jpg?200|Frame 47-10}}]]\\ 
+[[:vi:obs:notes:frames:47-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?200|Frame 47-10}}]]\\ 
 Người Cai Ngục [47-10]\\ 
 
-[[:vi:obs:notes:frames:47-11|{{:en:obs:obs-47-11.jpg?200|Frame 47-11}}]]\\ 
+[[:vi:obs:notes:frames:47-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?200|Frame 47-11}}]]\\ 
 Tôi phải làm gì? [47-11]\\ 
 
-[[:vi:obs:notes:frames:47-12|{{:en:obs:obs-47-12.jpg?200|Frame 47-12}}]]\\ 
+[[:vi:obs:notes:frames:47-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?200|Frame 47-12}}]]\\ 
 Người Cai Ngục Được Làm Báp-tem [47-12]\\ 
 
-[[:vi:obs:notes:frames:47-13|{{:en:obs:obs-47-13.jpg?200|Frame 47-13}}]]\\ 
+[[:vi:obs:notes:frames:47-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?200|Frame 47-13}}]]\\ 
 Tin Lành Lan Ra [47-13]\\ 
 
-[[:vi:obs:notes:frames:47-14|{{:en:obs:obs-47-14.jpg?200|Frame 47-14}}]]\\ 
+[[:vi:obs:notes:frames:47-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?200|Frame 47-14}}]]\\ 
 Thư Gửi Các Hội Thánh [47-14]\\ 
 
 //A Bible story from: Acts 16:11-40//

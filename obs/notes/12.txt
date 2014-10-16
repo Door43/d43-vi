@@ -13,46 +13,46 @@ Dân Y-sơ-ra-ên vui mừng rời khỏi Ai Cập. Đức Chúa Trời đã hi�
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:12-01|{{:en:obs:obs-12-01.jpg?nolink&200|Frame 12-01}}]]\\ 
+[[:vi:obs:notes:frames:12-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink&200|Frame 12-01}}]]\\ 
 Dân Y-sơ-ra-ên rời khỏi Ai Cập [12-01]
 
-[[:vi:obs:notes:frames:12-02|{{:en:obs:obs-12-02.jpg?nolink&200|Frame 12-02}}]]\\ 
+[[:vi:obs:notes:frames:12-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-02.jpg?nolink&200|Frame 12-02}}]]\\ 
 Đức Chúa Trời đi trước dân Y-sơ-ra-ên [12-02]
 
-[[:vi:obs:notes:frames:12-03|{{:en:obs:obs-12-03.jpg?nolink&200|Frame 12-03}}]]\\ 
+[[:vi:obs:notes:frames:12-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-03.jpg?nolink&200|Frame 12-03}}]]\\ 
 Pha-ra-ôn thay đổi ý định [12-03]
 
-[[:vi:obs:notes:frames:12-04|{{:en:obs:obs-12-04.jpg?nolink&200|Frame 12-04}}]]\\ 
+[[:vi:obs:notes:frames:12-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?nolink&200|Frame 12-04}}]]\\ 
 Pha-ra-ôn đuổi theo dân Y-sơ-ra-ên [12-04]
 
-[[:vi:obs:notes:frames:12-05|{{:en:obs:obs-12-05.jpg?nolink&200|Frame 12-05}}]]\\ 
+[[:vi:obs:notes:frames:12-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?nolink&200|Frame 12-05}}]]\\ 
 Đức Chúa Trời sẽ chiến đấu cho các ngươi [12-05]
 
-[[:vi:obs:notes:frames:12-06|{{:en:obs:obs-12-06.jpg?nolink&200|Frame 12-06}}]]\\ 
+[[:vi:obs:notes:frames:12-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink&200|Frame 12-06}}]]\\ 
 Sự tối tăm bao phủ người Ai Cập [12-06]
 
-[[:vi:obs:notes:frames:12-07|{{:en:obs:obs-12-07.jpg?nolink&200|Frame 12-07}}]]\\ 
+[[:vi:obs:notes:frames:12-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&200|Frame 12-07}}]]\\ 
 Môi-se rẽ Biển Đỏ [12-07]
 
-[[:vi:obs:notes:frames:12-08|{{:en:obs:obs-12-08.jpg?nolink&200|Frame 12-08}}]]\\ 
+[[:vi:obs:notes:frames:12-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&200|Frame 12-08}}]]\\ 
 Dân Y-sơ-ra-ên vượt qua Biển Đỏ [12-08]
 
-[[:vi:obs:notes:frames:12-09|{{:en:obs:obs-12-09.jpg?nolink&200|Frame 12-09}}]]\\ 
+[[:vi:obs:notes:frames:12-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-09.jpg?nolink&200|Frame 12-09}}]]\\ 
 Người Ai Cập đuổi theo dân Y-sơ-ra-ên [12-09]
 
-[[:vi:obs:notes:frames:12-10|{{:en:obs:obs-12-10.jpg?nolink&200|Frame 12-10}}]]\\ 
+[[:vi:obs:notes:frames:12-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?nolink&200|Frame 12-10}}]]\\ 
 Đức Chúa Trời chiến đấu cho dân Y-sơ-ra-ên [12-10]
 
-[[:vi:obs:notes:frames:12-11|{{:en:obs:obs-12-11.jpg?nolink&200|Frame 12-11}}]]\\ 
+[[:vi:obs:notes:frames:12-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink&200|Frame 12-11}}]]\\ 
 Quân Ai Cập bị chìm [12-11]
 
-[[:vi:obs:notes:frames:12-12|{{:en:obs:obs-12-12.jpg?nolink&200|Frame 12-12}}]]\\ 
+[[:vi:obs:notes:frames:12-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink&200|Frame 12-12}}]]\\ 
 Dân Y-sơ-ra-ên tin nơi Đức Chúa Trời [12-12]
 
-[[:vi:obs:notes:frames:12-13|{{:en:obs:obs-12-13.jpg?nolink&200|Frame 12-13}}]]\\ 
+[[:vi:obs:notes:frames:12-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-13.jpg?nolink&200|Frame 12-13}}]]\\ 
 Dân Y-sơ-ra-ên vui mừng [12-13]
 
-[[:vi:obs:notes:frames:12-14|{{:en:obs:obs-12-14.jpg?nolink&200|Frame 12-14}}]]\\ 
+[[:vi:obs:notes:frames:12-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&200|Frame 12-14}}]]\\ 
 Một ngày lễ hàng năm [12-14]
 
 

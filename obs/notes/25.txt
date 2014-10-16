@@ -13,28 +13,28 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:25-01|{{:en:obs:obs-25-01.jpg?200|Frame 25-01}}]]\\ 
+[[:vi:obs:notes:frames:25-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?200|Frame 25-01}}]]\\ 
 Ma quỷ cám dỗ Chúa Giê-xu [25-01]\\ 
 
-[[:vi:obs:notes:frames:25-02|{{:en:obs:obs-25-02.jpg?200|Frame 25-02}}]]\\ 
+[[:vi:obs:notes:frames:25-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?200|Frame 25-02}}]]\\ 
 Sự cám dỗ đầu tiên [25-02]\\ 
 
-[[:vi:obs:notes:frames:25-03|{{:en:obs:obs-25-03.jpg?200|Frame 25-03}}]]\\ 
+[[:vi:obs:notes:frames:25-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?200|Frame 25-03}}]]\\ 
 Lời Đức Chúa Trời ban cho sự sống [25-03]\\ 
 
-[[:vi:obs:notes:frames:25-04|{{:en:obs:obs-25-04.jpg?200|Frame 25-04}}]]\\ 
+[[:vi:obs:notes:frames:25-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?200|Frame 25-04}}]]\\ 
 Sự cám dỗ thứ hai [25-04]\\ 
 
-[[:vi:obs:notes:frames:25-05|{{:en:obs:obs-25-05.jpg?200|Frame 25-05}}]]\\ 
+[[:vi:obs:notes:frames:25-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?200|Frame 25-05}}]]\\ 
 Đừng thử Đức Chúa Trời [25-05]\\ 
 
-[[:vi:obs:notes:frames:25-06|{{:en:obs:obs-25-06.jpg?200|Frame 25-06}}]]\\ 
+[[:vi:obs:notes:frames:25-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?200|Frame 25-06}}]]\\ 
 Sự cám dỗ thứ ba [25-06]\\ 
 
-[[:vi:obs:notes:frames:25-07|{{:en:obs:obs-25-07.jpg?200|Frame 25-07}}]]\\ 
+[[:vi:obs:notes:frames:25-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?200|Frame 25-07}}]]\\ 
 Thờ phượng một mình Đức Chúa Trời [25-07]\\ 
 
-[[:vi:obs:notes:frames:25-08|{{:en:obs:obs-25-08.jpg?200|Frame 25-08}}]]\\ 
+[[:vi:obs:notes:frames:25-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?200|Frame 25-08}}]]\\ 
 Các thiên sứ chăm sóc Chúa Giê-xu [25-08]\\ 
 
 //A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13//

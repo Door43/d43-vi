@@ -1,7 +1,7 @@
 ===== Gideon Made an Idol [16-16] =====
 
 
-{{:en:obs:obs-16-16.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-16.jpg?nolink}}
 
 
 ===== Điều khoản quan trọng: =====

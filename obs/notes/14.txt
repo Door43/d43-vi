@@ -13,49 +13,49 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:14-01|{{:en:obs:obs-14-01.jpg?200|Frame 14-01}}]]\\ 
+[[:vi:obs:notes:frames:14-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-01.jpg?200|Frame 14-01}}]]\\ 
 Đức Chúa Trời dẫn dắt dân Y-sơ-ra-ên [14-01]\\ 
 
-[[:vi:obs:notes:frames:14-02|{{:en:obs:obs-14-02.jpg?200|Frame 14-02}}]]\\ 
+[[:vi:obs:notes:frames:14-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-02.jpg?200|Frame 14-02}}]]\\ 
 Những thần tượng của dân Ca-na-an [14-02]\\ 
 
-[[:vi:obs:notes:frames:14-03|{{:en:obs:obs-14-03.jpg?200|Frame 14-03}}]]\\ 
+[[:vi:obs:notes:frames:14-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-03.jpg?200|Frame 14-03}}]]\\ 
 Tiêu diệt dân Ca-na-an [14-03]\\ 
 
-[[:vi:obs:notes:frames:14-04|{{:en:obs:obs-14-04.jpg?200|Frame 14-04}}]]\\ 
+[[:vi:obs:notes:frames:14-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?200|Frame 14-04}}]]\\ 
 Mười hai thám tử do thám [14-04]\\ 
 
-[[:vi:obs:notes:frames:14-05|{{:en:obs:obs-14-05.jpg?200|Frame 14-05}}]]\\ 
+[[:vi:obs:notes:frames:14-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-05.jpg?200|Frame 14-05}}]]\\ 
 Lời báo cáo tồi tệ [14-05]\\ 
 
-[[:vi:obs:notes:frames:14-06|{{:en:obs:obs-14-06.jpg?200|Frame 14-06}}]]\\ 
+[[:vi:obs:notes:frames:14-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-06.jpg?200|Frame 14-06}}]]\\ 
 Giô-suê và Ca-lép [14-06]\\ 
 
-[[:vi:obs:notes:frames:14-07|{{:en:obs:obs-14-07.jpg?200|Frame 14-07}}]]\\ 
+[[:vi:obs:notes:frames:14-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?200|Frame 14-07}}]]\\ 
 Dân sự phản loạn [14-07]\\ 
 
-[[:vi:obs:notes:frames:14-08|{{:en:obs:obs-14-08.jpg?200|Frame 14-08}}]]\\ 
+[[:vi:obs:notes:frames:14-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?200|Frame 14-08}}]]\\ 
 Đức Chúa Trời phán [14-08]\\ 
 
-[[:vi:obs:notes:frames:14-09|{{:en:obs:obs-14-09.jpg?200|Frame 14-09}}]]\\ 
+[[:vi:obs:notes:frames:14-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-09.jpg?200|Frame 14-09}}]]\\ 
 Dân sự phớt lời Đức Chúa Trời [14-09]\\ 
 
-[[:vi:obs:notes:frames:14-10|{{:en:obs:obs-14-10.jpg?200|Frame 14-10}}]]\\ 
+[[:vi:obs:notes:frames:14-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-10.jpg?200|Frame 14-10}}]]\\ 
 Dân Ca-na-an đánh bại Y-sơ-ra-ên [14-10]\\ 
 
-[[:vi:obs:notes:frames:14-11|{{:en:obs:obs-14-11.jpg?200|Frame 14-11}}]]\\ 
+[[:vi:obs:notes:frames:14-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-11.jpg?200|Frame 14-11}}]]\\ 
 Ma-na từ trời [14-11]\\ 
 
-[[:vi:obs:notes:frames:14-12|{{:en:obs:obs-14-12.jpg?200|Frame 14-12}}]]\\ 
+[[:vi:obs:notes:frames:14-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?200|Frame 14-12}}]]\\ 
 Nước từ hòn đá [14-12]\\ 
 
-[[:vi:obs:notes:frames:14-13|{{:en:obs:obs-14-13.jpg?200|Frame 14-13}}]]\\ 
+[[:vi:obs:notes:frames:14-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-13.jpg?200|Frame 14-13}}]]\\ 
 Môi-se đập hòn đá [14-13]\\ 
 
-[[:vi:obs:notes:frames:14-14|{{:en:obs:obs-14-14.jpg?200|Frame 14-14}}]]\\ 
+[[:vi:obs:notes:frames:14-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?200|Frame 14-14}}]]\\ 
 Tại Đất Hứa [14-14]\\ 
 
-[[:vi:obs:notes:frames:14-15|{{:en:obs:obs-14-15.jpg?200|Frame 14-15}}]]\\ 
+[[:vi:obs:notes:frames:14-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-15.jpg?200|Frame 14-15}}]]\\ 
 Môi-se qua đời [14-15]\\ 
 
 

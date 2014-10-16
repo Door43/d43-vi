@@ -13,31 +13,31 @@ Phi-e-rơ và Giăng đang ở trong đền thờ khi họ chữa lành một ng
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:44-01|{{:en:obs:obs-44-01.jpg?200|Frame 44-01}}]]\\ 
+[[:vi:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?200|Frame 44-01}}]]\\ 
 Người Què [44-01]\\ 
 
-[[:vi:obs:notes:frames:44-02|{{:en:obs:obs-44-02.jpg?200|Frame 44-02}}]]\\ 
+[[:vi:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?200|Frame 44-02}}]]\\ 
 Hãy Đứng Dậy Và Bước Đi [44-02]\\ 
 
-[[:vi:obs:notes:frames:44-03|{{:en:obs:obs-44-03.jpg?200|Frame 44-03}}]]\\ 
+[[:vi:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?200|Frame 44-03}}]]\\ 
 Người Què Được Chữa Lành [44-03]\\ 
 
-[[:vi:obs:notes:frames:44-04|{{:en:obs:obs-44-04.jpg?200|Frame 44-04}}]]\\ 
+[[:vi:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?200|Frame 44-04}}]]\\ 
 Quyền Phép Của Chúa Jêsus [44-04]\\ 
 
-[[:vi:obs:notes:frames:44-05|{{:en:obs:obs-44-05.jpg?200|Frame 44-05}}]]\\ 
+[[:vi:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?200|Frame 44-05}}]]\\ 
 Phi-e-rơ Rao Giảng [44-05]\\ 
 
-[[:vi:obs:notes:frames:44-06|{{:en:obs:obs-44-06.jpg?200|Frame 44-06}}]]\\ 
+[[:vi:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?200|Frame 44-06}}]]\\ 
 Phi-e-rơ Và Giăng Bị Bắt [44-06]\\ 
 
-[[:vi:obs:notes:frames:44-07|{{:en:obs:obs-44-07.jpg?200|Frame 44-07}}]]\\ 
+[[:vi:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?200|Frame 44-07}}]]\\ 
 Trước Mặt Các Lãnh Đạo Do Thái [44-07]\\ 
 
-[[:vi:obs:notes:frames:44-08|{{:en:obs:obs-44-08.jpg?200|Frame 44-08}}]]\\ 
+[[:vi:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?200|Frame 44-08}}]]\\ 
 Không Đường Nào Khác Ngoài Chúa Jêsus [44-08]\\ 
 
-[[:vi:obs:notes:frames:44-09|{{:en:obs:obs-44-09.jpg?200|Frame 44-09}}]]\\ 
+[[:vi:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?200|Frame 44-09}}]]\\ 
 Các Môn Đồ Được Thả Ra [44-09]\\ 
 
 //A Bible story from: Acts 3:1-4:22//

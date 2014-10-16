@@ -13,34 +13,34 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:vi:obs:notes:frames:07-01|{{:en:obs:obs-07-01.jpg?nolink&200|Frame 07-01}}]]\\ 
+[[:vi:obs:notes:frames:07-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&200|Frame 07-01}}]]\\ 
 Hai đứa trẻ lớn lên [07-01]
 
-[[:vi:obs:notes:frames:07-02|{{:en:obs:obs-07-02.jpg?nolink&200|Frame 07-02}}]]\\ 
+[[:vi:obs:notes:frames:07-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-02.jpg?nolink&200|Frame 07-02}}]]\\ 
 Ê-sau bán quyền trưởng nam [07-02]
 
-[[:vi:obs:notes:frames:07-03|{{:en:obs:obs-07-03.jpg?nolink&200|Frame 07-03}}]]\\ 
+[[:vi:obs:notes:frames:07-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?nolink&200|Frame 07-03}}]]\\ 
 Rê-bê-ca và Gia-cốp lừa Y-sác [07-03]
 
-[[:vi:obs:notes:frames:07-04|{{:en:obs:obs-07-04.jpg?nolink&200|Frame 07-04}}]]\\ 
+[[:vi:obs:notes:frames:07-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&200|Frame 07-04}}]]\\ 
 Y-sác chúc phước cho Gia-cốp [07-04]
 
-[[:vi:obs:notes:frames:07-05|{{:en:obs:obs-07-05.jpg?nolink&200|Frame 07-05}}]]\\ 
+[[:vi:obs:notes:frames:07-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-05.jpg?nolink&200|Frame 07-05}}]]\\ 
 Ê-sau căm ghét Gia-cốp [07-05]
 
-[[:vi:obs:notes:frames:07-06|{{:en:obs:obs-07-06.jpg?nolink&200|Frame 07-06}}]]\\ 
+[[:vi:obs:notes:frames:07-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&200|Frame 07-06}}]]\\ 
 Y-sác gửi Gia-cốp đi xa [07-06]
 
-[[:vi:obs:notes:frames:07-07|{{:en:obs:obs-07-07.jpg?nolink&200|Frame 07-07}}]]\\ 
+[[:vi:obs:notes:frames:07-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-07.jpg?nolink&200|Frame 07-07}}]]\\ 
 Gia-cốp được thịnh vượng [07-07]
 
-[[:vi:obs:notes:frames:07-08|{{:en:obs:obs-07-08.jpg?nolink&200|Frame 07-08}}]]\\ 
+[[:vi:obs:notes:frames:07-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&200|Frame 07-08}}]]\\ 
 Gia-cốp trở về nhà [07-08]
 
-[[:vi:obs:notes:frames:07-09|{{:en:obs:obs-07-09.jpg?nolink&200|Frame 07-09}}]]\\ 
+[[:vi:obs:notes:frames:07-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?nolink&200|Frame 07-09}}]]\\ 
 Gia-cốp gặp Ê-sau [07-09]
 
-[[:vi:obs:notes:frames:07-10|{{:en:obs:obs-07-10.jpg?nolink&200|Frame 07-10}}]]\\ 
+[[:vi:obs:notes:frames:07-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&200|Frame 07-10}}]]\\ 
 Anh em đoàn tụ [07-10]
 
 
