@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:gideon|của Ghê-đê-ôn]]**
+  * **[[:vi:key-terms:altar|bàn thờ]]**
+  * **[[:vi:key-terms:idol|hình tượng]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sacrifice|của lễ]]**
 
-    * **[[:vi:key-terms:gideon|Gideon's]]**
-    * **[[:vi:key-terms:altar|altar]]**
-    * **[[:vi:key-terms:idol|idol]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sacrifice|sacrifice]]** 
 ===== Phụ chú: =====
 
 
