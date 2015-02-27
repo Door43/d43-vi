@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:ten-commandments|Mười Điều Răn]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:gods-law|các luật pháp]]**
+  * **[[:vi:key-terms:obey|vâg phục]]**
+  * **[[:vi:key-terms:promise|đã hứa]]**
+  * **[[:vi:key-terms:bless|ban phước]]**
+  * **[[:vi:key-terms:disobey|không vâng phục]]**
+  * **[[:vi:key-terms:punish|trừng phạt]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:ten-commandments|Ten Commandments]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:gods-law|laws]]**
-    * **[[:vi:key-terms:obey|obeyed]]**
-    * **[[:vi:key-terms:promise|promised]]**
-    * **[[:vi:key-terms:bless|bless]]**
-    * **[[:vi:key-terms:disobey|disobeyed]]**
-    * **[[:vi:key-terms:punish|punish]]** 
 ===== Phụ chú: =====
 
 
