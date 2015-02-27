@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:key-terms:joseph|Giô-sép]]**
+  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:key-terms:servant|nô lệ]]**
 
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:egypt|Egyptians]]**
-    * **[[:vi:key-terms:joseph|Joseph]]**
-    * **[[:vi:key-terms:pharaoh|Pharaoh]]**
-    * **[[:vi:key-terms:servant|slaves]]** 
 ===== Phụ chú: =====
 
 
