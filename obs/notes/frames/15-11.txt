@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:canaan|người Ca-na-an]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:joshua|Giô-suê]]**
 
-    * **[[:vi:key-terms:canaan|Canaanite]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:joshua|Joshua]]** 
 ===== Phụ chú: =====
 
 
