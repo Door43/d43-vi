@@ -9,50 +9,47 @@ Nước Y-sơ-ra-ên đã phớt lời lời các đấng tiên tri và đi th�
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:vi:obs:notes:frames:20-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&200}}]]\\
+Dân Y-sơ-ra-ên phạm tội [20-01]
 
-[[:vi:obs:notes:frames:20-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?200|Frame 20-01}}]]\\ 
-Dân Y-sơ-ra-ên phạm tội [20-01]\\ 
+[[:vi:obs:notes:frames:20-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?nolink&200}}]]\\
+A-sy-ri hủy diệt Y-sơ-ra-ên [20-02]
 
-[[:vi:obs:notes:frames:20-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?200|Frame 20-02}}]]\\ 
-A-sy-ri hủy diệt Y-sơ-ra-ên [20-02]\\ 
+[[:vi:obs:notes:frames:20-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&200}}]]\\
+Y-sơ-ra-ên bị đuổi khỏi nước minh [20-03]
 
-[[:vi:obs:notes:frames:20-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?200|Frame 20-03}}]]\\ 
-Y-sơ-ra-ên bị đuổi khỏi nước minh [20-03]\\ 
+[[:vi:obs:notes:frames:20-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-04.jpg?nolink&200}}]]\\
+Người ngoại được đem vào Y-sơ-ra-ên [20-04]
 
-[[:vi:obs:notes:frames:20-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-04.jpg?200|Frame 20-04}}]]\\ 
-Người ngoại được đem vào Y-sơ-ra-ên [20-04]\\ 
+[[:vi:obs:notes:frames:20-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&200}}]]\\
+Dân Giu-đa cùng thờ lạy hình tượng [20-05]
 
-[[:vi:obs:notes:frames:20-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?200|Frame 20-05}}]]\\ 
-Dân Giu-đa cùng thờ lạy hình tượng [20-05]\\ 
+[[:vi:obs:notes:frames:20-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&200}}]]\\
+Dân Giu-đa phục vụ cho người Ba-by-lôn [20-06]
 
-[[:vi:obs:notes:frames:20-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?200|Frame 20-06}}]]\\ 
-Dân Giu-đa phục vụ cho người Ba-by-lôn [20-06]\\ 
+[[:vi:obs:notes:frames:20-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink&200}}]]\\
+Dân Ba-by-lôn hủy diệt Giu-đa [20-07]
 
-[[:vi:obs:notes:frames:20-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?200|Frame 20-07}}]]\\ 
-Dân Ba-by-lôn hủy diệt Giu-đa [20-07]\\ 
+[[:vi:obs:notes:frames:20-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink&200}}]]\\
+Vua Giu-đa bị trừng phạt [20-08]
 
-[[:vi:obs:notes:frames:20-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?200|Frame 20-08}}]]\\ 
-Vua Giu-đa bị trừng phạt [20-08]\\ 
+[[:vi:obs:notes:frames:20-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-09.jpg?nolink&200}}]]\\
+Dân Giu-đa bị bắt sang xứ Ba-by-lôn [20-09]
 
-[[:vi:obs:notes:frames:20-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-09.jpg?200|Frame 20-09}}]]\\ 
-Dân Giu-đa bị bắt sang xứ Ba-by-lôn [20-09]\\ 
+[[:vi:obs:notes:frames:20-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink&200}}]]\\
+Đức Chúa Trời nhớ lại lời hứa của mình [20-10]
 
-[[:vi:obs:notes:frames:20-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?200|Frame 20-10}}]]\\ 
-Đức Chúa Trời nhớ lại lời hứa của mình [20-10]\\ 
+[[:vi:obs:notes:frames:20-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&200}}]]\\
+Ba-tư đánh bại Ba-by-lôn [20-11]
 
-[[:vi:obs:notes:frames:20-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?200|Frame 20-11}}]]\\ 
-Ba-tư đánh bại Ba-by-lôn [20-11]\\ 
+[[:vi:obs:notes:frames:20-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink&200}}]]\\
+Vua Si-ri cho dân Giu-đa về xứ của mình [20-12]
 
-[[:vi:obs:notes:frames:20-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?200|Frame 20-12}}]]\\ 
-Vua Si-ri cho dân Giu-đa về xứ của mình [20-12]\\ 
+[[:vi:obs:notes:frames:20-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&200}}]]\\
+Xây dựng lại đền thờ [20-13]
 
-[[:vi:obs:notes:frames:20-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?200|Frame 20-13}}]]\\ 
-Xây dựng lại đền thờ [20-13]\\ 
-
-
-//A Bible story from: 2 Kings 17; 24-25; 2 Chronicles 36; Ezra 1-10; Nehemiah 1-13//
+//Câu chuyện kinh thánh trong sách//// IICác-vua 17; 24-25; IISử-ký 36; Ê-xơ-ra 1-10; Nê-hê-mi 1-13//
 
 **[[:vi:obs:notes:19|<< Previous]] | [[:vi:obs:notes:21|Next >>]]**
