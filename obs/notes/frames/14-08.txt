@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:tent-of-meeting|Trại Hội Kiến]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:joshua|Giô-suê]]**
+  * **[[:vi:key-terms:caleb|Ca-lép]]**
+  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:tent-of-meeting|Tent of Meeting]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:joshua|Joshua]]**
-    * **[[:vi:key-terms:caleb|Caleb]]**
-    * **[[:vi:key-terms:promised-land|Promised Land]]** 
 ===== Phụ chú: =====
 
 
