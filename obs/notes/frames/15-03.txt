@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jordan-river|Sông Giô-đanh]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:joshua|Giô-suê]]**
+  * **[[:vi:key-terms:jericho|Giê-ri-cô]]**
+  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:key-terms:priest|các thầy tế lễ]]**
 
-    * **[[:vi:key-terms:jordan-river|Jordan River]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:joshua|Joshua]]**
-    * **[[:vi:key-terms:jericho|Jericho]]**
-    * **[[:vi:key-terms:obey|obeyed]]**
-    * **[[:vi:key-terms:priest|priests]]** 
 ===== Phụ chú: =====
 
 
