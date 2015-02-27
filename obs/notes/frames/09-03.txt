@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:egypt|Người Ai-cập]]**
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:bless|ban phước]]**
 
-    * **[[:vi:key-terms:egypt|Egyptians]]**
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:bless|blessed]]** 
 ===== Phụ chú: =====
 
 
