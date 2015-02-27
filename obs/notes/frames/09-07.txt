@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:key-terms:son|con trai]]**
+  * **[[:vi:key-terms:israel|người nữ Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
 
-    * **[[:vi:key-terms:pharaoh|Pharaoh]]**
-    * **[[:vi:key-terms:son|son]]**
-    * **[[:vi:key-terms:israel|Israelite]]**
-    * **[[:vi:key-terms:moses|Moses]]** 
 ===== Phụ chú: =====
 
 
