@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:key-terms:covenant|giao ước]]**
+  * **[[:vi:key-terms:kingdom|nước]]**
+  * **[[:vi:key-terms:priest|thầy tế lễ]]**
+  * **[[:vi:key-terms:holy|thánh]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:obey|obey]]**
-    * **[[:vi:key-terms:covenant|covenant]]**
-    * **[[:vi:key-terms:kingdom|kingdom]]**
-    * **[[:vi:key-terms:priest|priests]]**
-    * **[[:vi:key-terms:holy|holy]]** 
 ===== Phụ chú: =====
 
 
