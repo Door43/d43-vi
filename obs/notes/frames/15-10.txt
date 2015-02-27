@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:amorite|dân A-mô-rít]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:amorite|Amorites]]** 
 ===== Phụ chú: =====
 
 
