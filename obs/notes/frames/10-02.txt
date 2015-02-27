@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:key-terms:god-false|những thần tượng]]**
 
-    * **[[:vi:key-terms:pharaoh|Pharaoh]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:egypt|Egypt]]**
-    * **[[:vi:key-terms:god-false|gods]]** 
 ===== Phụ chú: =====
 
 
