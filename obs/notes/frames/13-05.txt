@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:idol|thần khác]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
+  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sabbath|ngày Sa-bát]]**
+  * **[[:vi:key-terms:holy|thánh]]**
+  * **[[:vi:key-terms:sabbath|ngày thứ 7]]**
 
-    * **[[:vi:key-terms:idol|idols]]**
-    * **[[:vi:key-terms:worship|worship]]**
-    * **[[:vi:key-terms:yahweh|Yahweh]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sabbath|Sabbath day]]**
-    * **[[:vi:key-terms:holy|holy]]**
-    * **[[:vi:key-terms:sabbath|seventh day]]** 
 ===== Phụ chú: =====
 
 
