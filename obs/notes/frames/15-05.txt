@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jericho|Giê-ri-cô]]**
+  * **[[:vi:key-terms:israel|Dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:rahab|Ra-háp]]**
+  * **[[:vi:key-terms:canaan|Ca-na-an]]**
 
-    * **[[:vi:key-terms:jericho|Jericho]]**
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:rahab|Rahab]]**
-    * **[[:vi:key-terms:canaan|Canaan]]** 
 ===== Phụ chú: =====
 
 
