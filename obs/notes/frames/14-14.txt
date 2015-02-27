@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:rebel|phản nghịch]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:joshua|Giô-suê]]**
+  * **[[:vi:key-terms:promise|đã hứa]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
 
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:rebel|rebelled]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:promised-land|Promised Land]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:joshua|Joshua]]**
-    * **[[:vi:key-terms:promise|promised]]**
-    * **[[:vi:key-terms:prophet|prophet]]** 
 ===== Phụ chú: =====
 
 
