@@ -1,21 +1,19 @@
-===== The Boys Grew Up [07-01] =====
+===== Hai đứa trẻ lớn lên [07-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink}}
+<font 11pt line-height: 107%; color: black;/inherit;;black;;inherit>Khi hai đứa trẻ lớn lên,  ** Rê-bê-ca yêu Gia-cốp, nhưng Y-sác lại yêu Ê-sau ** .  ** Gia-cốp **  ** thích ở trong trại ** , còn  ** Ê-sau thì thích săn bắn ** .</font>
 
+===== Những cụm từ quan trọng: =====
 
-===== Điều khoản quan trọng: =====
-
-
-    * **[[:vi:key-terms:jacob|Jacob]]**
-    * **[[:vi:key-terms:esau|Esau]]**
-    * **[[:vi:key-terms:rebekah|Rebekah]]**
-    * **[[:vi:key-terms:isaac|Isaac]]** 
+  * **[[:vi:key-terms:jacob|Jacob]]**
+  * **[[:vi:key-terms:esau|Esau]]**
+  * **[[:vi:key-terms:rebekah|Rebekah]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
 ===== Phụ chú: =====
 
-
-    * **Rê-bê-ca yêu Gia-cốp, nhưng Y-sác lại yêu Ê-sau**- Điều này có thể được dịch thành- “Rê-bê-ca thương Gia-cốp nhiều hơn Y-sác thì thương Ê-sau nhiều hơn”. Điều này không nhất thiết phải là bà Rê-bê-ca và Y-sác không thương đứa còn lại, nhưng là mỗi một người có một đứa con cưng riêng.
-    * **Y-sác yêu Ê-sau… Ê-sau thì thích săn bắn-**  Lý do khiến Ê-sau được cha thương nhiều hơn Gia-cốp là vì Y-sác thích ăn thịt thú rừng mà Ê-sau săn được. Có thể nói rõ hơn về những chuyện hai người con này thích làm trước và sau đó mới nói về đứa con cưng của từng người cha và mẹ.
-    * **Thích ở trong trại… thích săn bắn-**  Từ “thích” (love) được dùng ở đây khác với từ “yêu” (love) trong câu “Rê-bê-ca yêu Gia-cốp”. Ví dụ như, nó có thể được dịch thành “muốn ở trong trại.. muốn đi săn” hoặc “chuộng ở trong trại hơn.. chuộng đi săn hơn”.
-    * **Ở trong trại-**  Cách diễn tả này chỉ một khoảng đất xung quanh khu vực nhà ở. Gia-cốp thích ở gần những khu lều trại nơi họ sinh sống. Một vài nơi người ta có có cách mô tả đặc biệt cho cụm từ “ở trong trại”.
+  * **Rê-bê-ca yêu Gia-cốp, nhưng Y-sác lại yêu Ê-sau**- Điều này có thể được dịch thành- “Rê-bê-ca thương Gia-cốp nhiều hơn Y-sác thì thương Ê-sau nhiều hơn”. Điều này không nhất thiết phải là bà Rê-bê-ca và Y-sác không thương đứa còn lại, nhưng là mỗi một người có một đứa con cưng riêng.
+  * **Y-sác yêu Ê-sau… Ê-sau thì thích săn bắn-**  Lý do khiến Ê-sau được cha thương nhiều hơn Gia-cốp là vì Y-sác thích ăn thịt thú rừng mà Ê-sau săn được. Có thể nói rõ hơn về những chuyện hai người con này thích làm trước và sau đó mới nói về đứa con cưng của từng người cha và mẹ.
+  * **Thích ở trong trại… thích săn bắn-**  Từ “thích” (love) được dùng ở đây khác với từ “yêu” (love) trong câu “Rê-bê-ca yêu Gia-cốp”. Ví dụ như, nó có thể được dịch thành “muốn ở trong trại.. muốn đi săn” hoặc “chuộng ở trong trại hơn.. chuộng đi săn hơn”.
+  * **Ở trong trại-**  Cách diễn tả này chỉ một khoảng đất xung quanh khu vực nhà ở. Gia-cốp thích ở gần những khu lều trại nơi họ sinh sống. Một vài nơi người ta có có cách mô tả đặc biệt cho cụm từ “ở trong trại”.
 **[[:vi:obs:notes:frames:06-07|<<]] | [[:vi:obs:notes:07|Up]] | [[:vi:obs:notes:frames:07-02|>>]]**
