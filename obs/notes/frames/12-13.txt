@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:save|đã cứu]]**
+  * **[[:vi:key-terms:servant|nô lệ]]**
+  * **[[:vi:key-terms:praise|tôn vinh]]**
+  * **[[:vi:key-terms:egypt|người Ai-cập]]**
 
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:save|saved]]**
-    * **[[:vi:key-terms:servant|slavery]]**
-    * **[[:vi:key-terms:praise|praise]]**
-    * **[[:vi:key-terms:egypt|Egyptian]]** 
 ===== Phụ chú: =====
 
 
