@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
+  * **[[:vi:key-terms:promise|đã hứa]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
 
-    * **[[:vi:key-terms:obey|obey]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:worship|worship]]**
-    * **[[:vi:key-terms:promise|promised]]**
-    * **[[:vi:key-terms:sin|sinned]]** 
 ===== Phụ chú: =====
 
 
