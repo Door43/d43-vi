@@ -7,44 +7,40 @@
 Đứa con thứ hai của Y-sác là Gia-cốp coi trọng ơn phước mà Đức Chúa Trời đã hứa với Áp-ra-ham. Gia-cốp đã mua quyền trưởng nam từ anh trai mình là Ê-sau với món ăn nào đó. Ông cũng lừa cha mình là Y-sác chúc phước cho ông thay vì cho Ê-sau. Sau đó, Ê-sau đã rất tức giận đến nỗi Gia-cốp phải trốn đến chỗ họ hàng của Rê-bê-ca. Nhưng Đức Chúa Trời đã chúc phước cho Gia-cốp khi ông ở đó, và đến cuối cùng, Gia-cốp đã quay trở lại xứ Ca-na-an và làm hòa với Ê-sau anh mình. 
 
 
-====== Translate the Story ======
+====== Dịch câu chuyện ======
 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Nhấp vào hình bên dưới để dịch từng cảnh của câu chuyện.</font>
 
-Click on the links below to translate each frame of the story.
-
-
-[[:vi:obs:notes:frames:07-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&200|Frame 07-01}}]]\\ 
+[[:vi:obs:notes:frames:07-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&200}}]]\\
 Hai đứa trẻ lớn lên [07-01]
 
-[[:vi:obs:notes:frames:07-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-02.jpg?nolink&200|Frame 07-02}}]]\\ 
+[[:vi:obs:notes:frames:07-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-02.jpg?nolink&200}}]]\\
 Ê-sau bán quyền trưởng nam [07-02]
 
-[[:vi:obs:notes:frames:07-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?nolink&200|Frame 07-03}}]]\\ 
+[[:vi:obs:notes:frames:07-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?nolink&200}}]]\\
 Rê-bê-ca và Gia-cốp lừa Y-sác [07-03]
 
-[[:vi:obs:notes:frames:07-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&200|Frame 07-04}}]]\\ 
+[[:vi:obs:notes:frames:07-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&200}}]]\\
 Y-sác chúc phước cho Gia-cốp [07-04]
 
-[[:vi:obs:notes:frames:07-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-05.jpg?nolink&200|Frame 07-05}}]]\\ 
+[[:vi:obs:notes:frames:07-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-05.jpg?nolink&200}}]]\\
 Ê-sau căm ghét Gia-cốp [07-05]
 
-[[:vi:obs:notes:frames:07-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&200|Frame 07-06}}]]\\ 
+[[:vi:obs:notes:frames:07-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&200}}]]\\
 Y-sác gửi Gia-cốp đi xa [07-06]
 
-[[:vi:obs:notes:frames:07-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-07.jpg?nolink&200|Frame 07-07}}]]\\ 
+[[:vi:obs:notes:frames:07-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-07.jpg?nolink&200}}]]\\
 Gia-cốp được thịnh vượng [07-07]
 
-[[:vi:obs:notes:frames:07-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&200|Frame 07-08}}]]\\ 
+[[:vi:obs:notes:frames:07-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&200}}]]\\
 Gia-cốp trở về nhà [07-08]
 
-[[:vi:obs:notes:frames:07-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?nolink&200|Frame 07-09}}]]\\ 
+[[:vi:obs:notes:frames:07-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?nolink&200}}]]\\
 Gia-cốp gặp Ê-sau [07-09]
 
-[[:vi:obs:notes:frames:07-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&200|Frame 07-10}}]]\\ 
+[[:vi:obs:notes:frames:07-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&200}}]]\\
 Anh em đoàn tụ [07-10]
 
-
-//A Bible story from: Genesis 25:27-33:20//
-
+//Câu chuyện kinh thánh trong sách Sáng-Thế Ký//// 25:27-33:20//
 
 **[[:vi:obs:notes:06|<< Previous]] | [[:vi:obs:notes:08|Next >>]]**
