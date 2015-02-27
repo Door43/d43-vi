@@ -4,14 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-
-  * **[[:vi:key-terms:joseph|Joseph]]**
-  * **[[:vi:key-terms:egypt|Egypt]]**
-  * **[[:vi:key-terms:descendant|descendants]]**
-  * **[[:vi:key-terms:israel|Israelites]]**
-
+  * **[[:vi:key-terms:joseph|Giô-sép]]**
+  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
 
 ===== Phụ chú: =====
 
