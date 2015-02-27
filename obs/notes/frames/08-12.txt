@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:joseph|Giô-sép]]**
+  * **[[:vi:key-terms:evil|ác]]**
+  * **[[:vi:key-terms:servant|nô lệ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:good|tốt]]**
+  * **[[:vi:key-terms:egypt|Ai-cập]]**
 
-    * **[[:vi:key-terms:joseph|Joseph]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:servant|slave]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:good|good]]**
-    * **[[:vi:key-terms:egypt|Egypt]]** 
 ===== Phụ chú: =====
 
 
