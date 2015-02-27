@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:aaron|A-rôn]]**
 
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:pharaoh|Pharaoh]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:aaron|Aaron]]** 
 ===== Phụ chú: =====
 
 
