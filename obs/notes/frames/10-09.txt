@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
 
-    * **[[:vi:key-terms:pharaoh|Pharaoh]]**
-    * **[[:vi:key-terms:sin|sinned]]**
-    * **[[:vi:key-terms:israel|Israelites]]** 
 ===== Phụ chú: =====
 
 
