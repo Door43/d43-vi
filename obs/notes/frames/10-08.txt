@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:aaron|A-rôn]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:key-terms:pray|cầu nguyện]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:egypt|Egypt]]**
-    * **[[:vi:key-terms:pharaoh|Pharaoh]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:aaron|Aaron]]**
-    * **[[:vi:key-terms:sin|sinned]]**
-    * **[[:vi:key-terms:pray|prayed]]** 
 ===== Phụ chú: =====
 
 
