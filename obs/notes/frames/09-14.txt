@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
+  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
+  * **[[:vi:key-terms:isaac|Y-sác]]**
+  * **[[:vi:key-terms:jacob|Gia-cốp]]**
 
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:yahweh|Yahweh]]**
-    * **[[:vi:key-terms:abraham|Abraham]]**
-    * **[[:vi:key-terms:isaac|Isaac]]**
-    * **[[:vi:key-terms:jacob|Jacob]]** 
 ===== Phụ chú: =====
 
 
