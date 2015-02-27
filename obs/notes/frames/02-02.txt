@@ -1,8 +1,8 @@
 ====== Con rắn [02-02] ======
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink}}
-
+ <font 11pt line-height: 107%; color: black;/inherit;;black;;inherit>Nhưng trong vườn có  ** con rắn **  ** quỷ quyệt ** . Nó hỏi người nữ rằng, “ ** Có **  ** thật Ðức Chúa **  ** Trời bảo các ngươi ** không được phép ăn  ** trái của bất cứ cây nào trong vườn ** không?”</font>
 
 ===== Điều khoản quan trọng: =====
 
