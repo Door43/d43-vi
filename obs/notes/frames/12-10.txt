@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:egypt|người Ai-cập]]**
+  * **[[:vi:key-terms:chariot|xe chiến mã]]**
 
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:egypt|Egyptians]]**
-    * **[[:vi:key-terms:chariot|chariots]]** 
 ===== Phụ chú: =====
 
 
