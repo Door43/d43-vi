@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:caleb|Ca-lép]]**
+  * **[[:vi:key-terms:joshua|Giô-suê]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:aaron|A-rôn]]**
+  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:key-terms:servant|nô lệ]]**
 
-    * **[[:vi:key-terms:caleb|Caleb]]**
-    * **[[:vi:key-terms:joshua|Joshua]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:aaron|Aaron]]**
-    * **[[:vi:key-terms:egypt|Egypt]]**
-    * **[[:vi:key-terms:servant|slaves]]** 
 ===== Phụ chú: =====
 
 
