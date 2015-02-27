@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:egypt|người Ai-cập]]**
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:servant|nô lệ]]**
+  * **[[:vi:key-terms:save|cứu]]**
 
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:egypt|Egyptian]]**
-    * **[[:vi:key-terms:israel|Israelite]]**
-    * **[[:vi:key-terms:servant|slave]]**
-    * **[[:vi:key-terms:save|save]]** 
 ===== Phụ chú: =====
 
 
