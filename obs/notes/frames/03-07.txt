@@ -1,8 +1,8 @@
-===== The Rain Began [03-07] =====
+===== Bắt đầu mưa [03-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink}}
-
+<font 11pt line-height: 107%; color: black;/inherit;;black;;inherit>Rồi trời bắt đầu  ** mưa, mưa và mưa ** . Trời mưa không ngừng nghỉ trong suốt bốn mươi ngày bốn mươi đêm! Nước  ** dâng lên ** khắp mặt đất,  ** Hết thảy mọi thứ trên đất ** , kể cả những ngọn núi cao nhất,  ** đều ngập trong nước. **</font>
 
 ===== Điều khoản quan trọng: =====
 
