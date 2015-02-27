@@ -1,8 +1,8 @@
-===== The Dove [03-11] =====
+===== Chim bồ câu [03-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink}}
-
+<font 11pt line-height: 107%; color: black;/inherit;;black;;inherit>Sau đó,  ** Nô-ê ** thả một con chim  ** bồ câu ** ra và nó cũng không tìm thấy chỗ đất khô nào bèn bay về lại với Nô-ê. Một tuần sau, ông lại thả chim bồ câu lần nữa, lần này nó bay về tàu mỏ ngậm một  ** nhánh ô-liu ** !  ** Nước tiếp tục rút ** và cây cỏ đã mọc trở lại!</font>
 
 ===== Điều khoản quan trọng: =====
 
