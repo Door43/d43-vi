@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:son|con trai]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:lamb|con chiên]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:son|son]]**
-    * **[[:vi:key-terms:believe|believed]]**
-    * **[[:vi:key-terms:lamb|lamb]]** 
 ===== Phụ chú: =====
 
 
