@@ -7,8 +7,9 @@
 ===== Những cụm từ quan trọng: =====
 
   * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **Rủa sả**
+  * **[[:vi:key-terms:cursed|Rủa sả]]**
   * Dòng dõi
+~~COMPLEX_TABLES~~
 
 ===== Phụ chú: =====
 
