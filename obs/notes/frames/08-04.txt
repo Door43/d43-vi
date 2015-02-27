@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:servant|nô lệ]]**
+  * **[[:vi:key-terms:joseph|Giô-sép]]**
+  * **[[:vi:key-terms:egypt|Ai cập]]**
+  * **[[:vi:key-terms:nile-river|Sông Nin]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:bless|ban phước]]**
 
-    * **[[:vi:key-terms:servant|slave]]**
-    * **[[:vi:key-terms:joseph|Joseph]]**
-    * **[[:vi:key-terms:egypt|Egypt]]**
-    * **[[:vi:key-terms:nile-river|Nile River]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:bless|blessed]]** 
 ===== Phụ chú: =====
 
 
