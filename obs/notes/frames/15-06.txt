@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:peace|hòa ước]]**
+  * **[[:vi:key-terms:canaan|Ca-na-an]]**
+  * **[[:vi:key-terms:gibeon|dân Ga-ba-ôn]]**
+  * **[[:vi:key-terms:joshua|Giô-suê]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:peace|peace]]**
-    * **[[:vi:key-terms:canaan|Canaan]]**
-    * **[[:vi:key-terms:gibeon|Gibeonites]]**
-    * **[[:vi:key-terms:joshua|Joshua]]** 
 ===== Phụ chú: =====
 
 
