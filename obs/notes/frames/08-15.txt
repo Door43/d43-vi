@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:covenant|giao ước]]**
+  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
+  * **[[:vi:key-terms:isaac|Y-sác]]**
+  * **[[:vi:key-terms:jacob|Gia-cốp]]**
+  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
 
-    * **[[:vi:key-terms:covenant|covenant]]**
-    * **[[:vi:key-terms:promise|promises]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:abraham|Abraham]]**
-    * **[[:vi:key-terms:isaac|Isaac]]**
-    * **[[:vi:key-terms:jacob|Jacob]]**
-    * **[[:vi:key-terms:descendant|descendants]]**
-    * **[[:vi:key-terms:israel|Israel]]** 
 ===== Phụ chú: =====
 
 
