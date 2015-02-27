@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:faithful|thành tín]]**
+  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
+  * **[[:vi:key-terms:isaac|Y-sác]]**
+  * **[[:vi:key-terms:jacob|Gia-cốp]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:faithful|faithful]]**
-    * **[[:vi:key-terms:promise|promises]]**
-    * **[[:vi:key-terms:abraham|Abraham]]**
-    * **[[:vi:key-terms:isaac|Isaac]]**
-    * **[[:vi:key-terms:jacob|Jacob]]** 
 ===== Phụ chú: =====
 
 
