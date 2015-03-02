@@ -4,21 +4,21 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:saul|Sau-lơ]]**
+  * **[[:vi:key-terms:shepherd|chăn chiên]]**
+  * **[[:vi:key-terms:bethlehem|Bết-lê-hem]]**
+  * **[[:vi:key-terms:sheep|đàn chiên]]**
+  * **[[:vi:key-terms:humble|khiêm nhường]]**
+  * **[[:vi:key-terms:righteous|công chính]]**
+  * **[[:vi:key-terms:trust|tin cậy]]**
+  * **[[:vi:key-terms:obey|vâng phục]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:israel|Israelite]]**
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:saul|Saul]]**
-    * **[[:vi:key-terms:shepherd|shepherd]]**
-    * **[[:vi:key-terms:bethlehem|Bethlehem]]**
-    * **[[:vi:key-terms:sheep|sheep]]**
-    * **[[:vi:key-terms:humble|humble]]**
-    * **[[:vi:key-terms:righteous|righteous]]**
-    * **[[:vi:key-terms:trust|trusted]]**
-    * **[[:vi:key-terms:obey|obeyed]]** 
 ===== Phụ chú: =====
 
 
