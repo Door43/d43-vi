@@ -4,22 +4,22 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:king|các vua]]**
+  * **[[:vi:key-terms:kingdom-of-judah|Giu-đa]]**
+  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:good|tốt]]**
+  * **[[:vi:key-terms:justice|công bình]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:evil|gian ác]]**
+  * **[[:vi:key-terms:idol|hình tượng]]**
+  * **[[:vi:key-terms:sacrifice|của lễ]]**
+  * **[[:vi:key-terms:god-false|các tà thần]]**
+  * **[[:vi:key-terms:rebel|phản nghịch]]**
 
-    * **[[:vi:key-terms:king|kings]]**
-    * **[[:vi:key-terms:kingdom-of-judah|Judah]]**
-    * **[[:vi:key-terms:descendant|descendants]]**
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:good|good]]**
-    * **[[:vi:key-terms:justice|justly]]**
-    * **[[:vi:key-terms:worship|worshiped]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:idol|idols]]**
-    * **[[:vi:key-terms:sacrifice|sacrificed]]**
-    * **[[:vi:key-terms:god-false|gods]]**
-    * **[[:vi:key-terms:rebel|rebelled]]** 
 ===== Phụ chú: =====
 
 
