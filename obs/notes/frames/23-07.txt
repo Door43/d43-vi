@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:glory|Sáng danh Chúa]]**
+  * **[[:vi:key-terms:heaven|các từng trời]]**
+  * **[[:vi:key-terms:peace|bình an]]**
 
-    * **[[:vi:key-terms:angel|angels]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:glory|Glory]]**
-    * **[[:vi:key-terms:heaven|heaven]]**
-    * **[[:vi:key-terms:peace|peace]]** 
 ===== Phụ chú: =====
 
 
