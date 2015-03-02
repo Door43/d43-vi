@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
+  * **[[:vi:key-terms:death|đã chết]]**
+  * **[[:vi:key-terms:lord|Thầy]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:lazarus|Lazarus']]**
-    * **[[:vi:key-terms:death|dead]]**
-    * **[[:vi:key-terms:lord|Master]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
