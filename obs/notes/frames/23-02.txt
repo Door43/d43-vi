@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
+  * **[[:vi:key-terms:mary|Ma-ri]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:son|con trai]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:sin|tội]]**
 
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:joseph-nt|Joseph]]**
-    * **[[:vi:key-terms:mary|Mary]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:son|son]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:yahweh|Yahweh]]**
-    * **[[:vi:key-terms:save|saves]]**
-    * **[[:vi:key-terms:sin|sins]]** 
 ===== Phụ chú: =====
 
 
