@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:kingdom|các vương quốc]]**
+  * **[[:vi:key-terms:glory|vinh hiển]]**
+  * **[[:vi:key-terms:worship|thờ lạy]]**
 
-    * **[[:vi:key-terms:satan|Satan]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:kingdom|kingdoms]]**
-    * **[[:vi:key-terms:glory|glory]]**
-    * **[[:vi:key-terms:worship|worship]]** 
 ===== Phụ chú: =====
 
 
