@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:key-terms:betray|phản]]**
+  * **[[:vi:key-terms:judas|Giu-đa]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:disciple|disciples]]**
-    * **[[:vi:key-terms:betray|betray]]**
-    * **[[:vi:key-terms:judas|Judas]]** 
 ===== Phụ chú: =====
 
 
