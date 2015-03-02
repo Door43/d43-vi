@@ -4,20 +4,20 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:worship|thờ lạy]]**
+  * **[[:vi:key-terms:idol|hình tượng]]**
+  * **[[:vi:key-terms:justice|công bình]]**
+  * **[[:vi:key-terms:mercy|thương xót]]**
+  * **[[:vi:key-terms:evil|gian ác]]**
+  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:key-terms:judge|đoán xét]]**
+  * **[[:vi:key-terms:guilt|phạm tội]]**
+  * **[[:vi:key-terms:punish|trừng phạt]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:worship|worshiping]]**
-    * **[[:vi:key-terms:idol|idols]]**
-    * **[[:vi:key-terms:justice|justice]]**
-    * **[[:vi:key-terms:mercy|mercy]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:obey|obeying]]**
-    * **[[:vi:key-terms:judge|judge]]**
-    * **[[:vi:key-terms:guilt|guilty]]**
-    * **[[:vi:key-terms:punish|punish]]** 
 ===== Phụ chú: =====
 
 
