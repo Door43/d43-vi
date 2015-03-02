@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:naaman|Na-a-man]]**
+  * **[[:vi:key-terms:jordan-river|Sông Giô-đanh]]**
+  * **[[:vi:key-terms:heal|được chữa lành]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:naaman|Naaman]]**
-    * **[[:vi:key-terms:jordan-river|Jordan River]]**
-    * **[[:vi:key-terms:heal|healed]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
