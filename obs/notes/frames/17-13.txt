@@ -4,20 +4,20 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:uriah|U-ri]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:bathsheba|Bát-sê-ba]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:nathan|Na-than]]**
+  * **[[:vi:key-terms:evil|xấu]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:repent|ăn năn]]**
+  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:key-terms:obey|vâng lời]]**
 
-    * **[[:vi:key-terms:uriah|Uriah]]**
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:bathsheba|Bathsheba]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:prophet|prophet]]**
-    * **[[:vi:key-terms:nathan|Nathan]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:repent|repented]]**
-    * **[[:vi:key-terms:forgive|forgave]]**
-    * **[[:vi:key-terms:obey|obeyed]]** 
 ===== Phụ chú: =====
 
 
