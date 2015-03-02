@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:solomon|Sa-lô-môn]]**
+  * **[[:vi:key-terms:disobey|không vâng phục]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:god-false|thần]]**
+  * **[[:vi:key-terms:worship|thờ lạy]]**
 
-    * **[[:vi:key-terms:solomon|Solomon]]**
-    * **[[:vi:key-terms:disobey|disobeyed]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:god-false|gods]]**
-    * **[[:vi:key-terms:worship|worship]]** 
 ===== Phụ chú: =====
 
 
