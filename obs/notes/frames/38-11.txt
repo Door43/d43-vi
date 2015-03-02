@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:key-terms:pray|cầu nguyện]]**
+  * **[[:vi:key-terms:tempt|cám dỗ]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:disciple|disciples]]**
-    * **[[:vi:key-terms:pray|pray]]**
-    * **[[:vi:key-terms:tempt|temptation]]** 
 ===== Phụ chú: =====
 
 
