@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:temple|Đền Thờ]]**
+  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:angel|thiên thần]]**
 
-    * **[[:vi:key-terms:satan|Satan]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:temple|Temple]]**
-    * **[[:vi:key-terms:god-son|Son of God]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:angel|angels]]** 
 ===== Phụ chú: =====
 
 
