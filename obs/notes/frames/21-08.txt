@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:kingdom|đất nước]]**
+  * **[[:vi:key-terms:judge|xét đoán]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
 
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:kingdom|kingdom]]**
-    * **[[:vi:key-terms:judge|judges]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:david|David]]** 
 ===== Phụ chú: =====
 
 
