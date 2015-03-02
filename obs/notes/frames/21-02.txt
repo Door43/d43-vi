@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
+  * **[[:vi:key-terms:people-group|các dân tộc]]**
+  * **[[:vi:key-terms:bless|được phước]]**
+  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:key-terms:save|cứu]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:abraham|Abraham]]**
-    * **[[:vi:key-terms:people-group|people groups]]**
-    * **[[:vi:key-terms:bless|blessing]]**
-    * **[[:vi:key-terms:fulfill|fulfilled]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:save|saved]]** 
 ===== Phụ chú: =====
 
 
