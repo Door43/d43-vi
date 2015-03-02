@@ -4,18 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-
-    * **[[:vi:key-terms:zechariah-nt|Zechariah]]**
-    * **[[:vi:key-terms:john-baptist|John]]**
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:zechariah-nt|Zechariah]]**
-    * **[[:vi:key-terms:praise|Praise]]**
-    * **[[:vi:key-terms:prophet|prophet]]**
-    * **[[:vi:key-terms:messiah|Messiah]]** 
-
+  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
+  * **[[:vi:key-terms:john-baptist|Giăng]]**
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
+  * **[[:vi:key-terms:praise|Ngợi khen]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
 
 ===== Phụ chú: =====
 
