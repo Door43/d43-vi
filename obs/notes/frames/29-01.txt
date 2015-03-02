@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:lord|Thầy]]**
+  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:key-terms:sin|lỗi]]**
 
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:lord|Master]]**
-    * **[[:vi:key-terms:forgive|forgive]]**
-    * **[[:vi:key-terms:sin|sins]]** 
 ===== Phụ chú: =====
 
 
