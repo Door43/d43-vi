@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:lord|Thầy]]**
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:faith|đức tin]]**
 
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:lord|Master]]**
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:faith|faith]]** 
 ===== Phụ chú: =====
 
 
