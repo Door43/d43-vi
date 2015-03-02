@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:tax-collector|người thâu thuế]]**
+  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
+  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:key-terms:pray|cầu nguyện]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:mercy|thương xót]]**
+  * **[[:vi:key-terms:sin|tội nhân]]**
 
-    * **[[:vi:key-terms:tax-collector|tax collector]]**
-    * **[[:vi:key-terms:jewish-leaders|religious leader]]**
-    * **[[:vi:key-terms:heaven|heaven]]**
-    * **[[:vi:key-terms:pray|prayed]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:mercy|merciful]]**
-    * **[[:vi:key-terms:sin|sinner]]** 
 ===== Phụ chú: =====
 
 
