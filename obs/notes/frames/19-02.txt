@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:elijah|Ê-li]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:ahab|A-háp]]**
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:evil|gian ác]]**
+  * **[[:vi:key-terms:worship|thờ lạy]]**
+  * **[[:vi:key-terms:god-false|tà thần]]**
+  * **[[:vi:key-terms:baal|Ba-anh]]**
 
-    * **[[:vi:key-terms:elijah|Elijah]]**
-    * **[[:vi:key-terms:prophet|prophet]]**
-    * **[[:vi:key-terms:ahab|Ahab]]**
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:kingdom-of-israel|kingdom of Israel]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:worship|worship]]**
-    * **[[:vi:key-terms:god-false|god]]**
-    * **[[:vi:key-terms:baal|Baal]]** 
 ===== Phụ chú: =====
 
 
