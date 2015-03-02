@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:holy-spirit|Thần]]**
+  * **[[:vi:key-terms:good-news|Tin Lành]]**
+  * **[[:vi:key-terms:lord|của Chúa]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:holy-spirit|Spirit]]**
-    * **[[:vi:key-terms:good-news|good news]]**
-    * **[[:vi:key-terms:lord|Lord's]]** 
 ===== Phụ chú: =====
 
 
