@@ -4,11 +4,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:son|con trai]]**
+  * **[[:vi:key-terms:inherit|người thừa kế]]**
 
-    * **[[:vi:key-terms:son|sons]]**
-    * **[[:vi:key-terms:inherit|inheritance]]** 
 ===== Phụ chú: =====
 
 
