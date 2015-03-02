@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:baptize|phép báp-têm]]**
+  * **[[:vi:key-terms:holy-spirit|Thánh Linh của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:key-terms:god-son|Con]]**
+  * **[[:vi:key-terms:love|yêu dấu]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:holy-spirit|Spirit of God]]**
-    * **[[:vi:key-terms:heaven|heaven]]**
-    * **[[:vi:key-terms:god-son|Son]]**
-    * **[[:vi:key-terms:love|love]]** 
 ===== Phụ chú: =====
 
 
