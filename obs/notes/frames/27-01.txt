@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:teacher|thầy]]**
+  * **[[:vi:key-terms:inherit|thừa hưởng]]**
+  * **[[:vi:key-terms:eternal-life|sự sống đời đời]]**
+  * **[[:vi:key-terms:gods-law|Luật pháp của Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:teacher|Teacher]]**
-    * **[[:vi:key-terms:inherit|inherit]]**
-    * **[[:vi:key-terms:eternal-life|eternal life]]**
-    * **[[:vi:key-terms:gods-law|God's law]]** 
 ===== Phụ chú: =====
 
 
