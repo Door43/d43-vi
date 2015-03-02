@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:gideon|Ghê-đê-ôn]]**
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:midian|người Ma-đi-an]]**
 
-    * **[[:vi:key-terms:gideon|Gideon]]**
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:midian|Midianites]]** 
 ===== Phụ chú: =====
 
 
