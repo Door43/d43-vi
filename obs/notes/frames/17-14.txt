@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-14.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:punish|hình phạt]]**
+  * **[[:vi:key-terms:david|của Đa-vít]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:faithful|thành tín]]**
+  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:key-terms:bathsheba|Bát-sê-ba]]**
+  * **[[:vi:key-terms:solomon|Sô-lô-môn]]**
 
-    * **[[:vi:key-terms:punish|punishment]]**
-    * **[[:vi:key-terms:david|David's]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:faithful|faithful]]**
-    * **[[:vi:key-terms:promise|promises]]**
-    * **[[:vi:key-terms:bathsheba|Bathsheba]]**
-    * **[[:vi:key-terms:solomon|Solomon]]** 
 ===== Phụ chú: =====
 
 
