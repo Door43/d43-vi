@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sin|tội nhân]]**
+  * **[[:vi:key-terms:adultery|kẻ phạm tội tà dâm]]**
+  * **[[:vi:key-terms:tax-collector|kẻ thâu thuế]]**
 
-    * **[[:vi:key-terms:jewish-leaders|religious leader]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sin|sinner]]**
-    * **[[:vi:key-terms:adultery|adulterers]]**
-    * **[[:vi:key-terms:tax-collector|tax collector]]** 
 ===== Phụ chú: =====
 
 
