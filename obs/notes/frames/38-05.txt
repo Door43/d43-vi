@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:blood|huyết]]**
+  * **[[:vi:key-terms:covenant-new|Giao Ước mới]]**
+  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:key-terms:sin|mọi tội lỗi]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:blood|blood]]**
-    * **[[:vi:key-terms:covenant-new|New Covenant]]**
-    * **[[:vi:key-terms:forgive|forgiveness]]**
-    * **[[:vi:key-terms:sin|sins]]** 
 ===== Phụ chú: =====
 
 
