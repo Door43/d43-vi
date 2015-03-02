@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:prophet|những nhà tiên tri]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:repent|ăn năn]]**
+  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
 
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:repent|repent]]**
-    * **[[:vi:key-terms:promise|promise]]**
-    * **[[:vi:key-terms:messiah|Messiah]]** 
 ===== Phụ chú: =====
 
 
