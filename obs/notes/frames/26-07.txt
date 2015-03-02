@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:nazareth|Na-xa-rét]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
 
-    * **[[:vi:key-terms:nazareth|Nazareth]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:worship|worship]]** 
 ===== Phụ chú: =====
 
 
