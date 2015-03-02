@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:john-baptist|Giăng]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:baptize|phép báp-têm]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
 
-    * **[[:vi:key-terms:john-baptist|John]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:baptize|baptize]]**
-    * **[[:vi:key-terms:sin|sinned]]** 
 ===== Phụ chú: =====
 
 
