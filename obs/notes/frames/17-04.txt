@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:saul|Sau-lơ]]**
+  * **[[:vi:key-terms:love|yêu mến]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:king|vua]]**
 
-    * **[[:vi:key-terms:saul|Saul]]**
-    * **[[:vi:key-terms:love|love]]**
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:king|king]]** 
 ===== Phụ chú: =====
 
 
