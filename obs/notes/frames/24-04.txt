@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:john-baptist|Giăng]]**
+  * **[[:vi:key-terms:jewish-leaders|những lãnh đạo tôn giáo]]**
+  * **[[:vi:key-terms:repent|ăn năn]]**
+  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
 
-    * **[[:vi:key-terms:john-baptist|John]]**
-    * **[[:vi:key-terms:jewish-leaders|religious leaders]]**
-    * **[[:vi:key-terms:repent|Repent]]**
-    * **[[:vi:key-terms:fulfill|fulfilled]]**
-    * **[[:vi:key-terms:prophet|prophets]]** 
 ===== Phụ chú: =====
 
 
