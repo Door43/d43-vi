@@ -4,14 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:zechariah-nt|Zechariah]]** 
-
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
 
 ===== Phụ chú: =====
 
