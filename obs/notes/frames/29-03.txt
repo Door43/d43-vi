@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:servant|đầy tớ]]**
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:servant|nô lệ]]**
 
-    * **[[:vi:key-terms:servant|servant]]**
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:servant|slaves]]** 
 ===== Phụ chú: =====
 
 
