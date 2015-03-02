@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:satan|của ma quỷ]]**
+  * **[[:vi:key-terms:tempt|sự cám dỗ]]**
+  * **[[:vi:key-terms:angel|các thiên sứ]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:satan|Satan's]]**
-    * **[[:vi:key-terms:tempt|temptations]]**
-    * **[[:vi:key-terms:angel|angels]]** 
 ===== Phụ chú: =====
 
 
