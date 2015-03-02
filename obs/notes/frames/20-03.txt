@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:assyria|A-si-ri]]**
+  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
 
-    * **[[:vi:key-terms:assyria|Assyrians]]**
-    * **[[:vi:key-terms:israel|Israelites]]**
-    * **[[:vi:key-terms:kingdom-of-israel|kingdom of Israel]]** 
 ===== Phụ chú: =====
 
 
