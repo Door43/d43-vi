@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:key-terms:god|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:heaven|heaven]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
