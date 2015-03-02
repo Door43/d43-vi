@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:kingdom-of-judah|Giu-đa]]**
+  * **[[:vi:key-terms:rebel|phản nghịch]]**
+  * **[[:vi:key-terms:babylon|Ba-by-lôn]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:temple|đền thờ]]**
 
-    * **[[:vi:key-terms:kingdom-of-judah|Judah]]**
-    * **[[:vi:key-terms:rebel|rebelled]]**
-    * **[[:vi:key-terms:babylon|Babylon]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:temple|Temple]]** 
 ===== Phụ chú: =====
 
 
