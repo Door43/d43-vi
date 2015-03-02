@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:key-terms:god-father|Cha]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:heaven|heaven]]**
-    * **[[:vi:key-terms:god-father|Father]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:lazarus|Lazarus]]** 
 ===== Phụ chú: =====
 
 
