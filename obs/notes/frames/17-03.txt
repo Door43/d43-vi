@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:praise|ca ngợi]]**
 
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:praise|praised]]** 
 ===== Phụ chú: =====
 
 
