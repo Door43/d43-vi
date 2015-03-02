@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:messiah|Mê-si-a]]**
+  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:key-terms:adam|A-đam]]**
+  * **[[:vi:key-terms:eve|Ê-va]]**
+  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:key-terms:satan|Sa-tan]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:promise|promise]]**
-    * **[[:vi:key-terms:adam|Adam]]**
-    * **[[:vi:key-terms:eve|Eve]]**
-    * **[[:vi:key-terms:descendant|descendant]]**
-    * **[[:vi:key-terms:satan|Satan]]** 
 ===== Phụ chú: =====
 
 
