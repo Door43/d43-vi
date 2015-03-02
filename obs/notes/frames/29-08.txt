@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:servant|đầy tớ]]**
+  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:key-terms:beg|van xin]]**
+  * **[[:vi:key-terms:evil|gian ác]]**
 
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:servant|servant]]**
-    * **[[:vi:key-terms:forgive|forgave]]**
-    * **[[:vi:key-terms:beg|begged]]**
-    * **[[:vi:key-terms:evil|wicked]]** 
 ===== Phụ chú: =====
 
 
