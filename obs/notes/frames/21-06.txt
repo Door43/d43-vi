@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:prophet|các tiên tri]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:key-terms:priest|thầy tế lễ]]**
+  * **[[:vi:key-terms:king|vua]]**
 
-    * **[[:vi:key-terms:god|God's]]**
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:priest|priest]]**
-    * **[[:vi:key-terms:king|king]]** 
 ===== Phụ chú: =====
 
 
