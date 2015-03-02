@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:trust|tin cậy]]**
+  * **[[:vi:key-terms:temple|đền thờ]]**
+  * **[[:vi:key-terms:pray|cầu nguyện]]**
+  * **[[:vi:key-terms:tax-collector|người thâu thuế]]**
+  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:trust|trusted]]**
-    * **[[:vi:key-terms:temple|Temple]]**
-    * **[[:vi:key-terms:pray|pray]]**
-    * **[[:vi:key-terms:tax-collector|tax collector]]**
-    * **[[:vi:key-terms:jewish-leaders|religious leader]]** 
 ===== Phụ chú: =====
 
 
