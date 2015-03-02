@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:elijah|Ê-li]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:death|sự chết]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
 
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:prophet|prophet]]**
-    * **[[:vi:key-terms:elijah|Elijah]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:death|death]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]** 
 ===== Phụ chú: =====
 
 
