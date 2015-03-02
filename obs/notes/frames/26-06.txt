@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:heal|chữa]]**
+  * **[[:vi:key-terms:naaman|Na-a-man]]**
+  * **[[:vi:key-terms:jew|người Y-sơ-ra-ên]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:prophet|prophet]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:heal|heal]]**
-    * **[[:vi:key-terms:naaman|Naaman]]**
-    * **[[:vi:key-terms:jew|Jews]]** 
 ===== Phụ chú: =====
 
 
