@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:john-baptist|Giăng]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:baptize|báp-têm]]**
+  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
+  * **[[:vi:key-terms:god-father|Đức Chúa Cha]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:god-son|Đức Chúa Con]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:john-baptist|John]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:baptize|baptize]]**
-    * **[[:vi:key-terms:god-son|Son of God]]**
-    * **[[:vi:key-terms:god-father|God the Father]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god-son|Son]]** 
 ===== Phụ chú: =====
 
 
