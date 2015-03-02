@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:solomon|Sa-lô-môn]]**
+  * **[[:vi:key-terms:temple|đền thờ]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sacrifice|của lễ]]**
+  * **[[:vi:key-terms:tent-of-meeting|Trại Hội Kiến]]**
 
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:solomon|Solomon]]**
-    * **[[:vi:key-terms:temple|Temple]]**
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:worship|worshiped]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sacrifice|sacrifices]]**
-    * **[[:vi:key-terms:tent-of-meeting|Tent of Meeting]]** 
 ===== Phụ chú: =====
 
 
