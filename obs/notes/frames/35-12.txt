@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:faithful|trung tín]]**
+  * **[[:vi:key-terms:disobey|bất tuân]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
 
-    * **[[:vi:key-terms:faithful|faithfully]]**
-    * **[[:vi:key-terms:disobey|disobeyed]]**
-    * **[[:vi:key-terms:sin|sinful]]** 
 ===== Phụ chú: =====
 
 
