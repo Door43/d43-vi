@@ -4,16 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:mary|Mary]]**
-    * **[[:vi:key-terms:virgin|virgin]]**
-    * **[[:vi:key-terms:joseph-nt|Joseph]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:messiah|Messiah]]** 
-
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:mary|Ma-ri]]**
+  * **[[:vi:key-terms:virgin|đồng trinh]]**
+  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
 
 ===== Phụ chú: =====
 
