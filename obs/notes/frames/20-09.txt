@@ -4,14 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:nebuchadnezzar|Nê-bu-cát-nết-sa]]**
+  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
+  * **[[:vi:key-terms:babylon|Ba-by-lôn]]**
+  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
 
-    * **[[:vi:key-terms:nebuchadnezzar|Nebuchadnezzar]]**
-    * **[[:vi:key-terms:kingdom-of-judah|kingdom of Judah]]**
-    * **[[:vi:key-terms:babylon|Babylon]]**
-    * **[[:vi:key-terms:god|God's]]**
-    * **[[:vi:key-terms:promised-land|Promised Land]]** 
 ===== Phụ chú: =====
 
 
