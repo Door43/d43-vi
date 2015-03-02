@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:kingdom|nước]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:king|các vua]]**
+  * **[[:vi:key-terms:evil|gian ác]]**
+  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
 
-    * **[[:vi:key-terms:kingdom|kingdom]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:king|kings]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:israel|Israelites]]** 
 ===== Phụ chú: =====
 
 
