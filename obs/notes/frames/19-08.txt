@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:prophet|các tiên tri]]**
+  * **[[:vi:key-terms:baal|Ba-anh]]**
+  * **[[:vi:key-terms:pray|cầu nguyện]]**
 
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:baal|Baal]]**
-    * **[[:vi:key-terms:pray|prayed]]** 
 ===== Phụ chú: =====
 
 
