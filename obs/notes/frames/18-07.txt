@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:israel|nước Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:rebel|phản nghịch]]**
+  * **[[:vi:key-terms:rehoboam|Rô-bô-am]]**
+  * **[[:vi:key-terms:faithful|trung thành]]**
+  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
 
-    * **[[:vi:key-terms:israel|nation of Israel]]**
-    * **[[:vi:key-terms:rebel|rebelled]]**
-    * **[[:vi:key-terms:rehoboam|Rehoboam]]**
-    * **[[:vi:key-terms:faithful|faithful]]**
-    * **[[:vi:key-terms:kingdom-of-judah|kingdom of Judah]]** 
 ===== Phụ chú: =====
 
 
