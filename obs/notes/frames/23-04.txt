@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:mary|Ma-ri]]**
+  * **[[:vi:key-terms:rome|La-mã]]**
+  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
+  * **[[:vi:key-terms:nazareth|Na-xa-rét]]**
+  * **[[:vi:key-terms:bethlehem|Bết-lê-hem]]**
+  * **[[:vi:key-terms:david|Đa-vít]]**
 
-    * **[[:vi:key-terms:mary|Mary]]**
-    * **[[:vi:key-terms:rome|Roman]]**
-    * **[[:vi:key-terms:joseph-nt|Joseph]]**
-    * **[[:vi:key-terms:nazareth|Nazareth]]**
-    * **[[:vi:key-terms:bethlehem|Bethlehem]]**
-    * **[[:vi:key-terms:david|David]]** 
 ===== Phụ chú: =====
 
 
