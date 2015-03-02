@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:key-terms:justice|sự công bình]]**
+  * **[[:vi:key-terms:faithful|thành tín]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:bless|ban phước]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
 
-    * **[[:vi:key-terms:david|David]]**
-    * **[[:vi:key-terms:justice|justice]]**
-    * **[[:vi:key-terms:faithful|faithfulness]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:bless|blessed]]**
-    * **[[:vi:key-terms:sin|sinned]]** 
 ===== Phụ chú: =====
 
 
