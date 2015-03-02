@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:key-terms:tempt|cám dỗ]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:satan|Satan]]**
-    * **[[:vi:key-terms:tempt|tempted]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god-son|Son of God]]** 
 ===== Phụ chú: =====
 
 
