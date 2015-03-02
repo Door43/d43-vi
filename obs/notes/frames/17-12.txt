@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:bathsheba|của Bát-sê-ba]]**
+  * **[[:vi:key-terms:uriah|U-ri]]**
+  * **[[:vi:key-terms:david|của Đa-vít]]**
 
-    * **[[:vi:key-terms:bathsheba|Bathsheba's]]**
-    * **[[:vi:key-terms:uriah|Uriah]]**
-    * **[[:vi:key-terms:david|David's]]** 
 ===== Phụ chú: =====
 
 
