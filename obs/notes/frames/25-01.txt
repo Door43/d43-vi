@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:baptize|chịu báp-têm]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:fast|kiêng ăn]]**
+  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:key-terms:tempt|cám dỗ]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:fast|fasted]]**
-    * **[[:vi:key-terms:satan|Satan]]**
-    * **[[:vi:key-terms:tempt|tempted]]**
-    * **[[:vi:key-terms:sin|sin]]** 
 ===== Phụ chú: =====
 
 
