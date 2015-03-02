@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jew|người Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:priest|thầy tế lễ]]**
+  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
 
-    * **[[:vi:key-terms:jew|Jewish]]**
-    * **[[:vi:key-terms:priest|priest]]**
-    * **[[:vi:key-terms:jewish-leaders|religious leader]]** 
 ===== Phụ chú: =====
 
 
