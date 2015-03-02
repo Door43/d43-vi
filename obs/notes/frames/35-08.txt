@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:son|con trai]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:son|son]]**
-    * **[[:vi:key-terms:sin|sinned]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
