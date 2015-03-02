@@ -1,8 +1,8 @@
-===== The Robbers [27-05] =====
+===== Nhóm ăn cướp [27-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
-
+<font 11pt line-height: 107%; color: black;/inherit;;black;;inherit>“Khi đang đi đường, người ấy bị một nhóm cướp tấn công. Chúng lấy đi  ** mọi thứ mà ông có  ** và đánh ông đến gần chết. Sau đó bọn chúng bỏ đi”.</font>
 
 ===== Những cụm từ quan trọng: =====
 
