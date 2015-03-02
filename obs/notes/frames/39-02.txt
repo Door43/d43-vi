@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:witness|người làm chứng]]**
+  * **[[:vi:key-terms:guilt|mắc tội]]**
 
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:witness|witnesses]]**
-    * **[[:vi:key-terms:guilt|guilty]]** 
 ===== Phụ chú: =====
 
 
