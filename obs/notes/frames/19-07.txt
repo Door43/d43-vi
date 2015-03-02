@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:elijah|Ê-li]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:baal|Ba-anh]]**
+  * **[[:vi:key-terms:sacrifice|của lễ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:priest|thầy tế lễ]]**
 
-    * **[[:vi:key-terms:elijah|Elijah]]**
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:baal|Baal]]**
-    * **[[:vi:key-terms:sacrifice|sacrifice]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:priest|priests]]** 
 ===== Phụ chú: =====
 
 
