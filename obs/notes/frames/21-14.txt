@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:prophet|các tiên tri]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:raise|nâng]]**
+  * **[[:vi:key-terms:resurrection|sự sống lại]]**
+  * **[[:vi:key-terms:save|cứu rỗi]]**
+  * **[[:vi:key-terms:sin|tội nhân]]**
+  * **[[:vi:key-terms:covenant-new|Giao ước mới]]**
 
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:death|die]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:raise|raise]]**
-    * **[[:vi:key-terms:resurrection|resurrection]]**
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:sin|sinners]]**
-    * **[[:vi:key-terms:covenant-new|New Covenant]]** 
 ===== Phụ chú: =====
 
 
