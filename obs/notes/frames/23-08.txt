@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:shepherd|người chăn chiên]]**
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:mary|Ma-ri]]**
+  * **[[:vi:key-terms:praise|ngợi khen]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:shepherd|shepherds]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:mary|Mary]]**
-    * **[[:vi:key-terms:praise|praising]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
