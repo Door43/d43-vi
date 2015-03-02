@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:priest-high|thầy cả thượng phẩm]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:mock|chế nhạo]]**
 
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:priest-high|high priest]]**
-    * **[[:vi:key-terms:death|die]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:mock|mocked]]** 
 ===== Phụ chú: =====
 
 
