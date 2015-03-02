@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:temple|Đền thờ]]**
+  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
 
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:temple|Temple]]**
-    * **[[:vi:key-terms:promised-land|Promised Land]]**
-    * **[[:vi:key-terms:worship|worshiped]]** 
 ===== Phụ chú: =====
 
 
