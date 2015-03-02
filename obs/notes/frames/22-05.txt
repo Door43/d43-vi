@@ -4,19 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-
-    * **[[:vi:key-terms:mary|Mary]]**
-    * **[[:vi:key-terms:virgin|virgin]]**
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:power|power]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:holy|holy]]**
-    * **[[:vi:key-terms:god-son|Son of God]]**
-    * **[[:vi:key-terms:believe|believed]]** 
-
+  * **[[:vi:key-terms:mary|Ma-ri]]**
+  * **[[:vi:key-terms:virgin|gái đồng trinh]]**
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:power|quyền năng]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:holy|Con Thánh]]**
+  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:believe|tin]]**
 
 ===== Phụ chú: =====
 
