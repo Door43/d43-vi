@@ -4,15 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:zechariah-nt|Zechariah]]**
-    * **[[:vi:key-terms:john-baptist|John]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:messiah|Messiah]]** 
-
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
+  * **[[:vi:key-terms:john-baptist|Giăng]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
 
 ===== Phụ chú: =====
 
