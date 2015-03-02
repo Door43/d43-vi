@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:tax-collector|người thâu thuế]]**
+  * **[[:vi:key-terms:sin|tội nhân]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:tax-collector|tax collectors]]**
-    * **[[:vi:key-terms:sin|sinners]]** 
 ===== Phụ chú: =====
 
 
