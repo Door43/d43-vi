@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:john-baptist|Giăng]]**
+  * **[[:vi:key-terms:preach|giảng]]**
+  * **[[:vi:key-terms:repent|ăn năn]]**
+  * **[[:vi:key-terms:kingdom-of-god|nước Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:john-baptist|John]]**
-    * **[[:vi:key-terms:preach|preached]]**
-    * **[[:vi:key-terms:repent|Repent]]**
-    * **[[:vi:key-terms:kingdom-of-god|kingdom of God]]** 
 ===== Phụ chú: =====
 
 
