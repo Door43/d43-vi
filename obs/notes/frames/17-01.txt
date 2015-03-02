@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:saul|Sau-lơ]]**
+  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:saul|Saul]]**
-    * **[[:vi:key-terms:king|king]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:obey|obey]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
