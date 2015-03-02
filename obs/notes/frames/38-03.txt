@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|Các lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
+  * **[[:vi:key-terms:judas|Giu-đa]]**
+  * **[[:vi:key-terms:betray|phản bội]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:prophet|các tiên tri]]**
 
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:priest-high|high priest]]**
-    * **[[:vi:key-terms:judas|Judas]]**
-    * **[[:vi:key-terms:betray|betray]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:prophet|prophets]]** 
 ===== Phụ chú: =====
 
 
