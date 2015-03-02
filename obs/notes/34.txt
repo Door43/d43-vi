@@ -12,7 +12,7 @@ Chúa Jêsus kể vài câu chuyện để giải thích về Vương Quốc c�
 <font inherit/inherit;;inherit;;inherit>Nhấp vào hình bên dưới để dịch từng cảnh của câu chuyện.</font>
 
 [[:vi:obs:notes:frames:34-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&200}}]]\\
-Hạt Mù Tạc [34-01]
+Hột cải [34-01]
 
 [[:vi:obs:notes:frames:34-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&200}}]]\\
 Cây To [34-02]
