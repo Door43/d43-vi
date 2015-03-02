@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:true|quả thật]]**
+  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:key-terms:elijah|Ê-li]]**
+  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:true|true]]**
-    * **[[:vi:key-terms:prophet|prophet]]**
-    * **[[:vi:key-terms:elijah|Elijah]]**
-    * **[[:vi:key-terms:israel|Israel]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
