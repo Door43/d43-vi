@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:elijah|Ê-li]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:good|tốt]]**
 
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:elijah|Elijah]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:good|good]]** 
 ===== Phụ chú: =====
 
 
