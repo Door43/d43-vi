@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Giê-xu]]**
+  * **[[:vi:key-terms:disciple|môn đồ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:disciple|disciples]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
