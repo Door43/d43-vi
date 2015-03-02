@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:prophet|Các tiên tri]]**
+  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:isaiah|Ê-sai]]**
+  * **[[:vi:key-terms:prophet|tiên đoán]]**
 
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:death|die]]**
-    * **[[:vi:key-terms:isaiah|Isaiah]]**
-    * **[[:vi:key-terms:prophet|prophesied]]** 
 ===== Phụ chú: =====
 
 
