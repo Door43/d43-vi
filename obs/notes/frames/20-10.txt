@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:punish|trừng phạt]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:key-terms:prophet|các tiên tri]]**
+  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:punish|punished]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:promise|promises]]**
-    * **[[:vi:key-terms:prophet|prophets]]**
-    * **[[:vi:key-terms:promised-land|Promised Land]]** 
 ===== Phụ chú: =====
 
 
