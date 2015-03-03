@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
+  * **[[:vi:key-terms:kingdom|vương quốc]]**
+  * **[[:vi:key-terms:servant|các đầy tớ]]**
+  * **[[:vi:key-terms:true|lẽ thật]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:love|yêu]]**
+  * **[[:vi:key-terms:pilate|Phi-lát]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:kingdom-of-god|kingdom]]**
-    * **[[:vi:key-terms:kingdom|kingdom]]**
-    * **[[:vi:key-terms:servant|servants]]**
-    * **[[:vi:key-terms:true|truth]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:love|loves]]**
-    * **[[:vi:key-terms:pilate|Pilate]]** 
 ===== Phụ chú: =====
 
 
