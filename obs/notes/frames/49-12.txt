@@ -4,19 +4,19 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:cross|thập tự]]**
+  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:key-terms:life|đời sống]]**
 
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:sin|sins]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:god-son|Son of God]]**
-    * **[[:vi:key-terms:death|died]]**
-    * **[[:vi:key-terms:cross|cross]]**
-    * **[[:vi:key-terms:raise|raised]]**
-    * **[[:vi:key-terms:life|life]]** 
 ===== Phụ chú: =====
 
 
