@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:death|sự chết]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:innocent|vô tội]]**
+  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:death|death]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:innocent|innocent]]**
-    * **[[:vi:key-terms:god-son|Son of God]]** 
 ===== Phụ chú: =====
 
 
