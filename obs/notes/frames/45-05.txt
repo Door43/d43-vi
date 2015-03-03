@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:receive|tiếp rước]]**
+  * **[[:vi:key-terms:spirit|linh hồn]]**
+  * **[[:vi:key-terms:lord|Chúa]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:death|chết]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:receive|receive]]**
-    * **[[:vi:key-terms:spirit|spirit]]**
-    * **[[:vi:key-terms:lord|Master]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:death|died]]** 
 ===== Phụ chú: =====
 
 
