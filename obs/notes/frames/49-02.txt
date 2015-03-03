@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:miracle|phép lạ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:heal|chữa lành]]**
+  * **[[:vi:key-terms:demon|các quỷ]]**
+  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:key-terms:death|chết]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:miracle|miracles]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:heal|healed]]**
-    * **[[:vi:key-terms:demon|demons]]**
-    * **[[:vi:key-terms:raise|raised]]**
-    * **[[:vi:key-terms:death|dead]]** 
 ===== Phụ chú: =====
 
 
