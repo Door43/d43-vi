@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:key-terms:tomb|mộ]]**
+  * **[[:vi:key-terms:death|chết]]**
 
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:heaven|heaven]]**
-    * **[[:vi:key-terms:tomb|tomb]]**
-    * **[[:vi:key-terms:death|dead]]** 
 ===== Phụ chú: =====
 
 
