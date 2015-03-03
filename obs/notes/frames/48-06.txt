@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:priest|những thầy tế lễ]]**
+  * **[[:vi:key-terms:sacrifice|của tế lễ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:priest-high|Thầy tế lễ thượng phẩm]]**
+  * **[[:vi:key-terms:punish|hình phạt]]**
 
-    * **[[:vi:key-terms:priest|priests]]**
-    * **[[:vi:key-terms:sacrifice|sacrifices]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sin|sins]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:priest-high|Great High Priest]]**
-    * **[[:vi:key-terms:punish|punishment]]** 
 ===== Phụ chú: =====
 
 
