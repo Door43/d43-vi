@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:angel|thiên sứ]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:key-terms:death|cõi chết]]**
+  * **[[:vi:key-terms:tomb|mộ]]**
 
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:raise|risen]]**
-    * **[[:vi:key-terms:death|dead]]**
-    * **[[:vi:key-terms:tomb|tomb]]** 
 ===== Phụ chú: =====
 
 
