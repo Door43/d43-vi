@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:key-terms:eve|Ê-va]]**
+  * **[[:vi:key-terms:adam|A-dam]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:key-terms:god|Đưc s Chúa Trời]]**
+  * **[[:vi:key-terms:death|chết]]**
 
-    * **[[:vi:key-terms:satan|Satan]]**
-    * **[[:vi:key-terms:eve|Eve]]**
-    * **[[:vi:key-terms:adam|Adam]]**
-    * **[[:vi:key-terms:sin|sinned]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:death|dies]]** 
 ===== Phụ chú: =====
 
 
