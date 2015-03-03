@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:receive|tiếp nhận]]**
+  * **[[:vi:key-terms:lord|Chúa]]**
+  * **[[:vi:key-terms:love|yêu]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:believe|believes]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:receive|receives]]**
-    * **[[:vi:key-terms:lord|Master]]**
-    * **[[:vi:key-terms:love|loves]]** 
 ===== Phụ chú: =====
 
 
