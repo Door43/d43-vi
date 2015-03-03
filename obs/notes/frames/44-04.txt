@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:heal|được chữa lành]]**
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:power|quyền năng]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:faith|đức tin]]**
 
-    * **[[:vi:key-terms:heal|healed]]**
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:power|power]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:faith|faith]]** 
 ===== Phụ chú: =====
 
 
