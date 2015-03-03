@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:jew|người Do Thái]]**
+  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo tôn giáo]]**
+  * **[[:vi:key-terms:evil|điều ác]]**
+  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
+  * **[[:vi:key-terms:witness|lời làm chứng]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:jew|Jews]]**
-    * **[[:vi:key-terms:jewish-leaders|religious leaders]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:moses|Moses]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:priest-high|high priest]]**
-    * **[[:vi:key-terms:witness|witnesses]]** 
 ===== Phụ chú: =====
 
 
