@@ -1,11 +1,11 @@
-<font 28px/inherit;;inherit;;inherit>** Dịch và kiểm tra các phần ghi chú **</font>
+<font 28px/inherit;;inherit;;inherit>** Dịch và kiểm tra các phần ghi chú  **</font>
 
-<font 14px/inherit;;inherit;;inherit>CKGE_TMP_i Để giúp các dịch giả của Open Bible Stories dịch tốt nhất, mỗi cảnh (chữ + hình ảnh) trong mỗi câu chuyện đều sẵn có những phần ghi chú và nguồn chú thích. Đây là những câu chuyện đã có đầy đủ các phần ghi chú: CKGE_TMP_i</font>
+<font 14px/inherit;;inherit;;inherit>Để giúp các dịch giả của Open Bible Stories dịch tốt nhất, mỗi cảnh (chữ + hình ảnh) trong mỗi câu chuyện đều sẵn có những phần ghi chú và nguồn chú thích. Đây là những câu chuyện đã có đầy đủ các phần ghi chú:</font>
 
 <font 14px/inherit;;inherit;;inherit>1. Sự Sáng Tạo]]\\
-2.</font> [[https://door43.org/vi/obs/notes/02|Tội<font 14px/inherit;;inherit;;inherit></font> Lỗi<font 14px/inherit;;inherit;;inherit></font> Vào<font 14px/inherit;;inherit;;inherit></font> Thế<font 14px/inherit;;inherit;;inherit></font> ]][[https://door43.org/vi/obs/notes/02|Gian]]\\
-<font 14px/inherit;;inherit;;inherit>3.</font> [[https://door43.org/vi/obs/notes/03|Cơn<font 14px/inherit;;inherit;;inherit></font> Đại<font 14px/inherit;;inherit;;inherit></font> Hồng<font 14px/inherit;;inherit;;inherit></font> ]][[https://door43.org/vi/obs/notes/03|Thủy]]\\
-<font 14px/inherit;;inherit;;inherit>​4.</font> Giao<font 14px/inherit;;inherit;;inherit></font> Ước<font 14px/inherit;;inherit;;inherit></font> Của<font 14px/inherit;;inherit;;inherit></font> Chúa<font 14px/inherit;;inherit;;inherit></font> với<font 14px/inherit;;inherit;;inherit></font> Áp-ra-ham\\
+2.</font>    Tội Lỗi Vào Thế Gian\\
+<font 14px/inherit;;inherit;;inherit>3.</font>    Cơn Đại Hồng Thủy\\
+<font 14px/inherit;;inherit;;inherit>​4.</font>    Giao Ước Của Chúa với Áp-ra-ham\\
 ​5. Đứa Con Của Lời Hứa\\
 ​6. Chúa Cung Cấp Cho Y-sác\\
 ​7. Chúa Ban Phước Cho Gia-cốp\\
@@ -52,7 +52,3 @@
 48. Chúa Giê-xu là Đấng Mê-si Đã Hứa\\
 49. Giao Ước Mới Của Chúa\\
 50. Chúa Giê-xu Trở Lại
-
-\\
-
-\\
