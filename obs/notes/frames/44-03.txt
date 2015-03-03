@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:heal|được chữa lành]]**
+  * **[[:vi:key-terms:praise|ngợi khen]]**
+  * **[[:vi:key-terms:temple|Đền thờ]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:heal|healed]]**
-    * **[[:vi:key-terms:praise|praise]]**
-    * **[[:vi:key-terms:temple|Temple]]** 
 ===== Phụ chú: =====
 
 
