@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:key-terms:pilate|Phi-lát]]**
+  * **[[:vi:key-terms:tomb|ngôi mộ]]**
 
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:believe|believed]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:pilate|Pilate]]**
-    * **[[:vi:key-terms:tomb|tomb]]** 
 ===== Phụ chú: =====
 
 
