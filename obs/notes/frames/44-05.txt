@@ -4,21 +4,21 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:rome|La-mã]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:life|sự sống]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:key-terms:death|cõi chết]]**
+  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
+  * **[[:vi:key-terms:prophet|các lời tiên tri]]**
+  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:key-terms:suffer|chịu khổ]]**
+  * **[[:vi:key-terms:repent|ăn năn]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
 
-    * **[[:vi:key-terms:rome|Roman]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:life|life]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:raise|raised]]**
-    * **[[:vi:key-terms:death|dead]]**
-    * **[[:vi:key-terms:fulfill|fulfill]]**
-    * **[[:vi:key-terms:prophet|prophecies]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:suffer|suffer]]**
-    * **[[:vi:key-terms:repent|repent]]**
-    * **[[:vi:key-terms:sin|sins]]** 
 ===== Phụ chú: =====
 
 
