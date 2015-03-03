@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/promise|promised]]**
-  * **[[:vi:key-terms/believe|believes]]**
-  * **[[:vi:key-terms/life|live]]**
-  * **[[:vi:key-terms/god|God]]**
-  * **[[:vi:key-terms/peace|peace]]**
-
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:promise|đã hứa]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:life|sống]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:peace|bình an]]**
 
 ===== Phụ chú: =====
 
