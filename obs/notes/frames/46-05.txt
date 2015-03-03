@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:paul|Sau-lơ]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:baptize|phép báp-tem]]**
 
-    * **[[:vi:key-terms:paul|Saul]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:baptize|baptized]]** 
 ===== Phụ chú: =====
 
 
