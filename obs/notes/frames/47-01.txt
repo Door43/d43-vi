@@ -14,7 +14,7 @@
   * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
   * **[[:vi:key-terms:love|yêu mến]]**
   * **[[:vi:key-terms:worship|thờ phượng]]**
-**[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:worship|[[:vi:key-terms:god|Đức Chúa Trời]]**]]**
 
 ===== Phụ chú: =====
 
