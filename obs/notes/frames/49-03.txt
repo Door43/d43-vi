@@ -4,12 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:love|yêu]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god-son|Son of God]]**
-    * **[[:vi:key-terms:love|love]]** 
 ===== Phụ chú: =====
 
 
