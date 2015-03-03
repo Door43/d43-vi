@@ -4,11 +4,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:servant|đầy tớ]]**
+  * **[[:vi:key-terms:lord|chủ]]**
 
-    * **[[:vi:key-terms:servant|servants]]**
-    * **[[:vi:key-terms:lord|master]]** 
 ===== Phụ chú: =====
 
 
