@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:servant|đầy tớ]]**
+  * **[[:vi:key-terms:lord|chủ]]**
+  * **[[:vi:key-terms:suffer|chịu khổ]]**
+  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:key-terms:faithful|trung tín]]**
+  * **[[:vi:key-terms:save|cứu]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:servant|servant]]**
-    * **[[:vi:key-terms:lord|master]]**
-    * **[[:vi:key-terms:suffer|suffer]]**
-    * **[[:vi:key-terms:satan|Satan]]**
-    * **[[:vi:key-terms:faithful|faithful]]**
-    * **[[:vi:key-terms:save|save]]** 
 ===== Phụ chú: =====
 
 
