@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:crucify|đã đóng đinh]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:lord|Chúa]]**
+  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
 
-    * **[[:vi:key-terms:crucify|crucified]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:lord|Lord]]**
-    * **[[:vi:key-terms:messiah|Messiah]]** 
 ===== Phụ chú: =====
 
 
