@@ -2,7 +2,7 @@
 
 <font 14px/inherit;;inherit;;inherit>Để giúp các dịch giả của Open Bible Stories dịch tốt nhất, mỗi cảnh (chữ + hình ảnh) trong mỗi câu chuyện đều sẵn có những phần ghi chú và nguồn chú thích. Đây là những câu chuyện đã có đầy đủ các phần ghi chú:</font>
 
-<font 14px/inherit;;inherit;;inherit>1. Sự Sáng Tạo]]\\
+<font 14px/inherit;;inherit;;inherit>1. Sự Sáng Tạo\\
 2.</font>    Tội Lỗi Vào Thế Gian\\
 <font 14px/inherit;;inherit;;inherit>3.</font>    Cơn Đại Hồng Thủy\\
 <font 14px/inherit;;inherit;;inherit>​4.</font>    Giao Ước Của Chúa với Áp-ra-ham\\
