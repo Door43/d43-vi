@@ -4,11 +4,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:baptize|phép báp-tem]]**
+  * **[[:vi:key-terms:chariot|xe ngựa]]**
 
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:chariot|chariot]]** 
 ===== Phụ chú: =====
 
 
