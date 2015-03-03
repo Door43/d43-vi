@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:adam|A-dam]]**
+  * **[[:vi:key-terms:eve|Ê-va]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:adam|Adam]]**
-    * **[[:vi:key-terms:eve|Eve]]**
-    * **[[:vi:key-terms:sin|sinned]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
