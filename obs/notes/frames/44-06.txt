@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:temple|Đền thờ]]**
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:john|Giăng]]**
+  * **[[:vi:key-terms:believe|tin]]**
 
-    * **[[:vi:key-terms:temple|Temple]]**
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:john|John]]**
-    * **[[:vi:key-terms:believe|believed]]** 
 ===== Phụ chú: =====
 
 
