@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:passover|Lễ Vượt Qua]]**
+  * **[[:vi:key-terms:lamb|Chiên con]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:blood|huyết]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:punish|trừng phạt]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:passover|Passover]]**
-    * **[[:vi:key-terms:lamb|Lamb]]**
-    * **[[:vi:key-terms:believe|believes]]**
-    * **[[:vi:key-terms:blood|blood]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:god|God's]]**
-    * **[[:vi:key-terms:punish|punishment]]** 
 ===== Phụ chú: =====
 
 
