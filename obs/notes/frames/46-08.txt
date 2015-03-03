@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:paul|Sau-lơ]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:key-terms:believer|tín đồ]]**
+  * **[[:vi:key-terms:barnabas|Ba-na-ba]]**
+  * **[[:vi:key-terms:apostle|các sứ đồ]]**
+  * **[[:vi:key-terms:preach|giảng]]**
 
-    * **[[:vi:key-terms:paul|Saul]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:disciple|disciples]]**
-    * **[[:vi:key-terms:believer|believer]]**
-    * **[[:vi:key-terms:barnabas|Barnabas]]**
-    * **[[:vi:key-terms:apostle|apostles]]**
-    * **[[:vi:key-terms:preach|preached]]** 
 ===== Phụ chú: =====
 
 
