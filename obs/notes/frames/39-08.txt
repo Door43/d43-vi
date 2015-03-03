@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:judas|Giu-đa]]**
+  * **[[:vi:key-terms:betray|kẻ phản bội]]**
+  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:judas|Judas]]**
-    * **[[:vi:key-terms:betray|betrayer]]**
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
 
