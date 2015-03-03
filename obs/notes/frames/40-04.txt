@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:crucify|bị đóng đinh]]**
+  * **[[:vi:key-terms:mock|chế nhạo]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:guilt|có tội]]**
+  * **[[:vi:key-terms:innocent|vô tội]]**
+  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:crucify|crucified]]**
-    * **[[:vi:key-terms:mock|mocked]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:guilt|guilty]]**
-    * **[[:vi:key-terms:innocent|innocent]]**
-    * **[[:vi:key-terms:kingdom-of-god|kingdom]]** 
 ===== Phụ chú: =====
 
 
