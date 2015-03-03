@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:repent|ăn năn]]**
+  * **[[:vi:key-terms:baptize|báp-tem]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]][[:vi:key-terms:messiah|Christ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:key-terms:sin|Tội lỗi]]**
+  * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
 
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:repent|repent]]**
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:jesus|Jesus]][[:vi:key-terms:messiah|Christ]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:forgive|forgive]]**
-    * **[[:vi:key-terms:sin|sins]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]** 
 ===== Phụ chú: =====
 
 
