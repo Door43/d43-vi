@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:key-terms:death|cõi chết]]**
+  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
+  * **[[:vi:key-terms:prophet|lời tiên tri]]**
+  * **[[:vi:key-terms:messiah|Đấng Thánh]]**
+  * **[[:vi:key-terms:witness|làm chứng]]**
+  * **[[:vi:key-terms:life|sống]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:raise|raised]]**
-    * **[[:vi:key-terms:death|dead]]**
-    * **[[:vi:key-terms:fulfill|fulfills]]**
-    * **[[:vi:key-terms:prophet|prophecy]]**
-    * **[[:vi:key-terms:messiah|Holy One]]**
-    * **[[:vi:key-terms:witness|witnesses]]**
-    * **[[:vi:key-terms:life|life]]** 
 ===== Phụ chú: =====
 
 
