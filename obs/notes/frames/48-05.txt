@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:believe|believed]]**
-    * **[[:vi:key-terms:sin|sins]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
 
