@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:paul|Sau-lơ]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:persecute|bắt bớ]]**
+  * **[[:vi:key-terms:believer|các tín đồ]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
 
-    * **[[:vi:key-terms:paul|Saul]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:persecute|persecuted]]**
-    * **[[:vi:key-terms:believer|believers]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:priest-high|high priest]]** 
 ===== Phụ chú: =====
 
 
