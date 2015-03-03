@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|Các lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:mock|chế giễu]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
+  * **[[:vi:key-terms:cross|thập tự giá]]**
+  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:key-terms:believe|tin]]**
 
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:mock|mocked]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god-son|Son of God]]**
-    * **[[:vi:key-terms:cross|cross]]**
-    * **[[:vi:key-terms:save|save]]**
-    * **[[:vi:key-terms:believe|believe]]** 
 ===== Phụ chú: =====
 
 
