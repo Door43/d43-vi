@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:holy|thánh khiết]]**
+  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
+  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:key-terms:preach|giảng]]**
+  * **[[:vi:key-terms:good-news|tin lành]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:holy|holy]]**
-    * **[[:vi:key-terms:kingdom-of-god|kingdom]]**
-    * **[[:vi:key-terms:disciple|disciples]]**
-    * **[[:vi:key-terms:preach|preach]]**
-    * **[[:vi:key-terms:good-news|good news]]** 
 ===== Phụ chú: =====
 
 
