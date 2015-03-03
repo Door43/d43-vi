@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:adam|A-dam]]**
+  * **[[:vi:key-terms:eve|Ê-va]]**
+  * **[[:vi:key-terms:disobey|không vâng lời]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:curse|đã rủa sả]]**
+  * **[[:vi:key-terms:heaven|trời]]**
 
-    * **[[:vi:key-terms:adam|Adam]]**
-    * **[[:vi:key-terms:eve|Eve]]**
-    * **[[:vi:key-terms:disobey|disobeyed]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:curse|cursed]]**
-    * **[[:vi:key-terms:heaven|heaven]]** 
 ===== Phụ chú: =====
 
 
