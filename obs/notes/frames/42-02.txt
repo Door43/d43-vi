@@ -4,11 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+~~COMPLEX_TABLES~~
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]** 
 ===== Phụ chú: =====
 
 
