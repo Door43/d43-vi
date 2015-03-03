@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:paul|Phao-lô]]**
+  * **[[:vi:key-terms:silas|Si-la]]**
+  * **[[:vi:key-terms:philippi|Phi-líp]]**
+  * **[[:vi:key-terms:good-news|tin lành]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:church|Hội thánh]]**
 
-    * **[[:vi:key-terms:paul|Paul]]**
-    * **[[:vi:key-terms:silas|Silas]]**
-    * **[[:vi:key-terms:philippi|Philippi]]**
-    * **[[:vi:key-terms:good-news|good news]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:church|Church]]** 
 ===== Phụ chú: =====
 
 
