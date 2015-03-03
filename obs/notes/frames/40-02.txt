@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:cross|thập tự]]**
+  * **[[:vi:key-terms:god-father|Cha]]**
+  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:key-terms:pilate|Phi-lát]]**
+  * **[[:vi:key-terms:king-of-jews|Vua dân Giu-đa]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:cross|cross]]**
-    * **[[:vi:key-terms:god-father|Father]]**
-    * **[[:vi:key-terms:forgive|forgive]]**
-    * **[[:vi:key-terms:pilate|Pilate]]**
-    * **[[:vi:key-terms:king-of-jews|King of the Jews]]** 
 ===== Phụ chú: =====
 
 
