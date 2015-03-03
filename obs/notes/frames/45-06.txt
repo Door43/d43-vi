@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:paul|Sau-lơ]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:persecute|bắt bớ]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:believer|các tín đồ]]**
+  * **[[:vi:key-terms:preach|giảng]]**
 
-    * **[[:vi:key-terms:paul|Saul]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:persecute|persecuting]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:believer|believers]]**
-    * **[[:vi:key-terms:preach|preached]]** 
 ===== Phụ chú: =====
 
 
