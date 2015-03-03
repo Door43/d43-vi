@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:baptize|báp-tem]]**
+  * **[[:vi:key-terms:paul|Phao-lô]]**
+  * **[[:vi:key-terms:silas|Si-la]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:paul|Paul]]**
-    * **[[:vi:key-terms:silas|Silas]]** 
 ===== Phụ chú: =====
 
 
