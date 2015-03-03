@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:evil|điều ác]]**
+  * **[[:vi:key-terms:satan|ma quỷ]]**
+  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:angel|các thiên sứ]]**
 
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:satan|devil]]**
-    * **[[:vi:key-terms:god|God's]]**
-    * **[[:vi:key-terms:angel|angels]]** 
 ===== Phụ chú: =====
 
 
