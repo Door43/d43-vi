@@ -4,17 +4,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:guilt|có tội]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:cross|thật tự]]**
+  * **[[:vi:key-terms:receive|gánh lấy]]**
+  * **[[:vi:key-terms:punish|trừng phạt]]**
 
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:guilt|guilty]]**
-    * **[[:vi:key-terms:death|die]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:cross|cross]]**
-    * **[[:vi:key-terms:receive|received]]**
-    * **[[:vi:key-terms:punish|punishment]]** 
 ===== Phụ chú: =====
 
 
