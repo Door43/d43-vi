@@ -4,14 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:sabbath|Sa-bát]]**
+  * **[[:vi:key-terms:jew|người Do Thái]]**
+  * **[[:vi:key-terms:tomb|mộ]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:sabbath|Sabbath]]**
-    * **[[:vi:key-terms:jew|Jews]]**
-    * **[[:vi:key-terms:tomb|tomb]]**
-    * **[[:vi:key-terms:tomb|tomb]]** 
 ===== Phụ chú: =====
 
 
