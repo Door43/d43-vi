@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:church|Hội Thánh]]**
+  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:key-terms:wise|sự khôn ngoan]]**
+  * **[[:vi:key-terms:miracle|phép lạ]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:church|Church]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:wise|wisdom]]**
-    * **[[:vi:key-terms:miracle|miracles]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
 
