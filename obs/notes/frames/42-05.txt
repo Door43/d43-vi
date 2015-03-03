@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:key-terms:life|sống lại]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:word-of-god|God’s word]]**
-    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
-    * **[[:vi:key-terms:disciple|disciples]]**
-    * **[[:vi:key-terms:life|alive]]** 
 ===== Phụ chú: =====
 
 
