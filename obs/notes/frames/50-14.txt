@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:judge|đoán xét]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:hell|địa ngục]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:judge|judge]]**
-    * **[[:vi:key-terms:believe|believe]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:hell|hell]]** 
 ===== Phụ chú: =====
 
 
