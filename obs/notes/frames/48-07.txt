@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
+  * **[[:vi:key-terms:people-group|các dân]]**
+  * **[[:vi:key-terms:bless|được phước]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:key-terms:save|được cứu]]**
+  * **[[:vi:key-terms:spirit|thuộc linh]]**
 
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:abraham|Abraham]]**
-    * **[[:vi:key-terms:people-group|people groups]]**
-    * **[[:vi:key-terms:bless|blessed]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:descendant|descendant]]**
-    * **[[:vi:key-terms:believe|believes]]**
-    * **[[:vi:key-terms:save|saved]]**
-    * **[[:vi:key-terms:spirit|spiritual]]** 
 ===== Phụ chú: =====
 
 
