@@ -4,18 +4,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:rome|Đế chế La-mã]]**
+  * **[[:vi:key-terms:paul|Phao-lô]]**
+  * **[[:vi:key-terms:silas|Si-la]]**
+  * **[[:vi:key-terms:philippi|Phi-líp]]**
+  * **[[:vi:key-terms:good-news|tin lành]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:love|yêu mến]]**
+  * **[[:vi:key-terms:worship|thờ phượng]]**
+**[[:vi:key-terms:god|Đức Chúa Trời]]**
 
-    * **[[:vi:key-terms:rome|Roman Empire]]**
-    * **[[:vi:key-terms:paul|Paul]]**
-    * **[[:vi:key-terms:silas|Silas]]**
-    * **[[:vi:key-terms:philippi|Philippi]]**
-    * **[[:vi:key-terms:good-news|good news]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:love|loved]]**
-    * **[[:vi:key-terms:worship|worshiped]]**
-    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
 
 
