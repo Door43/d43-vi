@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:curse|rủa sả]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:curse|curse]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
 
