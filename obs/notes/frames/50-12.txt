@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
+  * **[[:vi:key-terms:life|vẫn đang sống]]**
+  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:christian|Christians]]**
-    * **[[:vi:key-terms:life|alive]]**
-    * **[[:vi:key-terms:raise|rose]]**
-    * **[[:vi:key-terms:death|dead]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
 
