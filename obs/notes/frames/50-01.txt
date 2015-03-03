@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:good-news|tin lành]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:key-terms:church|Hội Thánh]]**
+  * **[[:vi:key-terms:promise|đã hứa]]**
 
-    * **[[:vi:key-terms:good-news|good news]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:messiah|Messiah]]**
-    * **[[:vi:key-terms:church|Church]]**
-    * **[[:vi:key-terms:promise|promised]]** 
 ===== Phụ chú: =====
 
 
