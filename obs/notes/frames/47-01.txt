@@ -1,8 +1,6 @@
 ===== Paul and Silas in Philippi [47-01] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink&}}
 
 ===== Những cụm từ quan trọng: =====
 
@@ -15,3 +13,5 @@
   * **[[:vi:key-terms:love|yêu mến]]**
   * **[[:vi:key-terms:worship|thờ phượng]]**
   * **[[:vi:key-terms:worship|Đức Chúa Trời]]**
+
+===== Phụ chú: =====
