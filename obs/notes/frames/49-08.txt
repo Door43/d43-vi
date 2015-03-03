@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:key-terms:adam|A-dam]]**
+  * **[[:vi:key-terms:eve|Ê-va]]**
+  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:key-terms:descendant|dòng dõi]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:god|God]]**
-    * **[[:vi:key-terms:sin|sin]]**
-    * **[[:vi:key-terms:adam|Adam]]**
-    * **[[:vi:key-terms:eve|Eve]]**
-    * **[[:vi:key-terms:sin|sinned]]**
-    * **[[:vi:key-terms:descendant|descendants]]** 
 ===== Phụ chú: =====
 
 
