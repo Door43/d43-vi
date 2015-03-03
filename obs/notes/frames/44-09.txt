@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo]]**
+  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:key-terms:john|Giăng]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
 
-    * **[[:vi:key-terms:jewish-leaders|leaders]]**
-    * **[[:vi:key-terms:peter|Peter]]**
-    * **[[:vi:key-terms:john|John]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
 
