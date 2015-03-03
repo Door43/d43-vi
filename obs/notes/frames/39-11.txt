@@ -4,14 +4,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:pilate|Phi-lát]]**
+  * **[[:vi:key-terms:guilt|có tội]]**
+  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
+  * **[[:vi:key-terms:crucify|đóng đinh]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:pilate|Pilate]]**
-    * **[[:vi:key-terms:guilt|guilt]]**
-    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
-    * **[[:vi:key-terms:crucify|Crucify]]** 
 ===== Phụ chú: =====
 
 
