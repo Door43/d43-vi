@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:paul|Phao-lô]]**
+  * **[[:vi:key-terms:christian|Cơ Đốc]]**
+  * **[[:vi:key-terms:preach|giảng]]**
+  * **[[:vi:key-terms:good-news|tin lành]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:believer|các tín hữu]]**
+  * **[[:vi:key-terms:church|hội thánh]]**
 
-    * **[[:vi:key-terms:paul|Paul]]**
-    * **[[:vi:key-terms:christian|Christian]]**
-    * **[[:vi:key-terms:preach|preaching]]**
-    * **[[:vi:key-terms:good-news|good news]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:believer|believers]]**
-    * **[[:vi:key-terms:church|churches]]** 
 ===== Phụ chú: =====
 
 
