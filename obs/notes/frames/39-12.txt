@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:pilate|Phi-lát]]**
+  * **[[:vi:key-terms:crucify|đóng đinh]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:rome|La-mã]]**
+  * **[[:vi:key-terms:mock|chế giễu]]**
+  * **[[:vi:key-terms:king-of-jews|Vua dân Giu-đa]]**
 
-    * **[[:vi:key-terms:pilate|Pilate]]**
-    * **[[:vi:key-terms:crucify|crucify]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:rome|Roman]]**
-    * **[[:vi:key-terms:mock|mocked]]**
-    * **[[:vi:key-terms:king-of-jews|King of the Jews]]** 
 ===== Phụ chú: =====
 
 
