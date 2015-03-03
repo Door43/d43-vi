@@ -4,16 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-17.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:suffer|đau khổ]]**
+  * **[[:vi:key-terms:evil|điều ác]]**
+  * **[[:vi:key-terms:death|sự chết]]**
+  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
+  * **[[:vi:key-terms:peace|sự bình an]]**
+  * **[[:vi:key-terms:justice|công chính]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:suffer|suffering]]**
-    * **[[:vi:key-terms:evil|evil]]**
-    * **[[:vi:key-terms:death|death]]**
-    * **[[:vi:key-terms:kingdom-of-god|kingdom]]**
-    * **[[:vi:key-terms:peace|peace]]**
-    * **[[:vi:key-terms:justice|justice]]** 
 ===== Phụ chú: =====
 
 
