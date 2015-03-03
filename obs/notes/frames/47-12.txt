@@ -4,15 +4,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:believe|tin nhận]]**
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:baptize|báp-tem]]**
+  * **[[:vi:key-terms:paul|Phao-lô]]**
+  * **[[:vi:key-terms:silas|Si-la]]**
+  * **[[:vi:key-terms:joy|vui mừng]]**
 
-    * **[[:vi:key-terms:believe|believed]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:paul|Paul]]**
-    * **[[:vi:key-terms:silas|Silas]]**
-    * **[[:vi:key-terms:joy|rejoiced]]** 
 ===== Phụ chú: =====
 
 
