@@ -4,13 +4,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-05.jpg?nolink}}
 
 
-===== Điều khoản quan trọng: =====
+===== Những cụm từ quan trọng: =====
 
+  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:key-terms:kingdom-of-god|vương quốc của Đức Chúa Trời]]**
+  * **[[:vi:key-terms:save|được cứu]]**
+  * **[[:vi:key-terms:sin|tội lỗi]]**
 
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:kingdom-of-god|kingdom of God]]**
-    * **[[:vi:key-terms:save|saved]]**
-    * **[[:vi:key-terms:sin|sin]]** 
 ===== Phụ chú: =====
 
 
