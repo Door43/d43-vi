@@ -14,6 +14,10 @@ Welcome to Door43! Please feel free to [[:vi:home?do=edit|edit]] this page in yo
   * [[:vi:ta|translationAcademy]]- A modular, media-based, self-paced training course for translators and translation facilitators.
 
 
-===== Resources =====
+==== About Door43 ====
 
-  * **[[vi:obs|Open Bible Stories (vi)]]**
+  * **[[:vi:get-started|How to Get Started]]** – Get started translating!
+  * **[[:vi:statement-of-faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
+  * **[[:vi:translation-guidelines|Translation Guidelines]]**- The principles and procedures that all contributors must follow.
+  * **[[:vi:legal:license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
+  * **[[:vi:technical|Technical Details]]** – The technology behind Door43.
