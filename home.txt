@@ -7,7 +7,13 @@ Welcome to Door43! Please feel free to [[:vi:home?do=edit|edit]] this page in yo
 ===== Resources =====
 
   * **[[:vi:obs|Open Bible Stories (vi)]]**
-  *
+  * **[[:vi:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
+  * [[:vi:obs:notes|translationNotes]] - Translation and exegetical notes for Open Bible Stories.
+  * [[:vi:ta:intro:handbook|translationAcademy Handbook]] - A guide for translating and checking.
+  * [[:vi:lexicon|Open Bible Lexicon]]- A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
+  * [[:vi:library|Open Christian Library]]- A growing catalog of open-licensed Biblical resources.
+  * [[:vi:ta|translationAcademy]]- A modular, media-based, self-paced training course for translators and translation facilitators.
+*
 
 ===== Resources =====
 
