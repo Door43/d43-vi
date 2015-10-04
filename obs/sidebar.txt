@@ -1,9 +1,15 @@
 
+
 ----
-~~NOCACHE~~
-**[[vi:obs|Open Bible Stories]]**
+
+
+~~NOCACHE~~ **[[:vi:obs|Open Bible Stories]]** 
+
 
 {{page>vi:obs:stories}}
 
-**Recent Changes**
-{{changes>ns = vi:obs}}
+
+
+**Latest Status**
+{{page>en:uwadmin:vi:obs:status}}
+
