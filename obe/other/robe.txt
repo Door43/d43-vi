@@ -1,0 +1,19 @@
+====== robe ======
+
+===== definition:=====
+
+Text
+    * bullet
+    * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>robe&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft exo03 ktlink}}
