@@ -1,4 +1,4 @@
-====== 33. Câu chuyện về người gieo giống ======
+====== Câu chuyện về người gieo giống ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
 
@@ -6,7 +6,7 @@ Một ngày kia, khi Chúa Giê-su đang giảng dạy cho một đoàn dân đ�
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
 
-Chúa Giê-su kể câu chuyện như thế này: "Có một người nông dân đi gieo hạt giống. Vì ông dùng tay để gieo hạt nên một số hạt rơi dọc đường và chim chóc đến ăn hết chúng."
+Chúa Giê-su kể câu chuyện này: "Có một người nông dân đi gieo hạt giống. Vì ông dùng tay để gieo hạt nên một số hạt rơi dọc đường và chim chóc đến ăn hết chúng.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
 
@@ -18,11 +18,11 @@ Một số hạt khác rơi vào giữa những bụi gai. Khi những hạt nà
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
 
-Một số hạt giống khác rơi vào nơi đất tốt. Chúng lớn lên và kết quả ra 30 lần, 60 lần hoặc thậm chí 100 lần hơn thế nữa. Ai có tai, hãy lắng nghe!
+Một số hạt giống khác rơi vào nơi đất tốt. Chúng lớn lên và kết quả ra 30 lần, 60 lần hoặc thậm chí 100 lần hơn thế nữa. Ai có tai, hãy lắng nghe!\
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
 
-Câu chuyện này làm cho các môn đồ rất bối rối. Vì thế, Chúa Giê-su đã giải thích rằng: "Hạt giống đó chính là Lời Đức Chúa Trời. Đất dọc đường là người nghe Lời Chúa nhưng không hiểu gì và ma quỷ đến cướp mất những lời ấy đi khỏi người đó."
+Câu chuyện này làm cho các môn đồ rất bối rối. Vì thế, Chúa Giê-su đã giải thích rằng: "Hạt giống đó chính là Lời Đức Chúa Trời. Đất dọc đường là người nghe Lời Chúa nhưng không hiểu gì và ma quỷ đến cướp mất những lời ấy đi khỏi người đó.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
 
@@ -34,7 +34,7 @@ Câu chuyện này làm cho các môn đồ rất bối rối. Vì thế, Chúa 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
 
-Còn đất tốt chính là những người nghe Lời Chúa, tin theo và kết quả.
+Còn đất tốt chính là những người nghe Lời Chúa, tin theo và kết quả.\
 
 //Câu chuyện Kinh Thánh được trích từ: Ma-thi-ơ 13:1-8; 18-23; Mác 4:1-8; 13-20; Lu-ca 8:4-15//
 
