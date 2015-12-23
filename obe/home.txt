@@ -1,11 +1,10 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Vietnamese ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:vi:obe:kt:home|Key Terms]]
-  * [[:vi:obe:other:home|Other Terms]]
-  * [[:vi:bible:admin-reports:obe-admin:obe-reject]]
+  * [[:vi:obe:kt:home]]
+  * [[:vi:obe:other:home]]
 
-==== All terms from both lists: ====
+==== All Important Terms: ====
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages vi:obe -r -title -exclude:home -textPages="">
