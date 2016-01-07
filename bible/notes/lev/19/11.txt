@@ -1,0 +1,57 @@
+====== Leviticus 19:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Do not steal anything.
+\p Do not tell lies.
+\p Do not deceive each other.
+\p
+\v 12 Do not show that you do not respect me by using\f + \ft Or: saying \f* my name to falsely promise that you will do something. \add Do not forget that\add* I am Yahweh, your God.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Do not steal anything.
+\p Do not tell lies.
+\p Do not deceive each other.
+\p
+\v 12 Do not call upon me to punish you if you say something that you know is false. If you do this, you will dishonor me. Do not forget that I am Yahweh, your God.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Do not steal. 
+\p
+Do not lie.
+\p
+Do not deceive each other.
+\p
+\v 12 Do not not swear by my name falsely and profane the name of your God. I am Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:deceive|deceive, deceived, deceiver, deception, deceptive, deceitful]]
+  * [[:vi:obe:other:oath|oath, swear, swear by]]
+  * [[:vi:obe:other:profane|profane]]
+  * [[:vi:obe:kt:name|name]]
+
+===== Translation Notes: =====
+
+  * **Do not not swear by my name falsely** - "Do not use my name to swear about something that is not true"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:19|Leviticus Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:19:09|<<]] | [[:vi:bible:notes:lev:19:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

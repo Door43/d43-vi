@@ -1,0 +1,75 @@
+====== Amos 06:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Horses certainly do not \f + \ft rhetorical question \f* run on big rocks,
+\q2 and certainly people do not \f + \ft rhetorical question \f* plow the sea with oxen.
+\q1 But you have \add done things that no one should do\add*:
+\q1 You have distorted what is fair\f + \ft Or: right \f* and caused it to be considered like poison \f + \ft metaphor \f*;
+\q2 you have changed what is right and consider it to be like things that are bitter.
+\q1
+\v 13 You are proud because you have captured Lo-Debar \add town\add*,
+\q2 and you have said, "We captured Karnaim by our own power!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Horses certainly do not run on big rocks,
+\q2 and certainly people cannot plow the rocks with oxen.
+\q1 But you have done things that no one should do:
+\q1 You have distorted what is fair;
+\q2 you have changed what is right and consider it to be like things that are bitter.
+\q1
+\v 13 You are proud because you have captured the town of Lo Debar,
+\q2 and you have said, "We captured Karnaim by our own power!"
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 12 Do horses run on the rocky cliffs?
+\q Does one plow there with oxen?
+\q Yet you have turned justice into poison
+\q and the fruit of righteousness into bitterness.
+\q
+\v 13 You who rejoice over Lo Debar,
+\q who say, "Have we not taken Karnaim by our own strength?"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:run]]
+  * [[:En:obe:other:ox]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:fruit]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:rejoice]]
+ 
+
+===== Translation Notes: =====
+
+    * **Yet you have turned justice into poison** - "But you make laws that hurt innocent people" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **and the fruit of righteousness into bitterness** - "and you punish those who do what is right" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **Lodebar ... Karnaim** - No one knows where these towns were. (See: [[vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:06|Amos Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:06:11|<<]] | [[:vi:bible:notes:amo:06:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

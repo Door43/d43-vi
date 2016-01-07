@@ -1,0 +1,58 @@
+====== Proverbs 27:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 It is better to correct someone openly
+\q2 than to not show that you love that person \add by correcting him\add*.
+\b
+\q1
+\v 6 If a friend criticizes you, \add he is a good friend and\add* you can trust him;
+\q2 but if one of your enemies kisses you, he is \add probably wanting to\add* deceive you.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 It is better to offer a rebuke out in the open, than to have a love that is hidden. 
+\q1
+\v 6 A wound from a friend is better than kisses from an enemy. 
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Better is an open rebuke
+\q than hidden love. 
+\q
+\v 6 Faithful are the wounds caused by a friend,
+\q but an enemy may kiss you profusely.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rebuke|rebuke]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:faithful|faithful, faithfulness]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:kiss]]
+
+===== Translation Notes: =====
+
+  * **Faithful are the wounds caused by a friend** - AT: "The wounds from a friend are trustworthy"
+  * **the wounds caused by a friend** - The word "wounds" refers to the pain caused by rebuke or correction. AT: "the wounds caused by a friend's rebuke" or "the wounds of a friend's correction" (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **profusely** - "abundantly" or "too much"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:27|Proverbs Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:27:03|<<]] | [[:vi:bible:notes:pro:27:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

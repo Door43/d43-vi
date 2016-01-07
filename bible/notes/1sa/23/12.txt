@@ -1,0 +1,45 @@
+====== 1 Samuel 23:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Then David asked, "Will the leaders of Keilah enable Saul's army to capture me and my men \add if we stay here\add*?"
+\p \add By means of the stones in the sacred vest\add*, Yahweh replied, "Yes, they will."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Then David asked, "Will the leaders of Keilah enable Saul's army to capture me and my men if we stay here?"
+\p By means of the stones in the sacred vest, Yahweh replied, "Yes, they will."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 Then David said, "Will the men of Keilah surrender me and my men into the hand of Saul?" Yahweh said, "They will surrender you."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:david]]
+  * [[vi:obe:other:saul]]
+ 
+===== Translation Notes: =====
+
+    * **David said** - or "David asked" or "David prayed" (UDB)
+    * **the men of Keilah surrender me...into the hand of Saul** - The men of Keilah will either actively capture David then deliver him to Saul, or passively create the situation that allowed Saul's men to capture David. (See: [[vi:ta:vol2:translate:figs_activepassive]])  
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:23|1 Samuel Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:23:10|<<]] | [[:vi:bible:notes:1sa:23:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

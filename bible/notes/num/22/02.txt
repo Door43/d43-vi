@@ -1,0 +1,55 @@
+====== Numbers 22:2-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 But King Balak, the son of Zippor, who ruled Moab, found out what the Israelites had done to the Amor people-group.
+\v 3 \add When he saw that\add* the Israelites were very numerous, he and his people became terrified.
+\p
+\v 4 So the king of Moab \add went to\add* the leaders of the Midian people-group and said to them, "This huge group \add of Israelites\add* will wipe out\f + \ft Or: destroy \f* everything around them, like an ox devours grass!"
+\p Balak was the king of Moab.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 But King Balak son of Zippor, who ruled Moab, found out what the Israelites had done to the Amor people group.
+\v 3 When he saw that the Israelites were very numerous, he and his people became terrified.
+\p
+\v 4 So the king of Moab went to the leaders of the Midian people group and said to them, "This huge group of Israelites will wipe out everything around them, like an ox devours grass!"
+\p Balak was the king of Moab.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 2 Balak son of Zippor saw all that Israel had done to the Amorites.
+\v 3 Moab was very afraid of the people because they were many, and Moab was in terror of the people of Israel.
+\v 4 The king of Moab said to the elders of Midian, "Tthis multitude will eat up all that is around us as an ox eats up the grass in a field." Now Balak son of Zippor was king of Moab at that time.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:amorite|Amorite]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh, dread]]
+  * [[:vi:obe:other:terror|terror, terrify]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:elder|elder]]
+  * [[:vi:obe:other:midian|Midian, Midianites]]
+  * [[:vi:obe:other:ox|ox, oxen]]
+
+===== Translation Notes: =====
+
+  * **Balak son of Zippor** - Balak was king of Moab. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Moab was very afraid** - AT: "All of the Moabites were very afraid" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **This multitude will eat up all that is around us as an ox eats up the grass in a field**  - This means the Israelites will easily destroy everything in the area. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **Now Balak son of Zippor was king of Moab at that time** - This changes from the main story to background information about Balak. (See: [[vi:ta:vol2:translate:writing_background]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:22|Numbers Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:num:22:01|<<]] | [[:vi:bible:notes:num:22:05|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

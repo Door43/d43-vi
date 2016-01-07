@@ -1,0 +1,71 @@
+====== Hosea 02:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 I will show those false gods\f + \ft Or: idols \f* that what my people are doing is disgusting \f + \ft metaphor \f*,
+\q2 and no one will be able to hinder me from \add punishing them\add*.
+\q1
+\v 11 I will cause their religious celebrations to cease:
+\q2 the festivals that they celebrate every year and at every new moon and on their Sabbath days\f + \ft Or: weekly days of rest \f*.
+\q2 I will cause all their religious celebrations to cease.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 I will treat Israel as a man treats his wife when he finds her with other men.
+\q1 I will strip her naked in front of her lovers.
+\q2 No one will be able rescue her from what I will do to her.
+\q1
+\v 11 I will make the people in Israel stop holding their celebrations;
+\q2 they will stop holding their festivals every year.
+\q1 They will no longer celebrate the beginning of every month.
+\q2 They will no longer celebrate the Sabbath days.
+\q1 They will no longer be able to hold the festivals scheduled throughout the year.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Then I will strip her naked in the sight of her lovers,
+\q and no one will rescue her out of my hand.
+\q
+\v 11 I will also cause all her celebrations to cease—
+\q her feasts, her new moon celebrations, her Sabbaths, and all her appointed festivals.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lover|lover]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:other:feast|feast]]
+  * [[:vi:obe:other:newmoon|new moon]]
+  * [[:vi:obe:kt:sabbath]]
+  * [[:vi:obe:kt:appoint|appoint]]
+  * [[:vi:obe:other:festival|festival]]
+
+===== Translation Notes: =====
+
+God is speaking to Hosea.
+
+  * **Then I will strip her naked in the sight of her lovers** - God will treat Israel in a very humiliating way. (UDB) (See: [[:vi:ta:vol1:translate:figs_metaphor]]; also see how this was translated in __2:3__).
+  * **no one will rescue her out of my hand **- No one will try to help Israel. God's hand here is referring to his protection of the people of Israel. (UDB) (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:02:08|<<]] | [[:vi:bible:notes:hos:02:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

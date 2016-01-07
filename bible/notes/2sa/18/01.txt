@@ -1,0 +1,65 @@
+====== 2 Samuel 18:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 David arranged his soldiers for the battle. He divided them into groups, and appointed a commander for each 100 soldiers and a commander for each 1,000 soldiers.
+\v 2 He sent them out in three groups. Joab commanded one group, Joab's brother Abishai commanded a second group, and Ittai from Gath commanded the third group. David said to them, "I myself will go with you \add to the battle\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 David arranged his soldiers for the battle. He divided them into groups, and appointed a commander for each one hundred soldiers and a commander for each one thousand soldiers.
+\v 2 He sent them out in three groups. Joab commanded one group, Joab's brother Abishai commanded a second group, and Ittai from Gath commanded the third group. David said to them, "I myself will go with you to battle."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\p
+\v 1 David counted the soldiers who were with him, and appointed captains of thousands and captains of hundreds over them.
+\v 2 Then David sent out the army, one third under the command of Joab, another third under the command of Abishai the son of Zeruiah, Joab’s brother, and still another third under the command of Ittai the Gittite. The king said to the army, "I will certainly go out with you myself, too."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:joab]]
+  * [[:vi:obe:other:king]]
+ 
+===== Translation Notes: =====
+
+  * **soldiers**  - men or women who serve in an army
+  * **captain**  - a person who is at the head or in authority
+  * **hundreds**  - a number unit depicting amount
+  * **one third**  - one of three pieces of a whole
+  * **Abishai, Zeruiah, Ittai, Gittite**  - names of people or people group (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **"I will certainly go out with you myself, too." **- (See: [[:vi:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:18|2 Samuel Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/17/27|<<]] | [[en/bible/notes/2sa/18/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

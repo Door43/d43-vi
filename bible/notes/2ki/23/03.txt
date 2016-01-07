@@ -1,0 +1,59 @@
+====== 2 Kings 23:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Then the king stood next to the pillar \add where the kings stood when they made important announcements\add*, and while Yahweh was listening, he repeated his promise to sincerely obey with his inner being \f + \ft doublet \f* all of Yahweh's commands and regulations \f + \ft doublet \f* He also promised to fulfill the conditions of\f + \ft Or: do what was written in \f* the agreement. And all the people also promised to obey the agreement.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Then the king stood next to the pillar where the kings stood when they made important announcements, and. while Yahweh was listening, he repeated his promise to sincerely obey with his inner being the covenant. And all the people also promised to obey the covenant.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 The king stood by the pillar and made a covenant before Yahweh, to walk after Yahweh, and to keep his commandments, covenant decrees, and statutes, with all his heart and all his being, to confirm the words of this covenant that were written in this book. So all the people agreed to stand by the covenant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pillar]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:walk]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:other:statute]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:confirm]]
+ 
+
+===== Translation Notes: =====
+
+  * **all his heart and all his being** - AT: "his inner being" (UDB) (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **stand by the covenant** - "obey the covenant"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:23|2 Kings Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/23/01|<<]] | [[en/bible/notes/2ki/23/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

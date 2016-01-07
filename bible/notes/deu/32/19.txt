@@ -1,0 +1,69 @@
+====== Deuteronomy 32:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 When Yahweh saw that \add they had abandoned him\add*, he became angry,
+\q2 so he rejected \add the Israelite people who are like\add* his sons and daughters.
+\q1
+\v 20 He said, 'They are very wicked\f + \ft Or: stubborn \f* people,
+\q2 very unfaithful;
+\q1 so I will no longer help them,
+\q2 and then I will watch and see what happens to them.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 When Yahweh saw that they had abandoned him, he became angry,
+\q so he rejected the Israelite people who were like his sons and daughters.
+\q
+\v 20 He said, 'They are very wicked people,
+\q very unfaithful;
+\q so I will no longer help them,
+\q and then I will watch and see what happens to them.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Yahweh saw this and he rejected them,
+\q because his sons and his daughters provoked him so.
+\q
+\v 20 “I will hide my face from them," he said,
+\q "and I will see what their end will be;
+\q for they are a perverse generation,
+\q children who are unfaithful.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:reject]]
+  * [[:vi:obe:kt:son]]
+  * [[:vi:obe:kt:face|face]]
+  * [[vi:obe:other:perverse]]
+  * [[:vi:obe:other:generation|generation]]
+  * [[:vi:obe:kt:children|children, child]]
+  * [[:vi:obe:kt:unfaithful|unfaithful]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **his sons and his daughters** - This refers to the people of Israel whom Yahweh gave life and made into a nation. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **I will hide my face from them**  - AT: "I will turn away from them" or "I will stop helping them" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **I will see what their end will be** - "I will see what becomes of them"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:17|<<]] | [[:vi:bible:notes:deu:32:21|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

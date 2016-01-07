@@ -1,0 +1,68 @@
+====== Deuteronomy 05:12-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Do not forget that the seventh day \add of every week\add* is mine and dedicate those days to me just like I, Yahweh your God, am commanding you.
+\li
+\v 13 There are six days each week for you to do all your work,
+\v 14 but the seventh day is a rest day, a day dedicated to me, Yahweh your God. On that day you must not do any work. You and your sons and daughters and your male and female slaves must not work. You must not even force your livestock to work, and you must not tell foreigners to work, those who are living in your country. You must allow your slaves to rest on that day just like you do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Do not forget that the seventh day of every week is for you to honor me specially, as I, Yahweh your God, am commanding you.
+\li
+\v 13 There are six days each week for you to do all your work,
+\v 14 but the seventh day is a rest day, a day dedicated to me, Yahweh your God. On that day you must not do any work. You and your sons and daughters and your male and female slaves must not work. You must not even force your livestock to work, and you must not tell foreigners to work, those who are living in your country. You must allow your slaves to rest on that day just like you do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Observe the Sabbath day to keep it holy, as Yahweh your God commanded you.
+\v 13 For six days you will labor and do all your work;
+\v 14 but the seventh day is a Sabbath to Yahweh your God. In it you will not do any work, you, nor your son, nor your daughter, nor your male servant, nor your female servants nor your ox, nor your donkey, nor any of your cattle, nor any foreigner who is within your gates. This is so that your male servant and your female servant may rest as well as you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sabbath|Sabbath]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:labor|labor, laborer]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:ox|ox, oxen]]
+  * [[:vi:obe:other:donkey|donkey, mule]]
+  * [[:vi:obe:other:cow|cow, calf, bull]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:kt:rest|rest]]
+
+===== Translation Notes: =====
+
+    * **to keep it holy** - This shows that the Sabbath day is dedicated to God.
+    * **do all your work** - "do all your usual duties"
+    * **In it you will not** - "During it you will not"
+    * **within your gates** - "within your community" or "inside your city." Cities often had walls around them to keep out enemies, and gates for people to go in and out. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/05/11|<<]] | [[en/bible/notes/deu/05/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

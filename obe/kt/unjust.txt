@@ -1,22 +1,23 @@
-====== unrighteous, unrighteousness ======
+====== unjust, unjustly, injustice ======
 
 ===== Definition: =====
 
-The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness" refers to sin or the condition of being sinful.
+The terms "unjust" and "unjustly" refer to treating people in an unfair, and often, harmful manner.
 
-  * It especially refers to living in a way that disobeys God's teachings and commands.
-  * Unrighteous people are immoral in their thoughts and actions.
-  * Sometimes "unrighteous" refers specifically to people who do not believe in Jesus.
+  * An "injustice" is something that is done that the person did not deserve. It also refers to unfair treatment of people.
+  * Injustice means that some people are treated badly while others are treated well.
+  * Someone who is acting in an unjust way is being "partial" or "prejudiced" because he is not treating people equally well.
 
 ===== Translation Suggestions: =====
 
-  * This term could simply be translated as "not righteous."
-  * Depending on the context, other ways to translate this could include, "wicked" or "immoral" or "people who rebel against God" or "sinful."
-  * The phrase "the unrighteous" could be translated as "unrighteous people."
-  * The term "unrighteousness" could be translated as "sin" or "evil thoughts and actions."
-  * If possible, it is best to translate this in a way that shows its relationship to "righteous, righteousness."
+  * The term "unjust" could also be translated as "unfair" or "partial" or "prejudiced," depending on the context.
+  * Sometimes "unjust" can be translated in a similar way to "unrighteous."
+  * The phrase "the unjust" could be translated as "the unjust ones" or "unjust people" or "people who treat others unfairly" or "unrighteous people" or "people who disobey God." (See: [[:vi:ta:vol2:translate:nominaladjective]])
+  * The term "unjustly" could be translated as, "in an unfair manner" or "wrongly" or "unfairly" or "rightly."
+  * Ways to translate "injustice" could include, "wrong treatment" or "unfair treatment" or "acting unfairly."
 
-(See also: [[:vi:obe:kt:righteous]], [[:vi:obe:kt:unlawful]], [[:vi:obe:kt:sin]])
+
+(See also: just, unrighteous)
 
 ===== Bible References: =====
 
@@ -24,4 +25,4 @@ The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness"
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>publish discuss ktlink talink}}

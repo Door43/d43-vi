@@ -1,0 +1,57 @@
+====== Psalms 139:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Where could I go to escape from your Spirit?\f + \ft Or: I could not go anywhere to escape from your Spirit. \f* \f + \ft rhetorical question \f*
+\q1 Where could I go to get away from you?\f + \ft Or: I could not go anywhere to get away from you. \f* \f + \ft rhetorical question \f*
+\q1
+\v 8 If I went up to heaven, you would be there.
+\q1 If I laid down in the place where the dead people are, you would be there.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Where could I go to escape from your Spirit?
+\q1 Where could I go to get away from you?
+\q1
+\v 8 If I go up to heaven, you will be there.
+\q1 If I lie down in the place where the dead people are, you will be there.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Where can I go to escape from your Spirit?
+\q Where can I flee from your presence?
+\q
+\v 8 If I ascend up to the heavens, you are there;
+\q if I make my bed in sheol, see, you are there.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:vi:obe:other:hades|hades, sheol]]
+
+===== Translation Notes: =====
+
+  * **Where can I go to escape from your Spirit?** - AT: "I cannot escape from your Spirit." (See: [[vi:ta:vol1:translate:figs_rquestion]])
+  * **Where can I flee from your presence?** -  AT: "I cannot flee from your presence."
+  * **if I make my bed in sheol,** - AT "Even if I stay among the dead people." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:139:003|<<]] | [[:vi:bible:notes:psa:139:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

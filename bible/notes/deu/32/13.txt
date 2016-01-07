@@ -1,0 +1,58 @@
+====== Deuteronomy 32:13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 \add After they entered the land that Yahweh promised to give to them\add*,
+\q1 Yahweh enabled them to rule the hilly areas;
+\q2 they ate the crops that grew in the fields.
+\q1 They found honey in the rocks,
+\q2 and their olive trees \f + \ft metonymy \f* grew \add even\add* in stony ground.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 After they entered the land that Yahweh promised to give to them,
+\q Yahweh enabled them to rule the hilly areas;
+\q they ate the crops that grew in the fields.
+\q They found honey in the rocks,
+\q and their olive trees grew even in stony ground.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 He made him ride on the heightes of the land,
+\q and he fed them the fruits of the field;
+\q he nourished him with honey from the rock,
+\q and oil from the flinty crag.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fruit|fruit]]
+  * [[:vi:obe:other:honey]]
+  * [[:vi:obe:other:oil|oil]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **He made him ride on the heights of the land** -  The word "him" refers to the people of Israel. AT: "Yahweh made them ride on the high places of the land" or "Yahweh helped them take possessions of the land" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **he fed them the fruits of the field** - This means that Yahweh brought them to a land with lots of produce they could eat.
+  * **He nourished him with honey from the rock and oil from the flinty crag** - The land had many wild bees with hives inside rock holes. And also olive trees, which grow on rocks, hills and mountains. AT: "He provided honey for them from the rock and oil from the stony ground"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:11|<<]] | [[:vi:bible:notes:deu:32:14|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

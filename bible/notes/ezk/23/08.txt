@@ -1,0 +1,54 @@
+====== Ezekiel 23:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 When she was a young woman in Egypt, she started being a prostitute, and young men caressed her breasts and had sex with her; and when she became older, she did not quit acting like a prostitute.
+\p
+\v 9 So I allowed the Assyrian soldiers, whom she wanted to have sex with, to capture her.
+\v 10 They stripped all her clothes off her. They took away her sons and daughters. And then they killed her with a sword. Other women started talking about what had happened to her, about how she had been punished.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 When she was a young woman in Egypt, she started being a prostitute, and she allowed young men to caress her breasts and had sex with her; when she became older, she did not quit acting like a prostitute.
+\p
+\v 9 So I allowed the Assyrian soldiers, whom she wanted to have sex with, to capture her.
+\v 10 They stripped all her clothes off her. They took away her sons and daughters. And then they killed her with a sword. Other women started talking about how she was disgraced,  and about how she deserved to suffer.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 For she had not left her prostitute behavior behind in Egypt, when they had slept with her when she had been a young girl, when they first began to fondle her virgin nipples, when they first began to pour out their promiscuous behavior on her. 
+\v 9 Therefore I gave her into the hand of her lovers, into the hand of the Assyrians for whom she lusted!
+\v 10 They stripped her naked. They took her sons and daughters, and they killed her with the sword, and she became shameful to other women, so they passed judgment on her.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:kt:judge]]
+
+===== Translation Notes: =====
+Yahweh continues telling his story to Ezekiel about his unfaithful wife Oholah.
+  * **slept with her...fondle her virgin nipples...pour out their promiscuous behavior** - All of these phrases are different ways to refer to her behavior as a prostitute in Egypt.  It is repeated in different ways to express how shockingly sinful her behavior was. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **had slept with her** - This is a mild way to say they had sexual relations with her. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **to pour out their promiscuous behavior** - The phrase "pour out" uses the thought of water pouring out to express something happening in a great amount. (See: [[:vi:ta:vol1:translate:figs_metaphor]]) 
+  * **into the hand of her lovers, into the hand of the Assyrians**  - The word "hand" refers to what someone has control over. This phrase is repeated to emphasize that the Assyrians were her lovers. AT: "I gave her over to her lovers, I allowed the Assyrians to take control over her" (See: [[:vi:ta:vol2:translate:figs_synecdoche]], [[:vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:23|Ezekiel Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:23:05|<<]] | [[:vi:bible:notes:ezk:23:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

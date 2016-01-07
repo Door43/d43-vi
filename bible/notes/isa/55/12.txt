@@ -1,0 +1,74 @@
+====== Isaiah 55:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 You will leave \add Babylon\add* joyfully,
+\q2 you will have peace as I lead you out.
+\q1 \add It will be as though\add* the hills and mountains will sing joyfully,
+\q2 and the trees in the fields will clap their hands.
+\q1
+\v 13 Instead of thornbushes and briers,
+\q2 pine\f + \ft Or: cypress \f* trees and myrtle trees will grow \add in your land\add*.
+\q1 As a result of that, people will honor me much more;
+\q2 and what I do will remind everyone that \add I do what I have promised\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 This is why you will leave Babylon joyfully;
+\q2 you will have peace as I lead you out.
+\q1 It will be as though the hills and mountains sang joyfully,
+\q2 and the trees in the fields clapped their hands.
+\q1
+\v 13 Instead of thornbushes and briers,
+\q2 pine trees and myrtle trees will grow in your land.
+\q1 As a result of that, people will honor me much more;
+\q2 and what I do will cause everyone to remember what I have promised and to honor me."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 For you will go out in joy and be led along peacefully; 
+\q1 the mountains and the hills will break out in joyful shouts before you, and all the trees of the fields will clap their hands.
+\q1
+\v 13 Instead of the thornbushes, evergreens will grow; and instead of the brier, the myrtle tree will grow, 
+\q1 and it will be for Yahweh, for his name, as an everlasting sign that will not be cut off."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:other:peace]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:sign]]
+  * [[:vi:obe:kt:cutoff]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Israel.
+
+  * **the mountains and the hills will break out in joyful shouts before you, and all the trees of the fields will clap their hands**  - Yahweh describes the mountains, hills, and trees as people celebrating. This emphasizes what a happy occasion it will be. (See: [[:vi:ta:vol2:translate:figs_personification|Personification]])
+  * **thornbushes … brier **- These are essentially weeds. (See: [[vi:ta:vol1:translate:translate_unknown]])
+  * **evergreens**  - Here, this refers to tall trees (in contrast to the low-growing weeds) with leaves or needles that stay green all year long. (See: [[vi:ta:vol1:translate:translate_unknown]])
+  * **myrtle tree**  - a tree with green leaves and white flowers (See: [[vi:ta:vol1:translate:translate_unknown]])
+  * **for his name**  - AT: "for his honor" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **that will not be cut off**  - AT: "that I will not remove" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:55|Isaiah Chapter 55 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:55:10|<<]] | [[:vi:bible:notes:isa:56:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

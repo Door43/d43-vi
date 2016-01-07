@@ -1,0 +1,70 @@
+====== Psalms 060:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Then God \add answered my prayer\add* and spoke from his temple, saying,
+\q1 "Because I have conquered \add your enemies\add*, I will divide Shechem \add city\add*,
+\q2 and I will distribute among my people \add the land in\add* Succoth \add Valley\add*.
+\q1
+\v 7 The Gilead \add region\add* is mine;
+\q1 the \add people of the tribe of\add* Manasseh are mine;
+\q1 the tribe of Ephraim is like my helmet \f + \ft metaphor \f*;
+\q1 and the tribe of Judah is like the scepter\f + \ft Or: stick that I hold which shows that I am the ruler \f* \f + \ft metaphor \f*;
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Then God answered my prayer and spoke from his temple, saying,
+\q1 "Because I have conquered your enemies, I will divide the city of Shechem,
+\q2 and I will distribute among my people the land in Succoth Valley.
+\q1
+\v 7 The region of Gilead is mine;
+\q1 the people of the tribe of Manasseh are mine;
+\q1 the tribe of Ephraim is like my helmet;
+\q1 and the tribe of Judah is like the scepter with which I rule.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 God has spoken in his holiness, "I will rejoice;
+\q I will divide Shechem and apportion out the valley of Succoth.
+\q
+\v 7 Gilead is mine, and Manasseh is mine;
+\q Ephraim also is my helmet;
+\q Judah is my scepter.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:other:rejoice|rejoice]]
+  * [[:vi:obe:other:shechem|Shechem]]
+  * [[:vi:obe:other:succoth|Succoth]]
+  * [[:vi:obe:other:gilead|Gilead]]
+  * [[:vi:obe:other:manasseh|Manasseh]]
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:judah|Judah]]
+  * scepter
+
+===== Translation Notes: =====
+
+  * **helmet**- protection (See: metaphor)
+  * **scepter**- an ornamental staff which symbolises authority and power (See: metaphor​)
+ 
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:060|Psalms Chapter 060 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:060:004|<<]] | [[:vi:bible:notes:psa:060:008|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,57 @@
+====== Psalms 096:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 You people in nations all over the earth, praise Yahweh!
+\q1 Praise Yahweh for his glorious power \f + \ft hendiadys \f*!
+\q1
+\v 8 Praise Yahweh like he deserves to be praised,
+\q2 Bring an offering and come to his temple.
+\q2
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 You people in nations all over the earth, praise Yahweh!
+\q1 Praise Yahweh for his glorious power!
+\q1
+\v 8 Praise Yahweh as he deserves to be praised;
+\q2 bring an offering and come to his temple.
+
+
+\q2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Ascribe to Yahweh, you clans of peoples,
+\q ascribe to Yahweh glory and strength.
+\q
+\v 8 Ascribe to Yahweh the glory due to his name.
+\q Bring an offering and come into his courts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:clan|clan]]
+  * [[:vi:obe:other:peoplegroup|people group, people, poor (the poor)]]
+  * [[:vi:obe:kt:glory|glory, glorious]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:other:courtyard|courtyard, court]]
+
+===== Translation Notes: =====
+
+  * **Ascribe to** - This means to acknowledge something about someone. AT: "give to"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:096|Psalms Chapter 096 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:096:005|<<]] | [[:vi:bible:notes:psa:096:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

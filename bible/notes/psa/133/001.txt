@@ -1,0 +1,55 @@
+====== Psalms 133:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 It is very good and very pleasant
+\q2 for God's people to gather together harmoniously.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 It is very good and very pleasant
+\q2 for God's people to gather together in peace.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 133
+\d A song of ascents, of David.
+\b
+\q
+\v 1 Behold, how good and how pleasant it is
+\q for brothers to remain together in unity!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:kt:good]]
+  * [[:vi:obe:kt:brother|brother]]
+
+===== Translation Notes: =====
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **Song of Ascents** - See how you translated this in [[:vi:bible:notes:psa:120:001|120:1]].
+  * **behold**- See how you translated this in [[:vi:bible:notes:psa:027:004|27:4]].
+  * **for brothers**  - Here, brothers refers to fellow Israelites.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:133|Psalms Chapter 133 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:132:017|<<]] | [[:vi:bible:notes:psa:133:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+
+
+~~NOCACHE~~

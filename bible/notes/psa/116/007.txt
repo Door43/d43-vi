@@ -1,0 +1,71 @@
+====== Psalms 116:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 I must encourage\f + \ft Or: tell \f* myself to have inner peace\f + \ft Or: not worry anymore \f*,
+\q2 because Yahweh has done very good things for me.
+\b
+\q1
+\v 8 Yahweh has saved me \f + \ft synecdoche \f* from dying,
+\q2 and has kept\f + \ft Or: protected \f* me from \add troubles that would cause me to\add* cry.
+\q1 He has kept\f + \ft Or: protected \f* me from stumbling\f + \ft Or: being defeated \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 I must encourage myself
+\q2 because Yahweh has done very good things for me.
+\b
+\q1
+\v 8 Yahweh has saved me from dying
+\q2 and has kept me from troubles that would cause me to cry.
+\q1 He has kept me from disaster.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Return to your rest, my soul;
+\q for Yahweh has been good to you.
+\q
+\v 8 For You have freed my soul from death,
+\q my eyes from tears,
+\q and my feet from stumbling.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:turn]]
+  * [[:vi:obe:kt:rest]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:good]]
+  * [[:vi:obe:kt:free]]
+  * [[:vi:obe:kt:death]]
+  * [[vi:obe:other:stumble]]
+
+===== Translation Notes: =====
+
+The person who made this song continues to speak.
+  * **Return to your rest, my soul** - AT: "I can rest in peace again." (See: [[:vi:ta:vol2:translate:figs_personification]] and [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **for Yahweh** - "because Yahweh"
+  * **to you** - The word "you" refers to his soul. AT: "to me."
+  * **For You** - The word "You" refers to Yahweh.
+  * **have freed my soul from death** - AT: "have saved me from death" or "have rescued me from death."
+  * **my eyes from tears** - AT: "You have saved me from grief." (See: [[:vi:ta:vol2:translate:figs_ellipsis]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **my feet from stumbling** - AT: "You have saved my feet from stumbling" or "You have kept the danger from destroying me."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:116|Psalms Chapter 116 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:116:005|<<]] | [[:vi:bible:notes:psa:116:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

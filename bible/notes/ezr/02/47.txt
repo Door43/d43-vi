@@ -1,0 +1,57 @@
+====== Ezra 02:47-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 Giddel, Gahar, Reaiah,
+\li2
+\v 48 Rezin, Nekoda, Gazzam,
+\li2
+\v 49 Uzza, Paseah, Besai,
+\li2
+\v 50 Asnah, Meunim, Nephusim,
+\li2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 Giddel, Gahar, Reaiah,
+\v 48 Rezin, Nekoda, Gazzam,
+\v 49 Uzza, Paseah, Besai,
+\v 50 Asnah, Meunim, Nephisim,
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 47 the descendants of Giddel, Gahar, Reaiah,
+\v 48 Rezin, Nekoda, Gazzam
+\v 49 Uzza, Paseah, Besai,
+\v 50 Asnah, Meunim, and Nephisim;
+</usfm>
+
+
+===== Important Terms: =====
+
+===== Translation Notes: =====
+
+A continuation of the list of names of people. (See: [[vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/02/43|<<]] | [[en/bible/notes/ezr/02/51|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

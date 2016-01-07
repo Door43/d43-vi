@@ -1,0 +1,65 @@
+====== Psalms 119:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Prevent me from doing what is wrong,
+\q2 and be kind to me by teaching me your laws.
+\q1
+\v 30 I have decided that I will faithfully\f + \ft Or: always \f* \add obey you\add*;
+\q2 I have paid attention to\f + \ft Or: heeded \f* your regulations\f + \ft Or: the rules that you have given to us \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Prevent me from telling lies,
+\q2 and be kind to me by teaching me your laws.
+\q1
+\v 30 I have decided that I will faithfully obey you;
+\q2 I am determined to follow your commands.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 Turn from me the path of deceit;
+\q  graciously teach me your law.
+\q
+\v 30 I have chosen the way of faithfulness;
+\q I have always kept your righteous decrees before me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:kt:grace]]
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:decree]]
+ 
+
+===== Translation Notes: =====
+
+  * **Turn from me the path of deceit**  - The word "path" here refers to a way of behaving. AT:  "Keep me from following the path of deceit" or "Prevent me from being deceptive" A (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **deceit** - Possible meanings are 1) "lying" or 2) "believing lies" or "following lies."
+  * **the way of faithfulness**  - AT: "to follow your truths" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **the way of faithfulness** - AT: "to be faithful to you"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:027|<<]] | [[:vi:bible:notes:psa:119:031|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

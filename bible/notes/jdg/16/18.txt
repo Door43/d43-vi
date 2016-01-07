@@ -1,0 +1,53 @@
+====== Judges 16:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Delilah realized that this time he had told her the truth. So she summoned the Philistine leaders again, saying, "Come back one more time, because Samson has really told me everything \add about why he is so strong\add*". So the Philistine leaders returned and brought to Delilah the money \add that they promised to give her\add*.
+\v 19 Again she lulled Samson to sleep, with his head in her lap. Then she called one of the Philistine men to come and shave off Samson's hair. As he did that, Samson began to get weaker. And finally his strength was all gone.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Delilah realized that this time he had told her the truth. So she called together the Philistine leaders, saying, "Come back one more time, because Samson has finally told me the secret about his strength." So the Philistine leaders returned and gave Delilah the money they promised to give her.
+\v 19 Again she lulled Samson to sleep, with his head in her lap. Then she called one of the Philistine men to come and cut off Samson's hair. As he did that, Samson became weak; he had no more strength.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18  When Delilah saw that he had told her the truth about everything, she sent and called for the rulers of the Philistines, saying, “Come up again, for he has told me everything.” Then the rulers of the Philistines went up to her, bringing the silver in their hands.
+\v 19 She had him fall asleep in her lap. She called for a man to shave off the seven locks of his head, and she began to subdue him, for his strength had left him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:delilah|Delilah]]
+  * [[:vi:obe:kt:true|true, truth]]
+  * [[vi:obe:other:ruler]]
+  * [[vi:obe:other:Philistines]]
+  * [[:vi:obe:other:silver|silver]]
+===== Translation Notes: =====
+
+  * **saw** - "understood" or "learned"
+  * **the truth about everything**  - The word "everything" refers to the entire story about why he is so strong. AT: "truth about everything about the secret to his strength" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **Come up again** - Delilah lived higher on the mountain than where the rulers were staying. 
+  * **She had him fall asleep** - "She caused him to fall asleep"
+  * **in her lap** - "on Delilah's thighs" (the thigh is the upper leg)
+  * **the seven locks of his head** - These were locks of hair.  A lock holds something else in place.  Samson's hair was separated into seven sections.
+  * **subdue him** - "control him"
+  * **his strength had left him** - AT: "his strength was gone" (See: [[:vi:ta:vol2:translate:figs_personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:16|Judges Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:16:17|<<]] | [[:vi:bible:notes:jdg:16:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,57 @@
+====== Numbers 24:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Your water buckets will always be full;
+\q2 the seeds \add that you plant\add* will always have plenty of water \add to make them grow\add*.
+\b
+\q1 The Israelites' king will be greater than \add King\add* Agag;
+\q2 the kingdom that he rules will be honored.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Your water buckets will always be full.
+\q2 The seeds that you plant will always have plenty of water to make them grow.
+\b
+\q1 The Israelites' king will be greater than King Agag.
+\q2 The kingdom that he rules will be honored.
+\b
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Water flow froms their buckets,
+\q2 and their seed is well-watered.
+\q Their king is be higher than Agag,
+\q2 and their kingdom will be honored.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:seed|seed]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:other:honor|honor, to honor]]
+
+===== Translation Notes: =====
+
+  * **Water flows from their buckets, and their seed is well-watered** - This refers to God's blessing on his people when they enter the land he has promised them. They will have plenty of water and healthy crops.
+  * **Their king will be higher than Agag** - This means the future king of Israel will have more honor and will be more powerful than Agag. Agag was king of the Amalekites. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **their kingdom will be honored** - AT: "other people will give honor to their kingdom" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:num:24:06|<<]] | [[:vi:bible:notes:num:24:08|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

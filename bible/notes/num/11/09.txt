@@ -1,0 +1,46 @@
+====== Numbers 11:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Each night the manna came down on their ground where their tents were, like dew \add from the sky\add*.
+\p
+\v 10 Moses\f + \ft Or: I \f* heard all the Israelite people complaining as they were standing in the entrances of their tents. Yahweh became very angry, and Moses\f + \ft Or: I \f* was also very perturbed.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Each night the manna came down on their ground where their tents were, like dew from the sky.
+\p
+\v 10 Moses heard all the Israelite people complaining as they were standing in the entrances of their tents. Yahweh became very angry, and Moses was also very perturbed.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 When the dew fell on the camp in the night, the manna also fell.
+\v 10 Moses heard the people weeping in their families, and every man was at the entrance to his tent. Yahweh was very angry, and in Moses' eyes their complaining was wrong.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:moses]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:family]]
+  * [[:vi:obe:other:tent]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:angry]]
+  * [[:vi:obe:other:wrong]]
+
+===== Translation Notes: =====
+
+  * **and in Moses' eyes **- AT: "and the way Moses saw it"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:11|Numbers Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:num:11:07|<<]] | [[:vi:bible:notes:num:11:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

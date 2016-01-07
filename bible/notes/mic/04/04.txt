@@ -1,0 +1,76 @@
+====== Micah 04:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Everyone will sit \add peacefully\add* under his own grapevines,
+\q2 and under his own fig trees;
+\q1 no one will cause them to be afraid.
+\q2 \add That is what will surely happen\add* because the Almighty Commander of the armies of angels has said it.
+\q1
+\v 5 Many of \f + \ft hyperbole \f* \add the people of other\add* nations will worship [IDI] their own gods,
+\q2 but we will worship Yahweh our God always, forever.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Everyone will sit peacefully under his own grapevines,
+\q2 and under his own fig trees;
+\q1 no one will cause them to be afraid.
+\q2 That is what will surely happen because Yahweh, Commander of the angel armies, has said it.
+\q1
+\v 5 Many of  the people of other nations will worship their own gods,
+\q2 but we will worship Yahweh our God always, forever.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Instead, they will sit every person under his vine
+\q and under his fig tree.
+\q No one will make them afraid,
+\q for the mouth of Yahweh of hosts has spoken.
+\q
+\v 5 For all the peoples walk,
+\q each one, in the name of their god.
+\q But we will walk in the name of Yahweh our God
+\q forever and ever.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:vine|vine]]
+  * [[:vi:obe:other:fig|fig]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+  * [[:vi:obe:kt:god|God]]
+  * [[vi:obe:kt:forever]]
+
+===== Translation Notes: =====
+
+Micah continues describing the "last days" when people learn and obey Yahweh's law.
+
+  * **under his vine and under his own fig trees**  - This is an image of people living in peace.
+  * **for the mouth of Yahweh of hosts has spoken**  - AT: "for Yahweh of hosts has spoken" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **walk…in the name of**  - This phrase means to worship and obey.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mic:04|Micah Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:mic:04:02|<<]] | [[:vi:bible:notes:mic:04:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

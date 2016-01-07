@@ -1,0 +1,58 @@
+====== Isaiah 63:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 We, your holy people, possessed your sacred temple for only a short time,
+\q2 and now our enemies have destroyed it.
+\q1
+\v 19 Now it seems as though we never were ruled by you,
+\q2 as though we were never part of your family \f + \ft metonymy \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 We, your holy people, possessed your sacred temple for only a short time,
+\q2 and now our enemies have destroyed it.
+\q1
+\v 19 Now it seems as though we never were ruled by you,
+\q2 as though we never belonged to you."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 18 Your people possessed your sanctuary for a short time, but then our enemies trampled it.
+\q1
+\v 19 We have become like those over whom you never ruled, like those who were never called by your name.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:kt:sanctuary]]
+  * [[:vi:obe:other:ruler]]
+  * [[:vi:obe:kt:call]]
+  * [[vi:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+The people of Israel continue speaking.
+
+    * **who were never called by your name** - AT: "who never belonged to your family" (See: [[vi:ta:vol2:translate:figs_metonymy]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:63|Isaiah Chapter 63 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:63:17|<<]] | [[:vi:bible:notes:isa:64:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

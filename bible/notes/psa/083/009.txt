@@ -1,0 +1,56 @@
+====== Psalms 083:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add God\add*, do to those people things like you did to the Midian people-group,
+\q2 like you did to Sisera and Jabin at Kishon River.
+\q1
+\v 10 You destroyed them at Endor \add town\add*,
+\q2 and their corpses \add lay on\add* the ground and decayed.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 God, do to those people things as you did to the Midian people group,
+\q2 as you did to Sisera and Jabin at the Kishon River.
+\q1
+\v 10 You destroyed them at the town of Endor,
+\q2 and their corpses lay on the ground and decayed.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Do to them as you did to Midian,
+\q as you did to Sisera and to Jabin at the Kishon River.
+\q
+\v 10 They perished at Endor
+\q and became like manure for the earth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:midian|Midian, Midianites]]
+  * [[:vi:obe:kt:perish|perish, perishing, perishable]]
+
+===== Translation Notes: =====
+
+  * **Do to them...for the earth.** - The writer is asking God to defeat Israel's enemies as he has done in the past. (See [[:vi:ta:vol1:translate:figs_explicit]])
+  * **Sisera, Jabin** - See how you translate names of people: [[:vi:ta:vol1:translate:translate_names]].
+  * **Kishon, Endor** - See how you translate the names of places: [[:vi:ta:vol1:translate:translate_unknown]]
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:083|Psalms Chapter 083 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:083:008|<<]] | [[:vi:bible:notes:psa:083:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

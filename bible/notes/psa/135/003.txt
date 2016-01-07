@@ -1,0 +1,59 @@
+====== Psalms 135:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Praise Yahweh, because he does good things for us;
+\q2 sing to him \f + \ft metonymy \f*, because he acts kindly to us.
+\q1
+\v 4 He has chosen us, the descendants of Jacob;
+\q2 he has chosen us Israelites to belong to him \f + \ft doublet \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Praise Yahweh because he does good things for us;
+\q2 sing to him because it is a joyful thing to do so.
+\q1
+\v 4 He has chosen us, the descendants of Jacob;
+\q2 he has chosen us Israelites to belong to him.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Praise Yahweh, for he is good;
+\q sing praises to his name, for it is pleasant to do so.
+\q
+\v 4 For Yahweh has chosen Jacob for himself,
+\q Israel as his possession.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:good]]
+  * [[:vi:obe:kt:elect|chosen one, chosen people, Chosen One, the elect]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:possess|possess, possession]]
+
+===== Translation Notes: =====
+
+  * **for it is pleasant to do so**  - AT: "because we get pleasure from doing so" or "because his name gives us pleasure."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:135|Psalms Chapter 135 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:135:001|<<]] | [[:vi:bible:notes:psa:135:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

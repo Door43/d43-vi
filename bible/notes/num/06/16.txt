@@ -1,0 +1,47 @@
+====== Numbers 06:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 The priest will put the young lamb and the young ram on the altar and completely burn them, in order that I will be pleased and will forgive you.
+\v 17 Then he will kill the full-grown ram as an offering to restore fellowship with me, and he will also burn on the altar some of the bread and the grain and wine.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 The priest will put the young lamb and the young ram on the altar and completely burn them, in order that I will be pleased and will forgive you.
+\v 17 Then he will kill the full-grown ram as an offering to restore fellowship with me, and he will also burn on the altar some of the bread and the flour and wine.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 The priest must present them before Yahweh. He must offer his sin offering and burnt offering.
+\v 17 With the basket of unleavened bread, he must present the ram as a sacrifice, the fellowship offering to Yahweh. The priest must present also the grain offering and the drink offering.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:priest]]
+  * [[vi:obe:other:sinoffering]]
+  * [[vi:obe:other:burntoffering]]
+  * [[:vi:obe:kt:unleavenedbread]]
+  * [[vi:obe:other:sacrifice]]
+
+===== Translation Notes: =====
+
+  * **He must offer his sin offering** - Here the word "He" refers to the priest and the word "his" refers to the man who took a vow.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:06|Numbers Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:num:06:13|<<]] | [[:vi:bible:notes:num:06:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

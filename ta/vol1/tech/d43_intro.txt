@@ -1,0 +1,8 @@
+===== Door43 =====
+
+This module answers the question: What is Door43?\\
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]
+

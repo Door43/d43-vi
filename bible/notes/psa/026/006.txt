@@ -1,0 +1,72 @@
+====== Psalms 026:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Yahweh, I wash my hands to show that I am innocent\f + \ft Or: have not done what was wrong \f*.
+\q1 As I join with others marching around your altar,
+\q1
+\v 7 we sing songs to say that we thank you,
+\q2 and we tell others the wonderful things that you \add have done\add*.
+\q1
+\v 8 Yahweh, I love \add to be in\add* the temple where you live,
+\q2 in the place where your glory appears.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Yahweh, I wash my hands to show that I am innocent.
+\q1 As I join with others marching around your altar,
+\q1
+\v 7 we sing songs to thank you,
+\q2 and we tell others the wonderful things that you have done.
+\q1
+\v 8 Yahweh, I love to be in the house where you live,
+\q2 in the place where your glory appears.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 I wash my hands in innocence,
+\q and I go around your altar, Yahweh,
+\q
+\v 7 to sing a loud song of praise
+\q and report all your wonderful deeds.
+\q
+\v 8 Yahweh, I love the house where you live,
+\q the place where your glory lives!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:innocent]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:kt:glory]]
+
+===== Translation Notes: =====
+
+  * **I wash my hands in innocence** - This seems to refer to a ritual washing of hands in water to symbolize freedom from sin and guilt.
+  * **I go around your altar** - This was an action of worship that the Israelites were accustomed to doing.
+  * **the house where you live**  - This refers to the tent that God told his people to set up so that they could worship him there. AT: "the holy tent where you live" or "your holy tent"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:026|Psalms Chapter 026 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:026:004|<<]] | [[:vi:bible:notes:psa:026:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,48 @@
+====== Judges 16:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 So Delilah went to Samson and said, "Please tell me what makes you so strong, and tell me how someone can subdue you and tie you up."
+\p
+\v 7 Samson said, "If someone ties me with seven new bowstrings, ones that are not dry yet, I will become as weak as other men."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 So Delilah went to Samson and said, "Please tell me what makes you so strong, and tell me how someone can subdue you and tie you up."
+\p
+\v 7 Samson said, "If someone ties me with seven new bowstrings, ones that are not dry yet, I will become as weak as other men."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6  And so Delilah said to Samson, “Please, tell me how is it that you are so strong, and how could anyone bind you, so you might be controlled?”
+\v 7 Samson said to her, “If they tie me with seven fresh bowstrings that have not been dried, then I will become weak and be like any other man.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:delilah|Delilah]]
+  * [[:vi:obe:other:samson|Samson]]
+  * [[:vi:obe:kt:bond|bind, bond, bound]]
+  * [[:vi:obe:other:bowweapon|bow and arrow]]
+
+===== Translation Notes: =====
+
+  * **fresh bowstrings**  - The word "fresh" describes a young plant that is still moist and hard to break. "Bowstrings" are strong strings used to shoot arrows from a bow.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:16|Judges Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:16:04|<<]] | [[:vi:bible:notes:jdg:16:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

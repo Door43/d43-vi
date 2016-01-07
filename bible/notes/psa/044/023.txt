@@ -1,0 +1,66 @@
+====== Psalms 044:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 So Yahweh, arise! Why are you asleep?
+\q2 Get up! Do not reject us forever!
+\q
+\v 24 Why are you not looking at us?
+\q2 Why are you forgetting that we are suffering and being oppressed \add by our enemies\add*?
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 So Yahweh, arise! Why are you asleep?
+\q2 Get up! Do not reject us forever!
+\q
+\v 24 Why are you not looking at us?
+\q2 Why are you forgetting that we are suffering, that our enemies are oppressing us?
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Awake, why do you sleep, Lord?
+\q Arise, do not throw us off permanently.
+\q
+\v 24 Why do you hide your face
+\q and forget our affliction and our oppression?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sleep|sleep, asleep, fall asleep]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * [[vi:obe:kt:face]]
+  * [[:vi:obe:kt:afflict|afflict, affliction]]
+  * [[:vi:obe:kt:oppress|oppress, oppression]]
+
+===== Translation Notes: =====
+
+  * **why do you sleep...hide your face** - These phrases are used to refer to the Lord not doing anything to help. People who sleep and hide are not working to help. AT: "You should save us from our troubles."    (See: [[:vi:ta:vol1:translate:figs_rquestion]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **throw us off** - Taking off a piece of clothing is used to describe how God has rejected the people of Israel. 
+  * **Why do you hide your face**- The word "face" is used to refer to the Lord's attention since a person turns their face to what they would like to see. (See: [[:vi:ta:vol1:translate:figs_rquestion]] and :ta:vol2:translate:figs_metonymy]])  AT: "You are not helping us" 
+  * **our affliction and our oppression** - "we are oppressed" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **forget our affliction and our oppression** - "even though our enemies oppress us." (See: [[:vi:ta:vol1:translate:figs_explicit]] and [[:vi:ta:vol2:translate:figs_activepassive]])  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:044:018|<<]] | [[:vi:bible:notes:psa:044:025|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr book2}}
+
+~~NOCACHE~~

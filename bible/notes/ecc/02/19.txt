@@ -1,0 +1,54 @@
+====== Ecclesiastes 02:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 And who\f + \ft Or: no one \f* knows \f + \ft rhetorical question \f* whether he will be wise or whether he will be foolish. But even if he is foolish, he will acquire all the things that I worked very hard and wisely to get.
+\v 20 I thought about all the hard work that I had done in this world. \add It seemed useless\add*, and I became depressed\f + \ft Or: discouraged \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 And who knows whether that person will be wise or foolish? But even if he is foolish, he will acquire all the things that I worked very hard and wisely to get.
+\v 20 I thought about all the hard work that I had done in this world. It seemed useless, and I became depressed.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 And who knows whether he will be a wise man or a fool? Yet he will be master over everything under the sun that my work and wisdom have built. This also is vapor.
+\v 20 Therefore my heart began to despair over all the work under the sun that I did.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:know]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:kt:foolish]]
+  * [[:vi:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **And who knows whether he will be a wise man or a fool?** - AT: "And no one knows whether he will be a wise man or a fool." (See: [[vi:ta:vol1:translate:figs_rquestion]])
+  * **he will be** - "he" refers to the person who will inherit Solomon's wealth.
+  * **my heart began to despair** - AT: "I began to despair" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ecc:02|Ecclesiastes Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/02/17|<<]] | [[en/bible/notes/ecc/02/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

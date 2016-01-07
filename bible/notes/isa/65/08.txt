@@ -1,0 +1,62 @@
+====== Isaiah 65:8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 This is also what Yahweh said:
+\q1 "When there is a cluster of nice grapes on a vine,
+\q1 people do not throw them away,
+\q2 because they know that there is good juice in those grapes.
+\q1 Similarly, because there are some \add people in Judah\add* who faithfully serve\f + \ft Or: worship \f* me,
+\q2 I will not get rid of all of them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 This is also what Yahweh said:
+\q1 "When there is a cluster of nice grapes on a vine,
+\q1 people do not throw them away,
+\q2 because they know that there is good juice in those grapes.
+\q1 Similarly, because there are some people in Judah who faithfully serve me,
+\q2 I will not get rid of all of them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 8 This is what Yahweh says: "As when juice is found in a cluster of grapes, 
+\q1 when one says, 'Do not ruin it, for there is good in it,' 
+\q1 this is what I will do for my servants’ sake: I will not ruin them all.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:grape|grape]]
+  * [[:vi:obe:other:ruin|ruin, ruins]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+
+===== Translation Notes: =====
+
+
+    * **As when juice...I will not ruin them all** - In 65:8 Yahweh is emphasizing that he will not destroy all of the people of Israel. He will spare the righteous people. (See: [[:vi:ta:vol1:translate:figs_simile]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:65|Isaiah Chapter 65 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:65:06|<<]] | [[:vi:bible:notes:isa:65:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== 1 Kings 11:14-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Yahweh caused Hadad, from the family of the kings in the Edom people-group, to rebel against Solomon.
+\v 15-16 What happened was that previously, when David's \add army\add* had conquered the Edom people-group, his army commander Joab had gone there to \add help\add* bury the \add Israelite soldiers\add* who had been killed \add in the battle\add*. Joab and his army remained in the Edom area for six months, and during that time they killed all the males of that area.
+\v 17 Hadad was a young child \add at that time\add*, and he had escaped to Egypt, along with some of his father's servants from the Edom area.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Yahweh caused Hadad, from the family of the kings in the Edom people group, to rebel against Solomon.
+\v 15-16 What happened was that previously, when David's army had conquered the Edom people group, his army commander Joab had gone there to help bury the Israelite soldiers who had been killed in the battle. Joab and his army remained in Edom for six months, and during that time they killed all the males of that area.
+\v 17 Hadad was a young child at that time, and he had escaped to Egypt, along with some of his father's servants from Edom.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Then Yahweh raised up an adversary to Solomon, Hadad the Edomite. He was from the royal family of Edom.
+\v 15 When David was in Edom, Joab the captain of the army had gone up to bury the dead, every man who had been killed in Edom.
+\v 16 Joab and all Israel remained there six months until he had killed every male in Edom.
+\v 17 But Hadad was taken with other Edomites by his father’s servants into Egypt, since Hadad was still a little child.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:other:adversary]]
+  * [[vi:obe:other:solomon]]
+  * [[:vi:obe:other:edom]]
+  * [[vi:obe:other:royal]]
+  * [[vi:obe:other:family]]
+  * [[:vi:obe:other:joab]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:bury]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:other:egypt]]
+
+===== Translation Notes: =====
+
+  * **When David was in Edom...since Hadad was still a little child** - This is background material that happened long before.
+  * **Joab and all Israel** - AT: "Joab and all of the Israelite army" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **Hadad was taken with other Edomites by his father’s servants** - AT: "the servants of Hadad's father had taken him with other Edomites" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:11|1 Kings Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:11:11|<<]] | [[:vi:bible:notes:1ki:11:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

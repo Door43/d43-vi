@@ -1,0 +1,87 @@
+====== Jeremiah 02:32-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 A young woman would certainly never \f + \ft rhetorical question \f* forget \add to wear\add* her jewelry,
+\q2 and a bride would never \f + \ft rhetorical question \f* forget to wear her wedding dress,
+\q1 but you my people have forgotten me for many years.
+\q1
+\v 33 You know how to easily find \add gods from other countries\add* whom you can love.
+\q2 You can find them as easily as a prostitute \add can find men to sleep with\add*.
+\q1
+\v 34 Although you have on your clothes the blood of poor people whom you have murdered,
+\q2 people who were innocent\f + \ft Or: had not done things that are wrong \f*,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 A young woman would certainly never  forget to wear her jewelry, and a bride would never  forget to wear her wedding dress,
+\q but you my people have forgotten me for many years.
+\q
+\v 33 You know how to easily find gods from other countries whom you can love.
+\q2 You can find them more easily than a prostitute can find men to sleep with. You could teach her about infidelity!
+\q
+\v 34 Although you have on your clothes the blood of poor people whom you have murdered, people who were innocent!
+\\q You did not catch them robbing you, but you chose to treat her wickedly.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 32 Will a virgin  forget her jewelry, a bride her veils?
+\q Yet my people have forgotten me for days without number!
+\q
+\v 33 How well you make your way to look for love.
+\q You have even taught your ways to wicked women.
+\q
+\v 34 The blood that was the life of the innocent and the poor has even been found on your clothes.
+\q These people were not discovered in acts of burglary.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:virgin]]
+  * [[:vi:obe:other:bride]]
+  * [[:vi:obe:kt:veil]]
+  * [[:vi:obe:kt:love]]
+  * [[vi:obe:kt:evil]]
+  * [[:vi:obe:kt:blood]]
+  * [[:vi:obe:kt:innocent]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Will a virgin forget her jewelry, a bride her veils?** - Yahweh is starting to rebuke his people for forgetting him (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+    * **days without number** - "a very long time"
+    * **How well you make your way to look for love. You have even taught your ways to wicked women.** - Yahweh is saying that the Israelites have become so good at chasing false gods that they could show a prostitute how to go after customers (See: [[:vi:ta:vol2:translate:figs_irony]])
+    * **The blood that was the life of the innocent and the poor has even been found on your clothes**  - AT: "You are guilty of killing poor and innocent people, people who did nothing to harm you."  Yahweh is saying that the Israelites have killed people who have done nothing against them. (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+    * **These people were not discovered in acts of burglary.** - AT: "You did not discover these people stealing" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:02|Jeremiah Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/02/29|<<]] | [[en/bible/notes/jer/02/35|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

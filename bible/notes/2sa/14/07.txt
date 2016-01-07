@@ -1,0 +1,59 @@
+====== 2 Samuel 14:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Now, all my family oppose me. They are insisting that I allow them to kill my son who is still alive \f + \ft metonymy \f*, in order that they may get revenge for his killing his brother. But if they do that, I will not have any son to inherit \add my possessions\add*. That would be like \f + \ft metaphor \f* extinguishing the last coals of a fire, and my husband would not have a son to preserve our family's name. \f + \ft doublet \f*"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Now, all my family oppose me. They are insisting that I allow them to kill my son who is still alive, in order that they may get revenge for his killing his brother. But if they do that, I will not have any son to inherit my possessions. I will be without any son at all, and my husband will have no son to preserve our family's name."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 And now the whole clan has risen against your servant, and they say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:kt:face]]
+ 
+
+===== Translation Notes: =====
+
+    * **against your servant** - Here "your" is singular and refers to the king.  See: [[:vi:ta:vol1:translate:figs_you]]
+    * **And so they would also destroy the heir**  - The woman is concerned about her deceased husband's good name and that her husband's descendants and inheritance would come to an end.
+    * **the whole clan**  - This is [[:vi:ta:vol2:translate:figs_metonymy]] for the woman's family.
+    * **Thus they will put out the burning coal that I have left**  - Here "the burning coal" is a [[:vi:ta:vol1:translate:figs_metaphor]] for her one remaining child.
+    * **Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth**  - This is a [[:vi:ta:vol2:translate:figs_doublet]].
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:14|2 Samuel Chapter 14 Comprehension Questions]]**
+ 
+
+**[[en/bible/notes/2sa/14/04|<<]] | [[en/bible/notes/2sa/14/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,87 @@
+====== Isaiah 48:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Yahweh says\add*, "You descendants \f + \ft metonymy \f* of Jacob,
+\q2 who are also descendants of Judah and are now called \add the people of\add* Israel,
+\q2 Listen to me!
+\q1 You make solemn promises using my name, Yahweh,
+\q2 and you request that I, the God to whom you Israelite people belong, \add will hear you\add*,
+\q2 but you do not do it sincerely.
+\q1
+\v 2 You say that you live in the holy city \add of Jerusalem\add*
+\q2 and \add you insincerely say\add* that you are relying on me, the God to whom you people of Israel belong,
+\q2 the one who is the Almighty Commander of the armies of angels.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh says, "You descendants of Jacob,
+\q2 who are also descendants of Judah and are now called the people of Israel,
+\q2 listen to me!
+\q1 You make solemn promises using my name, Yahweh,
+\q2 and you request that I, the God to whom you Israelite people belong, will hear you,
+\q2 but you do not do it sincerely.
+\q1
+\v 2 You say that you live in the holy city of Jerusalem
+\q2 and you insincerely say that you are relying on me, the God to whom you people of Israel belong,
+\q2 the one who is Yahweh, Commander of the angel armies.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 48
+\p
+\q1
+\v 1 Hear this, house of Jacob, 
+\q1 who are called by the name Israel, and have come from the sperm of Judah; 
+\q1 you who swear by the name of Yahweh and invoke the God of Israel, 
+\q1 but not sincerely nor in a righteous manner.
+\q1
+\v 2 For they call themselves people of the holy city 
+\q1 and trust in the God of Israel; Yahweh of hosts is his name.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:Judah]]
+  * [[vi:obe:other:oath]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:yahwehofhosts]]
+
+===== Translation Notes: =====
+
+  * **Hear this** - Yahweh is speaking. AT: "Listen to my message"
+  * **house of Jacob** - Here "house" refers to the descendants of Jacob. (See: [[vi:ta:vol2:translate:figs_metonymy]])  
+  * **who are called by the name Israel** - AT "whom everyone calls the people of Israel" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **have come from the sperm of Judah** - This phrase emphasizes that they are the direct, physical descendants of Judah. AT: "are the descendants of Judah." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **invoke the God of Israel** - "call on the God of Israel"
+  * **they call themselves** - This refers to the people of Israel. AT: "you call yourselves"
+  * **the holy city** - This refers to Jerusalem.
+  * **Yahweh of Hosts** - See how you translated this in [[vi:bible:notes:isa:01:09|1:9]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:48|Isaiah Chapter 48 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:47:14|<<]] | [[:vi:bible:notes:isa:48:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

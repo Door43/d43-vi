@@ -1,0 +1,65 @@
+====== Psalms 002:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Request me to give you the nations,
+\q2 so that they belong to you \add permanently\add*,
+\q2 and I will give them to you.
+\q1 Even the most remote nations will be yours.
+\q1
+\v 9 You will defeat them completely \f + \ft metaphor \f*;
+\q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. \f + \ft simile \f*'~"
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Request me to give you the nations
+\q2 so that they belong to you permanently,
+\q2 and I will give them to you.
+\q1 Even the most remote nations will be yours.
+\q1
+\v 9 You will defeat them completely;
+\q2 you will destroy them like someone smashes a clay pot with an iron rod.'"
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Ask  me, and I will give you the nations for your inheritance
+\q and the farthermost regions of the earth for your possession.
+\q
+\v 9 You will break them with an iron scepter;
+\q you will smash like a potter’s jar."
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:inherit]]
+  * [[:vi:obe:other:possess]]
+  * [[:vi:obe:other:scepter]]
+
+===== Translation Notes: =====
+
+  * **I will give you the nations for an inheritance ... and the farthermost regions of the earth for your possession** - Both of these clauses express the same idea. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **the nations** - AT: "rule over the nations" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **the farthermost regions of the earth** - AT: "the lands that are very far away" 
+  * **You will break them with an iron scepter; you will smash like a potter's jar** - AT: "You will defeat them completely; you will totally destroy them." (See: [[:vi:ta:vol1:translate:figs_metaphor]] and   [[:vi:ta:vol1:translate:figs_simile]]) - AT: "You will defeat them completely" (See:[[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:002|Psalms Chapter 002 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:002:006|<<]] | [[:vi:bible:notes:psa:002:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Deuteronomy 24:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 and that man \add later also\add* decides that he does not like her, and he writes a paper in which he says that he is divorcing her, and he sends her away from his house. Or, suppose that the second husband dies.
+\v 4 If either of those things happen, her first husband must not marry her again. He must consider that she has become unacceptable to Yahweh. Yahweh would consider it to be disgusting \add if he married her again\add*. You must not sin \f + \ft metonymy \f* by doing that in the land that Yahweh our God is giving to you.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Suppose that that man later also decides that he does not like her, and that he also writes a paper in which he says that he is divorcing her, and he sends her away from his house. Or, suppose that the second husband dies.
+\v 4 If either of those things happen, her first husband must not marry her again. He must consider that she has become unacceptable to Yahweh. Yahweh would consider it to be disgusting if he married her again. You must not sin by doing that in the land that Yahweh our God is giving to you.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3  If the second husband hates her and writes her a bill of divorce, puts it into her hand, and sends her out of his house; or if the second husband die, he who took her to be his wife—
+\v 4 then her former husband, who had first sent her away, may not take her again to be his wife, after she has become impure; for that would be something disgusting to Yahweh. You must not cause the land to sin, the land that Yahweh your God is giving you as an inheritance.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:divorce]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:purify]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:inherit]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel about a woman who gets divorced and marries another man.
+
+    * **If the second husband hates her**  - "If the second husband decides that he hates the woman"
+    * **bill of divorce**  - an official paper saying that the man and woman are not married any more
+    * **puts it into her hand** - "gives it to the woman"
+    * **he who took her to be his wife**  - "the second man who married the woman"
+    * **after she has become impure**  - AT: "after she has become unclean by the divorce and remarriage of another man." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+    * **You must not cause the land to sin...as an inheritance**  - AT: "You must not commit sin in the land that Yahweh your God is giving to you as an inheritance." (See: [[:vi:ta:vol2:translate:figs_personification]])
+   
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:24:01|<<]] | [[:vi:bible:notes:deu:24:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

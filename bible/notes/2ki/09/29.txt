@@ -1,0 +1,44 @@
+====== 2 Kings 09:29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 Ahaziah had become the king of Judah when Joram had been ruling Israel for almost eleven years.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 Ahaziah had become the king of Judah when Joram had been ruling Israel for almost eleven years.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 Now it was in the eleventh year of Joram the son of Ahab that Ahaziah had begun to reign over Judah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:kingdomofjudah]]
+
+===== Translation Notes: =====
+
+  * **Now it was in the eleventh year of Joram the son of Ahab that Ahaziah had begun to reign over Judah** - AT: "Now Ahab had become king of Judah in year 11 of Joram's reign over Israel."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:09|2 Kings Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:09:27|<<]] | [[:vi:bible:notes:2ki:09:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

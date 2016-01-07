@@ -1,0 +1,45 @@
+====== 1 Kings 10:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 She said to the king, "Everything that I heard in my own country about you and about how wise you are is true!
+\v 7 But I did not believe it was true until I came here and saw it myself. But really, what they told me is only half \add of what they could have told me about you\add*. You are extremely wise and rich, more than what people told me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 She said to the king, "Everything that I heard in my own country about you and about how wise you are is true!
+\v 7 But I did not believe it was true until I came here and saw it myself. But really, what they told me is only half of what they could have told me about you. You are extremely wise and rich, more than what people told me.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 She said to the king, "It is true, the report that I heard in my own land of your words and your wisdom.
+\v 7 I did not believe what I heard until I came here, and now my eyes have seen it. Not half was told me about your wisdom and wealth! You have exceeded the fame that I heard about.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:other:report]]
+  * [[:vi:obe:kt:word]]
+  * [[vi:obe:kt:wise]]
+  * [[vi:obe:kt:believe]]
+
+===== Translation Notes: =====
+
+  * **your words and your wisdom** - Here the words "words" and "wisdom" mean basically the same thing and are combined for emphasis (See: [[:vi:ta:vol2:translate:figs_doublet]]).
+  * **my eyes have seen it** - AT: "I have seen it" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Not half was told me** - AT: "People told me very little" (See: [[:vi:ta:vol2:translate:figs_litotes]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:10|1 Kings Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:10:03|<<]] | [[:vi:bible:notes:1ki:10:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

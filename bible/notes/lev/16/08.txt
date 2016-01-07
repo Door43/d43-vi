@@ -1,0 +1,50 @@
+====== Leviticus 16:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 He must cast lots\f + \ft Or: throw down stones that have been marked \f* to determine which goat \add will be sacrificed\add* to me, and which will be the goat that will be set free.
+\v 9 Aaron must bring to me the goat that was chosen to be sacrificed. It will be an offering for the people's sins.
+\v 10 Aaron must also bring to me the other goat. But it is not to be killed. It will be freed while it is still alive. As a result of Aaron sending it into the desert, the people's sins will be forgiven.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 He must cast lots to determine which goat will be sacrificed to me and which will be the goat that he will set free.
+\v 9 Aaron must bring to me the goat that was chosen to be sacrificed. It will be an offering for the people's sins.
+\v 10 Aaron must also bring to me the other goat. But it is not to be killed. It will be freed while it is still alive. When Aaron sends it into the wilderness, I will forgive the people's sins.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Then Aaron must cast lots for the two goats, one lot for Yahweh, and the other lot for the scapegoat.
+\v 9 Aaron must then present the goat on which the lot fell for Yahweh, and offer that goat as a sin offering.
+\v 10 But the goat on which the lot fell for the scapegoat must be brought alive before Yahweh, to make atonement by sending him away as a scapegoat into the wilderness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lots|lots, casting lots]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:send|send, send out]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+
+===== Translation Notes: =====
+
+  * **scapegoat** - This goat carried the sins of the people. The goat was sent out of the camp which represented God removing the sins from the people.
+  * **must be brought alive before Yahweh** - AT: "someone must present it alive before Yahweh" (See: [[:vi:ta:vol2:translate:figs_activepassive]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:16|Leviticus Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:16:06|<<]] | [[:vi:bible:notes:lev:16:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

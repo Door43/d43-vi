@@ -1,0 +1,48 @@
+====== 1 Corinthians 15:50-51 ======
+
+===== TFT: =====
+
+<usfm>
+\v 50 My fellow believers, I want you to know that we\add \f + \ft inclusive \f*\add* \f + \ft synecdoche \f* cannot go \add to heaven, where\add* God rules \add over everything\add*, with our physical bodies, because our bodies \add cannot last forever\add*. They will die and decay.
+\v 51 But I will tell you something that \add God\add* has not revealed \add before\add*: \add Some of\add* us \add believers\add* will not die \f + \ft euphemism \f*. However, all of us will be changed \f + \ft Or:\add God\add* will change all of us \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 50 Now I say this, brothers and sisters, human beings who will die cannot obtain the things that God promises to give all those whom he rules. It is just as the things that die cannot become things that do not die.
+\v 51 Look! I tell you something that God has hidden from us. Not all believers will die, but God will change all of us.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 50 Now this I say, brothers and sisters, that flesh and blood cannot inherit the kingdom of God; neither does perishable inherit imperishable.
+\v 51 Look! I tell you a secret truth: We will not all die, but we will all be changed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:brother|brother]]
+  * [[:vi:obe:kt:flesh|flesh]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[:vi:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]
+  * [[:vi:obe:kt:perish|perish, perishing, perishable]]
+  * [[:vi:obe:other:mystery|mystery, hidden truth]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+
+===== Translation Notes: =====
+
+  * **that flesh and blood cannot inherit the kingdom of God** - Paul is referring to those who have not been reborn or those who are not a new creation.
+  * **neither does perishable inherit imperishable** - Paul is stating our old bodies will perish but we will be changed into imperishable bodies.
+  * **we will all be changed** - AT: "God will change us all" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:15|1 Corinthians Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:15:47|<<]] | [[:vi:bible:notes:1co:15:52|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

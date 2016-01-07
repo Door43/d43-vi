@@ -1,0 +1,65 @@
+====== 2 Kings 10:12-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Then Jehu left \add Jezreel\add* and went toward Samaria. While he was going there, at a place called 'Shepherds' Camp,'
+\v 13 he met some relatives of King Ahaziah of Judah. He asked them, "Who are you?"
+\p They replied, "We are relatives of King Ahaziah. We are going to Jezreel to visit the children of Queen Jezebel and the other members of King \add Joram's\add* family."
+\p
+\v 14 Jehu said to his men, "Seize them!" So they seized them and killed all of them at the pit named Beth-Eked. There were forty-two people whom they killed; they did not allow any of them to remain alive.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Then Jehu left Jezreel and went toward Samaria. While he was going there, at a place called Beth Eked,
+\v 13 he met some relatives of King Ahaziah of Judah. He asked them, "Who are you?"
+\p They replied, "We are relatives of King Ahaziah. We are going to Jezreel to visit the children of Queen Jezebel and the other members of King Joram's family."
+\p
+\v 14 Jehu said to his men, "Seize them!" So they seized them and killed all of them at the well of Beth Eked. There were forty-two people whom they killed. They did not allow any of them to remain alive.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Then Jehu arose and left; he went to Samaria. As he was arriving at Beth Eked of the shepherd,
+\v 13 he met brothers of Ahaziah king of Judah. Jehu said to them, "Who are you?" They answered, "We are brothers of Ahaziah, and we are going down to greet the children of the king and the children of Queen Jezebel."
+\v 14 Jehu said to his own men, "Take them alive." So they took them alive and killed them at the well of Beth Eked, all forty-two  men. He did not leave any of them alive.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:samaria]]
+  * [[:vi:obe:other:shepherd]]
+  * [[:vi:obe:kt:brother]]
+  * [[:vi:obe:other:ahaziah]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:kt:children]]
+  * [[:vi:obe:other:queen]]
+  * [[:vi:obe:other:jezebel]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:well]]
+
+
+===== Translation Notes: =====
+
+  * **Beth Eked of the shepherd** - This was the name of a place where sheep were sheared. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **going down to greet** - "going to visit"
+  * **Take them alive** - "Seize them!" (UDB) AT: "Capture them so we can kill them."
+  * **So they took them alive** - "So they captured them"
+  * **He did not leave any of them alive** - AT: "He killed all of them."  (See: [[:vi:ta:vol2:translate:figs_litotes]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:10|2 Kings Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:10:10|<<]] | [[:vi:bible:notes:2ki:10:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

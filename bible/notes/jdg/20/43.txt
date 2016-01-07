@@ -1,0 +1,43 @@
+====== Judges 20:43-44 ======
+
+===== TFT: =====
+
+<usfm>
+\v 43 They surrounded \add some of\add* the men of the tribe of Benjamin, and pursued the others to the area east of Gibeah.
+\v 44 They killed 18,000 strong soldiers of the tribe of Benjamin.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 43 They surrounded some of the men of the tribe of Benjamin, and pursued the others to the area east of Gibeah.
+\v 44 They killed eighteen thousand strong soldiers of the tribe of Benjamin.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 43 They surrounded the Benjamites and went after them; and they trambled them down at Nohah, and killed them all the way to the east side of Gibeah.
+\v 44 From the tribe of Benjamin, 18,000 soldiers died, all of them men who were distinguished in battle.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Benjamin]]
+
+
+===== Translation Notes: =====
+
+  * **Benjamite** - See how you translated this in [[vi:bible:notes:jdg:03:15|Judges 3:15]].
+  * **Nohah** - (See: [[vi:ta:vol1:translate:translate_names]])
+  * **and killed them** - "and overtook them, killing them"
+  * **18,000 soldiers** - (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **men who were distinguished in battle** - "men who were experienced veterans of battles"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:20|Judges Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:20:42|<<]] | [[:vi:bible:notes:jdg:20:45|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

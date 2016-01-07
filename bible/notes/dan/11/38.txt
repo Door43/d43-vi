@@ -1,0 +1,50 @@
+====== Daniel 11:38-39 ======
+
+===== TFT: =====
+
+<usfm>
+\v 38 But he will honor the god who \add people think\add* protects fortresses. That is a god whom his ancestors did not honor. And he will give gold, silver, jewels\f + \ft Or: very valuable stones \f* and other expensive gifts to that god.
+\v 39 He will ask that god \f + \ft Or: people who worship a god \f* from another country to help him to defend his fortresses. He will greatly honor those who allow him \add to be their ruler\add*. He will appoint \add some of\add* them to important positions in the government; and to reward them, he will give them some land.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 38 But he will honor the god of fortresses. That is a god whom his ancestors did not honor. He will give gold and silver, jewels and other expensive gifts to that god.
+\v 39 He will employ people from another country who worship a different god to help him attack the strongest fortresses. He will greatly honor those who allow him to be their ruler. He will appoint some of them to important positions in the government, and he will reward them and he will give them land.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 38 Instead of them, he will honor the god of fortresses. He will honor a god whom his ancestors did not know with gold and silver, with precious stones and costly gifts.
+\v 39 He will attack the strongest fortresses with the help of people who belong to a foreign god. He will give honor to whoever acknowledges him. He will make them rulers over many people and he will divide up the land for a price.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:honor]]
+  * [[vi:obe:other:stronghold]]
+  * [[vi:obe:kt:falsegod]]
+  * [[:vi:obe:other:gold]]
+  * [[:vi:obe:other:silver]]
+  * [[:En:obe:other:precious]]
+  * [[:En:obe:other:acknowledge]]
+  * [[:vi:obe:other:ruler]]
+===== Translation Notes: =====
+
+  * **Instead of them** - The word "them" refers to the gods mentioned in [[vi:bible:notes:dan:11:36|11:37]]
+  * **the god of fortresses** - "the god that controls fortresses." He probably believes that this false god will either protect his fortresses or help him to attack other people's fortresses.
+  * **he will divide up the land for a price** - Possible meanings are 1) "he will give the land to his followers as a reward" or 2) "he will sell land to his followers"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:11|Daniel Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:11:36|<<]] | [[:vi:bible:notes:dan:11:40|>>]]**
+
+~~DISCUSSION~~{{tag>publish precious acknowledge}}
+
+~~NOCACHE~~

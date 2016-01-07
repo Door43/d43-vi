@@ -1,0 +1,62 @@
+====== Psalms 083:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, do not continue to be silent!
+\q1 Do not be quiet and say nothing,
+\q1
+\v 2 because your enemies are rioting against you;
+\q2 those who hate you are rebelling against you!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, do not continue to be silent!
+\q1 Do not be quiet and say nothing
+\q1
+\v 2 because your enemies are rioting against you;
+\q2 those who hate you are rebelling against you!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 83
+\d A song. A psalm of Asaph.
+\b
+\q
+\v 1 God, do not be silent!
+\q Do not ignore us and remain unmoved, God.
+\q
+\v 2 Look, your enemies are making a commotion,
+\q and those who hate you have raised their heads.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:asaph|Asaph]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:raise|raise, rise, risen]]
+  * [[:vi:obe:other:head|head]]
+
+===== Translation Notes: =====
+
+“This is a psalm that Asaph wrote.” (See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+  * **Look, your enemies are making a commotion, and those who hate you have raised their heads.**  - AT: "Look, your enemies are rebelling against you, and those who hate you are threatening your people." (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:083|Psalms Chapter 083 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:082:008|<<]] | [[:vi:bible:notes:psa:083:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

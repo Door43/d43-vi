@@ -1,0 +1,61 @@
+====== Jeremiah 51:33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 This is what the Almighty Commander of the armies of angels, the God whom we Israelites \add worship\add*, says;
+\q1 "Babylon is like \f + \ft simile \f* wheat on the ground where it is about to be threshed
+\q2 by \add animals\add* tramping on it.
+\q2 Very soon their enemies will trample on the city of Babylon \f + \ft metaphor \f*."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 This is what Yahweh, Commander of the angel armies, whom Israel worships, says;
+\q1 "Babylon is like wheat on the ground where it is about to be threshed
+\q2 by animals tramping on it.
+\q2 Very soon their enemies will trample on the city of Babylon."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 33 For Yahweh of hosts, God of Israel, says this: "The daughter of Babylon is like a threshing floor.
+\q It is time to trample her down. In a little while the time of harvest will come to her.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * Babylon
+  * [[:vi:obe:other:thresh|thresh, threshing floor]]
+  * [[:vi:obe:kt:harvest|harvest]]
+
+===== Translation Notes: =====
+
+  * **The daughter of Babylon is like a threshing floor **- Babylon is being compared to a threshing floor. It means that there will be a time of great pressure coming upon Babylon. (See: Simile)
+  * **time of harvest will come to her**  - This means that Babylon's riches will be taken by her enemies. (See: Metaphor)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:51|Jeremiah Chapter 51 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:51:30|<<]] | [[:vi:bible:notes:jer:51:34|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

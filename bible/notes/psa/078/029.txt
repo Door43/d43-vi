@@ -1,0 +1,52 @@
+====== Psalms 078:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 So the people \add cooked the birds and\add* ate the meat and their stomachs were full,
+\q2 because God had given them what they wanted.
+\q1
+\v 30 But before they had eaten all that they wanted,
+\q2 and while they were still eating it,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 So the people cooked the birds and ate the meat; their stomachs were full
+\q2 because God had given them what they wanted.
+\q1
+\v 30 But they had not yet eaten all that they wanted.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 So they ate and were full.
+\q He gave them what they craved.
+\q
+\v 30 But they had not yet filled up;
+\q their food was still in their mouths.
+</usfm>
+
+===== Important Terms: =====
+
+
+===== Translation Notes: =====
+
+  * **craved**  - AT: "strongly desired"
+  * **But they had not yet filled up; their food was still in their mouths.** - This could be translated as the beginning of the sentences that starts in [[vi:bible:notes:psa:078:029|78:31]]. AT: "But before they had filled up, while their food was still in their mouths,"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:026|<<]] | [[:vi:bible:notes:psa:078:031|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

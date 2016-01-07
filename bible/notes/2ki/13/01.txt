@@ -1,0 +1,70 @@
+====== 2 Kings 13:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 After Joash had been ruling Judah for almost twenty-three years, Jehu's son Jehoahaz became the king of Israel. He ruled in Samaria \add city\add* for seventeen years.
+\v 2 He did many things that Yahweh said were evil and committed the same kind of sins that Jeroboam had committed, sins which induced the people of Israel to sin. He did not stop committing those sins.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After Joash had been ruling Judah for almost twenty-three years, Jehu's son Jehoahaz became the king of Israel. He ruled in the city of Samaria for seventeen years.
+\v 2 He did many things that Yahweh said were evil and committed the same kind of sins that Jeroboam had committed, sins that had induced the people of Israel to sin. He did not stop committing those sins.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 13
+\p
+\v 1 In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria; he reigned seventeen years.
+\v 2 He did what was evil in the sight of Yahweh and followed the sins of Jeroboam the son of Nebat, by which he had made Israel sin, and Jehoahaz did not leave his sins behind.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:joash]]
+  * [[:vi:obe:other:ahaziah]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * Jehoahaz
+  * [[:vi:obe:other:jehu]]
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:kingdomofisrael]]
+  * [[:vi:obe:other:samaria]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:other:jeroboam]]
+
+
+===== Translation Notes: =====
+
+  * **In the twenty-third year of Joash the son of Ahaziah, king of Judah** - "After Joash had been ruling Judah for almost 23 years" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **reign over Israel in Samaria** - "reign over the kingdom of Israel located in Samaria"
+  * **he reigned seventeen years** ​- "Jehoahaz reigned for 17 years"
+  * **He did what was evil in the sight of Yahweh** - "He did what was evil according to Yahweh" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **and followed the sins of Jeroboam** - "and did the same sins as Jeroboam"
+  * **by which he had made Israel sin**- AT: "sins that encouraged the people of Israel to sin,"
+  * **and Jehoahaz did not leave his sins behind** - AT: "and Jehoahaz did not stop doing the sins of Jeroboam."
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:13|2 Kings Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/12/19|<<]] | [[en/bible/notes/2ki/13/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>keyterm publish}}
+
+~~NOCACHE~~

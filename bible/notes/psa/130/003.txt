@@ -1,0 +1,58 @@
+====== Psalms 130:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh, if you kept a record of the sins that we have committed,
+\q2 not one of us \f + \ft rhetorical question \f* would escape from being condemned \add and punished\add*!
+\q1
+\v 4 But you forgive us,
+\q2 with the result that we have an awesome respect for you.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh, if you kept a record of the sins that we have committed,
+\q2 not one of us would escape from being condemned and punished!
+\q1
+\v 4 But you forgive us,
+\q2 with the result that we have an awesome respect for you.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 If you, Yahweh, would mark iniquities,
+\q Lord, who could stand?
+\q
+\v 4 But there is forgiveness with you,
+\q that you may be revered.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:kt:forgive]]
+  * [[:vi:obe:other:reverence]]
+
+===== Translation Notes: =====
+
+  * **who could stand?** - AT: "you would say no one is innocent." or "you would say everyone is guilty." (See: [[vi:ta:vol1:translate:figs_rquestion]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:130|Psalms Chapter 130 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:130:001|<<]] | [[:vi:bible:notes:psa:130:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

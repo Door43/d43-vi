@@ -1,0 +1,66 @@
+====== Isaiah 50:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 If you revere Yahweh
+\q2 and do what his servant tells you to do,
+\q1 even if you are walking in darkness\f + \ft Or: enduring suffering \f*, and it seems that \f + \ft metaphor \f* there is no light,
+\q2 trust in Yahweh your God \f + \ft doublet \f* \add to help you\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 If you honor Yahweh
+\q2 and do what his servant tells you to do,
+\q1 even if you are walking in darkness, and it seems that there is no light,
+\q2 trust in Yahweh your God to help you; depend on him.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 10 Who among you fears Yahweh? Who obeys the voice of his servant? 
+\q1 Who walks in deep darkness without light? 
+\q1 He should trust in the name of Yahweh and lean on his God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:obey]]
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:other:servant]]
+  * [[vi:obe:kt:walk]]
+  * [[:vi:obe:kt:light]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+The servant continues speaking to the people of Israel.
+
+  * **Who among you fears Yahweh? Who obeys the voice of his servant? Who walks in deep darkness without light?** - Here Isaiah lays out responses to the servant in question form, telling God's people to continue to trust and obey Yahweh, even in the darkness. (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]]) (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:50|Isaiah Chapter 50 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:50:08|<<]] | [[:vi:bible:notes:isa:50:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

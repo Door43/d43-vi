@@ -1,0 +1,66 @@
+====== 2 Samuel 22:38-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 I pursued my enemies and defeated them;
+\q2 I did not stop \add fighting them\add* until they were all killed.
+\q1
+\v 39 I struck them down; I stabbed them with my sword;
+\q1 they fell down at my feet and did not stand up again.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 I pursued my enemies and defeated them.
+\q2 I did not stop fighting them until they were all killed.
+\q1
+\v 39 I struck them down. I stabbed them with my sword,
+\q1 and they fell down at my feet and did not stand up again.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 38 I pursued my enemies and destroyed them.
+\q I did not turn back until they were destroyed.
+\q
+\v 39 I devoured them and smashed them; they cannot rise.
+\q They have fallen under my feet.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:kt:raise]]
+
+===== Translation Notes: =====
+
+    * **pursued my enemies**  - AT: "chased my enemies"
+    * **destroyed**  - put an end to their existence
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:22|2 Samuel Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/22/36|<<]] | [[en/bible/notes/2sa/22/40|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,48 @@
+====== 2 Samuel 02:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Zeruiah's three sons were there \add on that day\add*: Joab, Abishai, and Asahel. Asahel was able to run very fast; he could run as fast as a wild gazelle\f + \ft Or: antelope \f*.
+\v 19 Asahel started to pursue Abner. He ran straight toward Abner, without stopping.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Zeruiah's three sons were there on that day: Joab, Abishai, and Asahel. Asahel was able to run very fast. He could run as fast as a wild gazelle.
+\v 19 Asahel started to pursue Abner. He ran straight toward Abner, without stopping.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 The three sons of Zeruiah were there: Joab, and Abishai, and Asahel. Asahel was swift in his feet like a wild gazelle.
+\v 19 Asahel closely pursued Abner and followed him without turning away in any direction.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:son]]
+  * [[:vi:obe:other:joab|Joab]]
+  * [[:vi:obe:other:abner]]
+  * [[:vi:obe:kt:turn|turn, turn away]]
+
+===== Translation Notes: =====
+
+  * **Zeruiah... Joab... Abishai... Asahel... Abner** - These are the names of a men. (See: [[vi:ta:vol1:translate:translate_names]])
+  * **Asahel was swift in his feet like a wild gazelle. **  - AT: "Ashahel could run very fast" (See: [[vi:ta:vol1:translate:figs_simile]])
+  * **wild gazelle** - This is a small four legged animal with two long horns on its head that run very fast. 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:02|2 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:02:16|<<]] | [[:vi:bible:notes:2sa:02:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

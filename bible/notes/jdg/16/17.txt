@@ -1,0 +1,45 @@
+====== Judges 16:17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Finally Samson told her the truth. He said, "I have been set apart for God since the day I was born. And because of that, my hair has never been cut. If my hair were shaved off, my strength would be gone, and I would be as weak as other men."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Finally Samson told her the truth. He said, "I have been set apart for God since the day I was born. And because of that, my hair has never been cut. If my hair were shaved off, my strength would be gone, and I would be as weak as other men."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 So Samson told her everything and said to her, “I have never had a razor cut the hair on my head, for I have been a Nazirite for God from my mother’s womb. If my head is shaved, then my strength will leave me, and I will become weak and be like every other man.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:samson]]
+  * [[:vi:obe:other:nazirite|Nazirite, Nazirite vow]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:womb]]
+
+===== Translation Notes: =====
+
+  * **razor** - a sharp blade used to cut hair close to a person's skin.
+  * **from my mother’s womb** - Samson refers to his birth by referring to where he was before birth. Referring to his birth is used to refer to his entire life. AT: "my entire life" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **my strength will leave me** - Samson refers to his strength as something that can leave to refer to not having it anymore. AT: "my strength will be gone" (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **shaved** - To have had the hair cut close to the skin with a razor.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:16|Judges Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:16:15|<<]] | [[:vi:bible:notes:jdg:16:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

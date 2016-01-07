@@ -1,0 +1,84 @@
+====== Psalms 044:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, we ourselves have heard
+\q2 what our parents and grandparents told us.
+\q1 They told us about the miracles
+\q2 that you performed long ago.
+\q1
+\v 2 They told us how you expelled the ungodly people
+\q2 and enabled us to live in their land.
+\q1 They told us that you punished those ungodly people
+\q2 and enabled your own people to prosper [IDI].
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, we ourselves have heard
+\q2 what our parents and grandparents told us.
+\q1 They told us about the miracles
+\q2 that you performed long ago.
+\q1
+\v 2 They told us how you expelled the ungodly people
+\q2 and enabled us to live in their land.
+\q1 They told us that you punished those ungodly people
+\q2 and enabled your own people to possess the land.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 44
+\d For the chief musician. A psalm of the sons of Korah. A maschil.
+\b
+\q
+\v 1 We have heard with our ears, God,
+\q our fathers have told us
+\q what work you did in their days,
+\q in the days of old.
+\q
+\v 2 You drove out the nations with your hand,
+\q but you planted our people;
+\q you afflicted the peoples,
+\q but you spread our people out in the land.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:korah]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:afflict]]
+ 
+===== Translation Notes: =====
+
+  * **maschil** - See how you translated this in [[vi:bible:notes:psa:042:001|42:1]].
+  * **did in their days, in the days of old**  - Both of these phrases use the word "days" to refer to the time period when the ancestors of the people of Israel were alive. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **drove out the nations**  - "caused the people from other nations to leave"
+  * **planted our people**  - The word "planted" compares when Yahweh gave Israel to his people as their home to putting a plants roots in the soil so it can grow there. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:043:005|<<]] | [[:vi:bible:notes:psa:044:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

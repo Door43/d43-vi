@@ -1,0 +1,49 @@
+====== Judges 08:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Gideon \add and his men\add* went east along the road on which caravans travel. They went past Nobah and Jogbehah \add villages\add* and arrived at the enemy camp by surprise.
+\v 12 Zebah and Zalmunna fled, but Gideon's men pursued them and captured them and all their warriors.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Gideon and his men went east along the road on which caravans travel. They went past the villages of Nobah and Jogbehah and arrived at the enemy camp by surprise.
+\v 12 Zebah and Zalmunna fled, but Gideon's men pursued them. He captured the two kings of Midian—Zebah and Zalmunna, and their whole army was sent off in confusion.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 Gideon went up to the enemy camp by going along the Nomad Road, past Nobah and Jogbehah. He defeated the enemy army, because they were not expecting an attack.
+\v 12 Zebah and Zalmunna fled, and as Gideon pursued them, he captured the two kings of Midian—Zebah and Zalmunna, and set their whole army into a panic.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:Midian]]
+
+
+===== Translation Notes: =====
+
+  * **Nomad**  - people who travel from place to place to find areas where their flocks and herds can eat grass and drink water.
+  * **Nobah and Jogbehah** - These are names of towns. (See: [[vi:ta:vol1:translate:translate_names]])
+  * **Zebah and Zalmunna** - See how you translated their names in [[vi:bible:notes:jdg:08:04|8:5]].
+  * **panic** - extreme fear or worry that makes someone unable to think or act normally.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:10|<<]] | [[:vi:bible:notes:jdg:08:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

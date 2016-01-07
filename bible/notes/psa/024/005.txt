@@ -1,0 +1,69 @@
+====== Psalms 024:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 They will be blessed by Yahweh\f + \ft Or: Yahweh will bless them \f*.
+\q1 When God \add judges them\add*, he who has saved them will say that they have done nothing wrong\f + \ft Or: are without fault \f*.
+\q1
+\v 6 They are the ones who approach God,
+\q2 they are the ones who may worship God, the one we Israelites worship.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Yahweh will bless them.
+\q1 When God judges them, he will rescue them and say that they have done nothing wrong.
+\q1
+\v 6 They are the ones who approach God,
+\q2 they are the ones who may worship God, the one we Israelites worship.
+
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 He will receive a blessing from Yahweh
+\q and righteousness from the God of his salvation.
+\q
+\v 6 Such is the generation of those who seek him,
+\q those who seek the face of the God of Jacob. 
+\qs Selah\qs*
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:receive|receive]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:salvation|salvation]]
+  * [[:vi:obe:other:generation|generation]]
+  * [[:vi:obe:kt:face|face]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[:vi:obe:other:selah|selah]]
+
+===== Translation Notes: =====
+
+  * **He will receive a blessing**  - The word "he" refers to the ones with pure hearts mentioned in previous verse.
+  * **and righteousness from the God of his salvation** - AT: "and God will deal righteously with him and save him." (See: [[vi:ta:vol2:translate:figs_abstractnouns]])
+  * **those who seek him** - AT: "those who approach God"
+  * **those who seek the face of the God of Jacob** - AT: "those who worship the God of Jacob"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:024|Psalms Chapter 024 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:024:003|<<]] | [[:vi:bible:notes:psa:024:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

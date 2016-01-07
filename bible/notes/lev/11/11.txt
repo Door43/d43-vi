@@ -1,0 +1,46 @@
+====== Leviticus 11:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 You must despise them, and you must not eat their meat, and you must detest their carcasses.
+\v 12 You must detest everything that lives in the water that does not have fins and scales.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 You must despise them, and you must not eat their meat, and you must detest their carcasses.
+\v 12 You must detest everything that lives in the water that does not have fins and scales.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 Since they must be detested, you must not eat of their meat; also, their carcasses must be detested.
+\v 12 Whatever has no fins or scales in the water must be detested by you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:water]]
+
+===== Translation Notes: =====
+
+Yahweh continues telling Moses and Aaron what the people can eat and must avoid eating.
+
+  * **Since they must be detested** - AT: "Since you must detest them" or "Since you must hate them" (See:[[vi:ta:vol2:translate:figs_activepassive]])
+  * **their carcasses must be detested** - AT: "you must detest their dead bodies"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:11|Leviticus Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:11:09|<<]] | [[:vi:bible:notes:lev:11:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

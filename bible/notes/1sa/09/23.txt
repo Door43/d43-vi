@@ -1,0 +1,52 @@
+====== 1 Samuel 09:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Then Samuel told the cook, "Bring to me the special piece \add of meat\add* that I told you to set aside."
+\p
+\v 24 So the cook brought the leg and the meat that was on it, and set it in front of Saul, \add even though those portions were for only the priest to eat\add*. Samuel said to Saul, "Start eating it. I told the cook to save this for you, so that you could eat it at this time, when all these people whom I invited are here." So Saul and Samuel ate together.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Then Samuel told the cook, "Bring to me the special piece of meat that I told you to set aside."
+\p
+\v 24 So the cook brought the leg and the meat that was on it; he set it in front of Saul, even though those portions were for  only the priest to eat. Samuel said to Saul, "Start eating it. I told the cook to save this  for you, so that you could eat it at this time, when all these people whom I invited are here." So Saul and Samuel ate together.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 Samuel said to the cook, "Bring the portion which I gave to you, of which I said to you, 'Put it aside.'" 
+\v 24 So the cook took the thigh that had been raised in sacrifice and what was with it, and set it before Saul. Then
+Samuel said, "See what has been kept for you! Eat it, because it has been kept until the appointed time for you. For now you can say, 'I have invited the people.'" So Saul ate with Samuel that day.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:samuel]]
+  * [[:vi:obe:kt:raise|raise, rise, risen]]
+  * [[:vi:obe:other:sacrifice]]
+  * [[:vi:obe:other:saul]]
+  * [[:vi:obe:kt:appoint|appoint]]
+
+===== Translation Notes: =====
+
+  * **portion**  - This is the sacrificial thigh meat which Samuel set aside or saved especially for Saul to eat.
+  * **raised in sacrifice**  - This refers to the ceremony in which animals are sacrificed to God. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **For now you can say, 'I have invited the people.'**  - Saul and Samuel ate together among the people as part of the ritual Samuel has planned to show Saul that he is the chosen one to become king over Israel.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:09|1 Samuel Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:09:22|<<]] | [[:vi:bible:notes:1sa:09:25|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

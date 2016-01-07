@@ -1,0 +1,71 @@
+====== Psalms 005:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Yahweh, because you greatly and faithfully love me,
+\q2 I come into your temple.
+\q1 I will have an awesome respect for you
+\q2 and I bow down to worship you at your sacred temple.
+\q1
+\v 8 Yahweh, because you act righteously toward me,
+\q2 show me what is right for me to do.
+\q1 Because I have many enemies,
+\q2 show me clearly what you want me to do.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh, because you greatly and faithfully love me,
+\q2 I come into your temple.
+\q1 I have an awesome respect for you
+\q2 and I will bow down to worship you at your sacred temple.
+\q1
+\v 8 Yahweh, because you act righteously toward me,
+\q2 show me what is right for me to do.
+\q1 Because I have many enemies,
+\q2 show me clearly what you want me to do.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 But as for me, because of your great covenant faithfulness, I will come into your house;
+\q in reverence I will bow down toward your holy temple.
+\q
+\v 8 Oh Lord, lead me in your righteousness because of my enemies;
+\q make your path straight before me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:other:reverence]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:temple]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+  * **make your path straight before me** - AT: "show me clearly what you want me to do." (UDB) (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:005|Psalms Chapter 005 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:005:004|<<]] | [[:vi:bible:notes:psa:005:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

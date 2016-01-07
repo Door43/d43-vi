@@ -10,9 +10,9 @@ Ishmael was the son of Abraham and Sarah's servant, Hagar.
     * However, Ishmael was not the son through whom God would fulfill his promise to Abraham to make his descendants as numerous as the stars.
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
-(See also: [[en:obe:other:Abraham]], [[:vi:obe:other:Sarah]], [[:En:obe:other:Isaac]] )
+(See also: [[vi:obe:other:Abraham]], [[:vi:obe:other:Sarah]], [[:En:obe:other:Isaac]] )
 
 
 ===== Bible References: =====

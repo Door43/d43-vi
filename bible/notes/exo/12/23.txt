@@ -1,0 +1,37 @@
+====== Exodus 12:23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 When Yahweh goes through Egypt to kill \add the oldest male in each\add* Egyptian family, he will see the blood on your lintels\f + \ft Or: beams of your doorways \f*, and he will \add ignore and\add* pass by those houses. He will not allow the angel who causes people to die to enter your houses and kill \add any of\add* your \add oldest sons\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 When Yahweh goes through Egypt to kill the oldest male in each Egyptian family, he will see the blood on your doorframes, and he will pass over those houses. He will not allow the angel who causes people to die to enter your houses and kill your oldest sons.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 For Yahweh will pass through to attack the Egyptians. When he sees the blood on the top of the doorframe and on the two doorposts, he will pass over your door and not permit the destroyer to come into your houses to attack you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **Yahweh will pass through**  - "Yahweh will pass through Egypt" (UDB); (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **pass over your door**  - This means that God will spare or have mercy on the Israelites in homes that are "covered" by blood.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:12|Exodus Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:12:21|<<]] | [[:vi:bible:notes:exo:12:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

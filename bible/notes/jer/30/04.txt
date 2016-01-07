@@ -1,0 +1,51 @@
+====== Jeremiah 30:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Yahweh gave to me another message concerning the people of Israel and Judah.
+\v 5 This is what he said:
+\q1 "I hear people screaming because they are terrified \f + \ft doublet \f*;
+\q2 there is no peace \add in the land\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh gave to me another message concerning the people of Israel and Judah.
+\v 5 This is what he said:
+\q1 "I hear people screaming because they are terrified;
+\q2 there is no peace in the land.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 4 These are the words that Yahweh declared concerning Israel and Judah:
+\v 5 “For Yahweh says this:
+\q 'We have heard a trembling voice of dread and not of peace.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+
+===== Translation Notes: =====
+
+  * **We have heard**  - The word "we" refers to Yahweh. He often refers to himself as "we."
+  * **a trembling voice of dread and not of peace**  - AT: "people cry out in fear because there was no peace" Some versions have "you."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:30|Jeremiah Chapter 30 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:30:01|<<]] | [[:vi:bible:notes:jer:30:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

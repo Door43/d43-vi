@@ -1,0 +1,67 @@
+====== Daniel 04:34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 After those seven years ended, I, Nebuchadnezzar, looked up toward heaven, \add and I acknowledged that what God said was true\add*. Then I could think correctly again. I praised and worshiped the Supreme God, and I honored him, the one who lives forever.
+\b
+\q1 He rules forever;
+\q2 his kingdom will never end.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 After those seven years ended, I, Nebuchadnezzar, looked up toward heaven and acknowledged that what God said was true. Then I could think correctly again, and my sanity was restored. I praised and worshiped the Most High, and I honored him, the one who lives forever.
+\b
+\q1 He rules forever;
+\q2 his ruling power is an everlasting authority.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 34 And at the end of the days I, Nebuchadnezzar, raised my eyes toward heaven, and my sanity was given back to me. 
+\q "I praised the Most High, 
+\q and I honored and glorified the one who lives forever.
+\q For his reign is an everlasting reign, 
+\q and his kingdom endures from all generations to all generations.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[vi:obe:kt:heaven]]
+  * [[:En:obe:other:praise]]
+  * [[:vi:obe:kt:mosthigh]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:glorify]]
+  * [[:En:obe:kt:forever]]
+  * [[vi:obe:other:reign]]
+  * [[:En:obe:kt:eternity]]
+  * [[:vi:obe:other:kingdom]]
+  * [[:En:obe:other:generation]]
+ 
+===== Translation Notes: =====
+
+  * **and my sanity was given back to me** - AT: “and my sanity came back to me” or "I became sane again" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **I praised ... and I honored ...** - The two phrases refer to the same action. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **For his reign is ... and his kingdom endures ...** - These two phrases mean basically the same thing and are used to emphasis how God's reign never ends. AT: "He rules forever. His kingdom will never end." (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:04|Daniel Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:04:33|<<]] | [[:vi:bible:notes:dan:04:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== 1 Kings 09:23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 There were 550 officials who supervised the slaves who worked \add to build all those places\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 There were 550 officials who supervised the slaves who worked to build all those places.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 These were also the chief officers managing the supervisors who were over Solomon’s works, 550 of them, who supervised the people who did the work.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[vi:obe:other:manager]]
+  * [[:vi:obe:kt:works]]
+
+===== Translation Notes: =====
+
+    * **550 of them** - AT: "five hundred and fifty of them" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:09|1 Kings Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:09:22|<<]] | [[:vi:bible:notes:1ki:09:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

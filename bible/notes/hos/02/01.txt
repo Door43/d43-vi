@@ -1,0 +1,51 @@
+====== Hosea 02:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 At that time, you will say to your fellow-Israelite men, "\add You are God's\add* people," and you will say to your fellow-Israelite women, "You are ones whom God loves."
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Call your male fellow Israelites, 'You are Yahweh's people,' and call your female fellow Israelites, 'Yahweh has been kind to you.'"
+
+
+\p
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\q
+\v 1 Say to your brothers, 'My people!'
+\q and to your sisters, "You have been shown compassion.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:brother]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:sister]]
+  * [[:vi:obe:kt:compassion]]
+
+===== Translation Notes: =====
+
+God is speaking to Hosea.
+
+  * **You have been shown compassion**  - AT: "God showed you compassion" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **compassion**  - "kindness" or "mercy"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:01:10|<<]] | [[:vi:bible:notes:hos:02:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

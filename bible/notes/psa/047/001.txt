@@ -1,0 +1,70 @@
+====== Psalms 047:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 You people all \add over the world\add*, clap your hands!
+\q2 Shout joyfully to \add praise\add* God!
+\q1
+\v 2 Yahweh, who is much greater than any other god, is awesome;
+\q2 he is a king who rules over all the world!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 You people all over the world, clap your hands!
+\q2 Shout joyfully to praise God!
+\q1
+\v 2 Yahweh, who is much greater than any other god, is awesome;
+\q2 he is a king who rules over all the world!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 47
+\d For the chief musician. A psalm of the sons of Korah.
+\b
+\q
+\v 1 Clap your hands, all you peoples;
+\q shout to God with the sound of triumph.
+\q
+\v 2 For Yahweh Most High is terrifying;
+\q he is a great King over all the earth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:kt:son|son]]
+  * [[:vi:obe:other:korah|korah]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:mosthigh|Most High]]
+  * [[:vi:obe:other:terror|terror, terrify]]
+  * [[:vi:obe:other:king|king]]
+  * [[vi:obe:other:earth]]
+===== Translation Notes: =====
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+This psalm is a song of praise.
+
+  * **A psalm of the sons of Korah **- AT: “This is a psalm that the sons of Korah wrote.”
+  * **Clap your hands** - Clapping your hands is associated with celebration AT: "Celebrate" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **triumph** - "victory"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:047|Psalms Chapter 047 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:046:010|<<]] | [[:vi:bible:notes:psa:047:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr book2}}
+
+~~NOCACHE~~

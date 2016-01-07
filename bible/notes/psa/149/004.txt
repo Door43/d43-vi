@@ -1,0 +1,62 @@
+====== Psalms 149:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Yahweh is pleased with his people;
+\q2 he honors humble people by helping them to defeat \add their enemies\add*.
+\q1
+\v 5 God's people should rejoice because they have won battles
+\q2 and sing joyfully all during the night!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh is pleased with his people;
+\q2 he honors humble people by helping them to defeat their enemies.
+\q1
+\v 5 Because they have won battles, God's people should rejoice
+\q2 and sing joyfully all during the night!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 For Yahweh takes pleasure in his people;
+\q he glorifies the humble with salvation.
+\q
+\v 5 Let the godly rejoice in victory;
+\q let them sing for joy on their beds.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:kt:glory]]
+  * [[:vi:obe:other:humble|humble, humility]]
+  * [[:vi:obe:kt:salvation|salvation]]
+  * [[:vi:obe:kt:godly|godly, godliness]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:joy|joy, joyful]]
+
+===== Translation Notes: =====
+
+  * **glorifies the humble with salvation**  - AT: "exalts the humble by saving them from their enemies."
+  * **on their beds**  - The Hebrew is not clear for this expression, but one likely interpretation is … AT: "even at night, even as they lie down to sleep"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:149|Psalms Chapter 149 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:149:002|<<]] | [[:vi:bible:notes:psa:149:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

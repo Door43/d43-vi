@@ -1,0 +1,58 @@
+====== Psalms 120:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 You people who lie to me, \add I will tell you\add* \f + \ft rhetorical question \f* what \add God\add* will do to you
+\q2 and what he will do to punish you.
+\q1
+\v 4 He will shoot sharp arrows at you like soldiers do,
+\q2 and he will \add burn you with\add* red-hot coals from \add the wood of\add* a broom tree.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 You people who lie to me, I will tell you what God will do to you
+\q2 and what he will do to punish you.
+\q1
+\v 4 He will shoot sharp arrows at you as soldiers do,
+\q2 and he will burn you with red hot coals from the wood of a broom tree.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 What will he inflict on you, and what more besides,
+\q you deceitful tongue?
+\q
+\v 4 He will shoot you with the sharp arrows of warriors,
+\q with arrowheads heated over the hot coals from wood of the broom tree.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:bowweapon|bow and arrow]]
+
+===== Translation Notes: =====
+
+  * **What will he inflict on you, and what more besides, you deceitful tongue?**  - AT: "God will punish the liars." (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **deceitful tongue**  - AT: "liars" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **He will shoot you with the sharp arrows of warriors**  - AT: "He will punish you." (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **arrowheads heated over hot coals**  - This refers to the tip of an arrow and indicates a severe punishment.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:120|Psalms Chapter 120 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:120:001|<<]] | [[:vi:bible:notes:psa:120:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

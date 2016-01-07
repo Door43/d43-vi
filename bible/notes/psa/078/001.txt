@@ -1,0 +1,64 @@
+====== Psalms 078:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 My friends, listen to what I am going to teach you;
+\q2 pay careful attention [IDI] to what I say.
+\q1
+\v 2 I am going to give you some sayings that wise people have said.
+\q2 They will be sayings about things that happened long ago,
+\q2 things that were difficult to understand \f + \ft metaphor \f*,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 My friends, listen to what I am going to teach you;
+\q2 pay careful attention to what I will say.
+\q1
+\v 2 I am going to give you some sayings that wise people have said.
+\q2 They will be sayings about things that happened long ago,
+\q2 things that were difficult to understand.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 78
+\d A maschil of Asaph.
+\b
+\q
+\v 1 Hear my teaching, my people,
+\q listen to the words of my mouth.
+\q
+\v 2 I will open my mouth in parables;
+\q I will sing about hidden things about the past.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:asaph|Asaph]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **A maschil of Asaph**  - This can also be written as a sentence. AT: “This is a maschil of Asaph." or “This is a maschil that Asaph wrote.”
+  * **maschil**  - See how you translated this in [[:vi:bible:notes:psa:032:001|32:1]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:077:018|<<]] | [[:vi:bible:notes:psa:078:003|>>]]**
+
+~~DISCUSSION~~{{tag>henryw book3}}
+
+~~NOCACHE~~

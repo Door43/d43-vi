@@ -1,0 +1,68 @@
+====== Psalms 135:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\q1 You who do work for\f + \ft Or: serve \f* Yahweh,
+\q1 praise him!
+\q1
+\v 2 You who stand in the temple of Yahweh our God and in the surrounding courtyard,
+\q2 praise him \f + \ft metonymy \f*!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\q1 You who worship Yahweh,
+\q1 praise him!
+\q1
+\v 2 You who stand at the temple of Yahweh our God in its courtyards, ready to serve him,
+\q2 praise him !
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 135
+\p
+\q
+\v 1 Praise Yahweh.
+\q Praise the name of Yahweh.
+\q Praise him, you servants of Yahweh,
+\q
+\v 2 you who stand in Yahweh's house,
+\q in the courtyards of the house of our God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:courtyard|courtyard]]
+  * [[:vi:obe:kt:houseofgod|house of God, Yahweh's house]]
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **Praise the name of Yahweh**  - Praise Yahweh (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **stand**  - as a servant, ready to obey commands
+  * **Yahweh, God**  - make sure that these refer to the same person
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:135|Psalms Chapter 135 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:134:003|<<]] | [[:vi:bible:notes:psa:135:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Song of Solomon 04:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Until dawn \add tomorrow morning\add*
+\q2 and the nighttime shadows\f + \ft Or: darkness \f* disappear,
+\q1 I will \add lie close to your breasts\add*
+\q2 that are like \f + \ft metaphor \f* hills that are covered with incense \f + \ft doublet \f*.
+\q1
+\v 7 My darling, you are completely beautiful;
+\q2 your body is perfectly \add formed\add*!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Until dawn tomorrow morning,
+\q2 when the nighttime shadows disappear,
+\q1 I will lie close to your breasts, 
+\q2 because they are like two hills that smell like sweet spices.
+\q1
+\v 7 My darling, you are completely beautiful;
+\q2 your body is perfectly formed!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\b
+\q
+\v 6 Until the dawn arrives and the shadows flee away,
+\q I will go to the mountain of myrrh
+\q and to the hill of frankincense.
+\b
+\q
+\v 7 You are beautiful in every way, my love
+\q and there is no blemish in you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:myrrh]]
+  * [[:vi:obe:other:frankincense|]]
+  * [[:vi:obe:other:blemish]]
+
+===== Translation Notes: =====
+
+Solomon continues to compliment and admire his wife.
+  * **I will go to the mountain of myrrh and to the hill of frankincense** - He is referring to his wife's  breasts. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **my love**  - This is a sweet term of endearment, from Solomon to his wife.
+  * **blemish** - "stain" or "scar"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:04|Song of Solomon Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:04:04|<<]] | [[:vi:bible:notes:sng:04:08|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

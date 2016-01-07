@@ -1,0 +1,54 @@
+====== Joshua 15:21-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 The tribe of Judah was allotted all these towns in the southern \add desert area of Canaan\add*, near the border of the Edom \add region\add*:
+\pi Kabzeel, Eder, Jagur,
+\v 22 Kinah, Dimonah, Adadah,
+\v 23 Kedesh, Hazor, Ithnan,
+\v 24 Ziph, Telem, Bealoth,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 The tribe of Judah was assigned all these cities in the southern Judean wilderness, near the border of the region of Edom:
+\pi Kabzeel, Eder, Jagur,
+\v 22 Kinah, Dimonah, Adadah,
+\v 23 Kedesh, Hazor, Ithnan,
+\v 24 Ziph, Telem, and Bealoth.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 The cities belonging to the tribe of Judah in the extreme south, toward the border of Edom, were Kabzeel, Eder, Jagur,
+\v 22 Kinah, Dimonah, Adadah,
+\v 23 Kedesh, Hazor, Ithnan,
+\v 24 Ziph, Telem, Bealoth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:edom]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Kabzeel ... Bealoth** - names of places (See: [[vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:15:20|<<]] | [[:vi:bible:notes:jos:15:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 018:37-39 ======
+
+===== TFT: =====
+
+<usfm>
+\v 37 I have pursued my enemies and caught them;
+\q2 I did not stop until I had defeated\f + \ft Or: killed \f* them all.
+\q1
+\v 38 When I strike them, they are not able to get up again;
+\q2 they lie on the ground, defeated.
+\q1
+\v 39 You have enabled me to be strong
+\q2 in order that I can fight battles and defeat my enemies.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 37 I pursued my enemies and caught them; I did not stop until I had defeated them all.
+\q1
+\v 38 When I strike them, they are not able to get up again; they lie on the ground, defeated.
+\q1
+\v 39 You have enabled me to be strong in order that I can fight battles and defeat my enemies.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 37 I pursued my enemies and caught them; I did not turn back until they were destroyed.
+\q
+\v 38 I smashed them so that they were unable to rise; they have fallen under my feet.
+\q
+\v 39 For you put strength on me like a belt for battle; you put under me those who rise up against me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:raise|raise, rise, risen]]
+===== Translation Notes: =====
+
+  * **I smashed them** - "I crushed them" or "I broke them to pieces"
+  * **unable to rise** - "unable to stand"
+  * **they have fallen under my feet** - AT: "they are defeated" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **put strength on me like a belt** - See how you translated this simile in [[:vi:bible:notes:psa:018:030|18:32]].
+  * **you put under me** - AT: "you defeat for me" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **those who rise up against me** - AT: "those who are my enemies" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:035|<<]] | [[:vi:bible:notes:psa:018:040|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

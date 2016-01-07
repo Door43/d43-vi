@@ -1,0 +1,43 @@
+====== Daniel 10:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20-21 Then he said, "Do you know why I came to you?\f + \ft Or: I will tell you why I came to you. \f* \f + \ft rhetorical question \f* It is to reveal to you what is written in the book which reveals, Or: contains God's truth. But now I must return to fight against the evil spirit who rules the kingdom of Persia. After I have defeated him, the evil angel who guards Greece will appear \add and I must defeat him\add*. Michael, who guards you \add Israelite people\add*, will help me, but there is no one else to help me."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20-21 Then he said, "Do you know why I have come to you? It is to reveal to you what is written in the book which reveals God's truth. But now I must return to fight against the evil spirit who rules the kingdom of Persia. After I have defeated him, the evil angel who guards Greece will appear and I must defeat him. Michael, who guards you Israelite people, will help me, but there is no one else to help me."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 He said, "Do you know why I have come to you? I will now return to fight against the prince of Persia. When I go out, the prince of Greece will come.
+\v 21 But I will tell you what is written in the book of truth—there is no one who shows himself to be strong beside me, except Michael your prince."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:prince]]
+  * [[:vi:obe:other:persia]]
+  * [[:vi:obe:other:greece]]
+  * [[vi:obe:other:michael]]
+===== Translation Notes: =====
+
+  * **the prince of Persia** - "Prince" refers here to a spirit who rules and guards a human nation. AT: “spirit prince.” See how you translated "the prince of the Persian kingdom" in [[vi:bible:notes:dan:10:12|10:13]].
+  * **what is written in the book of truth** - AT: "what the book of truth says" or "what someone wrote in the book of truth" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **who shows himself to be strong** - AT: "who proves himself to be strong" or "who remains faithful"
+  * **except Michael your prince** - AT: "Michael your prince is the only one who does this"
+  * **Michael your prince** - The word "your" is plural. It refers to Daniel and the rest of the people of Israel. AT: "Michael, the prince of your people" (See: [[vi:ta:vol1:translate:figs_youdual]])
+  * **prince** - See how you translated "prince" when it refers to Michael in [[vi:bible:notes:dan:10:12|10:13]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:10|Daniel Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:10:18|<<]] | [[:vi:bible:notes:dan:11:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

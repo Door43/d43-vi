@@ -1,0 +1,58 @@
+====== Judges 03:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 But then the Israelites again pleaded to Yahweh \add to help them\add*. So he brought another leader to rescue them. He was Ehud, a left-handed man, the son of Gera, from the descendants of Benjamin. The Israelites sent him to King Eglon to give him their yearly protection money.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 But then the Israelites again pleaded to Yahweh to help them. So he brought another leader to rescue them. He was Ehud son of Gera, a left-handed man from the descendants of Benjamin. The Israelites sent him to King Eglon to give him the money he required every year so he would not attack them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 But when the people of Israel called out to Yahweh, he raised them up one who would help them, Ehud (the son of Gera), a Benjamite, a left-handed man. The people of Israel sent him, with their tribute payment, to Eglon king of Moab.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:peoplegroup]]
+  * [[en/obe/kt/call]]
+  * [[vi:obe:other:israel]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:raise]]
+  * [[vi:obe:other:benjamin]]
+  * [[vi:obe:other:send]]
+  * [[:vi:obe:other:tribute]]
+  * [[vi:obe:other:moab]]
+ 
+===== Translation Notes: =====
+
+    * **he raised them up one** - AT: "he gave them someone"
+    * **Ehud...Gera** - These are the names of men. (See: [[vi:ta:vol1:translate:translate_names]])
+    * **left-handed** - a person who is better able to use the left side of their body.  They would write and hold a sword with their left hand.
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jdg:03|Judges Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/03/12|<<]] | [[en/bible/notes/jdg/03/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,44 @@
+====== Exodus 12:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 In your houses, do not eat anything that has yeast in it during those seven days."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 For those seven days you must not have any yeast in your house. During that time, if anyone, either an Israelite or a foreigner, eats bread made with yeast, that person will no longer be an Israelite.
+\v 20 In your houses, do not eat anything that has yeast in it during those seven days."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 During these seven days, no yeast must be found in your houses. Whoever eats bread  made with yeast must be cut off from the community of Israel, whether that person is a foreigner or someone born in your land.
+\v 20 You must eat nothing made with yeast. Wherever you live, you must eat bread made without yeast.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:yeast|yeast, leaven]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+**must be cut off from the community of Israel** - “you must exclude him from the community of Israel” or “will no longer belong to the community of Israel”
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:12|Exodus Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:12:17|<<]] | [[:vi:bible:notes:exo:12:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,54 @@
+====== 2 Samuel 06:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 The sacred chest was in the house of Abinadab, on top of a hill. They went there, and put the chest on a new cart. Uzzah and Ahio, the two sons of Abinadab, were guiding \add the oxen that were pulling the cart\add*.
+\v 4 Uzzah walked alongside the cart, and Ahio walked in front of it.
+\v 5 David and all the Israelite men were celebrating in God's presence, singing with all their strength and \add playing\add* lyres and harps, and beating tambourines, and clashing castanets and cymbals.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 The sacred chest was in the house of Abinadab, on top of a hill. They went there, and put the chest on a new cart. Uzzah and Ahio, Abinadab's two sons, were guiding the oxen that were pulling the cart.
+\v 4 Uzzah walked alongside the cart, and Ahio walked in front of it.
+\v 5 David and all the Israelite men were celebrating in God's presence, singing with all their strength and playing wooden lyres and harps, and beating tambourines, and clashing castanets and cymbals.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 They set the ark of God on a new cart. They brought it out of Abinadab's house, which was on a hill. Uzzah and Ahio, his sons, were guiding the new cart.
+\v 4 They brought the cart out of Abinadab's house on the hill with the ark of God on it. Ahio was walking in front of the ark.
+\v 5 Then David and all the house of Israel began to play before Yahweh, celebrating with instruments made of pine wood, harps, lyres, tambourines, rattles, and cymbals.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:house|house]]
+  * [[:vi:obe:other:harp|harp]]
+  * [[:vi:obe:other:lute|lute, lyre]]
+
+===== Translation Notes: =====
+David and the army of the nation of Israel move the Ark of the Covenant
+    * **Abinadab.. Uzzah... Ahio**  - These are male names of people. (See: [[vi:ta:vol1:translate:translate_names]])
+    * **house of Israel** - This refers to the nation of Israel. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+   
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:06|2 Samuel Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:06:01|<<]] | [[:vi:bible:notes:2sa:06:06|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

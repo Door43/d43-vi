@@ -1,0 +1,72 @@
+====== Psalms 050:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Every time that you see a thief, you become his friend,
+\q2 and you spend much time with those who commit adultery.
+\q1
+\v 19 You are always talking \f + \ft metonymy \f* about doing wicked things,
+\q2 and you are always trying to deceive people.
+\q1
+\v 20 You are always accusing members of your own family
+\q2 and slandering them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Every time that you see a thief, you become his friend,
+\q2 and you spend much time with those who commit adultery.
+\q1
+\v 19 You are always talking  about doing wicked things,
+\q2 and you are always trying to deceive people.
+\q1
+\v 20 You are always accusing members of your own family
+\q2 and slandering them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 When you see a thief, you agree with him;
+\q you participate with those who commit adultery.
+\q
+\v 19 You give your mouth to evil,
+\q and your tongue expresses deceit.
+\q
+\v 20 You sit and speak against your brother;
+\q you slander your own mother’s son.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:adultery]]
+  * [[:vi:obe:other:tongue]]
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:kt:brother]]
+  * [[:vi:obe:other:slander]]
+ 
+
+===== Translation Notes: =====
+
+  * **you agree with him** - AT: "you agree with him that it is good to steal" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **You give your mouth to evil...your tongue expresses deceit** - Both of these phrases refer to a person who allows himself to say evil things.  AT: "With your mouth you say evil things, and with your tongue you express deceit" (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **speak against your brother...slander your own mother’s son** - Both of these phrases have the same meaning but use different words.  It is repeated to emphasize the meaning. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:050:016|<<]] | [[:vi:bible:notes:psa:050:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,75 @@
+====== Job 21:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Job replied this:
+\q1
+\v 2 "Listen to what I say, all of you;
+\q2 that is the only thing that you can do that will comfort me.
+\q1
+\v 3 Be patient with me, and allow me to speak.
+\q2 Then, after I am finished speaking, you can continue to make fun of me.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Job replied in this way:
+\q1
+\v 2 "Listen to what I say, all of you;
+\q2 that is the only thing that you can do that will comfort me.
+\q1
+\v 3 Be patient with me, and allow me to speak.
+\q2 Then, after I am finished speaking, you can continue to make fun of me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 Then Job answered and said,
+\q
+\v 2 "Hear diligently my speech,
+\q and let this be your consolations.
+\q
+\v 3 Suffer me, and I also will speak;
+\q after I have spoken, mock on.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:job]]
+  * [[:vi:obe:kt:suffer]]
+  * [[:vi:obe:other:mock]]
+ 
+
+===== Translation Notes: =====
+
+  * diligently - This word here means for them to listen carefully to what Job says.
+  * **consolation - This word means comfort or solace they would offer to Job.**
+  * **suffer me - This expression in the context means "please allow me" to speak. It means for them to be patient  and allow him to speak as they carefully listen.**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:21|Job Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:job:20:28|<<]] | [[:vi:bible:notes:job:21:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

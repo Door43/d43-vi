@@ -1,0 +1,81 @@
+====== Hosea 09:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 My God appointed \add me and the other\add* prophets
+\q2 to be like \f + \ft metaphor \f* watchmen \add to warn\add* you people of Israel,
+\q1 but everywhere that we go, \add it is as though\add* people set traps for us
+\q2 and people are hostile to us, \add even\add* in the temple of our God.
+\q1
+\v 9 The sins that the Israelite people have committed are as awful as \add what the men of\add* Gibeah did long ago;
+\q1 so I will not forget the wicked things that they have done;
+\q2 I will punish them for all those sins.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 True prophets are watchmen for the people of Israel, and my God is with them.
+\q2 But everywhere they go, others set traps for them;
+\q2 even in the temple of their God, others hate them.
+\q1
+\v 9 The people have polluted themselves by sinning
+\q2 as the Israelites did at Gibeah long ago.
+\q1 God will not forget the wicked things they did;
+\q2 he will certainly punish them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 The prophet who is with my God is the watchman for Ephraim,
+\q but a bird’s snare is on all of his paths,
+\q and hostility toward him is in the house of his God.
+\q
+\v 9 They have deeply corrupted themselves
+\q as in the days of Gibeah.
+\q God will call to mind their iniquity,
+\q and he will punish their sins.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[:vi:obe:kt:corrupt]]
+  * [[:En:obe:other:gibeah]]
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:other:punish]]
+  * [[:vi:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+Hosea, the prophet, is speaking.
+
+  * **is the watchman for Ephraim**  - A "watchman" watches outside his city to see if danger is coming. AT: "is like a watchman for Ephraim"  (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Ephraim** - This refers here to Israel
+  * **but a bird’s snare is on all of his paths** - A "bird's snare" is a trap used to catch a bird. AT: "but a trap is set for him wherever he goes" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **They have deeply corrupted themselves as in the days of Gibeah** - AT: "They have sinned and become very corrupt as the people of Israel did at Gibeah long ago"
+  * **call to mind**  - See how you translated this in [[:vi:bible:notes:hos:08:13|8:13]]
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:09|Hosea Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:09:07|<<]] | [[:vi:bible:notes:hos:09:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish gibeah}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== Joshua 02:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 When the two men left the city, they went up into the hills. They stayed there for three days, while the men \add who had been sent by the king\add* continued to search for them. They searched all along the road, but they did not find the two men. So they returned to the city.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 When the two men left the city, they went up into the hills. They stayed there for three days while the men who had been sent by the king continued to search for them. They searched all along the road, but they did not find the two men.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 They left and went up into the hills and they stayed there three days until their pursurers returned. The pursuers searched all along the road and found nothing.
+</usfm>
+
+
+===== Important Terms: =====
+
+  
+
+===== Translation Notes: =====
+The two Israelites spies leave Jericho.
+
+  *  **their pursurers returned** - "their pursuers returned to the city, to Jericho." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+
+
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:02|Joshua Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/02/20|<<]] | [[en/bible/notes/jos/02/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

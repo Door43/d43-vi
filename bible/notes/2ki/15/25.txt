@@ -1,0 +1,54 @@
+====== 2 Kings 15:25-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 Then one of Pekahiah's army commanders whose name was Pekah, the son of Remaliah, planned with fifty men from the Gilead \add region\add* to kill Pekahiah. They assassinated him in a fortified place in the king's palace in Samaria. Then Pekah became the king.
+\p
+\v 26 Everything else that Pekahiah did is written in the book named 'The History of the Kings of Israel.'
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 Then one of Pekahiah's army commanders whose name was Pekah son of Remaliah, planned with fifty men from the region of Gilead to kill Pekahiah. They assassinated him in a fortified place in the king's palace in Samaria. Then Pekah became the king.
+\p
+\v 26 Everything else that Pekahiah did is written in the Book of the Events of the Kings of Israel.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 25 Pekah the son of Remaliah, his captain, conspired against Pekahiah, and killed him in Samaria, in the citadel of the king’s palace, with Argob and Arieh. With him were fifty men of the Gileadites. He killed him and became king in his place.
+\v 26 As for the other matters concerning Pekahiah, all that he did, are written in The Book of the Events of the Kings of Israel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:samaria]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:palace]]
+  * [[:vi:obe:other:gilead]]
+
+===== Translation Notes: =====
+
+  * **Pekah, Remaliah, Argob, and Arieh** - (See: [[:vi:ta:vol1:translate:translate_names]]) Argob and Arieh are not listed by name in the UDB; they are two of the "fifty men." 
+  * **his captain** - "Pekahiah's captain," or AT: "a captain in King Pekahiah's army," 
+  * **conspired** - To conspire is to make a secret plan to do harm to someone or something, in this case, King Pekahiah.
+  * **fifty men** - "50 men" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **citadel of the king's palace** - "fortified place in the king's palace" (UDB)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:15|2 Kings Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:15:23|<<]] | [[:vi:bible:notes:2ki:15:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

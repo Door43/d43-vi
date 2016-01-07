@@ -1,0 +1,50 @@
+====== Judges 01:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 When the men of those two tribes attacked, Yahweh enabled them to defeat 10,000 men of the Canaan people-group and the Periz people-group \f + \ft doublet \f* at Bezek \add city\add*.
+\v 5 During the battle they found Adoni-Bezek, the leader of the city,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 When the men of those two tribes attacked, Yahweh enabled them to defeat  ten thousand men of the Canaanites and the Perizzites at the city of Bezek.
+\v 5 During the battle they found Adoni Bezek, the leader of the city.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 The men of Judah went up, and Yahweh gave them victory over the Canaanites and the Perizzites. They killed ten thousand of them at Bezek.
+\v 5 They found Adoni Bezek at Bezek, and they fought against him and defeated the Canaanites and the Perizzites.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:canaan]]
+  * [[:En:obe:other:perizzite]]
+ 
+===== Translation Notes: =====
+
+
+    * **They killed ten thousand** - AT: "They killed about 10,000" or "They killed a large number" (See: [[vi:ta:vol2:translate:translate_numbers]])
+    * **of them** - AT: "soldiers of the Canaanites and Perizzites" or "enemies"
+    * **Bezek** - an area in the mountains of Canaan (See: [[:vi:ta:vol1:translate:translate_names]])
+    * **Adoni Bezek** - This man was the leader of the army of the Canaanites and the Perizzites. The word "Adoni" means "lord of" or "my lord."
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:01|Judges Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:01:01|<<]] | [[:vi:bible:notes:jdg:01:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,97 @@
+====== Lamentations 02:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 I wish\f + \ft Or: desire \f* that the walls of Jerusalem \f + \ft apostrophe \f*
+\q2 would cry out to Yahweh!
+\q1 You people of Jerusalem \f + \ft metaphor \f*,
+\q2 allow your tears to flow day and night!
+\q2 Let them flow like rivers.
+\q1 Do not stop grieving;
+\q2 do not stop crying.
+\b
+\q1
+\v 19 Get up during every night and cry out;
+\q2 tell Yahweh what you feel in your inner beings.
+\q1 Raise your arms to plead to him
+\q2 to act mercifully to prevent our children from dying;
+\q1 they are fainting on the street corners
+\q2 because they have no food to eat.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 I wish the city walls could speak like the people who 
+\q2 cry out to Yahweh!
+\q1 I would tell the walls, "Cry out for help to Yahweh!
+\q2 Let your tears flow day and night!
+\q2 Let them flow like rivers.
+\q1 Do not stop grieving;
+\q2 do not stop crying."
+\b
+\q1
+\v 19 Get up during every night and cry out;
+\q2 tell Yahweh what you feel in your inner beings.
+\q1 Raise your arms to plead to him
+\q2 to act mercifully to prevent our children from dying;
+\q1 they are fainting on the street corners
+\q2 because they have no food to eat.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Their heart shouts to the Lord,
+\q "Walls of the daughter of Zion, let tears flow down like a river day and night.
+\q Give yourself no reprieve. Do not stop the outflow of your eyes.
+\q
+\v 19 Stand and cry out in the night; from the beginning of the watches
+\q pour out your heart like water before the face of the Lord. 
+\q Lift up your hands to him for the life of your children who languish with hunger at the head of every street."
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:lord]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:other:watch]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:children]]
+  * [[:vi:obe:other:head]]
+
+===== Translation Notes: =====
+
+  * **Their heart shouts** - Possible meanings are 1) "The people of Jerusalem shout from their innermost being" (See: [[:vi:ta:vol2:translate:figs_synecdoche]]) or 2) the speaker wants the walls to shout to Yahweh (see UDB).
+  * **Walls of the Daughter of Zion ... of every street** - The writer speaks to the walls of Jerusalem. He wants the people of Jerusalem to do what he is telling the walls to do. (See: [[:vi:ta:vol2:translate:figs_apostrophe]])
+  * **let tears flow down like a river** - "cry many tears" (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **day and night** - "all of the time" (See: [[:vi:ta:vol2:translate:figs_merism]])
+  * **Give yourself no reprieve** - "Do not allow yourself to rest"
+  * **the outflow of your eyes** - tears
+  * **from the beginning of the watches** - "many times during the night," that is, every time a watchman comes on duty
+  * **Lift up your hands** - in prayer
+  * **at the head of every street** - AT: "where the streets come together" or "by the roads"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:02|Lamentations Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:02:17|<<]] | [[:vi:bible:notes:lam:02:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

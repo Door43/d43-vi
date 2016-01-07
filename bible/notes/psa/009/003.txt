@@ -1,0 +1,59 @@
+====== Psalms 009:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 When my enemies realize \add that you are very powerful\add*,
+\q2 they stumble, and then they are killed.
+\q1
+\v 4 You sat on your throne to judge people,
+\q2 and you have judged fairly\f + \ft Or: justly \f* concerning me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 When my enemies realize that you are very powerful,
+\q2 they stumble, and then they are killed.
+\q1
+\v 4 You sit on your throne to judge people,
+\q2 and you have judged fairly concerning me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 When my enemies turn back,
+\q they stumble and perish before you.
+\q
+\v 4 For you have defended my just cause;
+\q you sit on your throne, a righteous judge!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:perish]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:other:throne]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:judge]]
+
+===== Translation Notes: =====
+
+  * **turn back** - "retreat" or "flee in fear"
+  * **you sit on your throne** - The words "your throne" represent God's rule of heaven and earth. AT: "you rule heaven and earth," (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **a righteous judge** - AT: "judging everyone fairly"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:009|Psalms Chapter 009 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:009:001|<<]] | [[:vi:bible:notes:psa:009:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

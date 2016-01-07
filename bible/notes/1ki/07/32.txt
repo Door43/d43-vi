@@ -1,0 +1,46 @@
+====== 1 Kings 07:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 The wheels were 27 inches high. They were below the panels. The wheels were connected to axles that had been cast in the same mold as the rest of the cart.
+\v 33 The wheels of the carts were like the wheels of chariots. The axles, the rims, the spokes, and the hubs were all cast \add from bronze\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 The wheels were sixty-nine centimeters high. They were below the panels. The wheels were connected to axles that had been cast in the same mold as the rest of the cart.
+\v 33 The wheels of the carts were like the wheels of chariots. The axles, the rims, the spokes, and the hubs were all cast from bronze.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 The four wheels were underneath the panels, and the axles of the wheels and their housings were in the stand. The height of a
+wheel was a cubit and a half.
+\v 33 The wheels were forged like  chariot wheels. Their housings, rims, spokes, and hubs  were all cast metal.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chariot]]
+
+===== Translation Notes: =====
+
+  * **their housings** - Here the word "their" refers to the axles. The word "housings" refers to the casings into which the axles were inserted.
+  * **The wheels were forged** - AT: "Huram forged the wheels" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **their housings, rims, spokes, and hubs** - Here the word "their" refers to the wheels.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:07|1 Kings Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:07:30|<<]] | [[:vi:bible:notes:1ki:07:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

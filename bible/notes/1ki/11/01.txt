@@ -1,0 +1,58 @@
+====== 1 Kings 11:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 King Solomon married many foreign women. First he married the daughter of the king of Egypt. He also married women from the Heth people-group and from the Moab, Ammon, and Edom people-groups, and from Sidon \add city\add*.
+\v 2 He married them even though Yahweh had commanded the Israelite people saying, "Do not marry people from those areas, because if you do that, they will surely persuade you [IDI] to worship the gods that they worship!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 King Solomon married many foreign women. First he married the daughter of the king of Egypt. He also married women from the Heth people group and from the Moab, Ammon, and Edom people groups, and from the city of Sidon.
+\v 2 He married them even though Yahweh had commanded the Israelite people saying, "Do not marry people from those areas, because if you do that, they will surely persuade you to worship the gods that they worship!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 Now King Solomon loved many foreign women: the daughter of Pharaoh and women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites—
+\v 2 nations concerning which Yahweh had said to the people of Israel, "You will not go among them to marry, neither will they come among you, for they will certainly turn your heart to their gods." But Solomon loved these women.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:solomon]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:other:pharaoh]]
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:ammon]]
+  * [[:vi:obe:other:edom]]
+  * [[:vi:obe:other:sidon]]
+  * [[:vi:obe:other:hittite]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:israel]]
+  * [[vi:obe:kt:turn]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:falsegod]]
+
+===== Translation Notes: =====
+
+  * **Now King Solomon** - The word "Now" is used here to mark a break in the main storyline where the narrator starts to tell a new part of the story.
+  * **turn your heart to their gods** - AT: "persuade you to worship the gods that they worship"(UDB) (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:11|1 Kings Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:10:28|<<]] | [[:vi:bible:notes:1ki:11:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

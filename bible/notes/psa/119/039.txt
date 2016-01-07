@@ -1,0 +1,64 @@
+====== Psalms 119:39-40 ======
+
+===== TFT: =====
+
+<usfm>
+\v 39 \add My enemies\add* insult me \add because I\add* \add serve\f + \ft Or: am devoted to\add* \f* you;
+\q2 remove them from me, because I am afraid of them.
+\q2 The regulations\f + \ft Or: rules that you have given to us \f* are very good!
+\q1
+\v 40 I very much desire \add to obey\add* your principles of behavior\f + \ft Or: what you have declared that we should do \f*;
+\q2 because you are righteous, allow me to continue to live \f + \ft Or: be good to me \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 39 I become afraid when my enemies insult me;
+\q2 stop them!
+\q2 But you are right when you punish my enemies.
+\q1
+\v 40 I very much desire to obey your principles of behavior;
+\q2 because you are righteous, allow me to continue to live.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 39 Take away the insults I dread,
+\q for your righteous judgments are good.
+\q
+\v 40 See, I have longed for your instructions;
+\q keep me alive with your righteous deliverance.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mock|mock, ridicule]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:deliverer|deliver, deliverer]]
+
+===== Translation Notes: =====
+
+  * **Take away the insults I dread** - The information that the insults are bad things that his enemies were saying about him can be stated clearly. AT: "Take away my enemies' mockery, which I fear" or "I dread the bad things my enemies say about me. Stop them from saying those things." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **I dread** - "I am very afraid of"
+  * **your righteous decrees are good** - All of God's decrees are righteous. "Your decrees are righteous and good" (See: ktlink Adjectives)
+  * **I have longed for your instructions**  - AT: "I very much want your instructions." Possible meanings are 1) "I want very much to know your instructions" or 2) "I want very much to obey what you teach us to do."
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:037|<<]] | [[:vi:bible:notes:psa:119:041|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

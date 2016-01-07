@@ -1,0 +1,78 @@
+====== Hosea 11:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Before the Israelite people became a nation \f + \ft metaphor \f*,
+\q2 I loved them \add like a man loves\add* his son,
+\q2 I called them out of Egypt.
+\q1
+\v 2 But while I continued to call them,
+\q2 they continued to turn away from me more and more.
+\q1 They offered sacrifices to their statues of Baal,
+\q2 and they burned incense to honor them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh says, "When the nation of Israel was like a young man, I loved him.
+\q2 He was like a son to me, whom I called out of Egypt.
+\q1
+\v 2 But the more I called out to them,
+\q2 the more they ran away.
+\q1 Day after day they offered their sacrifices to the idols named Baal,
+\q2 and they burned incense to honor them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\q
+\v 1 "When Israel was a young man I loved him,
+\q and I called my son out of Egypt.
+\q
+\v 2 The more they were called,
+\q the more they turned away.
+\q They sacrificed to the Baals
+\q and burned incense to idols.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:kt:son|son]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:kt:turn|turn, turn away]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:other:baal|Baal]]
+  * [[:vi:obe:other:incense|incense]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+
+===== Translation Notes: =====
+
+God is speaking of caring for Israel like a parent for a child.
+
+  * **When Israel was a young man**  - Yahweh is comparing the nation of Israel to a young man. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **and I called my son out of Egypt** - Yahweh is again comparing Israel to his son. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **The more they were called, the more they turned away** - Yahweh was calling the nation back to himself. 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:11|Hosea Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:10:14|<<]] | [[:vi:bible:notes:hos:11:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

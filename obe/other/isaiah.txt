@@ -10,9 +10,9 @@ Isaiah was a prophet of God.
   * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
   * The Book of Isaiah is one of the major books of the Bible.
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
-(See also: [[en:obe:kt:prophet]], [[en:obe:kt:christ]])
+(See also: [[vi:obe:kt:prophet]], [[vi:obe:kt:christ]])
 
 
 ===== Bible References: =====

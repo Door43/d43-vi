@@ -1,0 +1,57 @@
+====== Matthew 23:25-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 "You men who teach people the \add Jewish\add* laws and you Pharisees, your punishment will be terrible! You are hypocrites! You are greedy and selfish, but you \add make yourselves appear holy. You are like\add* cups and plates that have been cleaned on the outside, but on the inside \add they are very filthy\add*.
+\v 26 You blind Pharisees! First you must \add stop being greedy and selfish\add*. \add Then you will be able to do what\add* is \add righteous. That will be like\add* cleaning the inside of a cup first. Then when you clean \f + \ft metaphor \f* the outside \add of the cup\add*, \add the cup will truly be clean\add*."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 "You hypocrites, you teachers of the law and you Pharisees, how terribly God will punish you! You make yourselves appear like good people to others. You are like cups and plates that women have washed on the outside, but on these things are dirty on their inside with more food and drink than you will ever need, food and drink that you have taken from others.
+\v 26 You blind Pharisees! First you must stop stealing from others. Then you will be able to do what is righteous. Then you will be like a cup that is clean both outside and in."
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the plate, but inside they are full of extortion and excess.
+\v 26 You blind Pharisee, clean first the inside of the cup and of the plate, so that the outside may become clean also.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:woe]]
+  * [[:vi:obe:other:scribe]]
+  * [[:vi:obe:other:pharisee]]
+  * [[:vi:obe:kt:hypocrite]]
+
+===== Translation Notes: =====
+
+Jesus continues to speak against the religious leaders because of their hypocrisy.
+
+  * **Woe to you**  - See how you translated this in [[:vi:bible:notes:mat:23:13|23:13]].
+  * **For you clean the outside of the cup and of the plate**  - The "scribes" and "Pharisees" appear "pure on the outside" to others. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **inside they are full of extortion and excess**  - "they take what belongs to others by force so they can have much more than they need"
+  * **You blind Pharisee**  - The Pharisees do not understand the truth. They are not physically blind. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **clean first the inside of the cup and of the plate, so that the outside may become clean also**  - If their hearts are right with God, then their lives will show that as well. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mat:23|Matthew Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:23:23|<<]] | [[:vi:bible:notes:mat:23:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

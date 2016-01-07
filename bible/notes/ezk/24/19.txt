@@ -1,0 +1,57 @@
+====== Ezekiel 24:19-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then the people asked me, "What do the things that you are doing signify to us?"
+\p
+\v 20 So I said to them, "This is what Yahweh told me:
+\v 21 'Tell the Israelite people \f + \ft metonymy \f* that I am about to destroy the temple, the building that you are very proud of, the building that you delight to look at. Your children whom you left \add in Jerusalem when you were forced to come to Babylon\add* will be killed by \add their enemies'\add* swords.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then the people asked me, "What do the things that you are doing signify to us?"
+\p
+\v 20 I answered them, "This is what Yahweh told me:
+\v 21 'Tell the Israelite people that I am about to destroy the temple, the building that you are very proud of, the building that you delight to look at. Your children whom you left in Jerusalem when you were forced to come to Babylon—your enemies will kill them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 The people asked me, “Will you not tell us what these things mean, the things that you are doing?”
+\v 20 So I said to them, “The word of Yahweh came to me and said,
+\v 21 'Say to the house of Israel, the Lord Yahweh says this: Behold! The pride of your strength, the desire of your eyes, and the lusts of your soul are defiling my sanctuary! So your sons and your daughters whom you have left behind yourselves will fall by the sword.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:house:]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:other:proud]]
+  * [[:vi:obe:other:lust]]
+  * [[:vi:obe:kt:soul]]
+  * [[vi:obe:other:defile]]
+  * [[:vi:obe:kt:sanctuary]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+The people of Israel question Ezekiel and Ezekiel tells them what Yahweh has said to them.
+
+ 
+  * **pride of your strength ** - AT: "pride in the building that you have made"   
+  * **the desire of your eyes** - AT: "the building that you delight to look at" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **the lusts of your soul** - AT: "your great desire to be better than other people"
+  * **fall by the sword** - AT: "be killed in war" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:24|Ezekiel Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:24:18|<<]] | [[:vi:bible:notes:ezk:24:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

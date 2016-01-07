@@ -1,0 +1,57 @@
+====== Psalms 054:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 But God is the one who helps me;
+\q2 Yahweh defends\f + \ft Or: protects \f* me \add from my enemies\add*.
+\q1
+\v 5 He will cause the evil things that they want to do to me to happen to them instead;
+\q2 because he faithfully \add does what he promises\add*, he will get rid of them.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 But God is the one who helps me;
+\q2 Yahweh defends me from my enemies.
+\q1
+\v 5 He will cause the evil things that they want to do to me to happen to them instead;
+\q2 because you faithfully do what you have promised to me, destroy them.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 See, God is my helper;
+\q the Lord is the one who sustains my soul.
+\q
+\v 5 He will repay the evil to my enemies;
+\q destroy them in your trustworthiness for me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lordyahweh|Lord Yahweh]]
+  * [[vi:obe:kt:soul]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+===== Translation Notes: =====
+
+  * **who sustains my soul**  - AT: "who provides what I need" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **destroy them in your trustworthiness for me**  - Here, David changes from talking about God to talking to God.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:054|Psalms Chapter 054 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:054:001|<<]] | [[:vi:bible:notes:psa:054:006|>>]]**
+
+~~DISCUSSION~~{{tag>review book2}}
+
+~~NOCACHE~~

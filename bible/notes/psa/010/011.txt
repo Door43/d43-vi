@@ -1,0 +1,63 @@
+====== Psalms 010:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 The wicked people say, "God will not pay any attention \add to what we do\add*.
+\q2 His eyes are covered, with the result that he never sees anything."
+\b
+\q1
+\v 12 Yahweh God, arise \add and help us\add*!
+\q2 Punish [IDI] those wicked people!
+\q2 And do not forget those who are suffering!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 The wicked people say, "God will not pay any attention to what we do.
+\q2 His eyes are covered, and he cannot see anything."
+\b
+\q1
+\v 12 Yahweh, arise! God, help us with your power!
+\q2 Do not forget those who are suffering!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 He says in his heart, "God has forgotten;
+\q he covers his face; he will not bother to look."
+\q
+\v 12 Arise, Yahweh; lift up your hand in judgment, God.
+\q  Do not forget the oppressed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:kt:judge]]
+
+===== Translation Notes: =====
+
+  * **He says** - AT: "The wicked people say"
+  * **his heart** - AT: "their hearts,"
+  * **God has forgotten** - AT: "God does not care;"
+  * **he covers his face** - AT: "God refuses to see what is happening;" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **lift up your hand** - Here "your hand" represents God's power to punish. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:010|Psalms Chapter 010 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:010:008|<<]] | [[:vi:bible:notes:psa:010:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

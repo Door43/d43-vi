@@ -1,0 +1,50 @@
+====== 1 Chronicles 12:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Those men from the tribe of Gad were all army officers. Some of them commanded 1,000 soldiers, and some of them commanded 100 soldiers.
+\v 15 They crossed \add to the west side of\add* the Jordan \add River\add* during March, \add at the time of the year\add* when the river was flooded. They chased from there all the people who lived in the valleys on both sides of the river.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Those men from the tribe of Gad were all army officers. Some of them commanded 1,000 soldiers, and some of them commanded 100 soldiers.
+\v 15 They crossed to the west side of the Jordan River during March, at the time of the year when the river was flooded. They chased from there all the people who lived in the valleys on both sides of the river.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 These sons of Gad were leaders of the army. The least led a hundred, and the greatest led a
+thousand.
+\v 15 They crossed the Jordan in the first month, when it overflowed its banks, and chased away
+all those living in the valleys, both toward the east and toward the west.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:son]]
+  * [[:vi:obe:other:gad]]
+  * [[:vi:obe:other:jordanriver]]
+  * [[:vi:obe:kt:life]]
+
+===== Translation Notes: =====
+
+  * **The least led a hundred** - This means that the smallest group of the army that a leader lead was 100. (See: [[vi:ta:vol2:translate:translate_numbers]]) 
+  * **the greatest lead a thousand** - This means that the largest group of the army that a leader lead was 1,000.
+  * **first month** - AT: "month number 1"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:12|1 Chronicles Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:12:09|<<]] | [[:vi:bible:notes:1ch:12:16|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

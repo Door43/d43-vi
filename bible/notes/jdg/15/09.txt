@@ -1,0 +1,49 @@
+====== Judges 15:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 The Philistines \add did not know where he was, so\add* they went up to where the descendants of Judah lived, and they raided Lehi \add town\add*.
+\v 10 The men there asked the Philistines, "Why have you attacked us?"
+\p The Philistines replied, "We have come to capture Samson. We have come to get revenge on him for what he did to us."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 The Philistines did not know where he was, so they went up to where the descendants of Judah lived, and they arranged themselves for battle at the town of Lehi.
+\v 10 The men there asked the Philistines, "Why do you want to attack us?"
+\p The Philistines replied, "We have come to capture Samson. We have come to get revenge on him for what he did to us."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Then the Philistines came up and they prepared for battle in Judah and set up their army in Lehi.
+\v 10 The men of Judah said, “Why have you come up to attack us?” They said, “We are attacking so we may capture Samson, so we may do to him as he has done to us.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Philistines]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:other:samson|Samson]]
+
+===== Translation Notes: =====
+
+  * **prepared for battle** - AT: "organized themselves for battle"
+  * **Lehi**  - This is the name of a town in Judah. It was given this name because of what happened in this event. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **so we may do to him as he has done to us** - The people knew that Samson had killed many Philistines. AT: "so we may kill him" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:15|Judges Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:15:07|<<]] | [[:vi:bible:notes:jdg:15:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

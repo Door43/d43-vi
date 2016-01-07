@@ -1,0 +1,59 @@
+====== Psalms 122:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Pray that there will be peace in Jerusalem;
+\q1 I wish\f + \ft Or: hope \f* that those who love Jerusalem will prosper\f + \ft Or: live peacefully \f*.
+\q1
+\v 7 I hope\f + \ft Or: wish \f* that there will be peace inside the walls of the city
+\q2 and that people who are inside the palaces will be safe.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Pray that there will be peace in Jerusalem;
+\q1 I wish that those who love Jerusalem will succeed in life.
+\q1
+\v 7 I hope that there may be peace inside the walls of the city
+\q2 and that people who are inside the palaces may be safe.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Pray for the peace of Jerusalem!
+\q They will prosper who love you.
+\q
+\v 7 May there be peace within your walls
+\q and prosperity within your towers.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pray|pray, prayer]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[vi:obe:other:jerusalem]]
+  * [[:vi:obe:other:prosper]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:other:watchtower]]
+===== Translation Notes: =====
+
+  * **They will prosper who love you.** - "Let those who love you prosper"
+  * **May there be peace within ... and prosperity within ...** - These two phrases have similar meanings and are used together to strengthen each other. AT: "May there be peace and prosperity within Jerusalem" (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **peace within your walls** - Here Jerusalem is referred to by its walls. AT: "peace within Jerusalem" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **prosperity within your towers**- This refers to the Jerusalem and likely the surrounding areas within Jerusalem's control. At: "may there be prosperity in Jerusalem" or "may there be prosperity in Jerusalem and its surroundings" 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:122|Psalms Chapter 122 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:122:004|<<]] | [[:vi:bible:notes:psa:122:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

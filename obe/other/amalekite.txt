@@ -1,0 +1,27 @@
+====== Amalek, Amalekite ======
+
+===== Facts: =====
+
+The Amalekites were a nomadic people group who lived and traveled across the southern part of Canaan, from the Negev desert to the country of Arabia.
+
+  * This people group was probably descended from Amalek, the grandson of Esau.
+  * The Amalekites were bitter enemies with Israel from the time when Israel first came to live in Canaan.
+  * Both Saul and David led military expeditions against the Amalekites. Saul disobeyed God by keeping some of the plunder and by not killing the Amalekite king as God had commanded him.
+  * God eventually destroyed these people who had regularly plundered Israel and other people groups.
+
+(Translation suggestions: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:vi:obe:other:negev]], [[:vi:obe:other:Arabia]], [[:vi:obe:other:Saul]], [[:vi:obe:other:david]], [[:vi:obe:other:Esau]])
+
+  * [[:vi:obe:other:altarofincense|Prev chunk]]: [[:vi:obe:other:altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:vi:obe:other:amazed|Next chunk]]: [[:vi:obe:other:amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside|publish-current]]
+
+===== Bible References: =====
+
+{{topic>Amalekite&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,69 @@
+====== Job 11:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Job, repent [IDI];
+\q2 reach out your hands toward God.
+\q1
+\v 14 If you have done evil things, stop doing them;
+\q2 and do not allow any people in your house to do wicked deeds.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Job, repent and make your heart humble;
+\q2 reach out your hands toward God and plead with him.
+\q1
+\v 14 If you have done evil things, stop doing them;
+\q2 and do not allow any people in your house to do wicked deeds.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 But suppose that you had set your heart right
+\q and had reached out with your hands toward God;
+\q
+\v 14 suppose that iniquity were in your hand, but that then you put it far away from you,
+\q and did not let unrighteousness live in your tents.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:unrighteous]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:tent]]
+
+===== Translation Notes: =====
+
+  * **Suppose you had set your heart right** - AT: "Even if you had stopped sinning" (See: [[:vi:ta:vol1:translate:figs_idiom]]) 
+  * **and had reached out with your hands toward God** - AT: "and had made an appeal and prayed to God" 
+  * **suppose that iniquity were in your hand** - AT: "even if you had done some evil things in the past" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **but then you put it far away from you** - "you stopped doing evil things."
+  * **did not let unrighteousness live in your tent** - AT: "and you did not allow the members of your household to sin." (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:11|Job Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:job:11:10|<<]] | [[:vi:bible:notes:job:11:15|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~

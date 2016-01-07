@@ -1,0 +1,45 @@
+====== Exodus 12:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Tell all the Israelite people that in each family, the man who heads the family must take a lamb or a young goat for his household.
+\v 4 If there are not enough people in his family to eat a whole \add cooked\add* lamb, then his family and the family that lives next door may share one animal. Decide how many lambs you need according to the number of people in each family, and according to how much each person can eat.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Tell all the Israelite people that in each family, the man who heads the family must take a lamb or a young goat for his household.
+\v 4 If there are not enough people in his family to eat a whole cooked lamb, then his family and the family that lives next door may share one animal. Decide how many lambs you need according to the number of people in each family and according to how much each person can eat.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 Tell the assembly of Israel, 'On the tenth day of this month they must each take a lamb or young goat for themselves, each family doing this, a lamb for each household.
+\v 4 If the household is too small for a lamb, the man and his next door neighbor are to take lamb or young goat meat that will be enough for the number of the people. It should be enough for everyone to eat, so they must take enough meat to feed them all.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:other:Israel]]
+  * [[:vi:obe:kt:lamb]]
+  * [[:vi:obe:other:goat]]
+  * [[:vi:obe:other:household]]
+  * [[:vi:obe:other:neighbor]]
+  * [[:vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+*
+  * **too small for a lamb** - AT: "too small to eat a whole cooked lamb"; (See: [[:vi:ta:vol1:translate:figs_explicit]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:12|Exodus Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:12:01|<<]] | [[:vi:bible:notes:exo:12:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

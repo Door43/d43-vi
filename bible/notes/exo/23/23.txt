@@ -1,0 +1,57 @@
+====== Exodus 23:23-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 My angel will go ahead of you, and will take you to where the Amor and Heth and Periz and Canaan and Hiv and Jebus people-groups live, and I will completely get rid of them.
+\v 24 Do not bow down before their gods\f + \ft Or: idols \f* or worship them. And do not do the things \add that they think that their gods want\add* them to do. Completely destroy their gods\f + \ft Or: idols \f*, and smash to pieces their sacred stones.
+\p
+\v 25 You must worship me, Yahweh God. \add If you do that\add*, I will bless your \f + \ft Or: bless \add you by giving you\add* \f* food and water, and I will protect you from becoming sick.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 My angel will go ahead of you and will take you to where the Amor, Heth, Periz, Canaan, Hiv, and Jebus people groups live, and I will completely get rid of them.
+\v 24 Do not bow down before their gods or worship them. Do not do the things that they think that their gods want them to do. Destroy their gods and smash to pieces their sacred stones.
+\p
+\v 25 You must worship me, Yahweh your God. If you do that, I will bless your food and water, and I will protect you from becoming sick.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 My angel will go before you and bring you to the Amorites, Hittites, Perizzites, Canaanites, Hivites, and the Jebusites.  I will destroy them.
+\v 24 You must not bow down to their gods, worship them, or do as they do.  Instead, you must completely overthrow them and smash their sacred stone pillars in pieces.
+\v 25 You must worship me, Yahweh your God. If you do, I will bless your bread and water. I will remove sickness from among you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:angel]]
+  * [[:vi:obe:other:amorite]]
+  * [[:vi:obe:other:hittite]]
+  * [[:vi:obe:other:perizzite]]
+  * [[:vi:obe:other:canaan]]
+  * [[vi:obe:other:hivite]]
+  * [[:vi:obe:other:jebusites]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:other:sacred]]
+  * [[:vi:obe:other:pillar]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:bless]]
+
+===== Translation Notes: =====
+Yahweh continues telling Moses his laws for the people of Israel. 
+  * **do as they do**  - "do the same things as the people who worship those gods"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:23|Exodus Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:23:20|<<]] | [[:vi:bible:notes:exo:23:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

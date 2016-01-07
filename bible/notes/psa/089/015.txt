@@ -1,0 +1,72 @@
+====== Psalms 089:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Yahweh, happy are the people who worship you with joyful shouts,
+\q2 who live knowing that you are always watching over them.
+\q1
+\v 16 Every day, throughout the day, they rejoice in what you \f + \ft metonymy \f* \add have done\add*,
+\q2 and they praise you for being very good \add to them\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Yahweh, how fortunate are those who  worship you with joyful shouts in their festivals,
+\q2 who live knowing that you are always watching over them.
+\q1
+\v 16 Every day, throughout the day, they rejoice in what you have done,
+\q2 and they praise you for being very good to them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 Blessed are the people who worship you!
+\q Yahweh, they walk in the light of your face.
+\q
+\v 16 They rejoice in your name all day long,
+\q and in your righteousness they exalt you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:walk]]
+  * [[:vi:obe:kt:light]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:exalt]]
+ 
+===== Translation Notes: =====
+
+
+    * **Blessed are the people who worship you!**  - AT: "Blessed are the people who worship you with joyful shouts!"
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:089|Psalms Chapter 089 Comprehension Questions]]**
+
+
+**[[en/bible/notes/psa/089/013|<<]] | [[en/bible/notes/psa/089/017|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,42 @@
+====== Deuteronomy 14:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Those are animals that have split hoofs and that also chew their cuds\f + \ft Or: regurgitate their food \add from their stomachs\add* to chew it again \f*.
+\v 7 But there are other animals that chew their cuds that you must not eat. Those are camels, rabbits, and rock badgers. They chew their cuds, but their hooves are not split. So they are not acceptable for you to eat.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Those are animals that have split hooves and that also chew the cud.
+\v 7 But there are other animals that chew the cud that you must not eat. Those are camels, rabbits, and rock badgers. They chew the cud, but their hooves are not split. So they are not acceptable for you to eat.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 You may eat any animals that parts the hoof, that is, that has the hoof divided in two,and that chews the cud.
+\v 7 Nevertheless, you must not eat some animals that chew the cud or that have the hoof divided in two: the camel, the rabbit, and the rock badger; because they chew the cud but do not part the hoof, they are unclean for you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:hooves]]
+  * [[:vi:obe:other:camel|camel]]
+  * [[:vi:obe:kt:unclean|unclean, uncleanness]]
+
+===== Translation Notes: =====
+
+  * **that parts the hoof** - "that have split hooves" (UDB). This is a hoof that is split into two parts instead of being one whole.
+  * **chews the cud** - This is an animal that brings its food up from its stomach and chews it again. 
+  * **rabbit** - a small animal with long ears that usually lives in holes in the ground (See: [[:vi:ta:vol1:translate:translate_unknown]])
+  * **rock badger** - a small animal that lives in rocky places
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:14|Deuteronomy Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:14:03|<<]] | [[:vi:bible:notes:deu:14:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

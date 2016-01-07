@@ -1,0 +1,67 @@
+====== Psalms 146:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 But those whose helper is the God whom Jacob \add worshiped\add* are happy.
+\q2 The one whom they confidently expect \add to help them\add* is Yahweh, their God.
+\q1
+\v 6 He is the one who created heaven and the earth
+\q2 and the oceans and all the creatures that are in them.
+\q1 He always does what he has promised to do.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 But how fortunate are those whom God helps, the God whom Jacob worshiped.
+\q2 These are the people who confidently expect Yahweh, their God, to help  them.
+
+\q1
+\v 6 He is the one who created the heavens and the earth,
+\q2 the oceans and all the creatures that are in them.
+\q1 He always does what he has promised to do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Blessed is he who has the God of Jacob for his help,
+\q whose hope is in Yahweh his God.
+\q
+\v 6 Yahweh made heaven and earth,
+\q the sea, and all that is in them;
+\q he observes trustworthiness forever.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:kt:hope]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:kt:forever]]
+ 
+
+===== Translation Notes: =====
+
+  * **God of Jacob** - See how you translated this in [[:vi:bible:notes:psa:020:001|20:1]]
+  * **observes trustworthiness** - AT: "remains faithful" 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:146|Psalms Chapter 146 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:146:003|<<]] | [[:vi:bible:notes:psa:146:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

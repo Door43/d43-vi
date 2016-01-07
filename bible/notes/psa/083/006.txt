@@ -1,0 +1,73 @@
+====== Psalms 083:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add The people who have done that are\add* the people of Edom \add region\add*,
+\q2 and the descendants of Ishmael \add who live on the east side of the Jordan River\add*,
+\q2 and the Moab people-group, and the descendants of Hagar \add who also live on the east side of the Jordan River\add*,
+\q2
+\v 7 the Gebal people-group, and the Ammon people-group, and the Amalek people-group,
+\q2 and the Philistia people-group, and the people of Tyre \add city\add*.
+\q2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 the people who live in the tents of Edom— 
+\q2 the Ishmaelites, Moab and the Hagrites, they conspire together with
+\v 7 the people of Gebal, and the Ammonites, and the Amalekites,
+\q2 and the Philistines, and the people of the city of Tyre.
+
+
+\q2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 This includes the tents of Edom and the Ishmaelites,
+\q and the people of Moab and the Hagrites, who plot together with
+\v 7 Gebal,  Ammon, Amalek;
+\q  it also includes Philistia and the inhabitants of Tyre.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tent]]
+  * [[:vi:obe:other:edom]]
+  * [[:vi:obe:other:ishmael]]
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:ammon]]
+  * [[:vi:obe:other:amalekite]]
+  * [[:vi:obe:other:philistines]]
+  * [[:vi:obe:other:tyre]]
+ 
+
+===== Translation Notes: =====
+
+The writer continues to list the people groups who want to destroy Israel.
+
+  * **the tents of Edom** - Tents were their homes so this means the people who lived there. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Hagrites, Gebal** - See how you translate names: [[:vi:ta:vol1:translate:translate_names]].)
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:083|Psalms Chapter 083 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/083/003|<<]] | [[en/bible/notes/psa/083/008|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book3}}
+
+~~NOCACHE~~

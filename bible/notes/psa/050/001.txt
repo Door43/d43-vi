@@ -1,0 +1,76 @@
+====== Psalms 050:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, the all-powerful one, speaks;
+\q1 he summons all people,
+\q2 from the east to the west.
+\q1
+\v 2 His glory shines from Zion \add Hill in Jerusalem\add*,
+\q2 an extremely beautiful city.
+\q
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, the all-powerful one, speaks;
+\q1 he summons all people,
+\q2 from the east to the west.
+\q1
+\v 2 His glory shines from Mount Zion in Jerusalem,
+\q2 an extremely beautiful city.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 50
+\d A psalm of Asaph.
+\b
+\q
+\v 1 The Mighty One, God, Yahweh, has spoken
+\q and called the earth from the rising of the sun to its setting.
+\q
+\v 2 Out of Zion, the perfection of beauty,
+\q God has shone.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:asaph]]
+  * [[:vi:obe:other:mighty]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:call]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:kt:perfect]]
+ 
+===== Translation Notes: =====
+
+
+    * **A psalm of Asaph** - This can also be written as a sentence. AT: “This is a psalm of Asaph” or “This is a psalm that Asaph wrote”
+    * **The Mighty One, God, Yahweh** - The author refers to God in three different ways to add emphasis to his importance.
+    * **from the rising of the sun to its setting** - This refers to the whole earth and everyone in it. AT: "from where to the sun rises to where it sets" (See: [[:vi:ta:vol2:translate:figs_merism]])
+    * **the perfection of beauty** - AT: "the most beautiful city"
+    * **God has shone** - AT: "The glory of God shines like the sun" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:049:018|<<]] | [[:vi:bible:notes:psa:050:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

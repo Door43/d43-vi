@@ -1,0 +1,60 @@
+====== Psalms 025:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 He always faithfully loves and does what he has promised
+\q2 to those who obey his agreement with them and who do what he requires.
+\q1
+\v 11 Yahweh, forgive me for all my sins, which are many,
+\q2 in order that I may honor you \f + \ft metonymy \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 He always faithfully loves us and does what he has promised
+\q2 for those who obey his covenant and who do what he requires.
+\q1
+\v 11 Yahweh, forgive me for all my sins, which are many,
+\q2 in order that I may honor you.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 All the paths of Yahweh are made from covenant faithfulness and trustworthiness
+\q to those who keep his covenant and his solemn commands.
+\q
+\v 11 For your name's sake, Yahweh,
+\q pardon my sin, for it is great.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:trust]]
+  * [[vi:obe:kt:covenant]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:pardon]]
+===== Translation Notes: =====
+
+  * **All the paths of Yahweh are made from covenant faithfulness and trustworthiness** - The phrase "paths of Yahweh" refers to the way he lives and behaves. AT: Yahweh is always faithful because of his covenant and he is always trustworthy. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **for your name's sake** - The phrase “your name” here refers to Yahweh's reputation. AT: “for your reputation” or “so that people will honor you”
+  * **pardon my sin for it is great** - AT: "Please pardon me, for I have sinned much" or "I have sinned terribly; please forgive me"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:025|Psalms Chapter 025 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:025:008|<<]] | [[:vi:bible:notes:psa:025:012|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

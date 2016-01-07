@@ -1,0 +1,71 @@
+====== Jeremiah 51:45-46 ======
+
+===== TFT: =====
+
+<usfm>
+\v 45 \add Yahweh also says\add*, "My people, come out of Babylon!
+\q2 Flee to escape!
+\q2 Run, because I, Yahweh, am extremely angry \f + \ft metonymy \f* \add with the people of Babylon, and I will get rid of them\add*!
+\q1
+\v 46 Do not be discouraged\f + \ft Or: worried \f* [IDI] or afraid
+\q2 when you hear reports \add about what is happening in Babylon\add*.
+\q1 People will report rumors like that every year,
+\q2 rumors about violent things being done in the land,
+\q2 and rumors about leaders fighting against each other.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 45 Yahweh also says, "My people, come out of Babylon!
+\q2 Flee to escape!
+\q2 Run, because I, Yahweh, am extremely angry with the people of Babylon, and I will get rid of them!
+\q1
+\v 46 Do not be discouraged or afraid
+\q2 when you hear reports about what is happening in Babylon.
+\q1 People will report rumors like that every year,
+\q2 rumors about violent things being done in the land,
+\q2 and rumors about leaders fighting against each other.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 45 Go out from her midst, my people. Let each of you save his own life from the fury of my wrath.
+\q
+\v 46 Do not let your hearts be timid or fear the news that is heard in the land,
+\q for the news will come one year. After it in the next year there will be news,
+\q and violence will be in the land. Ruler will be against ruler.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:kt:save|save]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:wrath|wrath]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:vi:obe:other:ruler|ruler, rulers, rule]]
+
+===== Translation Notes: =====
+
+  * **midst**  - This means a middle area or part of something.
+  * **fury**  - This means violent anger.
+  * **timid**  - This means feeling or showing a lack of courage or confidence.
+  * **rumors**  - This means information or story that has not been proven to be true.
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:51|Jeremiah Chapter 51 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:51:43|<<]] | [[:vi:bible:notes:jer:51:47|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

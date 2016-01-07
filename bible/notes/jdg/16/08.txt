@@ -1,0 +1,49 @@
+====== Judges 16:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 So \add after Delilah told that to the Philistine leaders\add*, they brought seven new bowstrings to Delilah.
+\v 9 Then she hid them in one of the rooms in her house. Then \add while Samson was sleeping on her lap\add*, she tied him up with the bowstrings. Then she called out, "Samson! The Philistines have come here to capture you!" But Samson snapped the bowstrings as easily as though they were strings that had been singed in a fire. So the Philistines did not find out what made Samson so strong.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 So after Delilah told that to the Philistine leaders, they brought seven new bowstrings to Delilah.
+\v 9 Then she hid the leaders in one of the rooms in her house. She tied Samson up with the bowstrings and then called out, "Samson! The Philistines have come here to capture you!" But Samson snapped the bowstrings as easily as though they had been strings that had been singed in a fire. So the Philistines did not find out what made Samson so strong.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Then the rulers of the Philistines brought up to Delilah seven fresh  bowstrings that had not been dried, and she tied Samson up with them.
+\v 9 Now she had men hiding in secret, staying in her inner room. She said to him, “The Philistines are upon you, Samson!” But he broke the bowstrings like a thread of yarn when it touches the fire. And they did not learn the secret of his strength.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ruler]]
+  * [[:vi:obe:other:philistines|Philistines]]
+  * [[:vi:obe:other:delilah|Delilah]]
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:samson]]
+  * [[:vi:obe:other:fire]]
+
+===== Translation Notes: =====
+
+  * **she tied Samson up with them**  - "Delilah tied Samson up with the fresh bowstrings"
+  * **he broke the bowstrings like a thread of yarn when it touches the fire**  - This compares the bowstrings which normally cannot be broken easily to something that breaks very quickly. AT: "he broke the bowstrings easily" (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:16|Judges Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:16:06|<<]] | [[:vi:bible:notes:jdg:16:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

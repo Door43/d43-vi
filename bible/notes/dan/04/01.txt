@@ -1,0 +1,89 @@
+====== Daniel 04:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Several years after\add* Nebuchadnezzar \add started to rule\add*, he sent this message to the people of every nation and people-group and all language groups in his empire. He wrote,
+\b
+\pi "I wish\f + \ft Or: hope \f* that all things go very well with you!
+\b
+\pi
+\v 2 I want you to know about all the wonderful miracles \f + \ft doublet \f* that the Supreme God has performed for me.
+\b
+\q1
+\v 3 He performs great miracles,
+\q2 and does wonderful things.
+\q1 His kingdom will last forever;
+\q2 his rule \add over people\add* will never end.
+\b
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Several years after Nebuchadnezzar started to rule, he sent this message to every people, nation, and language in his empire. He wrote,
+\b
+\pi "I wish that all things will go very well with you!
+\b
+\pi
+\v 2 I want you to know about all the ways in which God Most High has shown his power, and how he has done so many amazing things for me. 
+\b
+\q1
+\v 3 He performs great miracles that show his power;
+\q2 he does wonderful things.
+\q1 He will always be king;
+\q2 he will rule from one generation to another without end.
+\b
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\p
+\v 1 King Nebuchadnezzar sent this decree to all peoples, nations, and languages who lived on the earth: "May your peace increase.
+\v 2 It has seemed good to me to tell you about the signs and wonders that the Most High has done for me.
+\v 3 
+\q How great are his signs, 
+\q and how mighty are his wonders! 
+\q His kingdom is an everlasting kingdom, 
+\q and his dominion lasts from generation to generation."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:peace]]
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:mosthigh]]
+  * [[:vi:obe:other:mighty]]
+  * [[:vi:obe:other:kingdom]]
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:dominion]]
+  * [[:vi:obe:other:generation]]
+
+===== Translation Notes: =====
+
+  * **King Nebuchadnezzar sent** - AT: "Nebuchadnezzar sent his messengers with" (See: [[vi:ta:vol2:translate:figs_metonymy]])
+  * **all peoples, nations, and languages** - "all peoples of every nation and language"
+  * **who lived on the earth** - Often kings will generate how wide their kingdom is. Nebuchadnezzar did though rule over most of the known world at time this book was written. (See: [[vi:ta:vol2:translate:figs_hyperbole]])
+  * **May your peace increase** - This is a common greeting.
+  * **signs and wonders** - Both of these words have the same meaning. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **How great are his signs, and how mighty are his wonders!** - Both of these phrases have the same meaning and are used to emphasize how great God's signs and wonders are. (See: [[vi:ta:vol2:translate:figs_parallelism]])
+  * **His kingdom is ... generation to generation** - Both of these phrases have the same meaning and are repeated to emphasize how God's reign is forever. (See: [[vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:04|Daniel Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:03:29|<<]] | [[:vi:bible:notes:dan:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

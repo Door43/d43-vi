@@ -1,0 +1,68 @@
+====== 2 Kings 21:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 He imitated the behavior of his father, and he worshiped the same idols that his father had worshiped \f + \ft doublet \f*.
+\v 22 He abandoned Yahweh, the God whom his ancestors had \add worshiped\add*, and did not behave as Yahweh wanted him to.
+\v 23 Then one day some of his officials made plans to kill him. They assassinated him in the palace.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 He imitated the behavior of his father, and he worshiped the same idols that his father had worshiped.
+\v 22 He abandoned Yahweh, the God whom his ancestors had worshiped, and did not behave as Yahweh wanted him to behave.
+\v 23 Then one day some of his officials made plans to kill him. They assassinated him in the palace.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 Amon followed in all the way that his father had walked in and worshiped the idols that his father worshiped, and bowed down to them.
+\v 22 He abandoned Yahweh, the God of his fathers, and did not walked in the way of Yahweh.
+\v 23 The servants of Amon conspired against him and put the king to death in his own house.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:walk]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:other:idol]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **followed in all the way that his father had walked in**  - AT: lived completely the way his father had lived"
+    * **He abandoned Yahweh**  - "Amon completely gave up following Yahweh"
+    * **conspired against him**  - "plotted against him"
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:21|2 Kings Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/21/19|<<]] | [[en/bible/notes/2ki/21/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

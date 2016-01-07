@@ -1,0 +1,79 @@
+====== Psalms 073:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 The result is that people listen to what they say and praise them
+\q2 and do not think that they have done anything that is wrong.
+\q1
+\v 11 Wicked people say \add to themselves\add*, "God will certainly not \f + \ft rhetorical question \f* know \add what we have done\add*;
+\q2 people say that he is greater than any other god, but he cannot \f + \ft rhetorical question \f* find out."
+\b
+\q1
+\v 12 That is what wicked people are like;
+\q2 they never worry about anything, and they are always becoming richer.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 The result is that people pay attention to them 
+\q2 and listen to everything they say.
+\q1
+\v 11 Wicked people say to themselves, "God will certainly not  know what we have done;
+\q2 people say that he is greater than any other god, but he cannot find out."
+\b
+\q1
+\v 12 That is what wicked people are like;
+\q2 they never worry about anything, and they are always becoming richer.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Therefore God's people turn to them
+\q and drink deeply at their words.
+\q
+\v 11 They say, "How does God know?
+\q  Does God know what goes on?"
+\q
+\v 12 Take notice: these people are wicked;
+\q they are always carefree, becoming richer and richer.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:other:peoplegroup]]
+ 
+
+===== Translation Notes: =====
+
+The wicked people influence Israel.
+
+  * **drink deeply at their words**  - This expression means "to listen." AT: "receive and absorb their words" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **They say**  - The word "They" here refers to the wicked people.
+  * **How does God know? Does God know what goes on?**  - These two rhetorical questions share similar meanings and are combined for emphasis. The wicked doubt God's ability to know all things. (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:073:008|<<]] | [[:vi:bible:notes:psa:073:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

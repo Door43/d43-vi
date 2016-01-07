@@ -1,0 +1,66 @@
+====== Psalms 119:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Rulers gather together and plan ways to harm me,
+\q2 but I will meditate on\f + \ft Or: study \f* your statutes\f + \ft Or: what you have decreed \f*.
+\q1
+\v 24 I am delighted with your requirements\f + \ft Or: what you have instructed us to do \f*;
+\q2 \add it is as though\add* they are my advisors.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Rulers gather together and plan ways to harm me,
+\q2 but I will meditate on what you have commanded.
+\q1
+\v 24 I am delighted with your requirements;
+\q2 it is as though they were my advisors.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Though rulers plot and slander me,
+\q your servant meditates on your statutes.
+\q
+\v 24 Your covenant decrees are my delight,
+\q and they are my counselors.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ruler|ruler, rulers]]
+  * [[:vi:obe:other:slander|slander, slanderer]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:meditate|meditate]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+  * [[:vi:obe:other:counselor|counsel, counselor]]
+
+===== Translation Notes: =====
+
+  * **Though rulers plot and slander me** - "Though rulers make plans to harm me and say bad things about me"
+  * **Your covenant decrees are my delight**  - "Your covenant decrees make me very happy."
+  * **and they are my counselors** - God's decrees are spoken of as if they were  people.  AT: "and they are like wise counselors to me" or "and they give me wise counsel" (See [[:vi:ta:vol2:translate:figs_personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:021|<<]] | [[:vi:bible:notes:psa:119:025|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

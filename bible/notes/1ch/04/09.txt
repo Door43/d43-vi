@@ -1,0 +1,54 @@
+====== 1 Chronicles 04:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 There was \add another descendant of Judah\add* whose name was Jabez. He was more respected than his brothers were. His mother named him Jabez \add which means 'pain'\add* because she said, "I was enduring much pain when I gave birth to him."
+\v 10 \add One day\add* he prayed to God whom his fellow Israelites \add worshiped\add*, saying, "Please greatly bless me and increase my land\f + \ft Or: property \f*. Remain [IDI] with me, and do not allow anyone to harm me. If you do that for me, I will not have any pain." And God did what Jabez requested him to do.
+\b
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 There was another descendant of Judah whose name was Jabez. He was more respected than his brothers were. His mother named him Jabez which means 'pain' because she said, "I was enduring much pain when I gave birth to him."
+\v 10 One day he prayed to God whom his fellow Israelites worshiped, saying, "Please greatly bless me and increase my land. Remain with me, and do not allow anyone to harm me. If you do that for me, I will not have any pain." And God did what Jabez requested him to do.
+\b
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 Jabez was more respected than his brothers. His mother called him Jabez. She said, "Because I bore him in pain."
+\v 10 Jabez called out to the God of Israel and said, "If only you would bless me indeed, and extend my territory. May your hand  be with me; keep me from harm so that  I might not have to endure pain!" And God granted him his prayer.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:call]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:bless]]
+  * [[vi:obe:other:hand]]
+  * [[vi:obe:kt:endure]]
+  * [[:vi:obe:other:pray]]
+
+===== Translation Notes: =====
+
+  * **Jabez**  - This is the name of a man. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **extend my territory** - AT: "give me more land"
+  * **May your hand be with me** - God is referred to by the part of the body used to show others direction. AT: "May you guide me" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **granted him his prayer** - "did according to his prayer"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:04|1 Chronicles Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:04:05|<<]] | [[:vi:bible:notes:1ch:04:11|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

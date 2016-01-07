@@ -1,0 +1,61 @@
+====== Psalms 031:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 You have not allowed my enemies to capture me;
+\q2 instead, you have rescued me from danger.
+\b
+\q1
+\v 9 But now, Yahweh, act kindly toward me
+\q2 because I am distressed.
+\q1 Because I cry so much, I cannot see well,
+\q2 and I am completely exhausted.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 You have not allowed my enemies to capture me;
+\q2 instead, you have rescued me from danger.
+\b
+\q1
+\v 9 But now, Yahweh, act kindly toward me
+\q2 because I am distressed.
+\q1 Because I cry so much, I cannot see well,
+\q2 and I am completely exhausted.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 You have not handed me over to my enemy.
+\q You have set my feet in a wide open place.
+\q
+\v 9 Have mercy upon me, Yahweh, for I am in distress;
+\q my eyes grow weary with grief  with my soul and my body.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:kt:body]]
+===== Translation Notes: =====
+
+  * **You have set my feet in a wide open place** - AT: "You have set me in a place where the enemy cannot capture me." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **I am in distress** - "I am suffering greatly;" 
+  * **my soul and my body** - The terms "soul and body" are used to describe the complete person. 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:031|Psalms Chapter 031 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:031:005|<<]] | [[:vi:bible:notes:psa:031:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

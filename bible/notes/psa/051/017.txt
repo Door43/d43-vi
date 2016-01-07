@@ -1,0 +1,78 @@
+====== Psalms 051:17-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 The sacrifice that you really want is for people to be truly humble and sorry \add for having sinned\add*;
+\q2 O God, you will not refuse that kind of sacrifice.
+\b
+\q1
+\v 18 O God, be good to \add the people who live in\add* Jerusalem \f + \ft metonymy \f*,
+\q2 \add and help them\add* to rebuild the city walls.
+\q1
+\v 19 When that happens, \add they will bring you\add* the proper sacrifices,
+\q2 animals that they completely burn,
+\q2 young bulls that they burn on your altar
+\q2 and you will be pleased.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 The sacrifice that you really want is for people to be truly humble and sorry for having sinned;
+\q2 O God, you will not refuse that kind of sacrifice.
+\b
+\q1
+\v 18 O God, be good to the people who live in Jerusalem;
+\q2 help them to rebuild the city walls.
+\q1
+\v 19 When that happens, they will bring you the proper sacrifices,
+\q2 animals that they completely burn,
+\q2 young bulls that they burn on your altar,
+\q2 and you will be pleased.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 The sacrifices of God are a broken spirit;
+\q you will not despise a broken and a contrite heart, God.
+\b
+\q
+\v 18 Do good in your good pleasure to Zion;
+\q rebuild the walls of Jerusalem.
+\q
+\v 19 Then will you delight in the sacrifices of righteousness,
+\q in burnt offerings and whole burnt offerings;
+\q then our people will offer bulls on your altar.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:God]]
+  * [[vi:obe:kt:spirit]]
+  * [[vi:obe:other:heart]]
+  * [[:vi:obe:other:zion|Zion, Mount Zion]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[vi:obe:kt:righteous]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:cow|cow, calf, bull]]
+  * [[:vi:obe:other:altar|altar]]
+
+===== Translation Notes: =====
+
+  * **a broken spirit**  - This phrase describes and attitude of humility and repentence before God. The person acknowledges he is nothing apart from God. AT: "a person who is humble" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **you will not … your good pleasure **- The words "you" and "your" refer to God. This is a prayer to God where David shows his understanding of what pleases God.
+  * **a broken and a contrite heart**  - The heart refers to a person's emotions. This phrase refers to a person who feels regret but understands he cannot do anything to correct what he has done wrong. AT: "a person who regrets his sin and admits he needs help" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **rebuild the walls of Jerusalem**  - The walls of a city protect the city and help the people feel secure. This prayer asks for God's protection by asking him to rebuild the city's walls. AT: "protect Jerusalem and make the city great" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **our people will offer bulls on your altar**  - A bull is an adult male cow. Bulls were often used as sacrificial animals, according to God's instruction.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:051|Psalms Chapter 051 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:051:014|<<]] | [[:vi:bible:notes:psa:052:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

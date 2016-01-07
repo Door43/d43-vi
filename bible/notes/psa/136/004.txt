@@ -1,0 +1,54 @@
+====== Psalms 136:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 He is the only one who performs great miracles;
+\q2 his faithful love for us endures forever.
+\q1
+\v 5 He is the one who by being very wise created the heavens;
+\q2 his faithful love for us endures forever.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 He is the only one who performs great miracles;
+\q2 he will love us forever as he has promised.
+\q1
+\v 5 He is the one who, by being very wise, created the heavens;
+\q2 he will love us forever as he has promised.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 to him who alone does great wonders,
+\q for his covenant faithfulness endures forever—
+\q
+\v 5 to him who by wisdom made the heavens,
+\q for his covenant faithfulness endures forever—
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:136:001|<<]] | [[:vi:bible:notes:psa:136:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

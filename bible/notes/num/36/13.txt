@@ -1,0 +1,40 @@
+====== Numbers 36:13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Those were the commands \f + \ft doublet \f* that Yahweh gave to Moses\f + \ft Or: me \f* to tell to the Israelites, while they\f + \ft Or: we \f* were on the plains of the Moab region, close to the Jordan River, across from Jericho.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Those were the commands and decrees that Yahweh gave to Moses to tell to the Israelites, while they were on the plains of Moab, close to the Jordan River, across from Jericho.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 These are the commands and the decrees that Yahweh gave by Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:other:moab|Moab, Moabite, Moabitess]]
+  * [[:vi:obe:other:jordanriver|Jordan River]]
+  * [[:vi:obe:other:jericho|Jericho]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:36|Numbers Chapter 36 Comprehension Questions]]**
+**[[:vi:bible:notes:num:36:10|<<]] | **
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

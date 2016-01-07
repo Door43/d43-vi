@@ -1,0 +1,47 @@
+====== Amos 05:27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Therefore, now I will force you to go to \add a country that is\add* far beyond Damascus!
+\q1 \add That will surely happen because\add* I, the Almighty Commander of the armies of angels, have said it!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 For I will now force you to go to a country that is far beyond Damascus!
+\q1 That will surely happen because I, Yahweh, Commander of the angel armies, have said it!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 Therefore I will exile you beyond Damascus,"
+\q says Yahweh,
+\q whose name is the God of hosts.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:exile]]
+  * [[:vi:obe:other:damascus]]
+  * [[;en:obe:kt:yahweh]]
+  * [[:vi:obe:kt:yahwehofhosts]] 
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:05|Amos Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:05:25|<<]] | [[:vi:bible:notes:amo:06:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

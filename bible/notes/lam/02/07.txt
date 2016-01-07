@@ -1,0 +1,66 @@
+====== Lamentations 02:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Yahweh has rejected his own altar
+\q2 and abandoned his temple.
+\q1 He has allowed our enemies to tear down the walls
+\q2 of our temple and our palaces.
+\q1 They shout \add victoriously\add* in the temple of Yahweh,
+\q2 like we previously shouted during our sacred festivals.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh has rejected the very altar on which we had sacrificed animals to him;
+\q2 he has abandoned his temple.
+\q1 He has allowed our enemies to tear down the walls
+\q2 of our temple and our palaces.
+\q1 They shout victoriously in the temple of Yahweh,
+\q2 like we previously shouted during our sacred festivals.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 The Lord has rejected his altar; he has spurned his sanctuary.
+\q He has given over the walls of her citadels into the hand of the enemy.
+\q They have made a sound of victory in the house of Yahweh, as on the day of a solemn assembly.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:reject]]
+  * [[:vi:obe:kt:lord]]
+  * [[vi:obe:other:altar]]
+  * [[:vi:obe:kt:sanctuary]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:houseofgod]]
+
+===== Translation Notes: =====
+
+  * **He has given over...into the hand of the enemy** - AT: "He has turned over...to the enemy" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **the walls of her citadels** - Here the word "her" may refer either to Jerusalem or to the temple. Possible translations are 1) "the walls of Jerusalem's palaces" or 2) "the walls of the temple." 
+  * **They have made a sound of victory in the house of Yahweh, as on the day of a solemn assembly.** - This is an ironic comparison between the happy, noisy festivals of Israel and the loud shouts of victory of the Babylonians. (See: [[:vi:ta:vol1:translate:figs_irony]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:02|Lamentations Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:02:05|<<]] | [[:vi:bible:notes:lam:02:08|>>]]**
+
+~~DISCUSSION~~{{tag>review text}}
+
+~~NOCACHE~~

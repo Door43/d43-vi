@@ -1,0 +1,36 @@
+===== Report a Problem =====
+
+This module answers the question: How do I report a problem?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:tech:ts_intro|translationStudio]]
+
+==== Reporting Problems ====
+
+Sometimes translationStudio may not work as expected.\\
+
+At times the program may restart, also called a 'crash'. This is most likely not because of what the translator did. When this happens, the **Feedback** window will open and a request to type into the space an explanation of what was being done just before the program restarted.
+
+At other times, the translator may want to mention a problem with the program or content. For this, go to the Translating Editing Window and tap on the 3 dots found at the bottom left of the window. Choose **Feedback** from the list. Use the keyboard to type in an explanation of the problem that you have been experiencing. 
+
+**Note:** The Feedback option is only available when there is an Internet connection.
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[vi:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[vi:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[vi:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[vi:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[vi:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_request|Find my Language]]
+  * [[vi:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[vi:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[vi:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[vi:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[vi:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[vi:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+

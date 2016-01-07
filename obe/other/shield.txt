@@ -2,19 +2,18 @@
 
 ===== Definition: =====
 
-A shield is a protective covering worn on one's arm while in battle. Shields take a variety of forms, but often are circular or oval in shape, and constructed of sturdy materials to withstand an enemy attack by arrow or sword.
+A shield is an object held by a soldier in battle to protect himself from flying arrows and other forms of attack by an enemy. To shield someone means to protect that person from harm.
 
-  * bullet
-  * bullet
+  * Shields could be different shapes, but often were circular or oval.
+  * They were made of sturdy materials such as leather, wood, or metal that could withstand piercing by a sword or arrow.
+  * Using this term as a metaphor, the Bible refers to God as a protective shield for his people.
+  * Paul also talks about the "shield of faith" which protects believers from spiritual attacks from Satan.
 
-(See also: other)
 
 ===== Bible References: =====
 
-{{topic>shield&nocomments}}
-
-~~DISCUSSION~~
+{{topic>shield&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>draft ezk32 ktlink}}
+{{tag>publish}}

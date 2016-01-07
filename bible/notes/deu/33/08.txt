@@ -1,0 +1,67 @@
+====== Deuteronomy 33:8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 I say this about \add the tribe of\add* Levi:
+\q1 Yahweh, give to those who are dedicated to you the sacred stones \add that they will use to find out what you want to be done\add*;
+\q1 You tested them at a spring in the desert, a spring that they named Massah and also named Meribah
+\q2 \add to find out if they would remain loyal to\f + \ft Or: continue to obey \f* you\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 I say this about the tribe of Levi:
+\q Yahweh, give to those who are dedicated to you the sacred stones that they will use to find out what you want to be done;
+\q You tested them at a spring in the desert, a spring that they named Massah and also named Meribah
+\q to find out if they would remain loyal to you.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 About Levi, Moses said:
+\q “Your Thummim and your Urim belong to the one you are pleased with,
+\q the one whom you tested  at Massah,
+\q with whom you struggled at the waters of Meribah.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:levite]]
+  * [[:vi:obe:kt:test]]
+  * [[:vi:obe:other:water]]
+ 
+
+===== Translation Notes: =====
+Moses continues blessing each tribe of Israel.
+
+    * **Your Thummim and your Urim** - These were sacred stones the high priest carried on his breastplate and used at times to determine God's will. Here "your" refers to Yahweh. (See: [[:vi:ta:vol1:translate:figs_you]])
+    * **the one you are pleased with** - "your holy one." This refers to the tribe of Levi.
+    * **Massah** - See how you translated this name in [[vi:bible:notes:deu:06:16|6:16]]. Translator may add a footnote that says: "The name 'Massah' means 'testing.'"
+    * **Meribah** - See how you translated this name in [[vi:bible:notes:deu:32:50|32:51]]. Translator may add a footnote that says: "The name 'Meribah' means 'argue' or 'quarrel.'"
+    
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/07|<<]] | [[en/bible/notes/deu/33/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

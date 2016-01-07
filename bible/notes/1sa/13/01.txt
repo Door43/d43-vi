@@ -1,0 +1,71 @@
+====== 1 Samuel 13:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Saul was no longer a young man when he became the king. He ruled Israel for forty-two years.
+\p
+\v 2 \add Several years after he became king\add*, he chose three thousand men from the Israelite army to go with him \add to fight the Philistines\add*. Then he sent the other soldiers back home. Of the men he chose, two thousand stayed with Saul at Micmash and in the hilly area near Bethel, and a thousand stayed with \add Saul's son\add* Jonathan at Gibeah, in the area where the descendants of Benjamin lived.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Saul was...years old when he began to reign.
+\p
+\v 2 Some years after he became king, he chose three thousand men from the Israelite army to go with him to fight the Philistines. Then he sent the other soldiers back home. Of the men he chose, two thousand stayed with Saul at Micmash and in the hilly area near Bethel, and a thousand stayed with Saul's son Jonathan at Gibeah, in the area of the tribe of Benjamin.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 13
+\p
+\v 1 Saul was...years old when he began to reign; when he had reigned...years over Israel,
+\v 2 he chose three thousand men of Israel. Two thousand were with him in Michmash and in the hill country of Bethel,
+while a thousand were with Jonathan in Gibeah of Benjamin. The rest of the soldiers he sent home, each man to his tent.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:saul]]
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:elect]]
+  * [[:vi:obe:other:bethel]]
+  * [[:vi:obe:other:jonathan]]
+  * [[:vi:obe:other:benjamin]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:tent]]
+ 
+
+===== Translation Notes: =====
+
+Samuel has renewed Saul's kingdom at Gilgal and Samuel has reminded the people to follow the Lord. 
+
+    * **The rest of the soldiers he sent home** - "He sent the rest of the soldiers home"
+    * **chose three thousand men** - "chose 3,000 men" (See: [[vi:ta:vol2:translate:translate_numbers]])
+    * **Two thousand were with him in Michmash** - "2,000 were with him in Mishmash" (See: [[:vi:ta:vol1:translate:translate_names]])
+    * **Gibeah of Benjamin** - See how you translated "Gibeah" in [[vi:bible:notes:1sa:10:26|10:26]]
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:13|1 Samuel Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/12/24|<<]] | [[en/bible/notes/1sa/13/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>text}}
+~~NOCACHE~~

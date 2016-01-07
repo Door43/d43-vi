@@ -1,0 +1,60 @@
+====== 2 Chronicles 31:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Hezekiah told the people living in Jerusalem to give to the priests and the other descendants of Levi the portions \add of meat\add* that should be given to them, in order that they could devote all their time to obeying the laws of Yahweh.
+\v 5 As soon as he told that to them, they generously gave the first part of their harvest of grain, and the first part of the new wine \add that they produced\add*, and olive oil and honey, and of the crops that grew in their fields. They brought \add to the temple\add* a tenth of all their crops.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Hezekiah told the people living in Jerusalem to give to the priests and the other descendants of Levi the portions of meat that should be given to them, in order that they could devote all their time to obeying the laws of Yahweh.
+\v 5 As soon as he told that to them, they generously gave the first part of their harvest of grain, and the first part of the new wine that they produced, and olive oil and honey, and of the crops that grew in their fields. They brought to the temple a tenth of all their crops.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Moreover, he commanded the people who lived in Jerusalem to give the portion for the priests and the Levites, so that they might concentrate on obeying the law of Yahweh.
+\v 5 As soon as the command went out, the people of Israel gave in abundance the first fruits of grain, new wine,
+oil, honey, and from all their harvest of the field; and also the tithe of all things brought they in abundantly.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:command]]
+  * [[:vi:obe:kt:life]]
+  * [[:En:obe:other:obey]]
+  * [[:En:obe:other:israel]]
+  * [[:En:obe:kt:firstfruit]]
+  * [[:vi:obe:other:grain]]
+  * [[:vi:obe:other:wine]]
+  * [[:En:obe:other:oil]]
+  * [[:En:obe:other:honey]]
+  * [[:vi:obe:kt:harvest]]
+  * [[:En:obe:other:tenth]]
+
+===== Translation Notes: =====
+
+  * **the tithe of all things brought they in abundantly** - AT: "They brought a lot from a tenth from everything"
+ 
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ch:31|2 Chronicles Chapter 31 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ch/31/02|<<]] | [[en/bible/notes/2ch/31/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,71 @@
+====== Psalms 104:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 But if you refuse to give food to them,
+\q2 they become terrified.
+\q1 And when you cause them to stop breathing, they die;
+\q2 their bodies \add decay and\add* become soil again.
+\q1
+\v 30 When you cause newborn creatures to begin to breathe,
+\q2 they start to live;
+\q2 You give new life to all the living creatures on the earth.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 But if you refuse to give food to them,
+\q2 they become terrified.
+\q1 When you cause them to stop breathing, they die;
+\q2 their bodies decay and become soil again.
+\q1
+\v 30 When you cause newborn creatures to begin to breathe,
+\q2 they start to live;
+\q2 You give new life to all the living creatures on the earth.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 When you hide your face, they are troubled;
+\q if you take away their breath, they die
+\q and return to dust.
+\q
+\v 30 When you send out your Spirit, they are created,
+\q and you renew the countryside.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:face]]
+  * [[vi:obe:other:trouble]]
+  * [[vi:obe:kt:breath]]
+  * [[vi:obe:kt:death]]
+  * [[vi:obe:other:send]]
+  * [[vi:obe:kt:holyspirit]]
+  * [[vi:obe:other:creation]]
+
+===== Translation Notes: =====
+
+  * **hide your face**  - AT: "when you do not look upon them" or "when you ignore them" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **dust** - "dirt" or "ground"
+  * **When you send out your Spirit, they are created** - AT: "Your Holy Spirit gives life and creates them" 
+  * **renew** - to make something new again
+  * **the countryside** - "the land"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:104|Psalms Chapter 104 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:104:027|<<]] | [[:vi:bible:notes:psa:104:031|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

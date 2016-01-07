@@ -1,0 +1,59 @@
+====== 1 Samuel 16:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Then Saul sent \add a messenger to go\add* to Jesse and tell him, "I am pleased with David. Please let him stay here and work for me."
+\p
+\v 23 \add Jesse agreed, and after that\add*, whenever the evil spirit whom God sent tormented Saul, David played the harp. Then Saul would become calm, and the evil spirit would leave him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Then Saul sent a messenger to go to Jesse and tell him, "I am pleased with David. Please let him stay here and work for me."
+\p
+\v 23 Jesse agreed, and after that, whenever the evil spirit whom God sent tormented Saul, David played the harp. Then Saul would become calm, and the evil spirit would leave him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 Saul sent to Jesse, saying, "Let David stand before me, for he has found favor in my sight."
+\v 23 Whenever the harmful spirit from God was upon Saul, David took the harp and played it. So Saul would be refreshed and well, and the harmful spirit would depart from him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:saul]]
+  * [[:vi:obe:other:jesse]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:favor]]
+  * [[vi:obe:kt:demon]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:harp]]
+
+===== Translation Notes: =====
+
+  * **Let David stand before me** - AT: "Let David stay in my service" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **harmful spirit from God** - See how you translated this in [[vi:bible:notes:1sa:16:14|16:14-16]].
+  * **Saul would be refreshed and well** - AT: "the music would refresh Saul and make him well" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:16|1 Samuel Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/16/20|<<]] | [[en/bible/notes/1sa/17/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

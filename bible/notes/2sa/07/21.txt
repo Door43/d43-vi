@@ -1,0 +1,60 @@
+====== 2 Samuel 07:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 For my sake and because it is what you wanted to do, you have done all these great for me.
+\pi
+\v 22 O Yahweh my God, you are great. There is no one like you. Only you are God, just as we have always heard.
+\v 23 And there is no other nation in the world like Israel. Israel is the only nation on the earth whose people you went out to rescue \f + \ft rhetorical question \f*. By the great and awesome things that you did, you have become famous\f + \ft Or: well \f*-known throughout the world. As your people advanced \add through this land\add*, you expelled other people-groups \add who were in Canaan\add*, who worshiped other gods.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 You have done all these great things to teach me, and you have done them just because you wanted to do them and because you decided to do them. 
+\pi
+\v 22 O Yahweh my God, you are great. There is no one like you. Only you are God, just as we have always heard.
+\v 23 And there is no other nation in the world like Israel. Israel is the only nation on the earth whose people you went out to rescue, as you rescued them from Egypt. Then you made them belong to you yourself. And for doing all these things, you are now well known throughout the world. As your people advanced through this land, you drove out other people groups who were in Canaan, along with their gods.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 For your word’s sake, and to fulfill your own purpose, you have done this great thing and revealed it to your servant.
+\v 22 Therefore you are great, Lord Yahweh. For there is none like you, and there is no God besides you, just as we have heard with our own ears. 
+\v 23 And what nation is like your people Israel, the one nation on earth whom you, God, went and rescued for yourself? You did this so that they would become a people for yourself, to make a name for yourself, and to do great and fearful deeds for your land. You drove out nations and their gods from before your people, whom you rescued from Egypt.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:kt:reveal|reveal, revelation]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:kt:willofgod|will of God]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:earth|earth]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+
+===== Translation Notes: =====
+
+  * **And what nation is like your people Israel, the one nation on earth whom you, God, went and rescued for yourself?**  - This question is asked to encourage the audience to think deeply about something they already know. AT: "There is no nation like your people Israel" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **just as we have always heard**  - Here the "we" is referring to David and the nation of Israel. 
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:07|2 Samuel Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:07:18|<<]] | [[:vi:bible:notes:2sa:07:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

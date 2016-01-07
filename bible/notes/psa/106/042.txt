@@ -1,0 +1,63 @@
+====== Psalms 106:42-43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 Their enemies oppressed them\f + \ft Or: treated them cruelly \f*
+\q2 and caused them to be completely controlled by their enemies \f + \ft metaphor \f*.
+\q1
+\v 43 Many times Yahweh rescued them,
+\q2 but they continued to rebel against him,
+\q2 and they were finally destroyed because of the sins that they committed.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 Their enemies oppressed them
+\q2 and completely controlled them.
+\q1
+\v 43 Many times Yahweh rescued his people,
+\q2 but they continued to rebel against him,
+\q2 and they were finally destroyed because of the sins that they committed.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 42 Their enemies oppressed them,
+\q and they were brought into subjection to their authority.
+\q
+\v 43 Many times he came to help them,
+\q but they kept rebelling
+\q and were brought low by their own sin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:adversary]]
+  * [[vi:obe:kt:oppress]]
+  * [[vi:obe:other:subject]]
+  * [[vi:obe:kt:authority]]
+  * [[vi:obe:other:rebel]]
+  * [[vi:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **and they were brought into subjection to their authority.** - AT: "and their enemies caused them to be subject to their authority" (See:  [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **were brought low by their own sin.**  - AT: "their sin ruined them" or "their sin destroyed them" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:106|Psalms Chapter 106 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:106:040|<<]] | [[:vi:bible:notes:psa:106:044|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

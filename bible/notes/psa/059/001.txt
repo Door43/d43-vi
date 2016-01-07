@@ -1,0 +1,68 @@
+====== Psalms 059:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, save me from my enemies!
+\q2 Protect me from those who want to attack me!
+\q1
+\v 2 Rescue me from men who want to do what is wicked,
+\q2 from men who are murderers!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, save me from my enemies!
+\q2 Protect me from those who want to attack me!
+\q1
+\v 2 Keep me safe from men who want to do what is wicked,
+\q2 from men who are murderers!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 59
+\d For the chief musician; set to Al Tashheth. A psalm
+of David. A michtam; when Saul sent, and they watched the house to kill him.
+\b
+\q
+\v 1 Rescue me from my enemies, my God;
+\q set me on high away from those who rise up against me.
+\q
+\v 2 Keep me safe from the workers of iniquity,
+\q and save me from the bloodthirsty men.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:saul|Saul (OT)]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:raise|raise, rise, risen]]
+  * [[:vi:obe:kt:iniquity|iniquity]]
+  * [[:vi:obe:kt:save|save]]
+
+===== Translation Notes: =====
+
+  * **Al Tashheth** - This was likely the name of a musical melody. (See: [[[[:vi:ta:vol1:translate:translate_names]])
+  * **michtam **- See how you translated this in [[vi:bible:notes:psa:016:001|16:1]].
+  * **when Saul sent, and they watched the house to kill him** - "from when Saul sent his soldiers to go and watch David's house for an opportunity to kill him"
+  * **set me on high **- AT: "put me in a safe place" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **bloodthirsty men** - The word "bloodthirsty" contains "blood," which refers to murder and "thirsty," which refers to desire. AT: "the men who desire to kill" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:059|Psalms Chapter 059 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:058:009|<<]] | [[:vi:bible:notes:psa:059:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

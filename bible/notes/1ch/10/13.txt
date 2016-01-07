@@ -1,0 +1,52 @@
+====== 1 Chronicles 10:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Saul died because he did not faithfully obey what Yahweh told him to do. He even went to a woman who talks to the spirits of dead people and asked her what he should do,
+\v 14 instead of asking Yahweh what he should do. So Yahweh caused him to die, and he appointed David, the son of Jesse, to be the king \add of Israel\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Saul died because he did not faithfully obey what Yahweh told him to do. He even went to a woman who talks to the spirits of dead people and asked her what he should do,
+\v 14 instead of asking Yahweh what he should do. So Yahweh caused him to die, and he appointed David son of Jesse, to be the king of Israel.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 So Saul died because he was unfaithful to Yahweh. He did not obey Yahweh's instructions,
+but asked for advice from someone who talked with the dead.
+
+\v 14 He did not seek guidence from Yahweh, so Yahwe killed him and handed over the kingdom to David son of Jesse.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:unfaithful]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:obey]]
+  * [[:vi:obe:other:kingdom]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:other:jesse]]
+
+===== Translation Notes: =====
+
+  * **advice** - an opinion or suggestion about what a person should do (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **guidance** - help or wise advice about what a person should do
+  * **handed over the kingdom** - AT: "gave control of the kingdom of Israel" (See: [[:vi:ta:vol1:translate:figs_idiom]] and [[:vi:ta:vol2:translate:figs_ellipsis]])
+
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:10|1 Chronicles Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:10:11|<<]] | [[:vi:bible:notes:1ch:11:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

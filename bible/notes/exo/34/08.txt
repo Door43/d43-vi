@@ -1,0 +1,54 @@
+====== Exodus 34:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Moses\f + \ft Or: I \f* quickly prostrated himself\f + \ft Or: myself \f* on the ground and worshiped \add Yahweh\add*.
+\v 9 He\f + \ft Or: I \f* said, "Yahweh, if you are now pleased with me, I ask that you go with us. These people are very stubborn [IDI], but forgive us for all our sins \f + \ft doublet \f*, and accept us to be people who belong to you \add forever\add*."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Moses bowed low down on the ground and worshiped Yahweh.
+\v 9 He said, "My Lord, if you are now pleased with me, I ask that you go with us. These people are very stubborn, but forgive us for all our sins, and accept us as the people who belong to you forever."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Moses quickly bowed his head to the ground and worshiped.
+\v 9 Then he said, "If now I have found favor in your sight, my Lord, please go among us, for this people is stubborn. Pardon our iniquity and our sin, and take us as your inheritance."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:moses]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:kt:favor]]
+  * [[vi:obe:kt:lordgod]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:stiffnecked]]
+  * [[:vi:obe:other:pardon]]
+  * [[vi:obe:kt:iniquity]]
+  * [[vi:obe:kt:sin]]
+  * [[:vi:obe:kt:inherit]]
+
+===== Translation Notes: =====
+
+  * **found favor in your sight** - See how you translated this in [[vi:bible:notes:exo:33:12|33:12]].
+  * **my Lord** - The Hebrew here actually is “my Lord,” and not “Yahweh.”
+  * **please go among us** - Here "us" refers to Moses and the people of Israel. (See: [[:vi:ta:vol2:translate:figs_inclusive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:34|Exodus Chapter 34 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:34:05|<<]] | [[:vi:bible:notes:exo:34:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

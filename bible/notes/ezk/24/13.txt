@@ -1,0 +1,43 @@
+====== Ezekiel 24:13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 The rust \add in the pot represent\add* your immoral behavior. I tried to cleanse you from your wicked behavior, but you did not allow me to do that. So you will not cleansed \add from the guilt of your sin\add* until \add I have punished you and\add* I am no longer angry.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 The corrosion in the pot represents your immoral behavior. I tried to cleanse you from your wicked behavior, but you did not allow me to do that. So you will not be cleansed from the guilt of your sin until I have punished you and I am no longer angry.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 Your shameful behavior is in your uncleanness, because I cleaned you, but still you would not become clean. You will still not be free from your uncleanness until my fury rests from you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:kt:free]]
+  * [[:vi:obe:kt:unclean]]
+  * [[:vi:obe:kt:clean]]
+
+===== Translation Notes: =====
+Yahweh continues to speak to Jerusalem by comparing it to a cooking pot.
+There are no other translation notes for this chunk
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:24|Ezekiel Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:24:11|<<]] | [[:vi:bible:notes:ezk:24:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

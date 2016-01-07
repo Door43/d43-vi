@@ -1,0 +1,59 @@
+====== Deuteronomy 26:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Then by your great power \f + \ft metonymy \f* and by performing many kinds of miracles \f + \ft doublet \f*, and other terrifying things, you brought them out of Egypt.
+\v 9 You brought us to this land and gave it to us, a land that is very fertile [IDI].
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Then by your great power and by performing many kinds of miracles, and other terrifying things, you brought them out of Egypt.
+\v 9 You brought us to this land and gave it to us, a land that is very fertile.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 Yahweh brought us out of Egypt with a mighty hand, with a display of his power, with great fearsomeness, with signs, and with wonders;
+\v 9 and he has brought us to this place and has given us this land, a land that flows with milk and honey.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:other:mighty]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:kt:miracle|miracle, wonder, sign]]
+  * [[:vi:obe:other:honey]]
+
+===== Translation Notes: =====
+
+This continues what the Israelite must say when he brings his first crops to Yahweh. 
+
+  * **Yahweh brought us** - Here "us" refers to the people of Israel that were living in Egypt. The speaker includes himself as one of the people whether he lived in Egypt or not.
+  * **with a mighty hand, with a display of his power** - Both phrases mean basically the same thing. AT: "with his mighty power" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **with great fearsomeness**  - "with acts that terrified the people who saw them"
+  * **a land flowing with milk and honey** - See how you translated this in [[vi:bible:notes:deu:06:03|6:3]].
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:26|Deuteronomy Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/26/06|<<]] | [[en/bible/notes/deu/26/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

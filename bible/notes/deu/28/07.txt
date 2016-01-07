@@ -1,0 +1,62 @@
+====== Deuteronomy 28:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Yahweh will enable you to defeat \add the armies of\add* your enemies;
+\pi they will attack you from one direction, but they will run away from you in seven\f + \ft Or: many \f* directions.
+\pi
+\v 8 Yahweh will bless you \add by filling\add* your barns \add with grain\add*, and he will bless all the work that you do;
+\pi he will bless you in the land that he is giving to you.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh will enable you to defeat the armies of your enemies;
+\pi they will attack you from one direction, but they will run away from you in seven directions.
+\pi
+\v 8 Yahweh will bless you by filling your barns with grain, and he will bless all the work that you do;
+\pi he will bless you in the land that he is giving to you.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Yahweh will cause your enemies who rise up against you to be struck down before you; they will come out against you one way, but will flee before you seven ways.
+\v 8 Yahweh will command the blessing to come on you in your barns and in all that you put your hand to; he will bless you in the land that he is giving you.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:raise|raise, rise, risen, arise]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:hand|hand]]
+
+
+===== Translation Notes: =====
+
+  * **cause your enemies who rise up against you to be struck down before you** - AT: "cause you to defeat the armies that attack you" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **but will flee before you seven ways** - "but will scatter before you in various directions." Their enemies will run away in fear and panic. 
+  * **Yahweh will command the blessing to come on you in your barns** - AT: "Yahweh will bless your crops so you have plenty to store in your barns" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **and in all that you put your hand to**- AT: "in and everything you do"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:05|<<]] | [[:vi:bible:notes:deu:28:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

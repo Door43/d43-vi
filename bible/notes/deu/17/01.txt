@@ -1,0 +1,62 @@
+====== Deuteronomy 17:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Do not sacrifice to Yahweh our God any cattle or sheep or goats that have any defects, because Yahweh hates that kind of gift."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Do not sacrifice to Yahweh our God any cattle or sheep or goats that have any defects, because Yahweh detests that kind of gift.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\p
+\v 1 You must not sacrifice to Yahweh your God an ox or a sheep in which is any blemish or anything bad, for that would be disgusting to Yahweh your God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:ox|ox, oxen]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:other:blemish|blemish]]
+  
+
+===== Translation Notes: =====
+
+Moses is still speaking to the people of Israel.
+
+    * **in which is any blemish**  - "that has a blemish" or "that has something wrong with it". The animal is to appear healthy and perfect.
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/16/21|<<]] | [[en/bible/notes/deu/17/02|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

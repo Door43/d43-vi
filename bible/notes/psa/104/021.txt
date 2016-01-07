@@ -1,0 +1,55 @@
+====== Psalms 104:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 At night the young lions roar as they seek their prey,
+\q2 but they depend on you to give them food.
+\q1
+\v 22 At dawn, they go back to their dens and lie down.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 At night the young lions roar as they seek their prey,
+\q2 but they depend on you to give them food.
+\q1
+\v 22 At dawn, they go back to their dens and lie down.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 The young lions roar for their prey
+\q and seek their food from God.
+\q
+\v 22 When the sun rises, they retreat
+\q and sleep in their dens.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lion|lion]]
+  * [[:En:obe:other:prey]]
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+  * **prey**  - This is an animal that is food for another animal.
+  * **retreat**  - AT: "go back" or "move away"
+  * **dens**  - the homes of some mammals and small animals
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:104|Psalms Chapter 104 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:104:019|<<]] | [[:vi:bible:notes:psa:104:023|>>]]**
+
+~~DISCUSSION~~{{tag>publish prey book4}}
+
+~~NOCACHE~~

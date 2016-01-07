@@ -1,0 +1,49 @@
+====== Leviticus 06:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 The fire on the altar must always be kept burning; the priest must not allow it to go out\f + \ft Or: quit burning \f*. Each morning the priest must put more firewood on the fire. Then he must arrange more offerings on the fire, and burn on the altar the fat of the offerings to be burned to maintain fellowship \add with Yahweh\add*.
+\v 13 The fire on the altar must be kept burning continually; the priest must not allow it to go out."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 The fire on the altar must always be kept burning. The priest must not allow it to go out. Each morning the priest must put more firewood on the fire. Then he must arrange more offerings on the fire, and burn on the altar the fat of the offerings to be burned to promise friendship with Yahweh.
+\v 13 The fire on the altar must be kept burning continually. The priest must not allow it to go out."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 The fire on the altar will be kept burning. It must not go out, and the priest will burn wood on it every morning. He will arrange the burnt offering as required on it, and he will burn on it the fat of the peace offerings.
+\v 13 Fire must be kept burning on the altar continually. It must not go out.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:fire]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:other:burntoffering]]
+  * [[vi:obe:other:fellowshipoffering]]
+
+===== Translation Notes: =====
+
+  * **The fire on the altar will be kept burning** - AT: "The priest will keep the fire on the altar burning" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **as required **- AT: "as God demands"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:06|Leviticus Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:06:10|<<]] | [[:vi:bible:notes:lev:06:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

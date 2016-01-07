@@ -1,0 +1,63 @@
+====== Psalms 089:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 You\f + \ft Or: Your arms \f* are very powerful;
+\q2 you\f + \ft Or: your hands \f* are extremely strong.
+\b
+\q1
+\v 14 Your rule \f + \ft metonymy \f* over us is based on\f + \ft Or: As you rule over us, you are always \f* treating people fairly and justly,
+\q2 and on\f + \ft Or: are \f* always faithfully loving us and doing \add what you promised\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 You are very powerful;
+\q2 you are extremely strong.
+\b
+\q1
+\v 14 You rule over people fairly and justly;
+\q2 you are always faithfully loving us and doing what you promised.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 You have a mighty arm
+\q and a strong hand, and your right hand is high.
+\q
+\v 14 Righteousness and justice are the foundation of your throne.
+\q Covenant faithfulness and trustworthiness come before you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:kt:righthand|right hand]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:other:foundation|foundation, founded]]
+  * [[:vi:obe:other:throne|throne]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+
+===== Translation Notes: =====
+
+  * **You have a mighty arm and a strong hand, and your right hand is high.**  - God, who is a spirit, is described as if he has a physical body and is very mighty,  strong and powerful. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Righteousness and justice** - These writer compares these ideas to a foundation. (See: [[:vi:ta:vol2:translate:figs_abstractnouns]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **throne**  - The throne is a symbol of God's rule. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:089|Psalms Chapter 089 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:089:011|<<]] | [[:vi:bible:notes:psa:089:015|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

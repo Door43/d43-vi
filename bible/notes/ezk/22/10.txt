@@ -1,0 +1,60 @@
+====== Ezekiel 22:10-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 There are men who have sex with their father's wife \f + \ft euphemism \f*, and men who have sex with women during their monthly menstrual periods.
+\v 11 There are men who have sex with someone else's wife. Some men have sex with their daughters-in-law or with their sisters or half-sisters.
+\v 12 There are among you men who accept bribes in order to cause someone to be executed \f + \ft metonymy \f*. You charge high interest when you lend people money. You become rich by forcing people to give you money. And \add the worst thing is that\add* you have forgotten me, Yahweh the Lord.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 There are men whosleep with their father's wife, and men who sleep with women during their monthly menstrual periods.
+\v 11 There are men who sleep with someone else's wife. Some of your men sleep with their daughters-in-law or with their own sisters or half-sisters.
+\v 12 There are among you men who accept bribes in order to cause someone to be executed. You charge interest when you lend people money. You become rich by forcing people to give you money. And you have forgotten me, Yahweh.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 The nakedness of a father is revealed within you. They have abused the unclean woman within you during her impurity.
+\v 11 Men who commit abominations with their neighbors’ wives, and men who make their own daughters-in-law shamefully unclean; men who abuse their own sisters, daughters of their own fathers—all these are among you.
+\v 12 These men take bribes among you in order to pour out blood. You have taken interest and excessive profit, you have damaged your neighbors through 
+oppression, and you have forgotten me.” This is the Lord Yahweh’s declaration.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:reveal]]
+  * [[:vi:obe:other:neighbor]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:bribe]]
+  * [[:vi:obe:other:profit]]
+  * [[vi:obe:other:neighbor]]
+  * [[vi:obe:kt:oppress]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:other:declare]]
+===== Translation Notes: =====
+
+God continues to speak through Ezekiel about the terrible things that the people of Jerusalem have done.
+
+  * **you/they**  - These pronouns refer to Jerusalem (the people of Jerusalem).
+  * **The nakedness of a father is revealed**  - This is the father's wife.  It is the nakedness that is only meant for him to see. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **abused...commit abominations with...make their own daughters-in-law shamefully unclean**  - These are all ways to express that the men have had sexual relations with women they should not have and how sinful their actions are.
+  * **interest**  - additional money charged in order to borrow money.
+  * **excessive** - more than is needed
+  * **you have forgotten me** - refusing to obey Yahweh is like forgetting that he exists. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:22|Ezekiel Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:22:06|<<]] | [[:vi:bible:notes:ezk:22:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

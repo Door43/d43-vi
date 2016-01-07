@@ -1,0 +1,71 @@
+====== Psalms 027:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 I am your servant;
+\q2 Do not be angry with me and turn away from me.
+\q2 You have always helped me.
+\q1 You are the one who has saved me,
+\q2 so do not abandon me now.
+\q1
+\v 10 Even if my father and mother desert me,
+\q2 you will take care of [IDI] me.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 I am your servant;
+\q2 do not be angry with me or strike me, or turn away from me.
+\q2 You have always helped me.
+\q1 You are the one who has saved me,
+\q2 so do not abandon me now.
+\q1
+\v 10 Even if my father and mother desert me,
+\q2 Yahweh always takes care of me.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Do not hide your face from me;
+\q do not strike your servant in anger!
+\q You have been my helper;
+\q do not forsake me or abandon me, God of my salvation!
+\q
+\v 10 Even if my father and my mother forsake me,
+\q Yahweh will take me in.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:forsaken]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:salvation]]
+
+===== Translation Notes: =====
+
+  * **Do not hide your face from me** - The face here represents Yahweh's attention. AT: "Do not turn away from me" or "Do not take your attention away from me." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Do not strike your servant in anger** - David said "your servant" to refer to himself in a humble way. AT: "Do not be angry with me and hit me." 
+  * **or abandon me** - AT: "and do not abandon me" or "and do not leave me" or "and do not push me away"
+  * **God of my salvation** - AT: God who saves me" or because you are the God who saves me" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **Even if my father and my mother forsake me** - Even if my father and my mother were to forsake me." He is not saying that they actually have done this or that they would do it. (See: [[vi:ta:vol1:translate:figs_hypo]])
+  * **Yahweh will take me in** - "Yahweh will keep me"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:027|Psalms Chapter 027 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:027:007|<<]] | [[:vi:bible:notes:psa:027:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

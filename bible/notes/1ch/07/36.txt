@@ -1,0 +1,48 @@
+====== 1 Chronicles 07:36-38 ======
+
+===== TFT: =====
+
+<usfm>
+\v 36 Zophah's sons were Suah, Harnepher, Shual, Beri, Imrah,
+\v 37 Bezer, Hod, Shamma, Shilshah, Ithran \add whose other name was Jether\add*, and Beera.
+\li2
+\v 38 Jether's sons were Jephunneh, Pispah, and Ara.
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 36 Zophah's sons were Suah, Harnepher, Shual, Beri, Imrah,
+\v 37 Bezer, Hod, Shamma, Shilshah, Ithran whose other name was Jether, and Beera.
+\li2
+\v 38 Jether's sons were Jephunneh, Pispah, and Ara.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 36 Zophah's sons were Suah, Harnepher, Shual,  Beri, and Imrah,
+\v 37 Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
+\v 38 Jether's sons were Jephunneh, Pispa, and Ara.
+</usfm>
+
+===== Important Terms: =====
+  * No Important Terms for this chunk.
+
+
+===== Translation Notes: =====
+
+  * **Zophah ... Ara**  - These are names of people. (See: [[:vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:07|1 Chronicles Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:07:33|<<]] | [[:vi:bible:notes:1ch:07:39|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

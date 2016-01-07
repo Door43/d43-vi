@@ -13,9 +13,9 @@ There were several Israelite men named Joshua in the Bible. The most well-known 
   * A different man named Joshua is mentioned in the Old Testament books of Haggai and Zechariah. This Joshua was a high priest who helped rebuild the walls of Jerusalem. He was the son of Jozadak.
   
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
-(See also: [[en:obe:other:moses]], [[en:obe:kt:promisedland]], [[:vi:obe:other:Jericho]], [[:vi:obe:other:Canaan]])
+(See also: [[vi:obe:other:moses]], [[vi:obe:kt:promisedland]], [[:vi:obe:other:Jericho]], [[:vi:obe:other:Canaan]])
  
 ===== Bible References: =====
 

@@ -1,0 +1,51 @@
+====== Deuteronomy 31:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 So, \add I am going to give you\add* a song. Write it \add on a scroll\add* and teach it to the Israelite people and cause them to memorize it. It will be like a witness that accuses them.
+\v 20 I am about to take them into a very fertile [IDI] land, a land that I solemnly promised their ancestors that I would give to them. There they will have plenty to eat, with the result that \add their stomachs\add* will \add always\add* be full and they will become fat. But then they will turn to other gods and start to worship them, and they will despise me and break\f + \ft Or: stop obeying \f* the agreement that I made with them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 So I am going to give you, Moses, a song. Write it on a scroll and teach it to the Israelite people and make them memorize it. It will be like a witness that accuses them.
+\v 20 I am about to take them into a very fertile land, a land that I solemnly promised their ancestors that I would give to them. There they will have plenty to eat, with the result that their stomachs will always be full and they will become fat. But then they will turn to other gods and start to worship them, and they will despise me and break the covenant that I have made with them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 Now therefore write this song for yourself and teach it to the people of Israel. Put it in their mouths, so that this song may be a witness for me against the people of Israel.
+\v 20 For when I will have brought them into the land that I swore to give to their ancestors, a land flowing with milk and honey, and when they will have eaten and become satisfied and fat, then they will turn to other gods and worship them; they will despise me and break my covenant.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:Israel]]
+  * [[:vi:obe:kt:witness|witness, eyewitness]]
+  * [[:vi:obe:other:father|father, forefather, ancestor]]
+  * [[:vi:obe:other:oath|oath, swear, swear by]]
+  * [[:vi:obe:other:honey|honey, honeycomb]]
+  * [[vi:obe:kt:turn]]
+  * [[:vi:obe:kt:falsegod|other god, false god]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:kt:covenant|covenant]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to Moses.
+
+  * **Put it in their mouths**  - AT: "Make them memorize and sing it" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **a land flowing with milk and honey** - a very fertile land. See how you translated this in [[vi:bible:notes:deu:06:03|6:3]].
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:31|Deuteronomy Chapter 31 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:31:17|<<]] | [[:vi:bible:notes:deu:31:21|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

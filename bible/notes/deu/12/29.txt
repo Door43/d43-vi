@@ -1,0 +1,53 @@
+====== Deuteronomy 12:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 When you enter the land that you will occupy, as you advance, Yahweh our God will get rid of the people-groups that live there.
+\v 30 After he does that, be sure that you do not \add worship the gods\add* that they have been worshiping, because if you do that, it will be like a trap \add that will catch you\add* \f + \ft metaphor \f*. Do not ask anyone about those gods, saying, 'Tell me how they worshiped their gods, in order that I can \add worship Yahweh\add* in the same way.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 When you enter the land that you will occupy, as you advance, Yahweh our God will destroy the people groups that live there.
+\v 30 After he does that, be sure that you do not worship the gods that they have been worshiping, because if you do that, it will be like a trap that will catch you. Do not ask anyone about those gods, saying, 'Tell me how they worshiped their gods, in order that I can worship Yahweh in the same way.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 When Yahweh your God cuts off the nations from before you, when you go in to dispossess them, and you dispossess them, and live in their land—
+\v 30 pay attention to yourself that you are not trapped into following them, after they are destroyed from before you—trapped into investigating their gods, into asking, "How do these nations worship their gods? I will do the same."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:cutoff|cut off]]
+  * [[vi:obe:other:nation]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+  * [[vi:obe:kt:worship]]
+
+===== Translation Notes: =====
+
+  * **cuts off the nations before you** - "destroys the nations before you." Here "nations" refers to the people already living in Canaan.
+  * **when you go in to dispossess them, and you dispossess them**  - "when you take everything from them"
+  * **pay attention to yourself**  - "be careful"
+  * **that you are not trapped into following them...trapped into investigating their gods, into asking** - This means acting like the other people groups and worshiping their gods would lead the people of Israel to ruin like an animal caught in a hunter's trap. AT: "that no one causes you to act like the nations...causes you to ask about their gods, saying" (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **after they are destroyed from before you** - AT: "after Yahweh destroys them from before you"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:28|<<]] | [[:vi:bible:notes:deu:12:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Judges 06:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then Yahweh turned toward him and said, "I will give you strength to enable you to rescue the Israelites from the people of Midian. I am sending you \add to do that\add*!"
+\p
+\v 15 Gideon replied, "But Yahweh, how can I rescue the Israelites? My clan is the least significant in the whole tribe descended from Manasseh, and I am the least significant person in my whole family!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Yahweh turned toward him and said, "I will give you strength to enable you to rescue the Israelites from the people of Midian. I am sending you to do that!"
+\p
+\v 15 Gideon replied, "But Lord, how can I rescue the Israelites? My clan is the least significant in the whole tribe descended from Manasseh, and I am the least significant person in my whole family!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 Yahweh looked at him and said, “Go in this strength you have. Deliver Israel from the power of the Midianites. Have I not sent you?”
+\v 15 Gideon said to him, “Please, Lord, how can I deliver Israel? See, my family is the weakest in Manasseh, and I am the least important in my father’s house.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:strength]]
+  * [[:vi:obe:kt:deliverer]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:other:Midian]]
+  * [[vi:obe:other:send]]
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[:vi:obe:other:family]]
+  * [[:vi:obe:other:manasseh]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:house]]
+
+===== Translation Notes: =====
+
+  * **Yahweh looked at him**  - "Yahweh looked at Gideon"
+  * **Have I not sent you?**  - "I, Yahweh, have sent you!". (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **Please, Lord**  - "Please, Yahweh, I cannot possibly deliver your people, Israel!" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]] )
+  * **See..**. - To understand something is often described as being able to see it. AT: “Please understand...” (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+  *
+
+  *
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:06:13|<<]] | [[:vi:bible:notes:jdg:06:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

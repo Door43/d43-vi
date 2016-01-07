@@ -1,0 +1,62 @@
+====== Hosea 14:9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Those who are wise will understand the things \add about which I have written; \add*
+\q2 Those who think well will pay careful attention to them.
+\q1 The things that Yahweh wants us to do \f + \ft metaphor \f* are right;
+\q2 righteous people will conduct their lives adhering to them.
+\q2 But those who rebel against Yahweh will be ruined.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Every wise person will understand the things about which I have written; 
+\q2 those who have understanding will study these things and pay careful attention to them.
+\q1 The way in which Yahweh wants us to live is right.
+\q2 Those who do what is right live by them.
+\q2 The rebellious people, however, sin, unable to obey him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Who is wise that he may understand these things?
+\q Who understands these things so that he may know them?
+\q For the ways of Yahweh are right,
+\q and the righteous will walk in them,
+\q but the rebellious will stumble in them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:other:understand|understand, understanding]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:walk]]
+  * [[:vi:obe:other:rebel|rebel, rebellious]]
+  * [[:vi:obe:other:stumble|stumble]]
+
+===== Translation Notes: =====
+
+The prophet Hosea is speaking.
+
+  * **Who is wise that he may understand these things? Who understands these things so that he may know them?** - The prophet uses these questions to emphasize that a wise person (or nation) will understand and follow what has been said to them. (See: [[:vi:ta:vol1:translate:figs_rquestion]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **For the ways of Yahweh are right** - This means that the things that Yahweh says and does show the right way to live. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:14|Hosea Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:14:07|<<]] | **
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

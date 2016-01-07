@@ -1,0 +1,60 @@
+====== Matthew 23:27-28 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 "You men who teach the \add Jewish\add* laws and you Pharisees, your punishment will be terrible! You are hypocrites! You are like tombs \f + \ft simile \f* that are painted white \add so that people can see them and avoid touching them\add*. The outside surfaces are beautiful, but inside they are full of dead people's bones and filth.
+\v 28 You are \add like those tombs\add*. When people look at you, they think that you are righteous, but in your inner beings\f + \ft Or: hearts \f* you are hypocrites and you disobey \add God's\add* commands."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 "You hypocrites, you men who teach the laws and you Pharisees, how terribly God will punish you! You are like buildings over people's graves, buildings that are painted white so that people can see them and avoid touching them. The outside of those tombs are beautiful, but inside they are full of dead people's bones and filth.
+\v 28 You are like those tombs. When people look at you, they think that you are righteous, but in your inner beings you are hypocrites, because you disobey God's commands."
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 Woe to you, scribes and Pharisees, hypocrites! for you are like whitewashed tombs, which on the outside look beautiful, but on the inside are full of dead men’s bones and of sorts of uncleanliness.
+\v 28 In the same way, you also outwardly appear righteous to men, but on the inside you are full of hypocrisy and iniquity.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:woe]]
+  * [[vi:obe:other:scribe]]
+  * [[vi:obe:other:pharisee]]
+  * [[vi:obe:kt:hypocrite]]
+  * [[vi:obe:other:tomb]]
+  * [[vi:obe:kt:death]]
+  * [[:vi:obe:kt:unclean]]
+  * [[:vi:obe:kt:righteous]]
+  * [[vi:obe:kt:hypocrite]]
+  * [[:vi:obe:kt:iniquity]]
+
+===== Translation Notes: =====
+
+Jesus continues to speak against the religious leaders because of their hypocrisy.
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:mat:23|Matthew Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:23:25|<<]] | [[:vi:bible:notes:mat:23:29|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish unclean iniquity}}
+
+~~NOCACHE~~

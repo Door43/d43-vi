@@ -1,0 +1,57 @@
+====== 1 Samuel 12:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 But now, when king Nahash of Ammon came \add with his army\add* to attack you, \add you were afraid. So\add*, you \add came to me, and\add* said, 'We want a king to rule us,' even though Yahweh was already your king!
+\v 13 So now, look, here is the king whom you have chosen. You asked for a king, and Yahweh has now appointed a king for you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 But now, when king Nahash of Ammon came with his army to attack you, you were afraid. So you came to me, and said, 'We want a king to rule us,' even though Yahweh was already your king!
+\v 13 So now, look, here is the king whom you have chosen. You asked for a king, and Yahweh has now appointed a king for you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 When you saw that Nahash the king of the people of Ammon came against you, you said to me, 'No! Instead, a king must
+reign over us'—although Yahweh, your God, was your king.
+\v 13 Now here is the king whom you have chosen, whom you have asked for and whom Yahweh has now appointed as king over you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ammon]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:other:reign]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:elect]]
+  * [[:vi:obe:kt:appoint]]
+ 
+===== Translation Notes: =====
+Samuel continues to rebuke the nation of Israel.
+
+    * **No! Instead, a king must reign over us**  -  This phrase shows the nation of Israel's strong reaction against Samuel when he told them about trusting God because God delivered them in the past.
+    * **whom you have chosen, whom you have asked for** - These two phrases share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:12|1 Samuel Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/12/10|<<]] | [[en/bible/notes/1sa/12/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

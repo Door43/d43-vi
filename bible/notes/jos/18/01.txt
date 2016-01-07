@@ -1,0 +1,56 @@
+====== Joshua 18:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1-2 The Israelite people captured all the land \add that they were able to\add*, but there were still seven tribes that had not been allotted any land. They all gathered at Shiloh, and they set up the Sacred Tent there.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 The entire assembly of the people of Israel met together at Shiloh. There they set up the tent where they worshiped Yahweh. There was no more war in the land.
+\v 2 However, there seven tribes of Israel had not yet been assigned any land.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\p
+\v 1 Then the whole assembly of the people of Israel met together at Shiloh and set up the tent of meeting there. And they conquered the land before them.
+\v 2 There were still seven tribes among the people of Israel whose inheritance had not been assigned.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:assembly]]
+  * [[vi:obe:other:israel]]
+  * [[vi:obe:other:shiloh]]
+  * [[vi:obe:other:tentofmeeting]]
+  * [[vi:obe:other:tribe]]
+  * [[vi:obe:kt:inherit]]
+  * [[vi:obe:other:assign]]
+ 
+
+===== Translation Notes: =====
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:18|Joshua Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/17/16|<<]] | [[en/bible/notes/jos/18/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Jeremiah 40:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then the Jews who had fled to Moab, Ammon, Edom, and other nearby countries heard people say that the king of Babylon had allowed a few people to remain in Judah, and that he had appointed Gedaliah to be their governor.
+\v 12 So they began to return to Judah. They stopped at Mizpah to \add talk with\add* Gedaliah. Then \add they went to various places in Judea, and\add* they harvested a great amount of grapes and summer fruit.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then the Jews who had fled to Moab, Ammon, Edom, and other nearby countries heard people say that the king of Babylon had allowed a few people to remain in Judah, and that he had appointed Gedaliah to be their governor.
+\v 12 So they began to return to Judah. They stopped at Mizpah to talk with Gedaliah. Then they went to various places in Judea, and they harvested a great amount of grapes and summer fruit.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Then all the Judeans in Moab, among the people of Ammon, and in Edom, and in every land heard that the king of Babylon had allowed a remnant of Judah to stay, that he had appointed Gedaliah son of Ahikam son of Shaphan over them.
+\v 12 So all the Judeans returned from every place where they had been scattered. They came back to the land of Judah, to Gedaliah at Mitzpah. They harvested wine and summer 
+fruit in great abundance.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:ammon]]
+  * [[:vi:obe:other:edom]]
+  * [[:vi:obe:kt:remnant]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:kt:harvest]]
+  * [[:vi:obe:kt:fruit]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **returned from every place where they had been scattered**  AT: "returned to Judah from the places they had gone to" (See:[[:vi:ta:vol2:translate:figs_activepassive]]
+ 
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:40|Jeremiah Chapter 40 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/40/09|<<]] | [[en/bible/notes/jer/40/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== 2 Chronicles 05:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then the priests left the temple. All the priests who were there, from every group, had performed the rituals to cause them to be acceptable to God.
+\v 12 All the descendants of Levi who were musicians -- Asaph, Heman, Jeduthun, their sons and their other relatives -- stood on the east side of the altar. They were wearing linen clothes, and they were playing cymbals, harps, and lyres. There were 120 other priests who were blowing trumpets.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then the priests left the holy place in the temple. All the priests who were there, from every one of theirs groups, had set themselves apart from others and performed the cleansing rituals God required of them before they could serve him.
+\v 12 All the descendants of Levi who were musicians—Asaph, Heman, Jeduthun, their sons and their other relatives—stood on the east side of the altar. They were wearing linen clothes, and they were playing cymbals, harps, and lyres. There were 120 other priests who were blowing trumpets.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 It came about that the priests came out of the holy place. All the priests who were present had consecrated themselves; they were grouped by their divisions.
+\v 12 Also the Levites who were the singers, all of them, including Asaph, Heman, Jeduthun, and their sons and brothers, clothed in fine linen and playing cymbals, harps, and lyres, stood at the east end of the altar. With them were 120 priests blowing trumpets.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:kt:consecrate]]
+  * [[:vi:obe:other:harp|harp]]
+  * [[:vi:obe:other:lute|lute, lyre]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[:vi:obe:other:trumpet]]
+
+===== Translation Notes: =====
+
+  * **Asaph, Heman, Jeduthun**-The same three led the worship when David moved the ark to Jerusalem.  David later appointed them as the temple musicians. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **sons and brothers** - AT: "their relatives" or "their descendants"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:05|2 Chronicles Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:05:09|<<]] | [[:vi:bible:notes:2ch:05:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

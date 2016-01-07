@@ -1,0 +1,56 @@
+====== Psalms 119:109-110 ======
+
+===== TFT: =====
+
+<usfm>
+\v 109 \add My enemies are\add* often trying to kill me [IDI],
+\q2 but I do not forget your laws.
+\q1
+\v 110 Wicked people have tried to seize me \add like a hunter tries to catch an animal\add* with a trap \f + \ft metaphor \f*,
+\q2 but I have not disobeyed your principles of behavior\f + \ft Or: what you declared that we should do \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 109 My enemies are often trying to kill me,
+\q2 but I do not forget your laws.
+\q1
+\v 110 Wicked people have tried to seize me as a hunter tries to catch little animals with a trap,
+\q2 but I have not disobeyed your principles of behavior.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 109 My life is continually in danger,
+\q yet I do not forget your law.
+\q
+\v 110 The wicked have set a snare for me,
+\q but I have not strayed from your instructions.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:astray]]
+
+===== Translation Notes: =====
+
+  * **set a snare **- This means to be put in a position or situation that is difficult to escape. AT: "set a trap" (See "snare" here: [[:vi:ta:workbench:translate:biblicalimagery|Biblical Imagery]])
+  * **strayed from your instructions**- AT: "disobeyed your instructions"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:107|<<]] | [[:vi:bible:notes:psa:119:111|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Exodus 39:10-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 They fastened four rows of valuable stones onto the pouch. In the first row, they put a \add red\add* ruby, a \add yellow\add* topaz, and a \add red\add* garnet.
+\v 11 In the second row, they put a \add green\add* emerald, a \add blue\add* sapphire, and a clear\f + \ft Or:  \f*\add white\add* diamond.
+\v 12 In the third row they put a \add red\add* jacinth, a \add white\add* agate, and a \add purple\add* amethyst.
+\v 13 In the fourth row, they put a \add yellow\add* beryl, a \add red\add* carnelian, and a \add green\add* jasper. They put tiny gold frames around each of the stones.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 They fastened four rows of valuable stones onto the pouch. In the first row, they put a red ruby, a yellow topaz, and a red garnet.
+\v 11 In the second row, they put a green emerald, a blue sapphire, and a white diamond.
+\v 12 In the third row they put a red jacinth, a white agate, and a purple amethyst.
+\v 13 In the fourth row, they put a yellow beryl, a red carnelian, and a green jasper. They put tiny gold frames around each of the stones.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 They set in it four rows of precious stones. The first row had a ruby, a topaz, and a garnet. 
+\v 11 The second row had a emerald, a sapphire, and a diamond.
+\v 12 The third row had a jacinth, an agate, and an amethyst.
+\v 13 The fourth row had a beryl, an onyx, and a jasper. The stones were mounted in gold settings.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:gold|gold]]
+
+===== Translation Notes: =====
+
+Bezalel's work crew continues to make the priestly garments.
+
+  * **They set in it** - "The workers set in the breastpiece"
+  * **precious stones** - Twelve very rare and expensive stones are listed. The are almost the same stone that are listed in [[:vi:bible:notes:exo:28:17|28:17-20]]. Some languages may not have words of each of these stones. The important fact is that they were valuable, and different from one another. (See: [[:vi:ta:vol1:translate:translate_unknown]])
+  * **The stones were mounted in gold settings** - "They mounted the stones in gold settings" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:39|Exodus Chapter 39 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:39:08|<<]] | [[:vi:bible:notes:exo:39:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

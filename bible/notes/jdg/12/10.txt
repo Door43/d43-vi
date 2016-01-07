@@ -1,0 +1,55 @@
+====== Judges 12:10-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 When he died he was buried in Bethlehem.
+
+\p
+\v 11 After Ibzan died, a man named Elon, from the tribe of Zebulun, became a leader of the Israelite people. He was their leader for ten years.
+\v 12 Then he died and was buried in Aijalon \add city\add* in the area where the tribe of Zebulun lives.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 When died, he was buried in Bethlehem.
+\p
+\v 11 After Ibzan died, a man named Elon, from the tribe of Zebulun, became a leader of Israel. He was their leader for ten years.
+\v 12 Then he died and was buried in the city of Aijalon in the area where the tribe of Zebulun lives.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 Ibzan died and was buried at Bethlehem.
+\v 11 After him Elon the Zebulunite served as judge over Israel. He judged Israel for ten years.
+\v 12 Elon the Zebulunite died and was buried in Aijalon, in the land of Zebulun.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Bethlehem]]
+  * [[:vi:obe:other:zebulun]]
+  * [[:vi:obe:other:judgeposition]]
+  * [[:vi:obe:other:israel]]
+
+===== Translation Notes: =====
+
+  * **Elon** - This is the name of a person. (See: [[vi:ta:vol1:translate:translate_names]])
+  * **ten years** - "10 years"  (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **Aijalon** - See how you translated this in [[vi:bible:notes:jdg:01:34|Judges 1:35]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:12|Judges Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:12:08|<<]] | [[:vi:bible:notes:jdg:12:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

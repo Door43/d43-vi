@@ -1,0 +1,47 @@
+====== 1 Samuel 20:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 David asked him, "How will I find out if your father answers you harshly?"
+\v 11 Jonathan replied, "Come with me. We will go out into the field." So they went together out into the field.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 David asked him, "How will I find out if your father answers you harshly?"
+\v 11 Jonathan replied, "Come with me. We will go out into the field." So they went together out into the field.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Then said David to Jonathan, "Who will tell me if by chance your father should answer you roughly?"
+\v 11 Jonathan said to David, "Come, let us go out into the field." And they both went out into the field.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * 
+
+===== Translation Notes: =====
+
+  * **if by chance**  - AT: "if in fact" or Consider removing the phrase as it is not in the UDB and does not seem to add additional meaning to the verse.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:20|1 Samuel Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:20:08|<<]] | [[:vi:bible:notes:1sa:20:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

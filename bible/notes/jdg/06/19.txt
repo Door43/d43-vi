@@ -1,0 +1,49 @@
+====== Judges 06:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Gideon hurried to his home. He \add killed\add* a young goat and cooked it. Then he took a half a bushel\f + \ft Or: 18 liters \f* of flour and baked some bread without yeast. Then he put the cooked meat in a basket, and put the broth \add from the meat\add* in a pot, and took it to Yahweh, who was sitting under the tree.
+\p
+\v 20 Then Yahweh said to him, "Put the meat and the bread on this rock. Then pour the broth on top of it." So Gideon did that.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Gideon hurried to his home. He killed a young goat and cooked it. Then he took a about twenty-two liters of flour and baked some bread without yeast. Then he put the cooked meat in a basket, and put the broth from the meat in a pot, and took it to Yahweh, who was sitting under the tree.
+\p
+\v 20 Then the angel of God said to him, "Put the meat and the bread on this rock. Then pour the broth on top of it." So Gideon did that.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 Gideon went and prepared a young goat and from an ephah of flour he made unleavened bread. He put the meat in a basket, and he
+put the broth in a pot and brought them to him under the oak tree, and presented them.
+\v 20 The angel of God said to him, “Take the meat and the unleavened bread and put them on this rock, and pour out the broth over them.” And Gideon did so.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:other:goat]]
+  * [[vi:obe:other:biblicalvolume|ephah]]
+  * [[:vi:obe:kt:unleavenedbread]]
+  * [[:vi:obe:other:basket]]
+  * [[:vi:obe:other:oak]]
+  * [[:vi:obe:kt:angel]]
+  * [[:vi:obe:kt:God]]
+===== Translation Notes: =====
+
+  * **broth**  - water that has had food, such as meat, cooked in it.
+  * **them to him** - “them to the angel of God”
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:06:16|<<]] | [[:vi:bible:notes:jdg:06:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

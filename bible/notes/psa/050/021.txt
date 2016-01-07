@@ -1,0 +1,69 @@
+====== Psalms 050:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 You did all those things, and I did not say anything to you,
+\q2 so you thought that I was \add a sinner\add* just like you.
+\q1 But now I rebuke you and accuse you, right in front of you.
+\b
+\q1
+\v 22 So, all you who have ignored me, pay attention to this,
+\q1 because if you do not, I will tear you to pieces,
+\q2 and there will be no one to rescue you.
+\q
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 You did all those things, and I did not say anything to you,
+\q2 so you thought that I was a sinner just like you.
+\q1 But now I rebuke you and accuse you, right in front of you.
+\b
+\q1
+\v 22 So, all you who have ignored me, pay attention to this,
+\q1 because if you do not, I will tear you to pieces,
+\q2 and there will be no one to rescue you.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 You have done these things, but I have kept silent,
+\q so you thought that I was someone just like yourself.
+\q But I will reprove you and bring up, right before your eyes, all the things you have done.
+\b
+\q
+\v 22 Now consider this, you who forget God;
+\q otherwise I will tear you in pieces, and there will be no one to come to help you:
+</usfm>
+
+
+===== Important Terms: =====
+
+There are no important terms for these verses.
+
+
+===== Translation Notes: =====
+
+  * **I was someone just like yourself** - AT: "I was someone just like yourself who accepts the sins of adulterers and thieves" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **reprove** - See how you translated this word in [[vi:bible:notes:psa:050:007|50:8]].
+  * **right before your eyes** - This phrase refers to something that is easy to understand because it is in a place that is easy to see. AT: "in a way that is easy to understand" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **you who forget God** - It is like the people have forgotten God because they do not consider as obey his commands. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **I will tear you in pieces** - This describes someone being killed in a very violent way.  It is used to emphasize God's power if he chooses to destroy them. AT: "I will destroy you" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:050:018|<<]] | [[:vi:bible:notes:psa:050:023|>>]]**
+
+~~DISCUSSION~~{{tag>review book2}}
+
+~~NOCACHE~~

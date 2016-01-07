@@ -1,0 +1,55 @@
+====== 1 Samuel 02:9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 You will protect your loyal\f + \ft Or: faithful \f* people \f + \ft synecdoche \f*,
+\q1 but you will cause the wicked to die \f + \ft euphemism \f* \add and descend\add* to the dark \add place where the dead go\add*.
+\q2 We do not defeat \add our enemies\add* by our own strength;
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 You will protect your loyal people,
+\q1 but you will cause the wicked to die and to descend to the dark place where the dead go.
+\q2 We do not defeat our enemies by our own strength.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 He will guard the feet of his faithful people,
+\q but the wicked will be put to silence in darkness,
+\q for no one will prevail by strength.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:darkness]]
+ 
+
+===== Translation Notes: =====
+
+  * **guard the feet of his faithful people** - This refers to God guiding those who love him by using one part of the body, the feet, to refer to the whole person.  (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **put to silence in darkness** - This is another way of referring to death.  (See: [[: vi:ta:vol2:translate:figs_euphemism]]) 
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:02:08|<<]] | [[:vi:bible:notes:1sa:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

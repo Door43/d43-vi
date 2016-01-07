@@ -1,0 +1,78 @@
+====== Daniel 06:26-27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 I command that everyone in my kingdom should fear and revere the God that Daniel \add worships\add*.
+\q1 He is the all-powerful God,
+\q2 and he will live forever.
+\q1 His kingdom will never be destroyed;
+\q2 he will rule forever.
+\q1
+\v 27 He rescues and saves \add his people\add*.
+\q2 He performs all kinds of miracles
+\q2 in heaven and on the earth.
+\q1 He rescued Daniel from the power of the lions!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 I command that everyone in my kingdom should fear and revere the God that Daniel worships.
+\q1 He is the living God,
+\q2 and he will live forever.
+\q1 His kingdom will never be destroyed;
+\q2 he will rule until the end.
+\q1
+\v 27 He rescues and saves his people,
+\q2 he performs all kinds of signs and wonders
+\q2 in heaven and on the earth.
+\q1 He rescued Daniel from the power of the lions!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 26 I hereby make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel, 
+\q for he is the living God and lives forever, 
+\q and his kingdom shall not be destroyed; 
+\q his dominion shall be to the end.
+\q
+\v 27 
+He makes us safe and rescues us, 
+\q and he does signs and wonders
+\q in heaven and in earth; 
+\q he has kept  Daniel safe from the power of the lions."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:dominion]]
+  * [[vi:obe:other:kingdom]]
+  * [[:vi:obe:kt:fear]]
+  * [[vi:obe:kt:life]]
+  * [[vi:obe:kt:forever]]
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:heaven]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:kt:power]]
+===== Translation Notes: =====
+
+  * **tremble**  - shake with fear
+  * **he is the living God and lives forever**  - The two phrases "the living God" and "lives forever" repeat the same concept, that God lives forever. (See: ([[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **and his kingdom will … his dominion will…**  - These two phrases are parallel, emphasizing how God's kingdom will never end. (See: ([[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **his dominion will be to the end**  - "he will rule forever"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:06|Daniel Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:06:24|<<]] | [[:vi:bible:notes:dan:06:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

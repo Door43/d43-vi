@@ -1,0 +1,51 @@
+====== Deuteronomy 28:65-66 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 65 In those areas you will not have any peace\f + \ft Or: safety \f* or rest. Yahweh will cause you to be constantly worried\f + \ft Or: anxious \f*, feel hopeless, and be discouraged.
+\v 66 You will always be afraid that your enemies will kill you. You will be very fearful, all day and all night.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 65 In those areas you will not have any peace. You will feel hopeless and be discouraged.
+\v 66 You will always be afraid that your enemies will kill you. You will be very fearful, all day and all night.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 65 Among these nations will you find no ease, and there will be no rest for the bottoms of your feet; instead, Yahweh will give you there a trembling heart, and eyes that fail to see, and a heart that mourns.
+\v 66 Your life will hang in doubt before you; you will fear every night and day and will have no certainty at all in your life.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:rest|rest]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:mourn|mourn, mourning]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:fear]]
+
+===== Translation Notes: =====
+
+  * **there will be no rest for the bottoms of your feet** - AT: "and you will have to continually wander because you have no permanent home where you can rest" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh will give you there a trembling heart, and eyes that fail to see, and a heart that mourns** - AT: "Yahweh will cause you to be afraid, hopeless, and sad"
+  * **Your life will hang in doubt before you** - "You will not know whether you will live or die"
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:63|<<]] | [[:vi:bible:notes:deu:28:67|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Numbers 24:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 The Israelites will occupy Edom,
+\q2 and they will conquer their enemies \add who live near\add* Seir \add Mountain\add*.
+\q2 The Israelite people will be victorious\f + \ft Or: strong \f*.
+\q1
+\v 19 A ruler will come whom is a descendant of Jacob;
+\q2 he will get rid of the people who still live in the city \add where Balaam first met Balak\add*."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 The Israelites will occupy Edom,
+\q2 and they will conquer their enemies who live near Mount Seir.
+\q2 The Israelite people will be victorious.
+\q1
+\v 19 A ruler will come whom is a descendant of Jacob.
+\q2 He will get rid of the people who still live in the city where Balaam first met Balak."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Then Edom will become a possession of Israel,
+\q and Seir will also become their possession, 
+\q2 enemies of Israel, 
+\q2 whom Israel will conquer with force.
+\q
+\v 19 Out of Jacob a king will come who will have dominion,
+\q and he will destroy the survivors of their cities."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Edom]]
+  * [[:vi:obe:other:possess|possess, possession]]
+  * [[vi:obe:other:adversary]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:kt:dominion|dominion]]
+
+===== Translation Notes: =====
+
+  * **of their cities** - "of their city." This refers to the city of Ar where Balak met Balaam. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:num:24:17|<<]] | [[:vi:bible:notes:num:24:20|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

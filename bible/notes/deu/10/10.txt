@@ -1,0 +1,55 @@
+====== Deuteronomy 10:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 "I stayed on the mountain forty days and nights, just like I did the first time. \add I prayed to\add* Yahweh, and he answered my prayers\f + \ft Or: did what I requested \f* again and said that he would not destroy your ancestors.
+\v 11 Then Yahweh said to me, 'Continue your journey, going in front of the people, to occupy the land that I solemnly promised your ancestors that I would give to you.'~"
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Moses continued to speak: "I stayed on the mountain forty days and nights, just like I did the first time. I prayed to Yahweh, and he answered my prayers again and said that he would not destroy your ancestors.
+\v 11 Then Yahweh said to me, 'Continue your journey, going in front of the people, to occupy the land that I solemnly promised your ancestors that I would give to you.'"
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 I stayed on the mountain as at the first time, forty days and forty nights.  Yahweh listened to me that time also; Yahweh did not wish to destroy you.
+\v 11 Yahweh said to me, "Arise, go before the people to lead them on their journey;  they will go in and possess the land that I swore to their ancestors to give to them."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:possess|possess, possession]]
+  * [[:vi:obe:other:oath|oath, swear]]
+
+===== Translation Notes: =====
+Moses continues reminding the people of Israel about what happened in the past.
+
+  * **as at the first time** - This means the first time Moses went up Mount Sinai to receive the stone tablets from Yahweh.
+  * **forty days and forty nights** - "40 days and 40 nights" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **possess the land** - Take ownership of the land.
+  * **their ancestors** - This refers to Abraham, Isaac, and Jacob.
+  * **to give to them** - "to give to the people of Israel"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:10|Deuteronomy Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:08|<<]] | [[:vi:bible:notes:deu:10:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== Judges 06:36-37 ======
+
+===== TFT: =====
+
+<usfm>
+\v 36 Then Gideon said to God, "If you are truly going to enable me to rescue the Israelite people as you promised,
+\v 37 confirm it by doing this: Tonight I will put a dry wool fleece on the ground where I thresh the grain. Tomorrow morning, if the fleece is wet with dew but the ground is dry, then I will know that I am the one you will enable to rescue the people of Israel as you promised."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 36 Then Gideon said to God, "If you are truly going to enable me to rescue the Israelite people as you promised,
+\v 37 confirm it by doing this: Tonight I will put a dry wool fleece on the ground where I thresh the grain. Tomorrow morning, if the fleece is wet with dew but the ground is dry, then I will know that I am the one you will enable to rescue the people of Israel as you promised."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 36 Gideon said to God, “If you intend to use me to save Israel, as you have said—
+\v 37 Look, I am putting a woolen fleece on the threshing floor. If there is dew only on the fleece, and it is dry on all the ground, then I will know that you will use me to save Israel, as you said.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:gideon|Gideon]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:save|save]]
+  * [[:vi:obe:other:israel|Israel]]
+  * [[:vi:obe:other:thresh|thresh, threshing floor]]
+
+===== Translation Notes: =====
+
+  * **Look**  - To look at something is often associated with asking for agreement on a matter. AT: "Please agree with what I am doing" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **woolen fleece**  - the wooly coat of a sheep.
+  * **dew**  - water that forms on plants during the night.
+  * **I will know that you will**  - Gideon asks God to do what is impossible to prove his intention. AT: "through that miracle, I will know that you will" (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:06:34|<<]] | [[:vi:bible:notes:jdg:06:38|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

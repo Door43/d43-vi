@@ -1,0 +1,64 @@
+====== Proverbs 08:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 I, wisdom, was born before Yahweh made the earth,
+\q2 before he made the fields and the soil on the earth.
+\q1
+\v 27 I was there when Yahweh put the sky in place,
+\q2 when he marked the place \add in the distance\add* where the sky and the oceans seem to come together.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 I am Wisdom, and I was born before Yahweh made the earth,
+\q2 before he made the tiny particles of dust in the earth, I was there.
+\q1
+\v 27 I was there when Yahweh put the heavens where they are,
+\q2 on the day when he marked the place in the distance where the sky and the oceans come together.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 I was born before Yahweh had made the earth or the fields,
+\q or even the first dust in the world.
+\q
+\v 27 I was there when he established the heavens,
+\q when he drew the horizon on the surface of the deep.
+</usfm>
+
+
+===== Important Terms: =====
+
+  *  [[:vi:obe:kt:yahweh]]
+  * [[:En:obe:other:earth]]
+  *  [[:En:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+  * **I was born … I was there**  - This is wisdom speaking about herself. (See: [[:vi:ta:vol2:translate:figs_123person|First, Second or Third Person]] and [[:vi:ta:vol2:translate:figs_personification|Personification]])
+  * **was born**  - AT: "I was alive"
+  * **established**  - To establish something is to bring into being on a stable basis. AT: "created" or "made"
+  * **drew the horizon**  - This means to draw a round circle to show where the water and the sky meet when someone is looking at them.
+  * **the face of the deep**  - "the surface of the ocean"
+  * **I was there**  - "I existed"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:08|Proverbs Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:08:24|<<]] | [[:vi:bible:notes:pro:08:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,45 @@
+====== 1 Kings 08:49-50 ======
+
+===== TFT: =====
+
+<usfm>
+\v 49 then from your home in heaven listen to them while they plead \add for your help\add*, and assist them.
+\v 50 Forgive them for all the sins \f + \ft doublet \f* that they \add have committed\add* against you and cause their enemies to act kindly toward them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 49 In that case, from your home in heaven listen to them while they plead for your help, and help them.
+\v 50 Forgive them for all the sins that they have committed against you and cause their enemies to act kindly toward them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 49 Then listen to their prayer, their requests in the heavens, the place where you live, and help their cause. 
+\v 50 Forgive your people, who have sinned against you, and all their sins with which they have transgressed against your commands. Have compassion on them before their enemies who carried them captive, so that their enemies may also have compassion on your people.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pray]]
+  * [[vi:obe:kt:heaven]]
+  * [[:vi:obe:kt:forgive]]
+  * [[:vi:obe:kt:transgression]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:compassion]]
+
+===== Translation Notes: =====
+
+  * **their prayer, their requests** - The two words “prayer” and “requests” mean basically the same thing and are used together for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **and all their sins with which they have transgressed against your commands** - This part of the sentence says basically the same thing as the first part in order to emphasize it. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:08|1 Kings Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:08:48|<<]] | [[:vi:bible:notes:1ki:08:51|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

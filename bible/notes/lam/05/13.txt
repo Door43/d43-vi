@@ -1,0 +1,70 @@
+====== Lamentations 05:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 They force our young men to grind flour with millstones,
+\q2 and boys stagger while they \add are forced to\add* carry heavy loads of firewood.
+\q1
+\v 14 Our elders no longer sit at the city gates \add to make important decisions\add*;
+\q2 the young men no longer play their musical \add instruments\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 They force our young men to grind flour with millstones,
+\q2 and young boys stagger while they are forced to carry heavy loads of firewood.
+\q1
+\v 14 Our elders no longer sit at the city gates to make important decisions;
+\q2 the young men no longer play their musical instruments.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 They have brought up the vigorous men to the grinding house,
+\q and youthful men stagger beneath logs.
+\q
+\v 14 They have removed the elders from the city gate
+\q and the vigorous men from their music.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:elder]]
+  * [[:vi:obe:kt:gate]]
+
+===== Translation Notes: =====
+
+
+    * **vigorous men** - See how you translated this in [[:vi:bible:notes:lam:01:15|1:15]].
+    * **the grinding house** - the place where slaves would grind grain
+    * **youthful men** - men who are still growing strong (see UDB)
+    * **elders** - men who are no longer "vigorous men"
+    * **the city gate** - where the elders would give legal advice, but also where people would meet socially
+    * **their music** - part of social life at the city gate
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lam/05/11|<<]] | [[en/bible/notes/lam/05/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

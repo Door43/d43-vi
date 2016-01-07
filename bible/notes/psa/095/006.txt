@@ -1,0 +1,68 @@
+====== Psalms 095:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 We should come, worship, and bow down before him.
+\q2 We should kneel before Yahweh, the one who made us.
+\q1
+\v 7 He is our God,
+\q2 and we are the people whom he takes care of \f + \ft metaphor \f*;
+\q2 like sheep \add that a shepherd\add* takes care of.
+\b
+\q1 I desire\f + \ft Or: pray \f* that today you will hear what Yahweh is saying to you.
+\q2
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 We should come, worship, and bow down before him.
+\q2 We should kneel before Yahweh, the one who made us.
+\q1
+\v 7 He is our God,
+\q2 and we are the people whom he protects,
+\q2 like sheep that a shepherd takes care of.
+\b
+\q1 I desire that today you may hear what Yahweh is saying to you.
+
+
+\q2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Oh come, let us worship and bow down;
+\q let us kneel before Yahweh, our creator:
+\q
+\v 7 For he is our God,
+\q and we are the people of his pasture and the sheep of his hand.
+\q Today, Oh, that you would hear his voice!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:kt:bow|bow, bow down]]
+  * [[:vi:obe:other:creation|create, creation, Creator]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:other:voice|voice]]
+
+===== Translation Notes: =====
+
+  * **Oh come, let us worship and bow down; let us kneel before Yahweh**  - both of these phrases suggest the same worshipful position before God (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **kneel**  - put both knees on the ground
+  * **of his pasture and the sheep of his hand.**  - AT: "that he feeds and protects like a shepherd cares for his sheep." (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_doublet]])
+  * **pasture**  - a grassy area for feeding animals
+  * **hand**  - Here "hand" represents the provision of God (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:095|Psalms Chapter 095 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:095:004|<<]] | [[:vi:bible:notes:psa:095:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

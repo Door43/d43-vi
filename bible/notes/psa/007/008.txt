@@ -1,0 +1,68 @@
+====== Psalms 007:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Yahweh, judge the people of all nations!
+\q2 And, Yahweh, show that I have done nothing that is wrong.
+\q1
+\v 9 God, you know what every person is thinking in his inner being,
+\q2 and because you are righteous, you always do what is just\f + \ft Or: right \f*.
+\q1 So now stop evil people from doing wicked deeds,
+\q2 and defend all of us who are righteous!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Yahweh, judge the people of all nations!
+\q2 Yahweh, show that I have done nothing wrong.
+\q1
+\v 9 God, you know what every person is thinking in his inner being
+\q2 and because you are righteous, you always do what is just.
+\q1 So now stop evil people from doing wicked deeds,
+\q2 and defend all of us who are righteous!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Yahweh, judge the nations;
+\q vindicate me, Yahweh, because I am righteous and innocent, Most High.
+\q
+\v 9 May the evil deeds of the wicked come to an end, but establish the righteous people,
+\q righteous God, you who examine hearts and minds.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:innocent]]
+  * [[:vi:obe:kt:mosthigh]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:mind]]
+
+===== Translation Notes: =====
+
+  * **vindicate me**  - AT: "free me" or "show that I am not guilty"
+  * **you who examine hearts and minds**  - AT: "you who know our inner thoughts" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:007|Psalms Chapter 007 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:007:006|<<]] | [[:vi:bible:notes:psa:007:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

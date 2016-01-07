@@ -1,0 +1,60 @@
+====== Ecclesiastes 09:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 I thought about all those things, and I concluded that God controls \add what happens to\add* everyone, even those who are wise and those who are righteous. No one knows whether \add others\add* will love them or whether they will hate them.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 I thought about all those things, and I decided that God controls what happens to everyone, even those who are wise and those who are righteous. No one knows whether others will love them or whether they will hate them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 For I thought about all this in my mind to understand about the righteous and wise people and their deeds. They are all in God's hands. No one knows whether love or hate will come to someone.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mind|mind]]
+  * [[:vi:obe:other:understand|understand, understanding]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:kt:love]]
+
+===== Translation Notes: =====
+
+  * **"They are all in God's hands"**  - God is in control of everyone
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ecc:09|Ecclesiastes Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/08/16|<<]] | [[en/bible/notes/ecc/09/02|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

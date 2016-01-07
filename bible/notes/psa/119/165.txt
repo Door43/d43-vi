@@ -1,0 +1,57 @@
+====== Psalms 119:165-166 ======
+
+===== TFT: =====
+
+<usfm>
+\v 165 Things go well for those who love your laws;
+\q2 there is nothing adverse\f + \ft Or: bad \f* that will happen to them.
+\q1
+\v 166 Yahweh, I confidently expect that you will rescue me \add from my troubles\add*,
+\q2 and I obey your commands\f + \ft Or: what you have commanded us \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 165 Things go well for those who love your laws;
+\q2 nothing will make them abandon your laws.
+\q1
+\v 166 Yahweh, I confidently expect that you will rescue me from my troubles,
+\q2 and I obey your commands.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 165 Great peace they have, those who love your law;
+\q nothing makes them stumble.
+\q
+\v 166 I wait for your salvation, Yahweh,
+\q and I obey your commandments.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[:vi:obe:other:stumble]]
+  * [[:vi:obe:kt:salvation|salvation]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+
+  * **nothing makes them stumble** - AT: "nothing makes them sin" or "nothing makes them fall into error"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:163|<<]] | [[:vi:bible:notes:psa:119:167|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

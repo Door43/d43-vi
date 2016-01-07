@@ -1,0 +1,59 @@
+====== Jeremiah 22:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 \add I want\add* the people in this land to listen carefully to this message from Yahweh."
+\q1
+\v 30 This is what Yahweh says:
+\q1 "\add In the record about the kings of Judah\add*, write down that \add it will be as though\add* this man \add Jehoiachin\add* had no children,
+\q2 and that he has not been successful during his life,
+\q1 because none of his children\f + \ft Or: descendants \f* will ever become king
+\q2 to rule over the people of Judah."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 I want the people in this land to listen carefully to this message from Yahweh.
+\q1
+\v 30 This is what Yahweh says:
+\q1 "In the record about the kings of Judah, write down that it will be as though this man Jehoiachin had no children,
+\q2 and that he has not been successful during his life,
+\q1 because none of his children will ever become king
+\q2 to rule over the people of Judah."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 Land, Land, Land! Hear the word of Yahweh.
+\q 
+\v 30 Yahweh says this: "Write this about this man Jehoiachin: he will be childless.
+\q He will not prosper during his days, and no one among his descendants will achieve success
+\q or ever again sit on David's throne and rule over Judah.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:other:throne]]
+ 
+
+===== Translation Notes: =====
+
+  * **Land, Land, Land** - Yahweh speaks his message to all the people of the land by calling out to the land where they live. (See: [[vi:ta:vol2:translate:figs_apostrophe]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:22|Jeremiah Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:22:27|<<]] | [[:vi:bible:notes:jer:23:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Isaiah 37:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 When King Hezekiah heard what they reported, he tore his clothes and put on clothes made of rough sackcloth \add because he was very distressed\add*. Then he went into the temple of Yahweh \add and prayed\add*.
+\v 2 Then he sent Eliakim, Shebna, and the older\f + \ft Or: most important \f* priests, who were also wearing clothes made of rough sackcloth, to talk to me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 When King Hezekiah heard what they reported, he tore his clothes and put on clothes made of rough sackcloth because he was very distressed. Then he went into the temple of Yahweh and prayed.
+\v 2 Then he sent Eliakim, Shebna, and the older priests, who were also wearing clothes made of rough sackcloth, to talk to Isaiah the prophet, son of Amoz.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 37
+\p
+\v 1 It came about that when king Hezekiah heard their report, he tore his clothes, covered himself with sackcloth, and went into the house of Yahweh.
+\v 2 He sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests, all covered with
+sackcloth, to Isaiah the prophet the son of Amoz.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:hezekiah]]
+  * [[:vi:obe:other:report]]
+  * [[:vi:obe:other:sackcloth]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[vi:obe:other:household]]
+  * [[:vi:obe:other:scribe]]
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:isaiah]]
+  * [[:vi:obe:kt:prophet]]
+  * [[vi:obe:other:amoz]]
+
+===== Translation Notes: =====
+
+  * **It came about that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **he tore his clothes** - This is a sign of mourning and distress.
+  * ** Eliakim...Shebna** - See how you translated these names in [[:vi:bible:notes:isa:36:01|36:03]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:37|Isaiah Chapter 37 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:36:21|<<]] | [[:vi:bible:notes:isa:37:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

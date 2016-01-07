@@ -1,0 +1,58 @@
+====== 2 Chronicles 26:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Uzziah and his army started to fight against the army of Philistia. They tore down the walls of Gath, Jabneh, and Ashdod \add cities\add*. Then they rebuilt the towns near Ashdod and in other places in Philistia.
+\v 7 God helped them to fight the army of Philistia and the Arabs who lived in Gur-Baal \add town\add* and the descendants of Meun who had come to that area from Edom.
+\v 8 Even the Ammon \add people-group\add* paid taxes to Uzziah each year. So Uzziah became famous as far as the border of Egypt, because he had become very powerful.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Uzziah and his army went to attack the  army of Philistia. They tore down the walls of the cities of Gath, Jabneh, and Ashdod. Then they rebuilt the cities near Ashdod and in other places in Philistia.
+\v 7 God helped them to fight the army of Philistia and the Arabs who lived in the city of Gur Baal, and the descendants of Meun who had come to that area from Edom.
+\v 8 Even the Ammon people group paid taxes to Uzziah each year. So Uzziah became famous as far as the border of Egypt, because he had become very powerful.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 Uzziah went out and fought against the Philistines. He broke down the city walls of Gath, Jabneh, and Ashdod; he built cities in the country of Ashdod and among the Philistines.
+\v 7 God helped him against the Philistines, against the Arabians who lived in Gurbaal, and against the Meunites.
+\v 8 The Ammonites paid tribute wealth to Uzziah, and his fame spread to other lands, even to the entrance of Egypt, for he became very powerful.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:philistines|Philistines]]
+  * [[:vi:obe:other:gath|Gath]]
+  * [[:vi:obe:other:ashdod|Ashdod, Azotus]]
+  * [[:vi:obe:other:arabia|Arabia, Arabian]]
+  * [[:vi:obe:other:ammon|Ammon, Ammonites, Ammonitess]]
+  * [[:vi:obe:other:tribute|tribute]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:kt:power|power]]
+
+===== Translation Notes: =====
+
+  * **Jabneh** - This was a town in northern Judah. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Gurbaal** - This was a town in Arabia.
+  * **Meunites** - This is likely the kingdom of the Maon people near Mount Seir.
+  * **and his fame spread to other lands ****- **  AT: "and he became well-known to other lands."
+  * **the entrance of Egypt** - AT: "the border of Egypt" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:26|2 Chronicles Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:26:04|<<]] | [[:vi:bible:notes:2ch:26:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

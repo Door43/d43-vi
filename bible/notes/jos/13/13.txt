@@ -1,0 +1,55 @@
+====== Joshua 13:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 But the Israelites did not force the people of the Geshur and Maacah \add people-groups\add* to leave their land, so they still live among the Israelite people.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 But the Israelites did not force out of Canaan the people of Geshur and the Maacathites. Instead, these people live with the Israelites even at the present time.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 But the people of Israel did not drive out the Geshurites or the Maacathites. Instead, Geshur and Maacath live among Israel to this day.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:israel]]
+  * [[:vi:obe:other:castout]]
+  * [[:vi:obe:other:geshur]]
+
+===== Translation Notes: =====
+
+
+    * **Maacath**  - a people group named for a place (See: [[vi:ta:vol1:translate:translate_names]])
+    * **to this day**  - until the time the book was written
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:13|Joshua Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/13/10|<<]] | [[en/bible/notes/jos/13/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

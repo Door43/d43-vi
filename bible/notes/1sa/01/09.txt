@@ -1,0 +1,55 @@
+====== 1 Samuel 01:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 One year, after they had finished eating and drinking at Shiloh, Hannah stood up \add to pray\add*. Eli the priest was nearby, sitting on a chair by the doorway of the sacred tent of Yahweh.
+\v 10 Hannah was very distressed, and she cried very sorrowfully as she prayed to Yahweh.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 One year, after they had finished eating and drinking at Shiloh, Hannah stood up to pray. Eli the priest was nearby, sitting on a chair by the doorway of the sacred tent of Yahweh.
+\v 10 Hannah was very distressed, and she cried very sorrowfully as she prayed to Yahweh.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 On one of these occassions, Hannah rose up after they had finished eating and drinking in Shiloh. Now Eli the priest was sitting upon his seat
+by the doorway to the house of Yahweh.
+\v 10 She was deeply distressed; she prayed to Yahweh and wept bitterly.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[vi:obe:other:shiloh]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:kt:houseofgod]]
+  * [[vi:obe:kt:yahweh]]
+
+ 
+
+===== Translation Notes: =====
+Hannah begins to pray to Yahweh and Eli watches.
+
+
+  * **Hannah rose up after** - "Hannah rose up and went to the house of Yahweh to pray after" It is implied that either Hannah's tent was next to the tabernacle tent or she walked from her tent to the tabernacle to pray. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **Now Eli the priest** -  This word "Now" is used here to mark a break in the main storyline. Here the author tells about a new person in the story. This person is the priest Eli. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **She was deeply distressed** - Hannah was deeply troubled or grieving because of not having any children and being ridiculed regularly by Peninnah her husband's other wife. (See: Explicit and Implicit)
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:01|1 Samuel Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:01:07|<<]] | [[:vi:bible:notes:1sa:01:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

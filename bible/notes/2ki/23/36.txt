@@ -1,0 +1,55 @@
+====== 2 Kings 23:36-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 Jehoiakim was twenty-five years old when he became the king \add of Judah\add*, and he ruled from Jerusalem for eleven years. His mother was Zebidah, the daughter of Pedaiah from Rumah \add town\add*.
+\v 37 He did many things that Yahweh says are evil, like his ancestors had done.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Jehoiakim was twenty-five years old when he became the king of Judah, and he ruled from Jerusalem for eleven years. His mother was Zebidah, the daughter of Pedaiah from the city of Rumah.
+\v 37 He did many things that Yahweh said were evil, as his ancestors had done.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 36 Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah; she was the daughter of Pedaiah of Rumah.
+\v 37 Jehoiakim did what was evil in the sight of Yahweh, like everything that his ancestors had done.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+    * **Zebidah**  - This is the name of a women. (See: [[:vi:ta:vol1:translate:translate_names]])
+    * **Pedaiah** - This is the name of a man.
+    * **Rumah**  - This is the name of a place.
+    * **in the sight of Yahweh**  - "to Yahweh" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:23|2 Kings Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/23/34|<<]] | [[en/bible/notes/2ki/24/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

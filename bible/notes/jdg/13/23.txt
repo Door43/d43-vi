@@ -1,0 +1,42 @@
+====== Judges 13:23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 But his wife said, "No, we will not die, because if Yahweh intended to kill us, he would not have accepted the burned offering and the grain offering. And he would not have appeared to us and told us the wonderful thing that would happen to us, and he would not have performed this miracle."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 But his wife said, "No, I do not think so. If Yahweh intended to kill us, he would not have accepted the burned offering and the grain offering. And he would not have appeared to us and told us the wonderful thing that would happen to us, and he would not have performed this miracle."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 But his wife said to him, “If Yahweh wanted to kill us, he would not have received the burnt offering and the grain offering we gave him. He would not have shown us all these things, nor at this time would he have let us hear such things.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:burntoffering]]
+  * [[vi:obe:other:grainoffering]]
+
+===== Translation Notes: =====
+
+  * **nor ... would he have let us hear such things."**  - AT: "and ... he would not have told us things like these."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:13|Judges Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:13:21|<<]] | [[:vi:bible:notes:jdg:13:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

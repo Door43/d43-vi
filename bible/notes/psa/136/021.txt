@@ -1,0 +1,69 @@
+====== Psalms 136:21-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 He gave their lands to us, his people;
+\q2 his faithful love for us endures forever.
+\q1
+\v 22 He gave those lands to us people of Israel, who serve him;
+\q2 his faithful love for us endures forever.
+\b
+\q1
+\v 23 He is the one who did not forget about us when we were defeated \add by our enemies\add*;
+\q2 his faithful love for us endures forever.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 He gave their lands to us, his people;
+\q2 he will love us forever as he has promised.
+\q1
+\v 22 He gave those lands to us people of Israel, who serve him;
+\q2 he will love us forever as he has promised.
+\b
+\q1
+\v 23 He is the one who did not forget about us when our enemies had defeated us;
+\q2 he will love us forever as he has promised.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 and gave their land as an inheritance,
+\q for his covenant faithfulness endures forever—
+\q
+\v 22 an inheritance to Israel his servant,
+\q for his covenant faithfulness endures forever—
+\q
+\v 23 to him who called us to mind and helped us in our humiliation,
+\q for his covenant faithfulness endures forever—
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:mind|mind]]
+
+===== Translation Notes: =====
+
+  * **called us to mind**  - see how you translated this in [[:vi:bible:notes:psa:020:003|20:3]]
+  * **helped us in our humiliation**  - AT: "cared when we were shamed."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:136:018|<<]] | [[:vi:bible:notes:psa:136:024|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

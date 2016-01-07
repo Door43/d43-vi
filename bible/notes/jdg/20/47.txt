@@ -1,0 +1,45 @@
+====== Judges 20:47-48 ======
+
+===== TFT: =====
+
+<usfm>
+\v 47 But 600 men of the tribe of Benjamin ran to Rimmon Rock in the desert. They stayed there for four months.
+\v 48 Then the Israelite men went back to the land belonging to the tribe of Benjamin, and killed the people in every city. They also killed all the animals, and destroyed everything else that they found there. And they burned all the cities that they came to.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 47 But six hundred men of the tribe of Benjamin ran to the rock of Rimmon in the wilderness. They stayed there for four months.
+\v 48 Then the Israelite men went back to the land belonging to the tribe of Benjamin, and killed the people in every city. They also killed all the animals, and destroyed everything else that they found there. And they burned all the cities that they came to.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 47 But six hundred men turned and fled to the wilderness, toward the rock of Rimmon. And they stayed at the rock of Rimmon for four months.
+\v 48 The soldiers of Israel turned back against the people of Benjamin and attacked and killed them—the entire city, the cattle, and everything that they found. And they burned down every town in their path.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:desert]]
+  * [[:vi:obe:other:Rimmon]]
+  * [[:vi:obe:other:israel|Israel]]
+  * [[:vi:obe:other:Benjamin]]
+  * [[:vi:obe:other:livestock]]
+
+===== Translation Notes: =====
+
+  * **six hundred men** - "600 men" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **turned and fled to the wilderness** - "turned around and escaped to the wilderness"
+  * **four months** - "4 months" (See: [[vi:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:20|Judges Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:20:45|<<]] | [[:vi:bible:notes:jdg:21:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

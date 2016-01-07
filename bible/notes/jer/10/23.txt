@@ -1,0 +1,69 @@
+====== Jeremiah 10:23-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Yahweh, I know that no person controls what will happen to him;
+\q2 no one is able to direct the events that he will experience.
+\q1
+\v 24 So correct\f + \ft Or: discipline \f* us, but do it gently.
+\q2 Do not correct\f + \ft Or: punish \f* us when you are angry,
+\q2 because we would die if you did that.
+\q1
+\v 25 Punish \f + \ft metonymy \f* all the nations whose people do not acknowledge\f + \ft Or: say \f* that you are God;
+\q2 punish all the nations whose people do not worship you,
+\q1 because they are completely destroying \f + \ft doublet \f* us people of Israel
+\q2 and they are causing our land to soon be only a desert.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Yahweh, I know that no person controls what will happen to him;
+\q2 no one is able to direct the events that he will experience.
+\q1
+\v 24 So correct us, but do it gently.
+\q2 Do not correct us when you are angry,
+\q2 because we would die if you did that.
+\q1
+\v 25 Punish all the nations whose people do not acknowledge that you are God;
+\q2 punish all the nations whose people do not worship you,
+\q1 because they are completely destroying us people of Israel
+\q2 and they are causing our land to soon be only a desert.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 I know, Yahweh, that a man’s path does not come from himself. No person walking directs his own steps.
+\q
+\v 24 Discipline me, Yahweh, with justice, but not in your anger, lest you destroy me.
+\q
+\v 25 Pour your fury on the nations that do not know you and on the families that do not call on your name.
+\q For they have devoured Jacob and consumed him so as to completely destroy him and demolish his habitation.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:discipline|discipline]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:other:family|family]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:other:consume|consume]]
+
+===== Translation Notes: =====at; "
+
+  * **Pour your fury on the nations** - AT: "Punish the people of the nations severely" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **devoured Jacob and consumed him **  - "devour" and "consume" are two words with the same meaning used to emphasize or intensify the idea expressed by these two words.(See: [[vi:ta:vol2:translate:figs_doublet]]) AT: "they are completely destroying us people of Israel" (UDB)
+  * **destroy him and demolish his habitation**  - "destroy" and "demolish" are two words with the same meaning used to emphasize or intensify the idea expressed by these two words.(See: [[vi:ta:vol2:translate:figs_doublet]]) AT: "destroy all our cities and villages"
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:10|Jeremiah Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:10:21|<<]] | [[:vi:bible:notes:jer:11:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

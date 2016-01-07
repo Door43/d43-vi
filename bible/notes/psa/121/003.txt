@@ -1,0 +1,63 @@
+====== Psalms 121:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 He will not allow us to fall\f + \ft Or: stumble \f*;
+\q2 God, who protects us, will not fall asleep.
+\q1
+\v 4 The one who protects us Israelite people
+\q2 never gets sleepy or sleeps\f + \ft Or: is always awake \f* \f + \ft litotes \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 He will not allow us to fall;
+\q2 God, who protects us, will not fall asleep.
+\q1
+\v 4 The one who protects us Israelite people
+\q2 never gets sleepy or sleeps.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 He will not allow your foot to slip;
+\q he who protects you will not slumber.
+\q
+\v 4 See, the guardian of Israel
+\q never slumbers or sleeps.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+
+===== Translation Notes: =====
+
+
+ The speaker now begins speaking to the people of Israel.
+
+  * **He will not allow your foot to slip** - AT: "God will not allow you. Israel, to fail" or "God will protect you, Israel" (See: [[:vi:ta:vol1:translate:figs_netaphor]])
+  * **he who protects you will not slumber. See, the guardian of Israel never slumbers or sleeps** - These two sentences have similar meanings. The second one strengthens the thought in the first. (See” Parallelism) 
+  * **he who protects you will not slumber ** - AT: "God will always protect you" or "God will not stop protecting you" (See: [[:vi:ta:vol2:translate:figs_personification]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **see** - This word strengthens the following sentence. It does not mean to do anything with your eyes. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **the guardian of Israel**  - This is another reference to God being the protector of Israel.
+  * **slumbers or sleeps**  - (See: [[:vi:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:121|Psalms Chapter 121 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:121:001|<<]] | [[:vi:bible:notes:psa:121:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

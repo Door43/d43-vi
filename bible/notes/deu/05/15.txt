@@ -1,0 +1,62 @@
+====== Deuteronomy 05:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Do not forget that you were slaves in Egypt, and that I, Yahweh your God, brought you out from there by my very great power. \f + \ft doublet, metonymy \f* That is the reason that I am commanding that \add all of\add* you must rest on the seventh\f + \ft Or: Sabbath \f* day \add each week\add*.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Do not forget that you were slaves in Egypt, and that I, Yahweh your God, brought you out from there by my very great power. That is the reason that I am commanding that all of you must rest on the seventh day each week.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 You will call to mind that you were a servant in the land of Egypt, and Yahweh your God brought you out from there by a mighty hand and by a display of power. Therefore Yahweh your God has commanded you to keep the Sabbath day.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:mind|mind]]
+  * [[vi:obe:other:servant]]
+  * [[vi:obe:other:Egypt]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[vi:obe:other:hand]]
+  * [[vi:obe:kt:power]]
+  * [[vi:obe:other:command]]
+  * [[vi:obe:kt:Sabbath]]
+
+===== Translation Notes: =====
+Moses continues reminding the people of Israel about what Yahweh said.
+
+  * **You will call to mind** - "You must remember"
+  * **by a mighty hand and by a display of power** - Both of these phrases mean basically the same thing are combined for emphasis. AT: "by showing his great power" (See: [[:vi:ta:vol2:translate:figs_doublet]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/05/12|<<]] | [[en/bible/notes/deu/05/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

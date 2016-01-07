@@ -1,0 +1,43 @@
+====== Leviticus 25:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Obey all my laws \f + \ft doublet \f* carefully. If you do that, you will continue to live safely in your country \f + \ft doublet \f*.
+\v 19 And crops will grow well on the land, and you will have plenty to eat.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Obey all my laws carefully. If you do that, you will continue to live safely in your country
+\v 19 The crops will grow well on the land, and you will have plenty to eat.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 Therefore you must obey my decrees, keep my laws, and carry them out. Then you will live in the land in safety.
+\v 19 The land will yield its produce, and you will eat your fill and live there in safety.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **obey my decrees, keep my laws, and carry them out** - All of these phrases mean basically the same thing. They emphasize that the people must obey everything Yahweh says. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:25|Leviticus Chapter 25 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:25:15|<<]] | [[:vi:bible:notes:lev:25:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

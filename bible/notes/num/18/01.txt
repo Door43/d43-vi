@@ -1,0 +1,57 @@
+====== Numbers 18:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to Aaron, "You and your sons and the other members of your father's family are the ones who will be punished\f + \ft Or: whom I will punish \f* \add if anything bad happens to the things\add* inside the Sacred Tent. But only you and your sons will be punished if the priests do something bad.
+\v 2 Require that those who belong to your tribe, the tribe of Levi, must assist you and your sons while you perform your work at the Sacred Tent.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to Aaron, "You and your sons and the other members of your father's family are the ones who will be punished if anything bad happens to the things inside the sacred tent. But only you and your sons will be punished if the priests do something bad.
+\v 2 Require that those who belong to your tribe, the tribe of Levi, must assist you and your sons while you perform your work at the sacred tent.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\p
+\v 1 Yahweh said to Aaron, "You, your sons and your ancestor’s family will be responsible for all sins committed against the sanctuary. But only tou and your sons with you will be responsible for all sins committed against your priesthood.
+\v 2 As for your fellow members of the tribe of Levi, your ancestors’ tribe, you must bring them with you so they may joinyou and help you when you and your sons serve in front of the tent of the covenant decrees.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:aaron|Aaron]]
+  * [[:vi:obe:kt:son|son]]
+  * [[:vi:obe:other:family|family]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * committed
+  * [[:vi:obe:kt:sanctuary|sanctuary]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * fellow
+  * member
+  * [[:vi:obe:other:tribe|tribe]]
+  * [[:vi:obe:other:levite|Levite, Levi]]
+  * [[:vi:obe:other:serve|serve, service]]
+  * [[:vi:obe:other:tent|tent]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+
+  * **your sons with you **- AT: "your sons who are with you"
+  * **your ancestors’ tribe **- This means someone from your family in the past.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:18|Numbers Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:num:17:12|<<]] | [[:vi:bible:notes:num:18:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

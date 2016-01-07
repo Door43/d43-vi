@@ -1,0 +1,60 @@
+====== 1 Chronicles 06:63-65 ======
+
+===== TFT: =====
+
+<usfm>
+\v 63 The descendants of Merari were allotted twelve cities and towns from the tribes of Reuben, Gad, and Zebulun.
+\p
+\v 64 The leaders of Israel allotted those towns and the nearby pasturelands to the descendants of Levi.
+\v 65 They also allotted to them the cities and towns from the tribes of Judah, Simeon, and Benjamin that were listed previously.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 63 The descendants of Merari were allotted twelve cities and towns from the tribes of Reuben, Gad, and Zebulun.
+\p
+\v 64 The leaders of Israel allotted those towns and the nearby pasturelands to the descendants of Levi.
+\v 65 They also allotted to them the cities and towns from the tribes of Judah, Simeon, and Benjamin that were listed previously.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 63 To Merari's descendants were given twelve cities by lot in their various clans from the tribes of Reuben, Gad, and Zebulun.
+\v 64 So the people of Israel gave these cities with their pasturelands to the Levites.
+\v 65 They assigned by lot the towns mentioned earlier from the tribes of Judah, Simeon, and Benjamin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lots]]
+  * [[:vi:obe:other:reuben]]
+  * [[:vi:obe:other:gad]]
+  * [[:vi:obe:other:zebulun]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:levite]]
+  * [[:vi:obe:other:assign]]
+  * [[:vi:obe:other:Judah]]
+  * [[:vi:obe:other:simeon]]
+
+
+===== Translation Notes: =====
+
+  * **To Merari's descendants were given twelve cities by lot in their various clans** - AT: "The clans of Merari's descendants gained 12 cities by casting lots" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[vi:ta:vol2:translate:translate_numbers]])
+  * **Merari** - See how you translated this in [[:vi:bible:notes:1ch:06:01|1 Chronicles 6:1]].
+  * **the towns mentioned earlier from** - AT: "those towns from" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:06|1 Chronicles Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:06:61|<<]] | [[:vi:bible:notes:1ch:06:66|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

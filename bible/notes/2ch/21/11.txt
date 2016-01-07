@@ -1,0 +1,46 @@
+====== 2 Chronicles 21:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 On the hilltops in Judah he had also built shrines \add to worship idols\add*, and had caused the people of Judah to stray away from Yahweh by worshiping foreign gods \f + \ft metaphor \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 On the hilltops in Judah he had also built shrines to worship idols. He caused the people of Judah to stray away from Yahweh by worshiping foreign gods.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 In addition, Jehoram had also built shrines in the mountains of Judah; he made the inhabitants of Jerusalem to act like a prostitute. In this way he led Judah astray.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:shrine]]
+  * [[:En:obe:other:prostitute]]
+
+===== Translation Notes: =====
+
+  * **the inhabitants of Jerusalem to act like a prostitute** - AT:  "he lead the people of Jerusalem and they were unfaithful to God"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:21|2 Chronicles Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:21:08|<<]] | [[:vi:bible:notes:2ch:21:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

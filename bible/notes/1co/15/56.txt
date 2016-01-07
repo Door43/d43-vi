@@ -1,0 +1,49 @@
+====== 1 Corinthians 15:56-57 ======
+
+===== TFT: =====
+
+<usfm>
+\v 56 It is because we sin \f + \ft metaphor \f* \add that we die, and it is because we\add* have God's laws that we \add know that we\add* have sinned.
+\v 57 But because of what our Lord Jesus Christ \add has done\add*, he enables us to be free \add from having to obey God's laws to be saved and to be free of being afraid to die\add*. We should thank God for that!
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 56 It is sin that brings such pain to us when we are dying. And sin's power comes into our lives because of the Law.
+\v 57 But now we thank God because he gives us victory over death through our Lord Jesus Christ!
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 56 The sting of death is sin, and the power of sin is the Law.
+\v 57 But thanks to God, who gives us the victory through our Lord Jesus Christ!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]
+
+===== Translation Notes: =====
+
+  * **The sting of death is sin** - It is through sin that we are destined to face death, that is to die.
+  * **the power of sin is the Law** - God's law that was passed down by Moses defines sin and shows us how we sin before God.
+  * **gives us the victory** - "has defeated death for us"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:15|1 Corinthians Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:15:54|<<]] | [[:vi:bible:notes:1co:15:58|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

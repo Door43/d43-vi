@@ -1,0 +1,53 @@
+====== Deuteronomy 12:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 However, you will be permitted to kill and eat the meat of your animals in the places where you live. As often as you want to, you may eat meat from the animals that Yahweh our God will bless you by giving them to you. Those who have done things that cause them to become unacceptable to God and those who have not done things like that may all eat that meat, just like you would eat the meat of a deer or an antelope.
+\v 16 But you must not eat the blood \add of any animals\add*; you must let the blood drain onto the ground \add before you cook the meat\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 However, God will permit you to kill and eat the meat of your animals in the places where you live. As often as you want to, you may eat meat from the animals that Yahweh our God will bless you by giving them to you. Those who are at that time clean or unclean may all eat that meat, just like you would eat the meat of a deer or an antelope.
+\v 16 But you must not eat the blood of any animal; you must let the blood drain onto the ground before you cook the meat.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 However, you may kill and eat animals within all your gates, as you wish, receiving the blessing of Yahweh your God for all that he has given you; the unclean and the clean persons both may eat of it, animals such as the gazelle and the hart.
+\v 16 But you will not eat the blood; you will pour it out on the earth like water.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:gate]]
+  * [[:vi:obe:kt:receive|receive]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:unclean|unclean, uncleanness]]
+  * [[:vi:obe:kt:clean|clean, cleanse]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:other:water|water, waters]]
+
+===== Translation Notes: =====
+
+  * **However, you may kill and eat animals within all your gates**  - The people could only kill animals as sacrifices in the place that Yahweh would choose. They could kill animals for food anywhere they wanted.
+  * **the gazelle and the deer**  - "the antelope and the deer." These are wild animals with long thin legs that can run quickly. (See: [[:vi:ta:vol1:translate:translate_unknown|Translate Unknowns]])
+  * **But you will not eat the blood**  - The blood represents life and God did not allow the people to eat the blood along with the meat.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:13|<<]] | [[:vi:bible:notes:deu:12:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

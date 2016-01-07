@@ -1,0 +1,72 @@
+====== Psalms 079:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Do not punish us because of the sins that our ancestors committed!
+\q1 Act mercifully toward us now\f + \ft Or: quickly \f*,
+\q2 because we are very discouraged.
+\b
+\q1
+\v 9 God, you have saved\f + \ft Or: rescued \f* \add us many times\add*,
+\q2 so help us \add now\add*;
+\q1 rescue us and forgive us for having sinned
+\q2 in order that other people will honor you \f + \ft metonymy \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Do not punish us because of the sins that our ancestors committed!
+\q1 Act mercifully toward us now
+\q2 because we are very discouraged.
+\b
+\q1
+\v 9 God, you have saved us many times,
+\q2 so help us now;
+\q1 rescue us and forgive us for having sinned
+\q2 so that other people will honor you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Do not hold  the sins of our forefathers against us; 
+\q may your merciful actions come to us,
+\q for we are very low.
+\q
+\v 9 Help us, God of our salvation, for the sake of the glory of your name;
+\q save us and forgive our sins for your name’s sake.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:vi:obe:other:father|father, forefather]]
+  * [[:vi:obe:kt:mercy|mercy, merciful]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:salvation|salvation]]
+  * [[:vi:obe:kt:glory|glory, glorious]]
+  * [[:vi:obe:kt:save|save]]
+  * [[:vi:obe:kt:forgive|forgive, forgiveness]]
+  * [[vi:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **against us**  - The pronoun “us” refers to God's people, Israel.
+  * **Help us, God of our salvation, for the sake of the glory of your name; save us and forgive our sins for your name’s sake**  - These two phrases share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **for your name's sake**  - God's name here represents his whole being and the honor that God deserves. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **God of our salvation**  - The word "salvation" can be translated with the verb "save": "God who saves us." (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:079|Psalms Chapter 079 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:079:006|<<]] | [[:vi:bible:notes:psa:079:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

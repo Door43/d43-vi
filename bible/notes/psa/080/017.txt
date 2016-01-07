@@ -1,0 +1,60 @@
+====== Psalms 080:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 But strengthen us people whom you have chosen [IDI],
+\q2 us Israelite people whom you previously caused to be very strong.
+\q
+\v 18 When you do that, we will never turn away from you again;
+\q2 revive us\f + \ft Or: cause us to be again like we were previously \f*, and then we will praise, Or: worship you.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 But strengthen us people whom you have chosen,
+\q2 us Israelite people whom you previously caused to be very strong.
+\q
+\v 18 When you do that, we will never turn away from you again;
+\q2 revive us, and then we will praise you.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 May your hand be on the man of your right hand,
+\q on the son of man whom you made strong for yourself.
+\q
+\v 18 Then we will not turn away from you;
+\q revive us, and we will call on your name.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:sonofman|Son of Man]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:kt:name|name]]
+
+===== Translation Notes: =====
+
+  * **your hand** - This refers to Yahweh's power and control. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **the man of your right hand** - This refers to the nation of Israel which Yahweh has chosen as his people. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **right hand** - The side of a person that is favored and gives honor to the one chosen to stand next to that person. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:080|Psalms Chapter 080 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:080:014|<<]] | [[:vi:bible:notes:psa:080:019|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

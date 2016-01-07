@@ -1,4 +1,4 @@
-====== Uzziah, Amaziah ======
+====== Uzziah, Azariah ======
 
 ===== Facts: =====
 
@@ -9,7 +9,7 @@ Around 800 BC, Uzziah became king of Judah at the age of 16, and reigned 52 year
   * Because of this sin, Uzziah became sick with leprosy and had to live separately from other people until the end of his reign.
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:other:kingdomofjudah]], [[:vi:obe:other:king]])
 ===== Bible References: =====

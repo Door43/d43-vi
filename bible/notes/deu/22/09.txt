@@ -1,0 +1,66 @@
+====== Deuteronomy 22:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Do not plant any crop in the area where your grapevines are growing. If you do, you are not allowed to harvest the crops that you have planted or to harvest the grapes \add to make wine from them\add*.
+\p
+\v 10 Do not hitch together an ox and a donkey \add for plowing your fields\add*.
+\p
+\v 11 Do not wear clothing that is made by weaving together wool and linen\f + \ft Or: two different kinds of thread \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Do not plant any crop in the area where your grapevines are growing. If you do, the priests in Yahweh's sanctuary will seize both the seed and the harvest of that vineyard.
+\p
+\v 10 Do not hitch together an ox and a donkey for plowing your fields.
+\p
+\v 11 Do not wear clothing that is made by weaving together wool and linen.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 You must not plant your vineyard with two kinds of seed, so that the whole harvest is not confiscated by the sanctuary, the seed that you have sown and the yield of the vineyard.
+\v 10 You must not plow with an ox and an donkey together.
+\v 11 You must not wear fabric made of wool and linen together.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:vineyard]]
+  * [[vi:obe:other:kind]]
+  * [[:vi:obe:kt:seed]]
+  * [[:vi:obe:kt:harvest]]
+  * [[:vi:obe:kt:sanctuary]]
+  * [[:vi:obe:other:sow]]
+  * [[vi:obe:other:plow]]
+  * [[:vi:obe:other:ox]]
+  * [[:vi:obe:other:donkey]]
+
+===== Translation Notes: =====
+
+  * **so that the whole harvest is not confiscated by the sanctuary** - Possible ways to translate are: 1) "so that the priests in Yahweh's sanctuary do not take away the whole harvest" 2) "so that the whole harvest is not defiled so that you are not allowed to use it." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **and the yield of the vineyard**  - "and the fruit that grows in the vineyard"
+  * **wool**  - soft, curly hair that grows on a sheep 
+  * **linen**  - thread made from a flax plant
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:08|<<]] | [[:vi:bible:notes:deu:22:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

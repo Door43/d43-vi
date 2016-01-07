@@ -1,0 +1,55 @@
+====== Revelation 16:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15-16 The evil spirits will gather the rulers at a place that is called in the Hebrew \add language\add* Armageddon.
+\p \add I heard the Lord Jesus say\add*,  "\add You must\add* listen carefully to \add me\add*: I am coming unexpectedly \f + \ft simile \f*, like a thief\add . So\add*, I will be happy with those who stay alert and \add keep on living righteously so that they will not be ashamed\add*, just like \f + \ft metaphor \f* a person keeps his clothes \add on\add* so that he will not be ashamed \add like a person who is\add* naked."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 (I heard the Lord Jesus say, "You must listen carefully to me: I am coming unexpectedly, like a thief. So I will be happy with those who stay alert and keep on living in the right way so that they will not be ashamed. They will be just like a person who keeps his clothes on so that he will not be ashamed in front of other people.")
+\v 16 The evil spirits will gather the rulers at a place named in the Hebrew language Armageddon.
+
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 ("Watch! I am coming like a thief! Blessed is the one who keeps watching, keeping his garments on so that he will not go out naked and they see his shameful condition.")
+\v 16 They brought them together at the place that is called in Hebrew Armageddon.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:watch]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:hebrew]]
+
+===== Translation Notes: =====
+
+  * **I am coming like a thief** - See how you translated a similar phrase in [[vi:bible:notes:rev:03:03|3:3]].
+  * **they see his shameful condition** - Here the word "they" refers to other people.
+  * **They brought them together** - "The spirits of the demons brought the kings and their armies together"
+  * **the place that is called** - "the place that people call" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **Armageddon** - This is the name of a place. (See: [[:vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:16|Revelation Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:16:12|<<]] | [[:vi:bible:notes:rev:16:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

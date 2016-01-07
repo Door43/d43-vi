@@ -1,0 +1,60 @@
+====== 1 Corinthians 10:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 No! Instead, I mean that what people sacrifice \add to idols\add*, they are sacrificing to demons, not to God. So, \add if you eat food that has been sacrificed to idols, you are participating in worshipping the demons that the idols represent\add*. And I do not want you to participate in worshipping demons!
+\v 21 When you drink the \add grape juice\f + \ft Or: wine \f* in\add* \f + \ft metonymy \f* the cup \add at the Lord's Supper\add*, you cannot participate in the \add blessings that\add* the Lord \add Jesus\add* brought to us and at the same time drink the \add wine in the\add* \f + \ft metonymy \f* cup that people offer to demons! When you eat at the Lord's table, you cannot participate in the blessings the Lord provided \f + \ft metonymy \f* when he died for us and at the same time participate in the things that represent demons \add by eating food that has been sacrificed to idols\add*!
+\v 22 \add If you participate in honoring demons in that way\add*, you will certainly make the Lord very angry.\f + \ft Or: will not you make the Lord very angry? \f* \f + \ft rhetorical question \f* Remember that you are certainly not stronger than he is.\f + \ft Or: Do you think that you are stronger than he is? \f* \f + \ft rhetorical question \f* \add Certainly not, so you will not escape his punishing you if you honor demons in that way!\add*
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 But I am saying this: when non-Jews make their sacrifices, they are really making them to demons, and not to God at all. And I do not wish that you share anything with demons.
+\v 21 You must not drink from the Lord's cup and then later drink the cup of demons.  You must not share in the Lord's supper and then later eat a meal with demons.
+\v 22 To do so would provoke the Lord to become jealous. You are not stronger than he is!
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 But I say, that the things the Gentile pagans sacrifice, they offer these things to demons and not to God. I do not want you to be participants with demons!
+\v 21 You cannot drink the cup of the Lord and the cup of demons. You cannot have fellowship at the table of the Lord and the table of demons.
+\v 22 Or do we provoke the Lord to jealousy? Are we stronger than he is?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:gentile|Gentile]]
+  * [[:vi:obe:other:pagan]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:kt:demon|demon, evil spirit, unclean spirit]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:fellowship|fellowship]]
+  * [[:vi:obe:kt:lordgod|Lord]]
+  * [[:vi:obe:kt:jealous|jealous, jealousy]]
+
+===== Translation Notes: =====
+
+
+  * **drink the cup of** - The act of drinking from a shared bowl provided by (someone), usually referring to the contents of the container; this is a metaphor for "sharing the same values as" (See: [[vi:ta:vol1:translate:figs_metaphor]])  
+  * **You cannot have fellowship at the table of the Lord and the table of demons** - AT: "If you worship both the Lord and demons, your worship of the Lord is not sincere."
+  * **provoke** - AT: "to anger" or "to irritate"
+  * **Are we stronger than he is?** - AT: " Are we able to fellowship with demons when God does not?" or "We are not stronger than God" (See: [[vi:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:10|1 Corinthians Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:10:18|<<]] | [[:vi:bible:notes:1co:10:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

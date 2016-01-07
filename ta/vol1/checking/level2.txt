@@ -1,0 +1,26 @@
+===== Checking Level Two – External Check =====
+
+This module answers the question: How do I do a level 2 check?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
+  * [[vi:ta:vol1:checking:accuracy_check|Accuracy Check]]
+
+==== Definition of Checking Level Two ====
+
+The purpose of Level Two checking is to verify that representative groups from the local language community agree that the translation is a good one.
+
+Level Two checking will be done in two ways:
+
+  - **Language Community Check**. The translation will be checked by members of the language community to make sure that it is clear, natural, and understandable. For the steps to follow to do the Language Community Check, click [[:vi:ta:vol1:checking:language_community_check|here]].
+  - **Church Leader Check**. The translation will be checked by a group of church leaders from the language community to make sure that it is accurate. For the steps to follow to do the Church Leader Check, click [[:vi:ta:vol1:checking:church_leader_check|here]].
+
+Once this has been done, this work needs to be [[vi:ta:vol1:checking:good|affirmed]]. 
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:checking:language_community_check|Language Community Check]]
+  * [[vi:ta:vol1:checking:church_leader_check|Church Leader Check]]
+  * [[vi:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
+  * [[vi:ta:vol1:checking:good|Level 2 Affirmation]]
+

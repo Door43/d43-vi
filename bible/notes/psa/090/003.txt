@@ -1,0 +1,72 @@
+====== Psalms 090:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add When people die\add*, you cause their corpses to become soil again;
+\q2 you change their corpses to become dirt like \add the first man\add* was created from.
+\q1
+\v 4 When you consider\f + \ft Or: think about \f* time,
+\q2 a thousand years are \add as short as\add* \f + \ft simile \f* one day which passes;
+\q2 \add you consider that\add* \f + \ft hyperbole \f* they are as short as a few hours in the night.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 When people die, you cause their corpses to become soil again;
+\q2 you change their corpses to become dirt like that from which the first man was created.
+\q1
+\v 4 When you consider time,
+\q2 a thousand years are as short as one day that passes;
+\q2 you consider that they are as short as a few hours in the night.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 You return man to dust,
+\q and you say, "Return, you descendants of mankind."
+\q
+\v 4 For a thousand years in your sight
+\q are as yesterday when it is past,
+\q and as a watch in the night.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:descendant]]
+  * [[vi:obe:other:biblicaltimeyear]]
+  * [[vi:obe:other:watch]]
+
+ 
+===== Translation Notes: =====
+
+    * **You return man to dust** - AT: "You return man to dust when he dies" (See:[[:vi:ta:vol1:translate:figs_explicit]])
+    * **"Return, you descendants**  - AT: "Return to dust, you descendants"
+    * **a thousand years** - "1000 years" (See:[[:vi:ta:vol2:translate:translate_numbers]])
+    * **For a thousand years in your sight are as yesterday when it is past, and as a watch in the night.** - AT: "You see a thousand years the same as yesterday when it has passed by, or as a few short hours in the night." or "Even a thousand years is not a long time to you." (See: [[:vi:ta:vol1:translate:figs_simile]])
+      
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:090|Psalms Chapter 090 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/090/001|<<]] | [[en/bible/notes/psa/090/005|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

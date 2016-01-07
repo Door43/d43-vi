@@ -1,0 +1,62 @@
+====== Isaiah 59:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 We growl like \f + \ft simile \f* hungry bears;
+\q2 we continually moan like \f + \ft simile \f* doves.
+\q1 We seek \add people who do\add* what is just\f + \ft Or: fair \f*,
+\q2 but we cannot find any \add anywhere\add*.
+\q1 \add We want God\add* to rescue us,
+\q2 but \add it seems that\add* he is far away.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 We growl like hungry bears;
+\q2 we continually moan like doves.
+\q1 We ask God to do what is just,
+\q2 but nothing happens.
+\q1 We want God to rescue us,
+\q2 but it seems that he is far away.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 11 We growl like bears and moan like doves; 
+\q1 we wait for justice, but there is none; for rescue, but it is far  from us.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:bear|bear]]
+  * [[:vi:obe:other:dove|dove, pigeon]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+
+===== Translation Notes: =====
+
+Isaiah continues speaking to the people of Israel.
+
+  * **We growl like bears and moan like doves**  - These refer to the sounds the people made because they were distressed and mourning. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:59:09|<<]] | [[:vi:bible:notes:isa:59:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

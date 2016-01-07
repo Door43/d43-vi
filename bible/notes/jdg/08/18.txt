@@ -1,0 +1,51 @@
+====== Judges 08:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Then Gideon said to Zebah and Zalmunna, "The men you killed near Tabor \add Mountain\add*, what did they look like?"
+\p They replied, "They were like you; they all looked like they were sons of a king."
+\p
+\v 19 Gideon replied, "They were my brothers! Just as surely as Yahweh lives, I would not kill you if you had not killed them."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Then Gideon said to Zebah and Zalmunna, "The men you killed near Mount Tabor, what did they look like?"
+\p They replied, "They were like you; they all looked like they were sons of a king."
+\p
+\v 19 Gideon replied, "They were my brothers! Just as surely as Yahweh lives, I would not kill you if you had not killed them."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 Then Gideon said to Zebah and Zalmunna, “What kind of men did you kill at Tabor?” They answered, “As you are, so were they. Every one of them looked like the son of a king.”
+\v 19 Gideon said, “They were my brothers, the sons of my mother. As Yahweh lives, if you had saved them alive, I would not kill you.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:life]]
+  * [[vi:obe:kt:save]]
+
+===== Translation Notes: =====
+
+  * **Zebah and Zalmunna**  - See how you translated this in [[:vi:bible:notes:jdg:08:04|8:5]].
+  * **Tabor**  - See how you translated this in [[:vi:bible:notes:jdg:04:06|Judges 4:6]].
+  * **As you are, so were they**  - AT: "They were just like you"
+  * **As Yahweh lives**  - a religious oath that what he is about to say is true. It is used for emphasis. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:15|<<]] | [[:vi:bible:notes:jdg:08:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

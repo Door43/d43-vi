@@ -1,0 +1,64 @@
+====== Job 08:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Truly, evil people \f + \ft metaphor \f* are not joyful \f + \ft irony \f* for a long time;
+\q2 other people come and take their places.
+\b
+\q1
+\v 20 So, \add I tell you, Job\add*, God will not reject you if you are very godly\f + \ft Or: righteous \f*,
+\q2 but he does not help [IDI] evil people.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Truly, this is all the joy that evil people have:
+\q2 other people just come and take their places.
+\b
+\q1
+\v 20 So, I tell you, Job, God will not reject you if you honor him,
+\q2 but he does not help evil people.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 See, this is the “joy” of such a person’s behavior;
+\q other plants will sprout out of the same soil in his place.
+\q
+\v 20 See, God will not cast away an innocent man;
+\q neither will he take the hand of evildoers.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:castout]]
+  * [[:vi:obe:kt:innocent]]
+  * [[:vi:obe:kt:evil]]
+
+===== Translation Notes: =====
+
+  * **'joy'** - the reward, the result of a person's evil behavior that Bildad scornfully voices as 'joy.' (See: [[vi:ta:vol1:translate:figs_irony]])
+  * **behavior** - "actions" or "way of life"
+  * **other plants will sprout up from the same soil in his place** - Here the writer continues the metaphor from [[vi:bible:notes:job:08:16|08:16-18]]. Godless people are compared to plants that take the place of the first ones that grow among rocks. AT: "When one wicked man dies, another will take his place" or "From the soil, another will grow." (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **sprout up** - "grow"
+  * **same soil** - "the rocky ground"
+  * **in his place** - "in the place of the godless man"
+  * **neither will he take the hand of evildoers** - "Hand" represents the whole person. "he will not support evildoers" or "he will not strengthen evildoers" (See: [[vi:ta:vol1:translate:figs_idiom]] and [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:08|Job Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:job:08:16|<<]] | [[:vi:bible:notes:job:08:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,70 @@
+====== 2 Kings 24:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 While Jehoiakim was ruling \add Judah, the army of\add* King Nebuchadnezzar of Babylon invaded Judah. \add They defeated the Judean army\add*, \add and as a result\add*, Jehoiakim was required to pay a lot of tribute\f + \ft Or: taxes \f* to King Nebuchadnezzar. But after three years, Jehoiakim rebelled.
+\v 2 Then Yahweh sent raiders from Babylonia and Syria, and from the Moab and Ammon people-groups, to attack the people of Judah and get rid of them, just as Yahweh had told his prophets to warn the people would happen.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 While Jehoiakim was ruling Judah, the army of King Nebuchadnezzar of Babylon invaded Judah. They defeated the Judean army, and as a result, Jehoiakim was required to pay much tribute to King Nebuchadnezzar. But after three years, Jehoiakim rebelled.
+\v 2 Then Yahweh sent raiders from Babylonia and Aram, and from the Moab and Ammon people groups, to attack the people of Judah and kill them, just as Yahweh had told his prophets to warn the people would happen.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 24
+\p
+\v 1 In Jehoiakim's days, Nebuchadnezzar, king of Babylon, attacked Judah; Jehoiakim became his servant for three years. Then Jehoiakim turned back and rebelled against Nebuchadnezzar.
+\v 2 Yahweh sent against Jehoiakim bands of Chaldeans, Arameans, Moabites, and Ammonites; he sent them against Judah to destroy it. This was in conformity with the word of Yahweh that had been spoken through his servants the prophets.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jehoiakim]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:other:rebel]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:chaldeans]]
+  * [[:vi:obe:other:aram]]
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:ammon]]
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:kt:prophet]]
+ 
+
+===== Translation Notes: =====
+
+  * **In Jehoiakim's days**  ​- AT: "During the time that Jehoiakim ruled Judah"
+  * **attacked Judah** - AT: "attacked and defeated Judah" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **Jehoiakim became his servant for three years. **- "as a result, Jehoiakim was required to pay much tribute to King Nebuchadnezzar." (UDB)​
+  * **This was in conformity with the word of Yahweh** -  ​AT: "This was according to the word of Yahweh"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:24|2 Kings Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/23/36|<<]] | [[en/bible/notes/2ki/24/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

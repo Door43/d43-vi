@@ -1,0 +1,52 @@
+====== Deuteronomy 09:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then Yahweh said to me, 'I have been watching these people, and I see that they are very stubborn.
+\v 14 So do not try to stop me. I am going to destroy all of them, with the result that no one anywhere will remember their names \f + \ft metonymy \f*\f + \ft Or: that they ever existed \f*. Then I will enable you to become \add the ancestor of\add* a nation that will be more numerous and more powerful than they are.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then Yahweh said to me, 'I have been watching these people, and I see that they are very stubborn.
+\v 14 So do not try to stop me. I am going to destroy all of them, with the result that no one anywhere will remember their names. Then I will enable you to become the ancestor of a nation that will be more numerous and more powerful than they are.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Furthermore, Yahweh spoke to me and said, "I have seen this people; they are a stubborn people.
+\v 14 Let me alone, so that I may destroy them and blot out their name from under heaven, and I will make of you a nation mightier and greater than they."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:stiffnecked]]
+  * [[vi:obe:kt:blotout]]
+  * [[:vi:obe:kt:name]]
+  * [[vi:obe:other:nation]]
+ 
+
+===== Translation Notes: =====
+
+    * **blot out their name from under heaven** - See how you translated a similar phrase in [[vi:bible:notes:deu:07:23|7:24]].
+   
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:09|Deuteronomy Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:09:11|<<]] | [[:vi:bible:notes:deu:09:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

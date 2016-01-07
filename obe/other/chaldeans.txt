@@ -10,9 +10,9 @@ Chaldea was a region in southern Babylonia. The people who lived in this land we
   * Ten years after Jerusalem was captured, the Babylonian King Nebuchadnezzar destroyed the temple there.
   * The people living in Babylonia were still sometimes referred to as "Chaldeans."
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[babylon|Babylon]], [[ur|Ur]], [[en:obe:other:abraham|Abraham]], [[shinar|Shinar]] )
+(See also: [[babylon|Babylon]], [[ur|Ur]], [[vi:obe:other:abraham|Abraham]], [[shinar|Shinar]] )
 
 ===== Bible References: =====
 

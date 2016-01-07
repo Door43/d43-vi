@@ -1,0 +1,64 @@
+====== Jeremiah 06:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add The kings will tell their troops\add*,
+\q2 "Get ready for the battle.
+\q2 We should attack them before noontime.
+\q1 But if \add we arrive there late in the afternoon\add*
+\q2 when the shadows are becoming long,
+\q1
+\v 5 we will attack them at night
+\q2 and tear down their fortresses."
+\b
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 The kings will tell their troops, "Get ready for the battle. We should attack them before noontime.
+\q But if we arrive there late in the afternoon when the shadows are becoming long,
+\q
+\v 5 We will attack them at night and tear down their fortresses."
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Attack her in Yahweh's name. Arise, let us attack at noon.
+\q It is too bad that the daylight is fading away, that the evening shadows are falling.
+\q
+\v 5 So let us attack at night and destroy her fortresses.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:shadow]]
+  * [[:vi:obe:other:stronghold]]
+
+===== Translation Notes: =====
+
+A king from the attacking army is speaking to the men under his control.
+  * **Attack her in Yahweh's name** - "Sanctify war against her." The attacking army tries guarantee that their gods will help them during the war by performing ceremonies and making sacrifices. AT: "Prepare for war by purifying yourselves and sacrificing to the gods." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **Arise** - "Get up"
+  * **at noon** - AT: "at noon even though it is very hot."
+  * **the daylight is fading away** - "the day is ending"
+  * **are falling** - "are stretching out"
+  * **at night** - AT: "during the night even though it is dark."
+  * **her fortresses**  - "the strong buildings of Jerusalem"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:06|Jeremiah Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:06:01|<<]] | [[:vi:bible:notes:jer:06:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+ 
+~~NOCACHE~~

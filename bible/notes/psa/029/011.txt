@@ -1,0 +1,41 @@
+====== Psalms 029:11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Yahweh enables his people to be strong,
+\q2 and he blesses them by causing things to go well for them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Yahweh enables his people to be strong,
+\q2 and he blesses them by causing things to go well for them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Yahweh gives strength to his people;
+\q Yahweh blesses his people with peace.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+
+===== Translation Notes: =====
+
+  * **Yahweh blesses his people with peace** - "Yahweh blesses his people by giving them peace"
+===== LINKS: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:029|Psalms Chapter 029 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:029:009|<<]] | [[:vi:bible:notes:psa:030:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

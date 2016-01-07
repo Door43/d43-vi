@@ -1,0 +1,64 @@
+====== Isaiah 27:9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Yahweh did that in order to punish us for our sins,
+\q2 and remove our guilt.
+\q1 As a result \add of our being exiled\add*, all the altars to other gods \add in Israel\add* will be demolished,
+\q2 and we will be forgiven for the sins that we have committed.
+\q1 There will be no more poles for worshiping the goddess Asherah or altars for burning incense to other gods;
+\q2 they will all be torn down.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Yahweh did that in order to punish us for our sins
+\q2 and remove our guilt.
+\q1 As a result of our being exiled, all the altars to other gods in Israel will be demolished,
+\q2 and we will be forgiven for the sins that we have committed.
+\q1 There will be no more poles for worshiping the goddess Asherah or altars for burning incense to other gods;
+\q2 they will all be torn down and smashed to bits.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 9 So in this way, the iniquity of Jacob will be atoned for, for this will be the full fruit of turning away from his sin: 
+\q1 He will make all the the altar stones as chalk and pulverized, 
+\q1 and  no Asherah poles or incense altars will remain standing.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:kt:atonement]]
+  * [[vi:obe:kt:fruit]]
+  * [[vi:obe:kt:turn]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:stone]]
+  * [[:vi:obe:other:asherim]]
+  * [[:vi:obe:other:incense]]
+
+===== Translation Notes: =====
+
+  * **So in this way** - AT: "By sending them away into exile"
+  * **the iniquity of Jacob will be atoned for** - AT: "Yahweh will atone for the sins of the people of Israel" or "Yahweh will provide a payment for the sins of the people of Israel" (See: [[vi:ta:vol2:translate:figs_metonymy]] and [[vi:ta:vol2:translate:figs_activepassive]])
+  * **for this will be the full fruit of turning away from his sin** - AT: "for this is what will happen when Yahweh removes their sin"
+  * **He will make all the the altar stones as chalk and pulverized, and no Asherah poles or incense altars will remain standing** - AT: "They will completely destroy all the altars to false gods and remove all the Asherah idols."
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:27|Isaiah Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:27:07|<<]] | [[:vi:bible:notes:isa:27:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

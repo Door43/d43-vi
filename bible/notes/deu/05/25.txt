@@ -1,0 +1,59 @@
+====== Deuteronomy 05:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 But we are afraid that we will die \f + \ft rhetorical question \f* if we hear Yahweh our God speak \f + \ft metonymy \f* to us again; his terrible fire will destroy\f + \ft Or: kill \f* us.
+\v 26 Who has\f + \ft Or: Certainly no human has \f* remained alive after hearing the all-powerful God speak \f + \ft metonymy \f* to them from a fire.
+\v 27 \add So Moses\add*, you go up the mountain and listen to everything that Yahweh our God will say. Then \add come back and\add* tell us everything that he has said, and we will listen to what he has said and obey it.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 But we are afraid that we will die. We are afraid that this immense fire will burn us all up, if we go on hearing Yahweh's voice.
+\v 26 We are the only people on earth who have remained alive after hearing the all-powerful God speak to them from a fire!
+\v 27 So Moses, you go up the mountain and listen to everything that Yahweh our God says. Then come back and tell us everything that he has said, and we will listen to what he has said and obey it.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 But why should we die? For this great fire will consume us; if we hear the voice of Yahweh our God any longer, we will die.
+\v 26 For who besides us is there among all flesh who has heard the voice of the living God speak out of the middle of the fire and lived, as we have done?
+\v 27 As for you, you should go and listen to everything that Yahweh our God says; repeat to us everything  that Yahweh our God says to you;  we will listen to it and obey it.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:other:consume|consume]]
+  * [[vi:obe:other:voice]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:flesh|flesh]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+
+===== Translation Notes: =====
+
+The people of Israel continue speaking to Moses.
+
+  * **But why should we die?**  - AT: "It is not proper that we should die!" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **For who besides us is there among all flesh **- AT: There are no other people besides us who…"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:05:23|<<]] | [[:vi:bible:notes:deu:05:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

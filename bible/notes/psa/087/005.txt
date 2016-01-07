@@ -1,0 +1,68 @@
+====== Psalms 087:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 And concerning Jerusalem, people will say
+\q2 \add "It is as though\add* everyone was born there,
+\q2 and Almighty God will cause that city to remain strong\f + \ft Or: safe \f*\f + \ft Or: secure \f*."
+\q1
+\v 6 Yahweh will write a list of \add the names of\add* the people of various groups \add who belong to him\add*,
+\q1 and he will say that \add he considers them\add* all to be citizens of Jerusalem.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Concerning Jerusalem, people will say,
+\q2 "All of these people were born there,
+\q2 and Almighty God will cause that city to remain strong."
+\q1
+\v 6 Yahweh will write a list of the names of the people of various groups who belong to him,
+\q1 and he will say that he considers them all to be citizens of Jerusalem.
+
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Of Zion it will be said,
+"Each of these was born in her;
+\q and the Most High himself will establish her."
+\q
+\v 6 Yahweh notes as he registers the peoples,
+\q "This one was born there." 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:zion|Zion, Mount Zion]]
+  * [[:vi:obe:kt:mosthigh|Most High]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:selah|selah]]
+
+===== Translation Notes: =====
+
+  * **these were born in her** - AT: "these had their beginning in Zion"
+  * **the Most High himself** - The writer uses a reflexive pronoun to emphasize that it is the Most High who is doing this. (See: [[vi:ta:vol2:translate:figs_rpronouns]])
+  * **Yahweh notes** - "Yahweh counts" or "Yahweh pays special attention"
+  * **This one was born there.** - See the Translation Note for verse 4. (God knows those who belong to him.)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:087|Psalms Chapter 087 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:087:004|<<]] | [[:vi:bible:notes:psa:087:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,48 @@
+====== Deuteronomy 13:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Do not \f + \ft synecdoche \f* do what they suggest. No not even listen to them. Do not even act mercifully toward them, and do not keep secret what they have done.
+\v 9 Execute them! You be the first one to \add throw stones at them to\add* kill them, and then let everyone else \f + \ft metonymy \f* throw stones at them, too.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Do not do what they suggest. Do not even listen to them. Do not act mercifully toward them, and do not keep secret what they have done.
+\v 9 Execute them! You be the first one to throw stones at them to kill them; then everyone else must throw stones at them, too.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 Do not consent to him or listen to him. Neither must your eye pity him, neither will you spare him or conceal him.
+\v 9 Instead, you will surely kill him; your hand will be the first on him to put him to death, and afterwards the hand of all the people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+
+===== Translation Notes: =====
+
+  * **Do not consent to him** - "Do not give in" or "Do not agree"
+  * **Neither must your eye pity him** - AT: "Neither will you look at him with pity" or “Neither will you feel sorry for him” (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **neither will you spare him or conceal him** - "neither will you show him mercy or hide from others what he has done"
+  * **your hand will be the first on him to put him to death** - This means that he was to throw the first stone at the guilty person. The word "hand" refers to the entire person. AT: "you must be the first to strike him to kill him"  (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **the hand of all the people** - AT: "the other people will join you"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:13|Deuteronomy Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:13:06|<<]] | [[:vi:bible:notes:deu:13:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,43 @@
+====== Psalms 082:8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 God, arise and judge \add everyone on\add* \f + \ft metonymy \f* the earth,
+\q2 because all the people-groups belong to you!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 God, arise and judge everyone on the earth
+\q2 because all the people groups belong to you!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Arise, God, judge the earth,
+\q for you will inherit all the nations.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise|raise, rise, risen]]
+  * [[:vi:obe:kt:judge|judge, judgment]]
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[:vi:obe:other:nation|nation]]
+
+===== Translation Notes: =====
+
+The UDB is clear.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:082|Psalms Chapter 082 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:082:006|<<]] | [[:vi:bible:notes:psa:083:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

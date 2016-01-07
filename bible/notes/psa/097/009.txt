@@ -1,0 +1,77 @@
+====== Psalms 097:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Yahweh is the supreme \add king\add* over all the earth;
+\q2 he has very great power, and all the \add other\add* gods have no power.
+\b
+\q1
+\v 10 Yahweh loves those who hate what \add people do that\add* is evil;
+\q2 he protects the lives of his people,
+\q2 and he rescues them when the wicked \add people try to harm them\add*.
+\q1
+\v 11 His light shines on the righteous people;
+\q2 he causes those who are righteous in their inner beings to rejoice.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Yahweh is the supreme King over all the earth;
+\q2 he has very great power, and none of the other gods has any power.
+\b
+\q1
+\v 10 Yahweh loves those who hate what people do that is evil;
+\q2 he protects the lives of his people,
+\q2 and he rescues them when the wicked people try to harm them.
+\q1
+\v 11 He makes the righteous people truly live;
+\q2 he causes those who are righteous in their inner beings to rejoice.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 For you, Yahweh, are most high above all the earth.
+\q You are exalted far above all gods.
+\q
+\v 10 You who love Yahweh, hate evil!
+\q He protects the lives of his saints,
+\q and he takes them out of the hand of the wicked.
+\q
+\v 11 Light is sown for the righteous
+\q and gladness for those with honest hearts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:mosthigh|Most High]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:kt:exalt|exalt, exaltation]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:saint|saints]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:light|light]]
+  * [[:vi:obe:other:sow|sow, sower]]
+  * [[:vi:obe:other:heart|heart]]
+===== Translation Notes: =====
+
+  * **hand of the wicked** - AT: "control of the wicked" (See: [[:vi:ta:vol2:translate:figs_synecdoche]]) 
+  * **Light is sown for ... and gladness for ...**  - These two phrases have similar meanings and are used together for emphasis. AT: "Yahweh sows light for those who do right and sows gladness for those with honest hearts."  (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **Light is sown for the righteous** - "Sown" is a metaphor for giving. "God gives light to the righteous" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:097|Psalms Chapter 097 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:097:006|<<]] | [[:vi:bible:notes:psa:097:012|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

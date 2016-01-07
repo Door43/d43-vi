@@ -1,0 +1,56 @@
+====== Ecclesiastes 03:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 No one knows \f + \ft rhetorical question \f* for sure that when we die, our souls\f + \ft Or: spirits \f* go up to heaven and the souls\f + \ft Or: spirits \f* of animals go down to the place where the dead are."
+\p
+\v 22 So I conclude that the best thing for us people to do is to be happy about the work that we do, because that is what God has given to us. I say that because no one of us \f + \ft rhetorical question \f* knows what happens to us after we die.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 No one knows if people go up and animals go down to the place where the dead are.
+\p
+\v 22 So I think that the best thing for us people to do is to be happy about the work that we do, because that is what God has given to us. I say this because no one of us knows what happens to us after we die.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 Who knows whether the spirit of mankind goes upward and the spirit of animals goes downward into the earth?
+\v 22 So again I realized that there is nothing better for anyone than to take pleasure in his work, for that is his assignment. Who can bring him back to see what happens after him?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:spirit]]
+  * [[:vi:obe:other:earth]] 
+  * [[:vi:obe:kt:works]]
+  * [[vi:obe:other:assign]]
+
+===== Translation Notes: =====
+
+    * **Who knows whether the spirit...into the earth?** - The writer states that man does not know if the spirit of animals end up in a different or same place as the spirit of man does when they die. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+    * **there is nothing better for anyone than to** - See how you translated this phrase in [[vi:bible:notes:ecc:03:12|3:12]].
+    * **Who can bring...after him?** - No one has raised any person or animal from the dead. AT: "No one can bring...after him." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ecc:03|Ecclesiastes Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/03/19|<<]] | [[en/bible/notes/ecc/04/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

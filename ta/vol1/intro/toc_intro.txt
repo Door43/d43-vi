@@ -1,0 +1,16 @@
+===== Table of Contents - Introduction =====
+
+This module answers the question: What is in the Introduction?\\
+==== Introduction ====
+
+  - [[vi:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
+  - [[vi:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+  - [[vi:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  - [[vi:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  - [[vi:ta:vol1:intro:open_license|Open License]]
+  - [[vi:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
+  - [[vi:ta:vol1:intro:finding_answers|Finding Answers]]
+
+
+
+

@@ -1,0 +1,55 @@
+====== Psalms 106:40-41 ======
+
+===== TFT: =====
+
+<usfm>
+\v 40 So Yahweh became very angry with his people;
+\q2 he was completely disgusted with them.
+\q1
+\v 41 As a result he allowed people-groups \add who did not believe in him\add* to conquer them,
+\q2 so those who hated our ancestors started to rule over them.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 40 So Yahweh became very angry with his people;
+\q2 he was completely disgusted with them.
+\q1
+\v 41 As a result, he allowed people groups who did not believe in him to conquer them,
+\q2 so those who hated our ancestors started to rule over them.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 40 So Yahweh was angry with his people,
+\q and he despised his own people.
+\q
+\v 41 He handed them over to the nations,
+\q and those who hated them ruled over them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:hand|hand]]
+
+===== Translation Notes: =====
+
+  * **He handed them over to the nations** - AT: "God allowed them to be captured by the nations" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **those who hated them** - "people who hated them"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:106|Psalms Chapter 106 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:106:037|<<]] | [[:vi:bible:notes:psa:106:042|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

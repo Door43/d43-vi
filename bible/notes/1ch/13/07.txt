@@ -1,0 +1,50 @@
+====== 1 Chronicles 13:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 The people put the Sacred Chest on a new cart and carried it from Abinadab's house. Uzzah and Ahio were guiding \add the oxen that were pulling the cart\add*.
+\v 8 David and all the Israelite people were celebrating in God's presence. They were singing with all their strength, and \add playing\add* lyres, harps, tambourines, and cymbals, and \add blowing\add* trumpets.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 The people put the sacred chest on a new cart and carried it from Abinadab's house. Uzzah and Ahio were guiding the oxen that were pulling the cart.
+\v 8 David and all the Israelite people were celebrating in God's presence. They were singing with all their strength, and playing lyres, harps, tambourines, and cymbals, and blowing trumpets.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 So they set the ark of God on a new cart. They brought it
+out of Abinadab's house. Uzza and Ahio were guiding the cart.
+\v 8 David and all Israel were celebrating before God with all their might. They were singing with string instruments,
+tambourines, cymbals, and trumpets.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mighty]]
+  * [[:vi:obe:other:trumpet]]
+
+===== Translation Notes: =====
+
+  * **Abinadab** - See how you translated this name in [[:vi:bible:notes:1ch:02:13|1 Chronicles 2:13]].
+  * **Uzza** - See how you translated this in [[:vi:bible:notes:1ch:08:06|1 Chronicles 8:7]].
+  * **Ahio** - See how you translated this in [[:vi:bible:notes:1ch:08:14|1 Chronicles 8:14]].
+  * **tambourines, cymbals** - instruments held by hand and shaken or hit to make noise (See: [[:vi:ta:vol1:translate:translate_unknown]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:13|1 Chronicles Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:13:05|<<]] | [[:vi:bible:notes:1ch:13:09|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

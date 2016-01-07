@@ -1,0 +1,68 @@
+====== Isaiah 33:10-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Yahweh says, "Now I will arise and show that I am very powerful \f + \ft doublet \f*.
+\q1
+\v 11 You people \add of Assyria\add* make plans that are \add as useless\add* as \f + \ft metaphor \f* chaff and straw.
+\q2 Your breath will become a fire that will burn you up.
+\q1
+\v 12 Your people will be burned until only ashes remain \f + \ft metaphor \f*
+\q2 like \f + \ft simile \f* thornbushes are cut down and burned up in a fire.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh says, "Now I will arise and show that I deserve for everyone to honor me.
+\q1
+\v 11 You people of Assyria make plans that are as useless as chaff and straw.
+\q2 Your breath will become a fire that will burn you up.
+\q1
+\v 12 Your people will be burned until only ashes remain, 
+\q2 like thornbushes are cut down and burned up.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 10 "Now will I arise," says Yahweh; "now I will be lifted up; now I will be elevated.
+\q1
+\v 11 You conceive chaff, and you give birth to stubble; your breath is a fire that will consume you.
+\q1
+\v 12 The peoples will be burned to lime, as thorn bushes are cut down and are burned.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:exalt]]
+  * [[:vi:obe:other:chaff]]
+  * [[:vi:obe:other:fire]]
+  * [[vi:obe:other:consume]]
+  * [[vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * ** "Now will I arise," says Yahweh; "now I will be lifted up; now I will be exalted. ** - See the way you translated something similar in 6:1, 52:13, and 57:15.
+  * **arise**  - begin acting (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **You conceive chaff, you give birth to stubble**  - The Assyrians making plans are like a woman becoming pregnant, and their actions a baby. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **you give birth to stubble**  - "your actions are like straw"
+  * **your breath is a fire that will consume you**  - The plans that the Assyrians make will destroy the Assyrians.
+  * **The peoples will be burned to lime, as thorn bushes cut down that are burned in the fire**  - AT: "The fire will burn the peoples to lime just like a farmer cuts down thorn bushes and burns them." (See: [[:vi:ta:vol1:translate:figs_simile|Simile]] and [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **lime**  - the ashes from burned bones
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:33|Isaiah Chapter 33 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:33:09|<<]] | [[:vi:bible:notes:isa:33:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

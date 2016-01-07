@@ -1,0 +1,43 @@
+====== Numbers 01:40-41 ======
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 40-41 There were 41,500 men from the tribe of Asher who were at  least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 40 From the descendants of Asher were counted all the names of each and every man twenty years old or older able to go to war, from the records of their ancestor’s clans and families.
+\v 41 They counted 41,500 men from the tribe of Asher.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:asher]]
+  * [[vi:obe:other:clan]]
+  * [[vi:obe:other:tribe]]
+
+===== Translation Notes: =====
+
+  * **were counted all the names...clans and families** - See how you translated this in [[vi:bible:notes:num:01:20|1:20]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:01|Numbers Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:num:01:38|<<]] | [[:vi:bible:notes:num:01:42|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

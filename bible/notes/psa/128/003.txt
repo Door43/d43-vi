@@ -1,0 +1,95 @@
+====== Psalms 128:3-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Your wife will be like a grapevine that bears many grapes \f + \ft simile \f*;
+\q2 she will give birth to many children\f + \ft Or: sons \f*.
+\q1 Your children who sit around your table
+\q1 will be like a strong olive \add tree that has many\add* shoots \add growing up around it\add* \f + \ft simile \f*.
+\q1
+\v 4 Every man who has an awesome respect for Yahweh
+\q2 will be blessed like that.
+\b
+\q1
+\v 5 I wish\f + \ft Or: hope \f* that Yahweh will bless all of you from \add where he dwells\add* on Zion \add Hill\add*\f + \ft Or: in Jerusalem \f*
+\q1 and that you will see the people of Jerusalem prospering every day that you live!
+\q2
+\v 6 I wish\f + \ft Or: hope \f* that you will live many years
+\q2 with the result that you will \add have\add* grandchildren and be able to see them.
+\b
+\q1 I wish\f + \ft Or: desire \f*\f + \ft Or: hope \f* that things will go well for people in Israel!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Your wife will be like a grapevine that bears many grapes;
+\q2 she will give birth to many children.
+\q1 Your children who sit around your table;
+\q1 you will be like a strong olive tree that has many shoots growing up around it.
+\q1
+\v 4 Like that, Yahweh will bless every man who has an awesome respect for him.
+\b
+\q1
+\v 5 I wish that God in his temple on Mount Zion may help you greatly,
+\q1 and that you will see the people of Jerusalem prospering every day that you live!
+\q2
+\v 6 I wish that you may live many years
+\q2 and that you may have grandchildren and be able to see them.
+\b
+\q1 I wish that things may go well for people in Israel!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Your wife will be like a fruitful vine
+\q in your house;
+\q your children will be like olive plants
+\q as they sit around your table.
+\q
+\v 4 Yes, indeed, the man will be blessed
+\q who honors Yahweh.
+\q
+\v 5 May Yahweh bless you from Zion;
+\q may you see the prosperity of Jerusalem all the days of your life.
+\q
+\v 6 May you live to see your children’s children.
+\q May peace be on Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fruit|fruit]]
+  * [[:vi:obe:other:vine|vine]]
+  * [[:vi:obe:other:house|house]]
+  * [[:vi:obe:other:olive|olive]]
+  * [[:vi:obe:other:honor|honor]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+
+===== Translation Notes: =====
+
+  * **like a fruitful vine in your house** - AT: "she will be very productive and give you many children" (See: [[vi:ta:vol1:translate:figs_simile]])
+  * **your children will be like olive plants** - His children are compared to the many shoots that grow up around an olive tree. AT: "you will have many children that will grow and prosper" (See: [[vi:ta:vol1:translate:figs_simile]])
+  * **around the table** - This refers to the place where a family gathers to eat. 
+  * **the man will be blessed who honors Yahweh** - "Yahweh will bless the man who honors him" (See:[[:vi:ta:vol2:translate:figs_activepassive]]) 
+  * **all the days of your life** - "throughout your lifetime"
+  * **May peace be on Israel** - "May you give peace to Israel"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:128|Psalms Chapter 128 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:128:001|<<]] | [[:vi:bible:notes:psa:129:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Psalms 138:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I thank you with all my inner being.
+\q1 I sing to praise you in front of \add the idols of false\add* gods \add to ridicule\f + \ft Or: belittle \f* them\add*.
+\q1
+\v 2 I bow down while I look towards your sacred temple,
+\q2 and I thank you \f + \ft metonymy \f* because you faithfully love us and faithfully do all that you have promised.
+\q2 You have shown that you \f + \ft metonymy \f* and what you have promised to do are greater than anything else.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I thank you with all my inner being.
+\q1 I sing to praise you in front of the idols of false gods to ridicule them.
+\q1
+\v 2 When I look towards your sacred temple, I bow down
+\q2 and thank you because you faithfully love us and do all that you have promised.
+\q2 You have shown that you are greater than anything else, and that you always do what you have promised to do.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 138
+\d A psalm of David.
+\b
+\q
+\v 1 I will give you thanks with my whole heart;
+\q before the gods I will sing praises to you.
+\q
+\v 2 I will bow down toward your holy temple
+\q and give thanks to your name for your covenant faithfulness and for your trustworthiness.
+\q You have magnified your word and your name above all.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:bow|bow, bow down]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:kt:temple|temple]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:other:magnify]]
+  * [[:vi:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **A psalm of David**  - See how you translated this in [[:vi:bible:notes:psa:003:001|3:1]].
+  * **my whole heart**  - AT: "completely"
+  * **I will bow down** - AT: "I will worship you" (See: [[tA symbolic action]])
+  * **give thanks to your name**  - AT: "give thanks to you" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:138|Psalms Chapter 138 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:137:008|<<]] | [[:vi:bible:notes:psa:138:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5 talink}}
+
+~~NOCACHE~~

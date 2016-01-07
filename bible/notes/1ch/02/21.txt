@@ -1,0 +1,45 @@
+====== 1 Chronicles 02:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 When Hezron was sixty years old, he married \f + \ft euphemism \f* Makir's daughter, who was the sister of Gilead. The son of Hezron and Makir was Segub.
+\v 22 Segub was the father of Jair. Jair's \add army\add* controlled twenty-three cities in the region ruled by Gilead.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 When Hezron was sixty years old, he married Makir's daughter, who was the sister of Gilead. The son of Hezron and Makir was Segub.
+\v 22 Segub was the father of Jair. Jair's army controlled twenty-three cities in the region ruled by Gilead.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 Later Hezron, when he was sixty years old, married the daughter of Machir, the father of Gilea. She bore him Segub.
+\v 22 Segub became the father of Jair, who controlled twenty-three cities in the land of Gilead.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:gilead]]
+
+===== Translation Notes: =====
+
+  * **Hezron, Machir, Gilead, Segub, Jair **- These are the name's of men. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **sixty years old**  - AT: "60 years old" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **twenty-three cities**  - AT: "23 cities" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:02|1 Chronicles Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:02:18|<<]] | [[:vi:bible:notes:1ch:02:23|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,81 @@
+====== Isaiah 61:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 I greatly rejoice because of what Yahweh \add has done\add*!
+\q2 I am happy in all my inner being,
+\q1 because he has saved me and declared that I am righteous;
+\q2 \add those blessings are like\add* \f + \ft metaphor \f* a robe that he has put on me.
+\q1 I am \add as happy as\add* \f + \ft simile \f* a bridegroom in his wedding suit,
+\q2 or a bride wearing jewels.
+\q1
+\v 11 Just as \add seeds sown in\add* a garden sprout from the soil and grow \f + \ft doublet \f*,
+\q2 Yahweh our God will cause \add people of\add* all nations to act righteously,
+\q1 with the result that they will praise him for doing that.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 I greatly rejoice because of what Yahweh has done!
+\q2 I am happy in all my inner being,
+\q1 because he has saved me and declared that I am righteous;
+\q2 those blessings are like a robe that he has put on me.
+\q1 I am as happy as  a bridegroom in his wedding clothes,
+\q2 or a bride wearing jewels.
+\q1
+\v 11 Just as seeds sown in a garden sprout from the soil and grow,
+\q2 Yahweh our God will cause people of all nations to act righteously,
+\q1 with the result that they will praise him for doing that.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 10 I will greatly rejoice in Yahweh; my soul will exult in my God. 
+\q1 For he has clothed me with the garments of
+salvation; he has clothed me with the robe of righteousness, 
+\q1 as a bridegroom adorns himself with a turban, and as a bride adorns herself with her jewels.
+\q1
+\v 11 For as the earth produces its sprouting plants, and as the garden makes its planting grow,
+\q1 so the Lord Yahweh will cause righteousness and praise to sprout up in front of all the nations.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:soul]]
+  * [[vi:obe:kt:clothed]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:other:robe]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:bridegroom]]
+  * [[:vi:obe:other:bride]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[vi:obe:other:praise]]
+  * [[vi:obe:other:nation]]
+ 
+
+===== Translation Notes: =====
+
+  * **I will greatly rejoice**  - Possible meanings are 1) "I" refers to the people of God speaking as one person, or 2) "I" refers to on of the people who mourned.
+  * **my soul will exult in my God**  - AT: This points to the close relationship of the person with God. "I will be very happy because of my God" or "I will delight in my God" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **as a bridegroom adorns himself with a turban, and as a bride adorns herself with her jewels**  - This emphasizes that the speaker is extremely happy, joyful, celebrating. The turban reminds one of the headdress of the priest. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **turban**  - See how you translated this in [[:vi:bible:notes:isa:61:03|61:3]].
+  * **For as the earth puts forth its sprouting plants, and as the garden makes its planting grow**  - This is saying the same thing in two ways for emphasis and to show that whatever God says he will do is certainly going to happen, just as seeds always sprout. It can be translated as, "Just as seeds sown in a garden sprout from the soil and grow" (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:61|Isaiah Chapter 61 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:61:08|<<]] | [[:vi:bible:notes:isa:62:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

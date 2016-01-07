@@ -1,0 +1,59 @@
+====== Zechariah 03:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Joshua, you are the Supreme Priest, and your associates\f + \ft Or: fellow priests \f* are sitting in front of you. They symbolize, Or: represent things that will happen in the future. \add Some day\add* I am going to bring one who will work for me, someone who will be called the Branch.
+\v 9 Look at the stone that I have put in front of Joshua. There are seven sides on the stone. I will engrave a message on that stone, and in one day I will remove the guilt of \add all the people of\add* this country.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Joshua, you are the high priest, and your associates are sitting in front of you. The fact that they are here means that I will bring a special servant of mine, someone who I will call the Branch."
+\v 9 Then the angel of Yahweh placed a stone in front of Joshua and said to him and to the other men with him: "Look at the stone that I have put in front of Joshua. There are seven sides on the stone. I will engrave a message on that stone, and in one day I will remove the guilt of all the people of this country.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Listen, Joshua the high priest, you and your companions who live with you! 
+\q For these men are a sign, for I myself will bring up my servant the Branch.
+\q
+\v 9 Now look at the stone that I have set before Joshua. There are seven sides to this single stone, 
+\q and I will engrave an inscription'—this is Yahweh of hosts' declaration—
+\q 'and I will remove the sin from this land in one day.
+\m
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:highpriest]]
+  * [[:En:obe:kt:life]]
+  * [[vi:obe:kt:sign]]
+  * [[:En:obe:other:servant]]
+  * [[vi:obe:other:declare]]
+  * [[vi:obe:kt:sin]]
+===== Translation Notes: =====
+
+The angel of Yahweh continues to speak to Joshua.
+
+  * **your companions who live with you**  - AT: "the other priest who live with you"
+  * **my servant the Branch**  - The title "Branch" should be translated in the same way as the branch of a tree. It means the servant of Yahweh will come from Yahweh like a branch comes from a tree. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **engrave**  - "carve"
+  * **inscription**  - words that are written on something or cut into something
+  * **this is Yahweh of hosts' declaration**  - You may omit this phrase here and may move it to be beginning of the verse using this AT: "Yahweh of hosts said,".
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:zec:03|Zechariah Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:zec:03:06|<<]] | [[:vi:bible:notes:zec:03:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== 1 Samuel 02:36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 All of your descendants who remain alive will have to go to that priest and ask him to give them money and food, and they will each have to say, "Please allow me to help the other priests, in order that I may \add earn some money to\add* buy some food."~'~"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 All of your descendants who remain alive will have to go to that priest and ask him to give them money and food, and they will each have to say, "Please allow me to help the other priests, in order that I may earn some money to buy some food."~'~"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Every one who is left in your house will come and bow down to that person, asking for a piece of silver
+and a loaf of bread, and will say, "Please assign me to one of the priests’ positions so I can eat a piece of bread."'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:other:silver]]
+  * [[:vi:obe:other:bread]]
+ 
+
+===== Translation Notes: =====
+
+  * **that person** - The faithful priest in verse 35 that God will raise up.
+  * **so I can eat a piece of bread** - AT: "so I can have something to eat." (See: [[:vi:ta:vol2:translate:figs_synecdoche]]))
+  
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:02:34|<<]] | [[:vi:bible:notes:1sa:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

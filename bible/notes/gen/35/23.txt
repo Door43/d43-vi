@@ -1,0 +1,69 @@
+====== Genesis 35:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 The sons of Leah were Reuben, who was Jacob's oldest son, Simeon, Levi, Judah, Issachar and Zebulon.
+\v 24 The sons of Rachel were Joseph and Benjamin.
+\v 25 The sons of Rachel's female slave Bilhah were Dan and Naphtali.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 The sons of Leah were Reuben, who was Jacob's oldest son, Simeon, Levi, Judah, Issachar, and Zebulon.
+\v 24 The sons of Rachel were Joseph and Benjamin.
+\v 25 The sons of Rachel's female slave Bilhah were Dan and Naphtali.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p Now Jacob had twelve] sons.
+\v 23 His sons by Leah were Reuben, Jacob’s firstborn, and Simeon, Levi, Judah, Issachar, and Zebulun.
+\v 24 His sons by Rachel were Joseph and Benjamin.
+\v 25 His sons by Bilhah, Rachel’s female servant, were Dan and Naphtali.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:other:leah]]
+  * [[:vi:obe:other:reuben]]
+  * [[:vi:obe:kt:firstborn]]
+  * [[:vi:obe:other:simeon]]
+  * [[:vi:obe:other:levite]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:issachar]]
+  * [[:vi:obe:other:zebulun]]
+  * [[:vi:obe:other:rachel]]
+  * [[:vi:obe:other:josephot]]
+  * [[:vi:obe:other:benjamin]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:dan]]
+  * [[:vi:obe:other:naphtali]]
+ 
+
+===== Translation Notes: =====
+
+    * **twelve sons** - "12 sons" (See: [[vi:ta:vol2:translate:translate_numbers]])
+    * **Bilhah** - See how you translated this name in [[vi:bible:notes:gen:29:28|29:29]].
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:gen:35|Genesis Chapter 35 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/35/21|<<]] | [[en/bible/notes/gen/35/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

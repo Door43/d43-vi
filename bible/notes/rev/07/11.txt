@@ -1,0 +1,63 @@
+====== Revelation 07:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 All the angels were standing around the throne and around the elders and the four living \add creatures\add*. They all bowed down before the throne with their faces \add to the ground\add* and worshipped God.
+\v 12 They said, "May it be so! \add We\f + \ft exclusive \f*\add* praise, thank, and honor \add you\add*, our\add \f + \ft exclusive \f*\add* God, forever! \add We\f + \ft exclusive \f* acknowledge\add* that you are completely wise, the powerful one, who is able to do all things forever! It is so!\f + \ft Or: Amen! \f*"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 All the angels were standing around the throne, around the elders, and around the four living creatures. They all lay before the throne with their faces to the ground and worshiped God.
+\v 12 They said, "Yes, it is so! We praise, thank, and honor you, our God, forever! We acknowledge that you are completely wise, the powerful one, who is able to do all things forever! It is so!”
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 All the angels were standing around the throne and around the elders and the four living creatures, and they laid down on the ground and put their faces on the ground before the throne, and they worshiped God,
+\v 12 saying,
+\pi "Amen! Praise, glory, wisdom, thanksgiving, honor, power, and strength be to our God forever and ever! Amen!"
+\m
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:angel]]
+  * [[vi:obe:other:throne]]
+  * [[:vi:obe:other:elder]]
+  * [[vi:obe:other:creature]]
+  * [[:vi:obe:kt:worship]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:kt:amen]]
+  * [[vi:obe:other:praise]]
+  * [[:vi:obe:kt:glory]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:kt:forever]]
+
+===== Translation Notes: =====
+
+  * **All the angels ... living creatures**  - AT: "All the angels stood around the throne and the elders and the four living creatures"
+  * **the four living creatures** - These are the four creatures mentioned in [[:vi:bible:notes:rev:04:06|4:6-8]].
+  * **Praise, glory ... be to our God**  - AT: "Our God is worthy of all praise, glory, wisdom, thanks, honor, power and strength"
+  * **forever and ever**  - These two words are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:07|Revelation Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:07:09|<<]] | [[:vi:bible:notes:rev:07:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

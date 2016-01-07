@@ -1,0 +1,48 @@
+====== Numbers 09:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15-16 On the day that the Sacred Tent was set up, a cloud covered it. But from the time that the sun set until the time that the sun rose \add the next day\add*, the cloud resembled a \add huge\add* fire. And that is what happened every day \add that the Israelites were in the desert\add*
+\v 17 When the cloud rose up and started to move \add to a new location\add*, the Israelites followed it. When the cloud stopped, the Israelites stopped there and set up their tents.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15-16 On the day that the sacred tent was set up, a cloud covered it. But from the time that the sun set until the time that the sun rose the next day, the cloud resembled a huge fire. And that is what happened every day that the Israelites were in the wilderness
+\v 17 When the cloud rose up and started to move to a new location, the Israelites followed it. When the cloud stopped, the Israelites stopped there and set up their tents.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 On the day that the tabernacle was set up, the cloud covered the tabernacle, the tent of the covenant decrees. At evening the cloud was over the tabernacle. It appeared like fire until morning.
+\v 16 It continued that way. The cloud covered the tabernacle and appeared like fire at night.
+\v 17 Whenever the cloud was taken up from over the tent, the people of Israel would set out on their journey. Wherever the cloud stopped, the people would camp.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:tabernacle]]
+  * [[:vi:obe:other:tent]]
+  * [[:vi:obe:kt:covenant]]
+  * [[vi:obe:other:decree]]
+  * [[:vi:obe:other:fire]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:israel]]
+
+===== Translation Notes: =====
+
+  * **appeared like fire**  - They could see the cloud as if it was fire. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **the cloud was taken up **- “Yahweh lifted and began to move the cloud” (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **cloud stopped**  - This means the cloud settled down at a place.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:09|Numbers Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:num:09:13|<<]] | [[:vi:bible:notes:num:09:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

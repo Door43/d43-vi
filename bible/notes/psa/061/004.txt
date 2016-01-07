@@ -1,0 +1,68 @@
+====== Psalms 061:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Allow me to live close to your temple all during my life \f + \ft hyperbole \f*!
+\q1 Allow me to be safe \f + \ft metaphor \f*, \add like a little bird is safe\add* under \add its mother's\add* wings.
+\qr (Think about that!)
+\q1
+\v 5 God, you heard me when I solemnly promised \add to give offerings to you\add*;
+\q2 you have given to me the blessings that belong to those who have an awesome respect for you \f + \ft metonymy \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Allow me to live close to your sacred tent all during my life!
+\q1 Allow me to be safe as a little bird is safe under its mother's wings.
+
+\q1
+\v 5 God, you heard me when I solemnly promised to give offerings to you;
+\q2 you have given to me the blessings that belong to those who have an awesome respect for you.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 I will live in your tabernacle forever;
+\q I will take refuge in the hiding place under your wings. 
+\qs Selah\qs*
+\q
+\v 5 For thou, God, have heard my vows;
+\q you have given me the inheritance of those who honor your name.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:tabernacle]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:selah]]
+  * [[:vi:obe:kt:vow]]
+  * [[:vi:obe:kt:inherit]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:061|Psalms Chapter 061 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:061:001|<<]] | [[:vi:bible:notes:psa:061:006|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

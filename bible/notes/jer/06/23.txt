@@ -1,0 +1,76 @@
+====== Jeremiah 06:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 They have bows \add and arrows\add* and spears;
+\q2 they are very cruel, and do not act mercifully to anyone.
+\q1 As they ride along on their horses,
+\q2 the horses' feet sound like the roaring of the ocean \add waves\add*;
+\q1 they are riding in battle formation
+\q2 to attack you people of Jerusalem."
+\b
+\q1
+\v 24 \add The people of Jerusalem say\add*,
+\q1 "We have heard reports about the enemy;
+\q2 so we are very frightened, with the result that we are weak.
+\q1 We are very afraid, and worried,
+\q2 like \f + \ft simile \f* women who are about to give birth to babies.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 They have bows and arrows and spears; they are very cruel, and do not act mercifully to anyone.
+\q As they ride along on their horses, the horses' feet sound like the roaring of the ocean waves;
+\q They are riding in battle formation to attack you people of Jerusalem."
+\q
+\v 24 The people of Jerusalem say, "We have heard reports about the enemy; so we are very frightened, with the result that we are weak.
+\q We are very afraid, and worried, like women who are about to give birth to babies.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 They will pick up bows and spears. They are cruel and have no compassion. Their sound is like the sea roar, 
+\q and they are riding on horses in formation as fighting men, daughter of Zion.
+\q
+\v 24 We have heard the news about them. Our hands fall limp in distress. Anguish seizes us as a woman bearing a child;
+\q
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:spear]]
+  * [[:vi:obe:kt:compassion]]
+  * [[:vi:obe:other:horse]]
+  * [[:En:obe:kt:daughterofZion]]
+  * [[:vi:obe:other:zion]]
+  * [[vi:obe:other:anguish]]
+
+
+===== Translation Notes: =====
+
+  * **They will pick up** - "They will be holding." The word "They" refers to the people in the army of the nation that will come from the north.
+  * **Their sound is like the sea roar**  - AT: "The sound that they make is a loud roar like the sound of the ocean." (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **in formation as fighting men** - "the army is organized so that the men are ready for battle"
+  * **daughter of Zion** - "against you, daughter Zion" or "in order to attack you, daughter of Zion." See how you translated "daughter of Zion" in [[vi:bible:notes:jer:04:30|4:31]].
+  * **We have heard** - The word "We" probably refers Jeremiah speaking for all the people of Judah.
+  * **fall limp in distress** - "are limp because we are anxious"
+  * **Anguish seizes us** - AT: "We are in anguish." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **as a woman bearing a child** - "like a woman who is giving birth" (See: [[:vi:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:06|Jeremiah Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:06:20|<<]] | [[:vi:bible:notes:jer:06:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

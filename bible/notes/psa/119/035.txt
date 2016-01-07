@@ -1,0 +1,60 @@
+====== Psalms 119:35-36 ======
+
+===== TFT: =====
+
+<usfm>
+\v 35 I am happy with your commands\f + \ft Or: what you have commanded \f*,
+\q2 so lead me along the paths\f + \ft Or: enable me to walk on the road \f* that you \add have chosen for me\add*.
+\q1
+\v 36 Cause me to want to obey the requirements\f + \ft Or: what you have instructed us to do \f*
+\q2 and not to want to become rich.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 35 I am happy with your commands,
+\q2 so lead me along the paths that you have chosen for me.
+\q1
+\v 36 Cause me to want to do what you command
+\q2 and not to want to become rich.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 35 
+Guide me in the path of your commandments,
+\q for I delight to walk in it.
+\q
+\v 36 Direct my heart toward your covenant decrees
+\q and away from unrighteous gain.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:kt:unrighteous|unrighteous, unrighteousness]]
+===== Translation Notes: =====
+
+  * **Guide me in the path of your commandments**  - "Guide me according to your commandments" or "Teach me to obey your commandments" (See: [[:vi:ta:vol1:translate:figs_metaphor]]
+  * **Direct my heart toward**  - AT: "Make me want"
+  * **your covenant decrees** - AT: "to obey your covenant decrees"
+  * **unrighteous gain**  - AT: "the desire for riches"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:033|<<]] | [[:vi:bible:notes:psa:119:037|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

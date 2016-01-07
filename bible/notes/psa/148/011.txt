@@ -1,0 +1,58 @@
+====== Psalms 148:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 You kings on this earth and all the people \add that you rule\add*,
+\q2 you princes and all other rulers,
+\q1
+\v 12 you young men and young women,
+\q2 you old people and children, \add everyone\add*, praise Yahweh!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 You kings on this earth and all the people that you rule,
+\q2 you princes and all other rulers,
+\q1
+\v 12 you young men and young women,
+\q2 you old people and children, everyone, praise Yahweh!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 kings of the earth and all nations,
+\q princes and all who govern on the earth,
+\q
+\v 12 both young men and young women,
+\q elderly and children.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:prince|prince]]
+  * [[:vi:obe:other:governor|governor, govern]]
+
+===== Translation Notes: =====
+
+  * **elderly and children **- AT: "old people and young people" (See: [[vi:ta:vol2:translate:figs_merism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:148|Psalms Chapter 148 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:148:009|<<]] | [[:vi:bible:notes:psa:148:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

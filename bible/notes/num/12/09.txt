@@ -1,0 +1,48 @@
+====== Numbers 12:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Yahweh was very angry with Miriam and Aaron, and he left.
+\p
+\v 10 When the cloud rose up from the Sacred Tent, Aaron looked at Miriam, and he saw that her skin was \add as white\add* as snow, because she now had leprosy.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Yahweh was very angry with Miriam and Aaron, and he left.
+\p
+\v 10 When the cloud rose up from the sacred tent, Aaron looked at Miriam, and he saw that her skin was as white as snow, because she now had leprosy.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Yahweh’s anger burned against them, and then he left them.
+\v 10 The cloud rose from over the tent, and Miriam was suddenly leprous—she was as white as snow. When Aaron turned toward Miriam, he saw that she had leprosy.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:angry ]]
+  * [[:vi:obe:kt:raise]]
+  * [[vi:obe:other:miriam]]
+  * [[:vi:obe:other:leprosy]]
+  * [[vi:obe:other:aaron]]
+
+===== Translation Notes: =====
+
+  * **anger burned against**  - AT: "was very anger with" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **as white as snow**  - AT: "her skin was very pale" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:12|Numbers Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:num:12:06|<<]] | [[:vi:bible:notes:num:12:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

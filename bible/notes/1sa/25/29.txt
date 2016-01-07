@@ -1,0 +1,54 @@
+====== 1 Samuel 25:29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Even when those who are trying to kill you pursue you, you are safe because Yahweh your God takes care of you. You will be \add protected like\add* \f + \ft metaphor \f* a bundle that is safely tied up. But your enemies will \add disappear like stones\add* that are hurled from a sling.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Even when those who are trying to kill you pursue you, you are safe because Yahweh your God takes care of you. You will be protected like  a bundle that is safely tied up. But your enemies will disappear like stones that are hurled from a sling.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 And though men rise up to pursue you to take your life, yet the life of my lord will be bound in the bundle of
+life with Yahweh your God; and he will sling out the lives of your enemies, as from the bottom of a sling.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[vi:obe:kt:life]]
+  * [[vi:obe:kt:lord]]
+  * [[vi:obe:kt:yahweh]]
+ 
+
+===== Translation Notes: =====
+
+  * **pursue** - "chase" or "hunt"
+  * **bundle** - a collection of a longer, narrow item of similar lengths (sticks, wheat, wooden rods, or similar shapes) gathered together and wrapped around with strings, small ropes, or twine. The sticks in the center are protected by the sticks on the outside of the bundle.  Used here as a metaphor. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **sling** - In this usage, a sling is a weapon created from a small carrying pouch with two long strips of leather or string attached. A rock placed in the pouch could be whirled around the head, then released toward a target.
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:25|1 Samuel Chapter 25 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/25/27|<<]] | [[en/bible/notes/1sa/25/30|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

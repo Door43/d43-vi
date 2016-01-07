@@ -1,0 +1,67 @@
+====== 1 Chronicles 27:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 The commander for the following\f + \ft Or: seventh \f* month was Helez, a member of the Pelon \add clan\add* from the tribe of Ephraim.
+\li1
+\v 11 The commander for the following\f + \ft Or: eighth \f* month was Sibbecai, a descendant of Zerah from Hushah \add town\add*.
+\li1
+\v 12 The commander for the following\f + \ft Or: ninth \f* month was Abiezer from Anathoth \add city\add* in the tribe of Benjamin.
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 The commander for the following month was Helez, a member of the clan of Pelon from the tribe of Ephraim.
+\li1
+\v 11 The commander for the following month was Sibbecai, a descendant of Zerah from the city of Hushah.
+\li1
+\v 12 The commander for the following month was Abi Ezer from the city of Anathoth in the tribe of Benjamin.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 The commander for the seventh month was Helez the Pelonite, from the people of Ephraim. In his division were 24,000 men.
+\v 11 The commander for the eighth month was Sibbecai the Hushathite, from the clan descended from Zerah. In his division were 24,000 men.
+\v 12 The commander for the ninth month was Abi Ezer the Anathothite, from the tribe of Benjamin. In his division were 24,000 men.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:commander]]
+  * [[:vi:obe:other:ephraim]]
+  * [[vi:obe:other:tribe]]
+  * [[:vi:obe:other:benjamin]]
+
+===== Translation Notes: =====
+
+  * **seventh ... eighth ... ninth month**  - "month number 7 ... 8 ... 9" or "7th ... 8th ... 9th month" (See: Ordinal Numbers)
+  * **The commander for the seventh month was Helez the Pelonite, from the people of Ephraim** - AT: Helez, the Pelonite, from the people of Ephraim was the commander for the seventh month"
+  * **24,000 men** - "twenty four thousand men" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **Helez ... Sibbecai ... Zerah ... Abi Ezer** - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Pelonite ... Hushathite ... Anathothite** - These are names of tribes or clans.
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:27|1 Chronicles Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/27/07|<<]] | [[en/bible/notes/1ch/27/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Psalms 034:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Wicked people will be killed by their own evil deeds \f + \ft Or: by \add people doing to them\add* the same evil things \add that the wicked do to others\add* \f* \f + \ft personification \f*,
+\q2 and Yahweh will punish those who oppose righteous people.
+\q1
+\v 22 Yahweh will save those who serve him.
+\q2 He will not condemn\f + \ft Or: forgive \f* \f + \ft litotes \f* those who trust in him.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Disasters will kill the wicked people,
+\q2 and Yahweh will punish those who oppose righteous people.
+\q1
+\v 22 Yahweh will save those who serve him.
+\q2 He will not condemn those who trust in him.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Evil will kill the wicked;
+\q those who hate the righteous will be condemned.
+\q
+\v 22 Yahweh redeems the souls of his servants;
+\q none of those who take refuge in him will be condemned.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:condemn|condemn]]
+  * [[:vi:obe:kt:redeem|redeem, redemption]]
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:kt:refuge|refuge]]
+
+===== Translation Notes: =====
+
+  * **Evil will kill the wicked** - Evil is described as if it were a man who can kill people. AT: "Evil people will be killed because of their own wicked deeds" (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **none of those who take refuge in him will be condemned** - AT: "everyone who takes refuge in him will be forgiven" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:034|Psalms Chapter 034 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:034:018|<<]] | [[:vi:bible:notes:psa:035:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

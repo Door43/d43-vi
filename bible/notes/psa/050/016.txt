@@ -1,0 +1,65 @@
+====== Psalms 050:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 But I say this to the wicked people:
+\q1 Why do you\f + \ft Or: It does not benefit you at all to \f* \f + \ft rhetorical question \f* recite my commandments
+\q2 or talk about the agreement that I made with you,
+\q1
+\v 17 because you have refused to allow me to discipline you,
+\q2 and you have rejected what I told you to do.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 But I say this to the wicked people:
+\q1 Why do you recite my commandments
+\q2 or talk about the covenant that I made with you?
+\q1
+\v 17 For you have refused to allow me to discipline you,
+\q2 and you have rejected what I told you to do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 But to the wicked God says,
+\q "What have you to do with declaring my statutes,
+\q that you have taken my covenant in your mouth,
+\q
+\v 17 since you hate instruction
+\q and throw my words away?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[vi:obe:other:declare]]
+  * [[:vi:obe:other:statute]]
+  * [[vi:obe:kt:covenant]]
+  * [[:vi:obe:kt:word]]
+ 
+===== Translation Notes: =====
+
+  * **What have you to do with declaring my statutes ... and throw my words away?** - This question can be turned into a statement. AT: "It does not make sense that you declare my statutes and my covenant, since you hate my instructions and throw away my words." or "It is not right for you to declare my statutes ..." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **have taken my covenant in your mouth** - AT: "talk about my covenant" or "claim my covenant" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **throw my words away** - Here, rejecting what God says, is being compared to throwing away trash. AT: "reject what I say" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:050:014|<<]] | [[:vi:bible:notes:psa:050:018|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== 1 Samuel 02:31-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Listen carefully! There will soon be a time when I will cause all the strong \add young men\add* in your family to die. The result will be that no men in your family will \add live long enough to\add* become old men.
+\v 32 You will be distressed and envious as you see the blessings that I will give to the \add other people in\add* Israel. And \add I repeat that\add* no men in your family will ever live long enough to become old men.
+\v 33 There is one of your descendants whom I will spare, and not prevent him from serving me as a priest. But he will become blind, and then he will always be sad and grieving. But all your other descendants will die violently.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Listen carefully! There will soon be a time when I will cause all the strong young men in your family to die. The result will be that no men in your family will live long enough to become old men.
+\v 32 You will be distressed and envious as you see the blessings that I will give to the other people in Israel. And I repeat that no men in your family will ever live long enough to become old men.
+\v 33 There is one of your descendants whom I will spare; I will not prevent him from serving me as a priest. But he will become blind from weeping; he will always be sad and grieving. But all your other descendants will die violently.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 See, the days are coming when I will cut off your strength and the strength of your father’s house, so that there will no longer be any old man in your house.
+\v 32  You will see distress in the place where I live. Although good will be given to Israel, there will no longer be any old man in your house.
+\v 33  The only one of your descendants whom I will not cut off from my altar will have his life spared so that he will become blind from weeping in his heart's grief. But all the rest of your descendants will die in the prime of life.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:cutoff]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:kt:death]]
+ 
+===== Translation Notes: =====
+
+  * **cut off your strength**  - This is another way of saying cause the family's health to decline. (See: [[:vi:ta:vol2:translate:figs_euphemism|Euphemism]])
+  * **in the prime of life**  - AT: "While they are young, vigorous and healthy men." (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **he will become blind from weeping**  - AT: "he will cry so much that his eyes will be destroyed"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:02:29|<<]] | [[:vi:bible:notes:1sa:02:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

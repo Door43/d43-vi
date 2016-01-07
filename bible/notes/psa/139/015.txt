@@ -1,0 +1,65 @@
+====== Psalms 139:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 When my body was being formed,
+\q1 while it was being put together where no one else could see it,
+\q2 you saw it!
+\q1
+\v 16 You saw me before I was born.
+\q1 You wrote in your book the number of days that you had decided that I would live.
+\q2 You did that before any of those days had even started!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 When my body was being formed,
+\q1 while it was being put together where no one else could see it,
+\q2 you saw it!
+\q1
+\v 16 You saw me before I was born.
+\q1 You wrote in your book the number of days that you had decided that I would live.
+\q2 You did that before any of those days had even started!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 My body was not hidden from you
+\q when I was made in private,
+\q when I was intricately made in the depths of the earth.
+\q
+\v 16 You saw me inside the womb;
+\q all the days ordained for me were recorded
+\q in your book even before the first one happened.
+\q
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:body|body]]
+  * [[:vi:obe:other:ordain|ordain]]
+
+===== Translation Notes: =====
+
+  * **intricately made** - AT: "made with great complexity"
+  * **the depths of the earth**  - likely a reference to the mother's womb (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **all the days ordained for me were recorded in your book before the first one happened** - AT: "the number of days of my life were known before I was born."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:139:013|<<]] | [[:vi:bible:notes:psa:139:017|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

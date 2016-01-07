@@ -1,0 +1,66 @@
+====== Job 33:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 I have heard you \f + \ft doublet \f* speaking,
+\q2 and this is what you have said:
+\q1
+\v 9 'I am innocent; I have not committed any sins;
+\q2 I am pure; I have not done things that are wrong.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 I have heard you speak,
+\q2 and this is what you have said:
+\q1
+\v 9 'I am innocent, and I have not committed any sins;
+\q2 I am pure, and I have not done things that are wrong.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 You have certainly spoken in my hearing;
+\q I have heard the sound of your words saying,
+\q
+\v 9 ‘I am clean and without transgression;
+\q I am innocent, and there is no sin in me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:clean]]
+  * [[:vi:obe:kt:transgression]]
+  * [[:vi:obe:kt:innocent]]
+  * [[:vi:obe:kt:sin]]
+ 
+
+===== Translation Notes: =====
+
+  * **Verse 8 and 9 - The two clauses of verse 8 and also of verse 9 are a doublets saying the same thing two ways. (See: Doublet)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:33|Job Chapter 33 Comprehension Questions]]**
+**[[:vi:bible:notes:job:33:06|<<]] | [[:vi:bible:notes:job:33:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

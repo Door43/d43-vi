@@ -1,0 +1,44 @@
+====== Leviticus 14:28-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 He must put some of the oil in his palm on the same places where he put the blood.
+\v 29 He must put the rest of the oil that is in his hand on the head of the person whose skin disease is ended, to indicate that Yahweh has forgiven him for having sinned.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 He must put some of the oil in his palm on exactly the same places where he put the blood.
+\v 29 He must put the rest of the oil that is in his hand on the head of the person whose has gotten well. This will show that Yahweh has forgiven that person's sins.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 28 The priest will then put some of the oil that is in his hand on the tip of the right ear of the one who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, the same places  where he put the blood of the guilt offering.
+\v 29 He will put the rest of the oil that is in the his hand on the head of the one who is to be cleansed, to make atonement for him before Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:other:oil|oil]]
+  * [[:vi:obe:kt:clean|clean, cleanse]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[vi:obe:other:guiltoffering]]
+  * [[:vi:obe:kt:atonement|atonement, atone]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+  * **the one who is to be cleansed**  - AT: "the one he is cleansing" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:14|Leviticus Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:14:26|<<]] | [[:vi:bible:notes:lev:14:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

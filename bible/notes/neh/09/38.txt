@@ -1,0 +1,53 @@
+====== Nehemiah 09:38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 However, we \add Israelite\add* people now are making a solemn agreement\f + \ft Or: promise \f* \add to obey you\add*, and we are writing this agreement\f + \ft Or: promise \f* \add on a scroll\add*. We will write on it the names of our leaders and the names of the Levites and the names of the priests, and then we will seal it.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 Because of all this, we, the people of Israel  are making a solemn agreement on a scroll. We will write on it the names of our leaders, the names of the Levites, and the names of the priests, and then we will seal it."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 38 Because of all this, we make a firm  covenant in writing, on the sealed document are the names of our princes, Levites, and priests."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:covenant]]
+  * [[:vi:obe:other:seal]]
+  * [[vi:obe:kt:name]]
+  * [[vi:obe:other:prince]]
+  * [[:vi:obe:other:levite]]
+  * [[vi:obe:kt:priest]]
+ 
+===== Translation Notes: =====
+
+In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
+
+    * **Because of all this** - "This" refers to the Levites' account of Israel's disobedience and Yahweh's punishment given in the prior chapter.
+    * **firm covenant in writing, on the sealed document** - "firm covenant in writing.  On the sealed document"
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:neh:09|Nehemiah Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/09/36|<<]] | [[en/bible/notes/neh/10/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

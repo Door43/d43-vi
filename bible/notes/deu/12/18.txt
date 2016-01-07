@@ -1,0 +1,58 @@
+====== Deuteronomy 12:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Instead, you and your children and your male and female servants and the descendants of Levi who live in your towns must eat those things in the presence of Yahweh in the place that he chooses. And you should be happy about everything that you have done.
+\v 19 Be sure that you take care of the descendants of Levi all during the time that you live in your land.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Instead, you and your children and your male and female servants and the descendants of Levi who live in your towns must eat those things in the presence of Yahweh in the place that he chooses. And you should be happy about everything that you have done.
+\v 19 Be sure that you take care of the descendants of Levi all during the time that you live in your land.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 Instead, you will eat them before Yahweh your God in the place that Yahweh your God will choose—you, your son, your daughter, your male servant, your female servant, and the Levite who is within your gates;  you will rejoice before Yahweh your God about everything that you put your hand to.
+\v 19 Pay attention to yourself so that you do not forsake the Levite as long as you live on your land.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[vi:obe:other:servant]]
+  * [[vi:obe:other:Levite]]
+  * [[vi:obe:kt:gate]]
+  * [[vi:obe:other:rejoice]]
+  * [[vi:obe:other:hand]]
+  * [[vi:obe:kt:forsaken]]
+===== Translation Notes: =====
+Yahweh continues speaking to the people of Israel.
+  * **you will eat them** - "you will eat your offerings"
+  * **before Yahweh** - "in the presence of Yahweh"
+  * **within your gate** - AT: “inside your city” (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **everything that you put your hand to** - AT: "all you undertake" or "all that you do" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Pay attention to yourself ** - "Be careful"
+  * **that you do not forsake** - Moses uses a negative comment to emphasize that the people must take care of the Levites. (See: [[:vi:ta:vol2:translate:figs_litotes]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:17|<<]] | [[:vi:bible:notes:deu:12:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

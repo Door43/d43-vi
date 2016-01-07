@@ -1,0 +1,73 @@
+====== Isaiah 50:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 God, the one who vindicates me, is near to me;
+\q2 so if anyone \f + \ft rhetorical question \f* stands in front of me and accuses me in a court,
+\q2 he will not be able \add to show that I have done anything that is wrong\add*.
+\q1
+\v 9 The Lord our God defends me \add in court\add*,
+\q2 so no one \f + \ft rhetorical question \f* will be able to condemn me\f + \ft Or: declare that I am guilty \f*.
+\q1 All those who accuse me will disappear
+\q2 like \f + \ft simile \f* old clothes that have been eaten by \add larvae of\add* moths\f + \ft Or: cockroaches \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 God is near to me; he will show others that I have been right to trust him,
+\q2 so if anyone stands in front of me and accuses me in a court,
+\q2 he will not be able to show that I have done anything that is wrong.
+\q1
+\v 9 The Lord Yahweh defends me in court,
+\q2 so no one will be able to condemn me.
+\q1 All those who accuse me will disappear
+\q2 like old clothes that have been eaten by moths.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 8 He who will justify me is close by. Who will oppose me? Let us stand and confront one another. 
+\q1 Who is my accuser? Let him come near to me.
+\q1
+\v 9 See, the Lord Yahweh will help me. Who will declare me guilty? 
+\q1 See, they will all wear out like a garment; the moth will eat them up.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:justify]]
+  * [[:vi:obe:other:accuse]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[vi:obe:other:declare]]
+  * [[vi:obe:kt:guilt]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh's servant continues speaking.
+
+  * **Who will oppose me… Who is my accuser… Who will declare me guilty?**  - The servant uses these questions to emphasize that no one can prove before God that he has done anything wrong. (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **they will all wear out like a garment; the moth will eat them up**  - This means God will remove those who accuse his servant. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:50|Isaiah Chapter 50 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:50:07|<<]] | [[:vi:bible:notes:isa:50:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

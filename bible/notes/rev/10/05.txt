@@ -1,0 +1,70 @@
+====== Revelation 10:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Then the angel whom I had seen standing on the ocean and the land raised his right hand toward heaven,
+\v 6 and he asked the one who lives forever, the one who created heaven and everything that is in it, \add who created\add* the earth and everything that is in it, and  \add who created\add* the ocean and everything that is in it, to affirm that what he said was true. \add He said that he\add* would surely no longer delay  \add what he had planned\add*.
+\v 7 He said that when the time  \add came\add* for the seventh angel to blow his trumpet, \add he\add* would complete God's secret plan, just like he announced  \add long ago\add* to his servants, the prophets.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Then the angel whom I had seen standing on the ocean and the land raised his right hand toward heaven,
+\v 6 and he asked the one who lives forever—the one who created heaven and everything that is in it, who created the earth and everything that is in it, and who created the ocean and everything that is in it—to say that what he was going to say was true. The angel said that he would surely no longer delay what God had planned to do.
+\v 7 He said that when the time came for the seventh angel to blow his trumpet, God's secret plan would be finished, just as he had said long ago to his servants, the prophets.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 Then the angel I saw standing on the sea and the earth, raised his right hand to heaven
+\v 6 and swore by him  who lives forever and ever—who created heaven and all that is in it, the earth and all that is in it, and the sea and all that is in it: "There will be no more delay.
+\v 7 But on the day when the seventh angel is about to sound his trumpet, then the mystery of God will be accomplished, just as he proclaimed to his servants the prophets."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:angel]]
+  * [[:vi:obe:other:oath|oath, swear]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:other:creation|create, creation, Creator]]
+  * [[:vi:obe:other:mystery|mystery, hidden truth]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:proclaim|proclamation]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+
+===== Translation Notes: =====
+
+  * **him who lives forever and ever**  - "Him" refers to God.
+  * **all that is in it (3 times)**  - This refers to all the plants, animals, and humans that live in the air, in the sea, or on the land.
+  * **will be accomplished**  - "is about to take place" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:rev:10|Revelation Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/10/03|<<]] | [[en/bible/notes/rev/10/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

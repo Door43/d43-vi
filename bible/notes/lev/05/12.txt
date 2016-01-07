@@ -1,0 +1,57 @@
+====== Leviticus 05:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 You must take it to the priest. He will take a handful of it, to symbolize that the whole offering truly belongs to Yahweh, and burn it on the altar, on top of the other offerings.
+\v 13 And by doing that, the priest will enable you to no longer be guilty for any of the sins that you have committed, and you will be forgiven. The part of the offering that is not burned will belong to the priest, like was true for the offerings made from grain."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 You must take it to the priest. He will take a handful of it to symbolize that the whole offering truly belongs to Yahweh, and burn it on the altar, on top of the other offerings.
+\v 13 When he does that, the priest will enable you to no longer be guilty for any of the sins that you have committed, and God will forgive you. The part of the offering that is not burned will belong to the priest, just as in the case of the offerings made from flour."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 He must bring it to the priest, and the priest will take a handful of it to gratefully think about Yahweh's goodness and then burn it on the altar, on top of the offerings made by fire for Yahweh. This is a sin offering.
+\v 13 The priest will make atonement for any sin that the person has committed, and that person will be forgiven. The leftovers from the offering will belong to the priest, as with the grain offering.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:priest]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[vi:obe:kt:good]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[:vi:obe:other:fire|fire]]
+  * [[:vi:obe:other:sinoffering|sin offering]]
+  * [[vi:obe:kt:atonement]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[vi:obe:kt:forgive]]
+  * [[vi:obe:other:grainoffering]]
+
+===== Translation Notes: =====
+
+  * **the priest will take a handful of it**  - This refers to the portion the priests were allowed to take for themselves.
+  * **to gratefully think about Yahweh's goodness**  - See how you translated this in [[:vi:bible:notes:lev:02:01|2:2]].
+  * **on top of the offerings of Yahweh made by fire**  - AT: "on top of the burnt offerings to Yahweh" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **that person will be forgiven**  - AT: "God will forgive that person's sins."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:05|Leviticus Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:05:11|<<]] | [[:vi:bible:notes:lev:05:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

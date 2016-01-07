@@ -1,0 +1,64 @@
+====== Jeremiah 31:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 My people will return \add to Jerusalem\add*
+\q2 and shout joyfully on the slopes of Zion Hill.
+\q1 They will rejoice about the things that I have abundantly given to them—
+\q2 grain and new wine and \add olive\add* oil
+\q2 and young sheep and cattle.
+\q1 They themselves will be like a well-watered garden,
+\q2 and they will no longer be sad.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 My people will return to Jerusalem
+\q2 and shout joyfully on the slopes of Zion Hill.
+\q1 They will rejoice about the things that I have abundantly given to them—
+\q2 grain and new wine and olive oil
+\q2 and young sheep and cattle.
+\q1 They themselves will be like a well-watered garden,
+\q2 and they will no longer feel worn out.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Then they will come and rejoice on the heights of Zion. They will rejoice over Yahweh's goodness,
+\q over the corn and the new wine, over the oil and the offspring of the flocks and herds.
+\q For their lives will become like a watered garden, and they will never again feel any more sorrow.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice|rejoice, exult]]
+  * [[:vi:obe:other:zion|Zion, Mount Zion]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:good|good, goodness]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:oil|oil]]
+  * [[:vi:obe:other:offspring|offspring]]
+  * [[:vi:obe:other:flock|flock, herd]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **like a watered garden** - This means they will be strong and healthy, and they will prosper. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **they will never again feel any more sorrow** - This is an exaggeration of the joy Israel will have. (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:31|Jeremiah Chapter 31 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:31:10|<<]] | [[:vi:bible:notes:jer:31:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

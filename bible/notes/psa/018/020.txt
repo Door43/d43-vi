@@ -1,0 +1,56 @@
+====== Psalms 018:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 Yahweh has rewarded me because I do what is right;
+\q2 he has blessed me because I am innocent\f + \ft Or: have not done things that are wrong \f*.
+\q1
+\v 21 I have obeyed Yahweh's laws;
+\q2 I have not abandoned him.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 Yahweh has rewarded me because I do what is right; he has blessed me because I am innocent.
+\q1
+\v 21 I have obeyed Yahweh's laws; I have not abandoned him.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 Yahweh has rewarded me because of my righteousness; he has restored me because my hands were clean.
+\q
+\v 21 For I have kept the ways of Yahweh and have not wickedly turned away from my God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:reward|reward]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[vi:obe:kt:restore]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:turn|turn, turn away]]
+  * [[:vi:obe:kt:god]]
+===== Translation Notes: =====
+
+  * **my hands were clean** - AT: "all my actions were right" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **I have kept the ways of Yahweh** - "I have paid attention to the ways of Yahweh" AT: "I have obeyed Yahweh's laws" (UDB) (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **have not wickedly turned away from my God** - "have not become wicked by turning away from my God"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:018|<<]] | [[:vi:bible:notes:psa:018:022|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

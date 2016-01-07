@@ -1,0 +1,50 @@
+====== Judges 04:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 As they advanced, Yahweh caused Sisera and all his chariots and his army to have great difficulty maneuvering\f + \ft Or: moving \f* around. So Sisera jumped down from his chariot and ran away.
+\v 16 But Barak and his men pursued the other chariots and the enemy soldiers as far as Harosheth-Haggoyim. They killed all of the men in Sisera's army. Not one man survived.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 As they advanced, Yahweh caused Sisera and all his chariots and his army to have great difficulty maneuvering around. So Sisera jumped down from his chariot and ran away.
+\v 16 But Barak and his men pursued the other chariots and the enemy soldiers as far as Harosheth (where the non-Israelites lived). They killed all of the men in Sisera's army. Not one man survived.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Yahweh made Sisera's army confused, all his chariots, and all his army, and Barak's men attacked them, and Sisera got down from his chariot and ran away on foot.
+\v 16 But Barak pursued the chariots and the army to Harosheth of the Gentiles, and all the army of Sisera were killed by the edge of the sword, and not a man survived.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:chariot]]
+  * [[:vi:obe:other:gentile]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **Sisera** - See how you translated this in [[vi:bible:notes:jdg:04:01|4:2]].
+  * **confused** - "unable to think clearly"
+  * **Barak** - See how you translated this in [[vi:bible:notes:jdg:04:06|4:6]].
+  * **pursued** - "chased"
+  * **Harosheth** - See how you translated this in [[:vi:bible:notes:jdg:04:01|4:2]].
+  * **killed by the edge of the sword** - This phrase refers to swords by the part of the sword that is sharp and can be used to kill. AT: "killed with swords" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:04|Judges Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:04:14|<<]] | [[:vi:bible:notes:jdg:04:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

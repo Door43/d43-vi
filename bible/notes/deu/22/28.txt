@@ -1,0 +1,58 @@
+====== Deuteronomy 22:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 If a man rapes a young woman who is not engaged\f + \ft Or: promised \f* to be married, if someone sees him while he is doing that,
+\v 29 that man must pay 50 pieces of silver to the young woman's father, and he must marry her, because he forced her to have sex with him. He is not allowed to divorce her during the rest of his life.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 If a man rapes a young woman who is not engaged to be married, if someone sees him while he is doing that,
+\v 29 that man must pay fifty pieces of silver to the young woman's father, and he must marry her, because he shamed her by forcing her to have sex with him. He is not allowed to divorce her during the rest of his life.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 If a man finds a girl who is a virgin but who is not engaged, and if he lays hold on her and lies with her, and if they are discovered, 
+\v 29 then the man who lay with her must give fifty shekels of silver to the girl’s father, and she must become his wife, because he has humiliated her. He may not send her away during all his days.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:virgin]]
+  * [[:vi:obe:other:biblicalmoney]]
+  * [[:vi:obe:other:silver]]
+  * [[vi:obe:other:humiliate]]
+  * [[:vi:obe:other:send]]
+  * [[vi:obe:other:biblicaltimeday]]
+
+===== Translation Notes: =====
+
+  * **but who is not engaged**  - "but who is not promised to be married"
+  * **and if he lays hold on her and lies with her**  - AT: "and if he forces her to have sex with him." ([[:vi:ta:vol2:translate:figs_euphemism]])
+  * **and if they are discovered **  - AT: "and if somebody finds out what happened." ([[:vi:ta:vol2:translate:figs_activepassive]])
+  * **then the man who lay with her**  - AT: "then the man who had sex with the girl."
+  * **because he has humiliated her**  - AT: "because he has had sex with her."
+  * **He may not send her away during all his days**  - AT: "He may never divorce her during his entire life." ([[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:25|<<]] | [[:vi:bible:notes:deu:22:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

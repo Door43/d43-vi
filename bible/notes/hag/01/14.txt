@@ -1,0 +1,48 @@
+====== Haggai 01:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 So Yahweh motivated Zerubbabel and Jeshua and the other people \add to want to rebuild the temple\add* of our God, the Almighty Commander of the armies of angels. They gathered together and started to work to rebuild it.
+\v 15 They started work on September 21st, during the second year that Darius was the king.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 So Yahweh motivated Zerubbabel and Joshua and the other people to want to rebuild the temple of their God, Yahweh, Commander of the angel armies. So they gathered together and started to work to rebuild it.
+\v 15 They started that work on the twenty-fourth day of the same month in which Yahweh had spoken to Haggai.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 So Yahweh stirred up the spirit of the governor of Judah, Zerubbabel the son of Shealtiel, and the spirit of the high priest Joshua, the son
+of Jehozadak, and the spirit of all the remnant of the people, so that they went and worked on the house of Yahweh of hosts, their God
+\v 15 in the twenty-fourth day of the sixth month, in the second year of Darius the king.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:Yahweh]]
+  * [[:vi:obe:kt:spirit]]
+  * [[:En:obe:other:Judah]]
+  * [[:vi:obe:other:Joshua]]
+  * [[:vi:obe:kt:YahwehofHosts]]
+  * [[:En:obe:kt:God]]
+  * [[:vi:obe:other:king]]
+
+===== Translation Notes: =====
+
+  * **stirred up the spirit** - means to motivate or influence. (See: [[:vi:ta:vol1:translate:figs_idiom]]). 
+  * **remnant**  - The word "remnant" refers to the people that were still alive after they arrived from their captivity in Babylon and started to rebuild Jerusalem.
+  * **in the twenty-fourth day of the sixth month, in the second year of Darius the king.** - This is just 23 days after he received the vision. (See: [[vi:obe:other:biblicaltime]]).
+  * **second year of Darius the king,** - "second year of the reign of Darius the king," or UDB.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hag:01|Haggai Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:hag:01:12|<<]] | [[:vi:bible:notes:hag:02:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,77 @@
+====== Proverbs 08:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling \f + \ft personification \f* out \add to people\add*.
+\q1
+\v 2 Wisdom stands on hilltops and at crossroads.
+\q1
+\v 3 Wisdom also stands at the city gates and shouts loudly,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Listen to Wisdom calling; her voice sounds like that of a woman who shouting in the public square.
+\q1 Understanding raises her voice; she sounds like a woman who calls out to be heard. 
+\q1
+\v 2 On the top of the hills and where the roads come together, 
+\q1 there Wisdom stands. 
+\q1
+\v 3 Wisdom also stands at the gates at the entrance to the city, and she calls out with a loud voice. Wisdom says:
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 8
+\q
+\v 1 Does not Wisdom call out?
+\q Does not Understanding raise her voice?
+\q
+\v 2 On the hilltops beside the road,
+\q at the crossroads, Wisdom takes her stand.
+\q
+\v 3 Beside the entrance to the city,
+\q near the city gates, she calls out.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:en;obe:kt:wise]]
+  * [[:En:obe:kt:gate]]
+ 
+
+===== Translation Notes: =====
+
+In chapter 8 wisdom is spoken of as a woman who teaches people how to be wise. (See: [[:vi:ta:vol2:translate:figs_personification|Personification]])\\
+Many verses in chapter 8 have parallelisms. (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+  * **Does not Wisdom call out?**  - This question is used to remind the readers of something they should already know. AT: "Wisdom calls out" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **Does not Understanding raise her voice?**  - AT: "Understanding shouts loudly"
+  * **the city gate**  - This is where people go in and out of a city that has a wall around it.
+  * **she calls out **- "Wisdom calls out for the people to listen to her"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:08|Proverbs Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/07/26|<<]] | [[en/bible/notes/pro/08/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

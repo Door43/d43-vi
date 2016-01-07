@@ -1,0 +1,40 @@
+====== Joshua 20:9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Any Israelite or any foreigner who lived among us, anyone who killed someone accidentally\f + \ft Or: without planning to do it \f*, was allowed to run to one of those cities, and be safe, Or: protected from some relative of the person who died coming there and killing him to get revenge. He could stay in that city until there was a trial there \add to decide whether he was telling the truth or not when he said that he did not plan to kill that person\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Any Israelite or any foreigner who lived among them, anyone who had killed someone accidentally, was allowed to run to one of those cities. There he would be safe from some relative of the person who died coming there and killing him to get revenge. He could stay in that city until he was put on trial to decide whether he was telling the truth when he said that he did not kill that person on purpose.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 For all the people of Israel and for the foreigners residing among them, these were the cities selected for anyone who killed a person unintentionally to run to. In this way, this person would not die by the hand of the one who wanted to avenge the shed blood. The accused person would first stand before the assembly.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:foreigner]]
+ 
+
+===== Translation Notes: =====
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:20|Joshua Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:20:07|<<]] | [[:vi:bible:notes:jos:21:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

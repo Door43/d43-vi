@@ -1,0 +1,82 @@
+====== Lamentations 01:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 People have heard us while we groaned,
+\q2 but no one \add came to\add* comfort us.
+\q1 \add Yahweh\add*, you caused us to experience this \add disaster\add*,
+\q2 and our enemies are happy to see what you have done \add to us\add*.
+\q1 But cause it soon to be the time that you have promised,
+\q2 when our enemies will suffer like we have suffered!
+\b
+\q1
+\v 22 Yahweh, see all the evil deeds that they have committed
+\q2 and punish them!
+\q1 \add Punish them\add* like you have punished us
+\q2 for all the sins that we committed.
+\q1 \add We say this to you\add* because we suffer and groan very much,
+\q2 and we faint\f + \ft Or: are very sad \f* within our inner beings.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 People heard us while we groaned,
+\q2 but no one came to comfort us.
+\q1 All our enemies know what happened to us;
+\q2 they were all happy to hear about it.
+\q1 Please do soon what you have promised,
+\q2 when our enemies will suffer like we have suffered!
+\b
+\q1
+\v 22 Yahweh, consent to look at all the evil deeds 
+\q2 that they have committed.
+\q1 Punish them as you have punished us
+\q2 for all the sins that we committed.
+\q1 We say this to you because we suffer and groan very much,
+\q2 and we faint in our inner beings.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Hear me groan. There is no one to comfort me.
+\q All my enemies have heard of my adversity. They rejoice that you have done it.
+\q Bring the day that you have proclaimed; may they become like me.
+\q
+\v 22 Let all their wickedness come before you.
+\q Torment them as you have tormented me for all my transgressions; 
+\q for my groans are many, and my heart is weak.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:comfort]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:other:proclaim]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:torment]]
+  * [[:vi:obe:kt:transgression]]
+  * [[:vi:obe:other:heart]]
+===== Translation Notes: =====
+
+    * **Hear me groan** - Jerusalem continues to seak like a person. (See: [[:vi:ta:vol2:translate:figs_123person]] and [[:vi:ta:vol2:translate:figs_personification]])
+    * **my adversity** - "my misery" or "my injury" or "my disaster"
+    * **you have done it** - Here the word "you" refers to Yahweh.
+    * **Bring the day that** - AT: "Today, do what" or "Bring about soon what" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:01|Lamentations Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:01:20|<<]] | [[:vi:bible:notes:lam:02:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

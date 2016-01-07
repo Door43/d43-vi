@@ -1,0 +1,77 @@
+====== Psalms 035:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 But when I had troubles, they were all happy about it.
+\q2 They gathered around to make fun of me.
+\q1 Strangers struck me,
+\q2 and they would not stop.
+\q1
+\v 16 Worthless people ridicule me
+\q2 and snarl at me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 But when I had troubles, they were all happy about it.
+\q2 They gathered around to make fun of me.
+\q1 Strangers struck me,
+\q2 and they would not stop.
+\q1
+\v 16 Worthless people ridiculed me
+\q2 and snarled at me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 But when I stumbled, they rejoiced and gathered together;
+\q they  gathered together against me, and I did not know.
+it;
+\q They tore at me without stopping,
+\q
+\v 16 Without respect they taunted me;
+\q they gnashed at me with their teeth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:stumble]] 
+  * rejoiced  
+  * [[:vi:obe:other:gnashteeth]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **when I stumbled**  - AT: "when I had trouble", or "when I fell into trouble"
+    * **and I did not know**  - AT: "behind my back"
+    * **They tore at me without stopping**  - This may mean they ridiculed and scoffed at him without stopping.
+    * **they gnashed at me with their teeth**  - (See metaphor) 
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:035|Psalms Chapter 035 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/035/013|<<]] | [[en/bible/notes/psa/035/017|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

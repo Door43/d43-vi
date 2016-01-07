@@ -1,0 +1,76 @@
+====== Revelation 05:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 The living \add creatures\add* and the elders sang a new song. They sang:
+\q1 You are worthy to receive the scroll and to open its seals,
+\q1 because you were killed, and because you redeemed\f + \ft Or: bought \f*
+\q1 people for God from every tribe, language \f + \ft metonymy \f*, people-group,
+\q1 and nation with the blood that flowed from your body when you died.
+\q1
+\v 10 You have caused them to become a people over whom our God rules,
+\q1 and to become priests who serve him, and they will rule on \f + \ft metonymy \f* the earth.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 The living creatures and the elders sang a new song. They sang:
+\q1 "You are worthy to receive the scroll and to open its seals
+\q1 because you were killed, and because you redeemed
+\q1 people for God from every tribe, language, people,
+\q1 and people group with your blood when you died.
+\q1
+\v 10 You have caused them to become a people over whom our God rules
+\q1 and to become priests who serve him; they will rule on the earth."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 They sang a new song:
+\q "You are worthy to take the scroll 
+\q2 and to open its seals. 
+\q For you were slaughtered, and with your blood you purchased for God 
+\q2 people from every tribe, language, people and nation.
+\q
+\v 10 You made them a kingdom and priests to serve our God, 
+\q2 and they will reign on the earth."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:blood]]
+  * [[:vi:obe:other:tribe]]
+  * [[:vi:obe:other:tongue]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:kingdom]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:reign]]
+ 
+
+===== Translation Notes: =====
+
+  * **They**  - The word "They" here refers to the four living creatures and the twenty-four elders.
+  * **For you were slaughtered - **  AT: "For they killed you" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:05|Revelation Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:05:08|<<]] | [[:vi:bible:notes:rev:05:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

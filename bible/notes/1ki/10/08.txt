@@ -1,0 +1,55 @@
+====== 1 Kings 10:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Your wives are very fortunate! Your servants\f + \ft Or: officials \f* who are constantly standing in front of you and listening to the wise things that you say are also fortunate!
+\v 9 Praise Yahweh, your God, who has shown that he is pleased with you by causing you to become the king of Israel! God has always loved the Israelite people, and therefore he has appointed you to be their king, in order that you will rule them fairly and righteously."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 How fortunate are your men! And how fortunate are your servants, who are awalys standing in front of you and listening to the wise things that you say!
+\v 9 Praise Yahweh, your God, who has shown that he is pleased with you by causing you to become the king of Israel! God has always loved the Israelite people, and therefore he has appointed you to be their king, in order that you will rule them fairly and righteously."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 How blessed are your people, and how blessed are your servants who constantly stand before you, because they hear your wisdom.
+\v 9 May Yahweh your God be praised, who has taken pleasure in you, who placed you on the throne of Israel. Because Yahweh loved Israel forever, he has made you king, for you to do justice and righteousness!"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:other:throne]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+  * **who constantly stand before you** - AT: "who are always in your presence" (See : [[:vi:ta:vol1:translate:figs_idiom]])
+  * **May Yahweh your God be praised** - AT: "May people praise Yahweh your God" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **who placed you on the throne of Israel** - AT: "who made you king of Israel" (See : [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:10|1 Kings Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:10:06|<<]] | [[:vi:bible:notes:1ki:10:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

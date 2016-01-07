@@ -1,0 +1,53 @@
+====== Amos 07:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 I replied to Amaziah, "I was \add previously\add* not a prophet and my father was not a prophet; I was a shepherd. I also took care of sycamore-fig trees.
+\v 15 But Yahweh took me away from taking care of my sheep, and he said to me, 'Go to Israel and prophesy to my people there!'
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 I replied to Amaziah, "I was previously not a prophet and my father was not a prophet; I was a shepherd. I also took care of sycamore fig trees.
+\v 15 But Yahweh took me away from taking care of my sheep, and he said to me, 'Go to Israel and prophesy to my people there!'
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Then Amos said to Amaziah, "I am not a prophet nor a prophet’s son. I am a herdsman, and I take care of sycamore fig trees.
+\v 15 But Yahweh took me from tending the flock and said to me, 'Go, prophesy to my people Israel.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:fig]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:other:flock]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:israel]] 
+
+===== Translation Notes: =====
+
+
+  * **herdsman** - Possible meanings 1) one who takes care of sheep (see UDB and [[:vi:bible:notes:amo:01:01|1:1]], where a different word is used for "shepherd," and 7:15) or 2) one who takes care of animals like cows.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:07|Amos Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:07:12|<<]] | [[:vi:bible:notes:amo:07:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

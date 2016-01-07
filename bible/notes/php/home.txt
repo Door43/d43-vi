@@ -1,0 +1,12 @@
+===== Philippians Links =====
+  * [[:vi:ulb:ep:50-php.usfm|Full ULB text of Philippians]]
+  * [[:vi:udb:ep:50-php.usfm|Full UDB text of Philippians]]
+  * [[vi:bible:admin-reports:notes-team-admin:php]]
+  * [[:vi:bible:team-info:training:notes-training|Notes Training]]
+<nspages vi:bible:notes:php:01 -title -naturalOrder -exclude:home -textPages="Philippians 1" -nbCol=2> 
+
+<nspages vi:bible:notes:php:02 -title -naturalOrder -exclude:home -textPages="Philippians 2" -nbCol=2> 
+
+<nspages vi:bible:notes:php:03 -title -naturalOrder -exclude:home -textPages="Philippians 3" -nbCol=2> 
+
+<nspages vi:bible:notes:php:04 -title -naturalOrder -exclude:home -textPages="Philippians 4" -nbCol=2> 

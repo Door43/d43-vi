@@ -1,0 +1,65 @@
+====== Ezekiel 19:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 '\add It is as though\add* \f + \ft simile \f* your mother was a grapevine
+\q2 that was planted along a stream.
+\q1 There was plenty of water,
+\q2 so it had lots of branches and produced a lot of grapes.
+\q1
+\v 11 That grapevine grew and became taller than all the nearby trees;
+\q2 \add everyone could\add* see that it was very strong and healthy.
+\q1 And those branches were good for making scepters that symbolize the power\f + \ft Or: authority \f* \add of a king\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 'It is as though your mother were a grapevine
+\q2 that was planted along a stream.
+\q1 There was plenty of water,
+\q2 so it had lots of branches and produced a lot of grapes.
+\q1
+\v 11 That grapevine grew and became taller than all the nearby trees;
+\q2 everyone could see that it was very strong and healthy.
+\q1 And those branches were good for making scepters that symbolize the power of a king.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 10 Your mother was like a vine planted in your blood beside the water. 
+\q she was fruitful and full of branches because of the abundance of water.
+\q
+\v 11 She had strong branches for ruler’s scepters, 
+\q and her heights were exalted among the branches of the thicket.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:vine]]
+  * [[:vi:obe:other:ruler]]
+  * [[vi:obe:other:scepter]]
+  * [[:vi:obe:kt:exalt]]
+
+===== Translation Notes: =====
+
+ 
+  * **mother** - Yahweh describes the nation of Israel as though it was the mother of the princes of Israel. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **in your blood** - It is implied that this is the blood of grapes. AT: "in the blood of your grapes" or "in your wine." (See: [[vi:ta:vol1:translate:figs_explicit]])
+ 
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:19|Ezekiel Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:19:08|<<]] | [[:vi:bible:notes:ezk:19:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

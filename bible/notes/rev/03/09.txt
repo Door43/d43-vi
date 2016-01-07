@@ -1,0 +1,68 @@
+====== Revelation 03:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add I am aware that\add* some of your people meet together with those who \add follow\f + \ft Or: worship \f*\add* Satan. They claim to be Jews, but I know that they are not true Jews. They are lying. I will cause them to come to you and to bow down \add humbly\add* at your feet and to acknowledge that I love you.
+\p
+\v 10 Because you have paid attention to the message to endure patiently \add when you suffered\add*, I will keep you \add safe from those who will try to harm you spiritually\add* during the period\f + \ft Or: time \f* that is about to come. At that time \add God will cause rebellious people\add* on the earth to suffer, in order that I can determine \add whether they will turn away from their sins or not\add*.
+\v 11 I am coming soon. \add So\add* continue to hold fast to\f + \ft Or: to believe firmly \f* the \add message\add* that you have received, in order that no one may cause you to lose the reward \add that God has reserved for\add* you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Be careful! I am aware that some of your people meet together with those who follow Satan. They claim to be Jews, but I know that they are not true Jews. They are lying. I will cause them to come to you and to bow down humbly at your feet and to acknowledge that I love you.
+\p
+\v 10 Because you have obeyed me when I commanded you to endure suffering patiently, I will keep you safe from those who will try to make you disobey me. They will soon do this to everyone in the entire world.
+\v 11 I am coming soon. So continue to do what I have told you, in order that no one may cause you to lose your reward that God has reserved for you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Watch! Those who belong to the synagogue of Satan, those who say they are Jews but are not,—they are lying instead. I will make them come and bow down before your feet, and they will come to know that I loved you.
+\v 10 Since you have kept my command to endure patiently, I will also keep you from the hour of testing that is coming on the whole world, to test those who live on the earth.
+\v 11 I am coming soon.  Hold tight to what you have so no one can take away your crown.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:synagogue]]
+  * [[:vi:obe:kt:satan]]
+  * [[:vi:obe:other:jew]] 
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:love]]
+  * [[vi:obe:other:command]]
+  * [[:vi:obe:kt:endure]]
+  * [[vi:obe:other:patient]]
+  * [[vi:obe:kt:hour]]
+  * [[:vi:obe:kt:test]]
+  * [[:vi:obe:other:crown]]
+
+===== Translation Notes: =====
+
+    * **synagogue of Satan ... Jews but are not**  - See how you translated this in [[:vi:bible:notes:rev:02:08|2:9]].
+    * **bow down**  - This is a sign of submission, not worship.
+    * **before your feet** - AT: "before you" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+    * **to test those**  - AT: "that will test those"
+    * **Hold tight** - AT: "Continue to believe" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:rev:03|Revelation Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/03/07|<<]] | [[en/bible/notes/rev/03/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

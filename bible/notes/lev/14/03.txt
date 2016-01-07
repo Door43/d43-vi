@@ -1,0 +1,53 @@
+====== Leviticus 14:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 The person must be brought to the priest. The priest will take him outside the camp \add to where that person has been staying\add*, and examine him. If the skin disease has been healed,
+\v 4 the priest will say that someone must bring two living birds that are acceptable to Yahweh, along with some cedar wood, some scarlet\f + \ft Or: red \f* yarn, and some sprigs of hyssop\f + \ft Or: a very leafy plant \f*.
+\v 5 Then the priest will command that one of the birds be killed while \add it is being held\add* over a clay pot containing water from a spring.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Other people must tell the priest about that person. The priest go outside the camp and examine him. If the skin disease has been healed,
+\v 4 the priest will say that someone must bring two live birds that are acceptable to Yahweh, along with some cedar wood, some scarlet yarn, and some hyssop.
+\v 5 Then the priest will command that one of the birds be killed while it is being held over a clay pot containing water from a spring, that is, fresh water.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 The priest will go out of the camp to examine the person to see if the infectious skin disease is healed.
+\v 4 Then the priest will command that the one to be cleansed must take two live, clean birds, cedar wood,  scarlet yarn, and hyssop. 
+\v 5 The priest will command him to kill one of the birds over fresh water that is in a clay pot.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:priest]]
+  * [[:vi:obe:other:heal|heal, cure]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:clean|clean, cleanse]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:cedar|cedar]]
+  * [[vi:obe:other:water]]
+
+===== Translation Notes: =====
+
+Yahweh continues telling Moses and Aaron what the people must do when someone is cleansed of a skin disease.
+
+  * **infectious skin disease** - See how you translated a similar phrase in [[vi:bible:notes:lev:13:03|13:3]].
+  * **the one to be cleansed** - AT: 'the person he is cleansing" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **clean birds** - This means ritually clean birds that God allowed the people to eat and offer as sacrifices.
+  * **scarlet yarn** - "red yarn"
+  * **hyssop** - an herb with a pleasant smell that was used for medicine (See: [[:vi:ta:vol1:translate:translate_unknown]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:14|Leviticus Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:14:01|<<]] | [[:vi:bible:notes:lev:14:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

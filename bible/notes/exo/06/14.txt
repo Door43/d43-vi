@@ -1,0 +1,61 @@
+====== Exodus 06:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Here is\f + \ft Or: I will now give you \f* a list of the ancestors of \add Moses and Aaron\add*:
+\p The sons of Reuben, who was Jacob's oldest son, \add were\add* Hanoch, Pallu, Hezron, and Carmi. They were \add ancestors of\add* the clans \add that have those same names\add*.
+\p
+\v 15 The sons of Simeon \add were\add* Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul. Shaul's mother was a woman from the Canaan people-group. They also were \add ancestors of\add* clans \add that have those same names\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Now here is a list of the ancestors of Moses and Aaron.
+\p The sons of Reuben, who was Jacob's oldest son, were: Hanoch, Pallu, Hezron, and Carmi. They were ancestors of the clans that have those same names.
+\p
+\v 15 The sons of Simeon were: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul. Shaul's mother was a woman from the land of Canaan. They also were ancestors of clans that have those same names.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 These were the heads of their fathers’ houses: The sons of Reuben, the firstborn of Israel, were Hanoch, Pallu, Hezron, and Carmi. These were the clan ancestors of Reuben.
+\v 15 The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul—the son of a Canaanite woman. These were the clan ancestors of Simeon.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:head]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:other:reuben]]
+  * [[:vi:obe:kt:firstborn]]
+  * [[:vi:obe:other:Jacob]]
+  * [[:vi:obe:other:clan]]
+  * [[:vi:obe:other:Simeon]]
+  * [[:vi:obe:other:canaan]]
+
+===== Translation Notes: =====
+
+ 
+  * **Hanoch, Pallu, Hezron, and Carmi … Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul** - These are all names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:06|Exodus Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:06:10|<<]] | [[:vi:bible:notes:exo:06:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

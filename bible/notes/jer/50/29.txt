@@ -1,0 +1,65 @@
+====== Jeremiah 50:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 Summon archers \f + \ft doublet \f* to come to attack Babylon;
+\q2 surround the city
+\q2 in order that no one will escape.
+\q1 Do to the people of Babylon what they have done to others \f + \ft doublet \f*,
+\q2 because they have defied me, the Holy One of the Israelite people.
+\q1
+\v 30 The young men of Babylon will fall in the streets;
+\q2 all their soldiers will be killed in one day.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 Summon archers  to come to attack Babylon;
+\q2 surround the city
+\q2 in order that no one will escape.
+\q1 Do to the people of Babylon what they have done to others ,
+\q2 because they have defied me, the Holy One of the Israelite people.
+\q1
+\v 30 The young men of Babylon will fall in the streets;
+\q2 all their soldiers will be killed in one day. This will happen because I, Yahweh, have declared it!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 29 "Summon the archers against Babylon—all those who bend their bows. 
+\q Camp against her, and let no one escape.
+\q Repay her for what she has done.
+\q Do to her by the measure she has used.
+\q For she had defied Yahweh, the Holy One of Israel.
+\v 30 So her young men will fall in the city squares, and all her fighting men will be destroyed on that day," declares Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:bowweapon|bow and arrow]]
+  * [[:vi:obe:other:babylon|Babylon, Babylonian]]
+  * [[:vi:obe:kt:holyone|Holy One]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * declare, declaration
+
+===== Translation Notes: =====
+
+  * **her young **- The pronoun "her" refers to Babylon.
+  * **her fighting men**  - The pronoun "her" refers to Babylon.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:50|Jeremiah Chapter 50 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:50:27|<<]] | [[:vi:bible:notes:jer:50:31|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

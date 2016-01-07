@@ -1,0 +1,42 @@
+====== Numbers 01:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24-25 There were 45,650 men from the tribe of Gad who were at  least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 24 From the descendants of Gad were counted all the names of each and every man twenty years old or older able to go to war, from the records of their ancestor’s clans and families. 
+\v 25 They counted 45,650 men from the tribe of Gad.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:gad]]
+  * [[vi:obe:other:family]]
+
+===== Translation Notes: =====
+
+  * **were counted all the names...clans and families** - See how you translated this in [[vi:bible:notes:num:01:20|1:20]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:01|Numbers Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:num:01:22|<<]] | [[:vi:bible:notes:num:01:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

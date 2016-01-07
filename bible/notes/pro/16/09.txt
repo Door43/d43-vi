@@ -1,0 +1,74 @@
+====== Proverbs 16:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 People plan what they want to do,
+\q2 but Yahweh directs\f + \ft Or: determines \f* what they will really be able to do.
+\b
+\q1
+\v 10 \add If\add* God directs what a king says,
+\q2 what he decides is always right\f + \ft Or: fair \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 From deep within a person come the plans he makes, 
+\q2 but Yahweh leads the person in each step he takes.
+\b
+\q1
+\v 10 A king can speak with inspired judgment; 
+\q2 and when he makes a ruling, it is good and true.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 In his heart a person plans out his way, 
+\q but Yahweh directs his steps.
+\q
+\v 10 An oracle is on the lips of a king, 
+\q  in judgment his mouth does not speak deceitfully.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:kt:judge]] 
+  * [[:vi:obe:kt:deceive]]
+ 
+===== Translation Notes: =====
+
+    * **An oracle** - a decision from God, a divine verdict.
+    * **on the lips of a king** - "in what a king says" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **does not speak deceitfully** - "speaks truth" (See:[[:vi:ta:vol2:translate:figs_litotes]] )
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:16|Proverbs Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/16/07|<<]] | [[en/bible/notes/pro/16/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== Deuteronomy 17:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 \add After he becomes the king\add*, he should not acquire a large number of horses for himself. He should not send people to Egypt to buy horses for him, because Yahweh said to you, 'Never return to Egypt \add for anything!'\add*
+\v 17 And he must not have a lot of wives, because if he did that, they would turn him \f + \ft synecdoche \f* away from \add worshiping only\add* Yahweh. And he must not acquire a lot of silver and gold.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 After he becomes the king, he should not acquire a large number of horses for himself. He should not send people to Egypt to buy horses for him, because Yahweh said to you, 'Never return to Egypt for anything!'
+\v 17 And he must not have a lot of wives, because if he did that, they would turn him away from worshiping only Yahweh. And he must not acquire a lot of silver and gold.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 But he must not multiply horses for himself, nor cause the people to return to Egypt so that he may multiply horses, for Yahweh had said to you, "You must from now on never return that way again."
+\v 17 And he must not multiply wives for himself, so that his heart does not turn away from Yahweh; neither must he greatly multiply for himself silver or gold.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:horse|horse]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:turn|turn, turn away]]
+  * [[vi:obe:other:silver]]
+  * [[:vi:obe:other:gold|gold]]
+
+===== Translation Notes: =====
+
+  * **so that his heart does not turn away from Yahweh** - Kings often married women from other nations who worshiped different gods. AT: "so that they do not cause him to start worshiping false gods" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:17:14|<<]] | [[:vi:bible:notes:deu:17:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

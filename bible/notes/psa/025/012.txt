@@ -1,0 +1,58 @@
+====== Psalms 025:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 To all those who have an awesome respect for you \f + \ft rhetorical question \f*,
+\q2 you show them the right way to conduct their lives\f + \ft Or: things that they should do \f*.
+\q1
+\v 13 They will always be prosperous,
+\q2 and their descendants will continue to live in \add this\add* land.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 To all those who have an awesome respect for you,
+\q2 you show them the right way to conduct their lives.
+\q1
+\v 13 They will always be prosperous,
+\q2 and their descendants will continue to live in this land.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Who is the man who fears Yahweh?
+\q The Lord will instruct him in the way that he should choose.
+\q
+\v 13 His life will go along in goodness;
+\q and his descendants will inherit the land.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:kt:inherit]]
+
+===== Translation Notes: =====
+
+  * **Who is the man who fears Yahweh?**  - This question introduces "the man who fears Yahweh" as a new topic.  AT: "I will tell you about the man who fears Yahweh" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **the man who fears Yahweh** - "any person who fears Yahweh"
+  * **The Lord will instruct him in the way that he should choose**- "The Lord will teach him the way he should live"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:025|Psalms Chapter 025 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:025:010|<<]] | [[:vi:bible:notes:psa:025:014|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

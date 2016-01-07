@@ -1,0 +1,47 @@
+====== Judges 13:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 So she quickly ran and said to her husband, "The man who appeared to me a few days ago has come back again!"
+\p
+\v 11 Manoah ran back with his wife, and asked, "Are you the man who talked with my wife a few days ago?" He replied, "Yes I am."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 So she quickly ran and said to her husband, "The man who appeared to me a few days ago has come back again!"
+\p
+\v 11 Manoah ran back with his wife and asked him, "Are you the man who talked with my wife a few days ago?" He replied, "Yes I am."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 So the woman ran quickly and told her husband, “Look! The man has appeared to me—the one who came to me the other day!”
+\v 11  Manoah got up and followed his wife. When he came to the man, he said, “Are you the man who spoke with my wife?” The man said, “I am.”
+</usfm>
+
+
+===== Important Terms: ===== 
+
+===== Translation Notes: =====
+
+  * **Look** - She wanted her husband to know the surprising news.  AT: “Look” or “Listen” or “Pay attention to what I am about to tell you”
+  * **The man**  - This refers to the angel of Yahweh in [[vi:bible:notes:jdg:13:03|13:3]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:13|Judges Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:13:08|<<]] | [[:vi:bible:notes:jdg:13:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

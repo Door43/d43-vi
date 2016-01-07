@@ -1,0 +1,58 @@
+====== Amos 04:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add Your enemies\add* will drag you out through breaks\f + \ft Or: holes \f* \add in your city walls\add*,
+\q2 and they will throw you outside the city.
+\q1 \add That will surely happen because\add* I, Yahweh, have said it!
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Your enemies will drag you out through breaks in your city walls,
+\q2 and they will drive you to Assyria.
+\q1 That will surely happen because I, Yahweh, have said it!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 You will go out through the breaks in the city wall,
+\q every one of you women straight before herself,
+\q and you will be driven out in the direction of Mount Hermon"
+\q —this is the declaration of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+ 
+  * [[:vi:obe:other:declare]]
+
+===== Translation Notes: =====
+
+    * **breaks in the city wall**  - places where the enemy had broken down the city wall to enter
+    * **straight before herself** - "will walk the most direct path" out of the city
+    * **in the direction of Mount Hermon** - to the north 
+    * **declaration of Yahweh** - Translate these words as you did in [[:vi:bible:notes:amo:02:11|2:11]].
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:04|Amos Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:04:01|<<]] | [[:vi:bible:notes:amo:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== 2 Kings 16:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 When Pekah had been ruling Israel for almost seventeen years, Ahaz, the son of Jotham, became the king of Judah.
+\v 2 He was twenty years old when he became the king \add of Judah\add*. He ruled from Jerusalem for sixteen years. He did not do things that pleased Yahweh his God, good things like his ancestor King David had done.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 When Pekah had been ruling Israel for almost seventeen years, Ahaz son of Jotham, became the king of Judah.
+\v 2 He was twenty years old when he became the king of Judah. He ruled from Jerusalem for sixteen years. He did not do things that pleased Yahweh his God, good things like his ancestor King David had done.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 1 In the seventeenth year of Pekah, the son of Remaliah, Ahaz, the son of Jotham, king of Judah, began to reign.
+\v 2 Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He did not do what was right in the eyes of Yahweh his God, as David his ancestor had done.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ahaz]]
+  * [[:vi:obe:other:jotham]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:david]]
+ 
+
+===== Translation Notes: =====
+
+    * **In the seventeenth year of Pekah** - "In year 17 of Pekah," (See: [[:vi:ta:vol2:translate:translate_numbers]])
+    * **in the eyes of Yahweh** - "according to Yahweh" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:16|2 Kings Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/15/37|<<]] | [[en/bible/notes/2ki/16/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

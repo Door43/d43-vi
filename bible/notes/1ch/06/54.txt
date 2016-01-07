@@ -1,0 +1,68 @@
+====== 1 Chronicles 06:54-56 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54 Here is a list of the places where Aaron's descendants lived. Those who were descendants of Kohath were the first group to be allotted cities to live in.
+\pi
+\v 55 They were allotted Hebron \add city\add* in Judah and the pastureland around the city,
+\v 56 but the fields farther from the city and the villages near the city were given to Caleb, the son of Jephunneh.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54 Here is a list of the places where Aaron's descendants lived. Those who were descendants of Kohath were the first group to be allotted cities to live in.
+\pi
+\v 55 They were allotted the city of Hebron in Judah and the pastureland around the city,
+\v 56 but the fields farther from the city and the villages near the city were given to Caleb son of Jephunneh.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 54 Following were the places assigned to Aaron's descendants. For the clans of the Kohathites (theirs was the first assigned by throwing lots):
+\v 55 They were assigned Hebron in the land of Judah, and its pasturelands. 
+\v 56 But the fields of the city, and the surrounding villages were given Caleb son of Jephunneh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:clan]]
+  * [[:vi:obe:other:lots]]
+  * [[:vi:obe:other:hebron]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:caleb]]
+
+===== Translation Notes: =====
+
+  * **Following were the places assigned to Aaron's descendants. For the clans of the Kohathites (theirs was the first assigned by throwing lots)** - AT: "These are the places where Aaron's descendants, the clans of the Kohathites, lived (lots were cast to determine where they would live)" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **Kohathites** - See how you translated this in [[:vi:bible:notes:1ch:06:33|1 Chronicles 6:33]].
+  * **They were assigned Hebron** - AT: "They went to live in Hebron" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **But the fields of the city, and the surrounding villages were given Caleb son of Jephunneh** - AT: "Caleb and his family went to live in the fields of Hebron and the surrounding villages" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **pasturelands** - grassy lands where livestock graze
+  * **Caleb ... Jephunneh** - These are names of men. (See: [[vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:06|1 Chronicles Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/06/50|<<]] | [[en/bible/notes/1ch/06/57|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

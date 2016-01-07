@@ -1,0 +1,3 @@
+~~NOCACHE~~
+
+<nspages vi:bible:questions:comprehension:php -title -naturalOrder -simpleList -exclude:home -textPages="Philippians translationQuestions">

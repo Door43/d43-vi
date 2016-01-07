@@ -1,0 +1,60 @@
+====== Job 24:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Why does Almighty \add God\add* not set a time when he will judge \add evil people\add*?\f + \ft Or: I do not understand why Almighty \add God does\add* not set a time when he will judge \add evil people\add*. \f* \f + \ft rhetorical question \f*
+\q2 Those who know him never \f + \ft rhetorical question \f* see him do that!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Why does Almighty God not set a time when he will judge evil people?
+\q2 Those who know him never see him judge them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 24
+\b
+\q
+\v 1 Why are times for judging the wicked not reserved by the Almighty?
+\q Why do not those who know him see his days of judgment?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:almighty]]
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:kt:judgmentday]]
+ 
+
+===== Translation Notes: =====
+
+  * **Verse 24 - This verse contains two rhetorical questions that say the same thing, "that the righteous do not see the unrighteous come to justice in this world".**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:24|Job Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:job:23:15|<<]] | [[:vi:bible:notes:job:24:02|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

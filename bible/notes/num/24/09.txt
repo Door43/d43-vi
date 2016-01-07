@@ -1,0 +1,58 @@
+====== Numbers 24:9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 The Israelites are like lions that crouch and lie down, \add ready to spring on their prey\add* \f + \ft simile \f*,
+\q1 like lionesses \add that are resting\add*;
+\q2 no one \f + \ft rhetorical question \f* would dare to arouse them!
+\p \add God\add* will bless everyone who blesses you Israelites,
+\q1 and he will curse everyone who curses you."
+\b
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 The Israelites are like lions that crouch and lie down, ready to spring on their prey,
+\q1 like lionesses that are resting.
+\q2 No one  would dare to arouse them!
+\p God will bless everyone who blesses you Israelites,
+\q1 and he will curse everyone who curses you."
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 He crouches down like a lion,
+\q2 like a lioness. Who dares disturb him?
+\q May everyone who blesses him be blessed;
+\q2 may everyone who curses him be cursed."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lion|lion]]
+  * [[vi:obe:kt:bless]]
+  * [[:vi:obe:kt:curse|curse, cursed]]
+
+===== Translation Notes: =====
+
+  * **He crouches down like a lion, like a lioness** - Balaam compares the Israelites to lions. This means they are dangerous and always ready to attack. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **Who dares disturb him?** - Balaam uses a question to warn all the people to not provoke the Israelites. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **May everyone who blesses him be blessed; may everyone who curses him be cursed** - AT: "May God bless those who bless the Israelites; may he curse those who curse the Israelites" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:num:24:08|<<]] | [[:vi:bible:notes:num:24:10|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

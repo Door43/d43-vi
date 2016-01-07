@@ -1,0 +1,80 @@
+====== Hosea 10:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Then they will say, 'It is because we did not revere Yahweh
+\q2 that we no longer have a king.
+\q1 But \add even if we had\add* a king,
+\q2 he certainly could not \f + \ft rhetorical question \f* do anything to help us.'
+\q1
+\v 4 They falsely promise \add that they will do many things\add*;
+\q2 they solemnly promise and make agreements
+\q2 but they do not do what they promise.
+\q1 So people accuse and sue each other in the courts;
+\q2 they are like \f + \ft simile \f* poisonous weeds that grow in a plowed field.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 They say, "We have no king now because we did not honor or respect Yahweh.
+\q2 But even if we had a king,
+\q2 how could a king help us?"
+\q1
+\v 4 The people of Israel make lying promises and false covenants; 
+\q2 and because their promises are not kept, 
+\q1 their sort of justice kills people, as poisonous weeds in a field would do.
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For now they will say,
+\q "We have no king,
+\q for we do not fear Yahweh.
+\q And a king—what could he do for us?"
+\p
+\q
+\v 4 They speak empty words
+\q and make covenants by swearing falsely. 
+\q So justice springs up 
+\q like poisonous weeds in the furrows of a field.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:other:oath|oath, swear]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+
+===== Translation Notes: =====
+
+Hosea is speaking about Israel.
+
+  * **And a king—what could he do for us?** - The writer uses this question to imply that even if Israel had a king, it would do them no good because they have turned away from Yahweh (their true king) and worshiped idols. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **They speak empty words** - This means that what they say cannot be trusted. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **So justice springs up** - This means that they will receive their deserved punishment. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **like poisonous weeds in the furrows of a field.** - Hosea is comparing their form of justice to poisonous weeds. (See: [[:vi:ta:vol1:translate:figs_simile]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:10|Hosea Chapter 10 Comprehension Questions]]**
+[[:vi:bible:notes:hos:10:01|<<]] | [[:vi:bible:notes:hos:10:05|>>]]
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

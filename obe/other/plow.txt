@@ -1,0 +1,20 @@
+====== plow ======
+
+===== Definition: =====
+A "plow" is a shop farm implement usually pulled by a pair of oxen used for cutting rows into fields for planting. 
+ 
+  * Plows are pointed tools with handles used to break up the ground.
+  * A "plow" can be any pointed tool used in agriculture to break, or scratch the ground. 
+  * It can be pulled by animals or used by hand. 
+
+(See also: [[:En:obe:other:ox]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?plow&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>review ate psa141 ktlink}}

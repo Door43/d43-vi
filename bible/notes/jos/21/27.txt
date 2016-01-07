@@ -1,0 +1,54 @@
+====== Joshua 21:27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 They also allotted towns and the surrounding pastureland to the Gershon clans. Those clans were also descended from Levi.
+\pi They were allotted two cities from the area that had been allotted to the tribe of Manasseh \add that lived on the east side of the Jordan River\add*. Those cities were Golan in the Bashan region, which was one of the cities to which people could run\f + \ft Or: escape \f* to be safe\f + \ft Or: protected \f*, and Be-Eshtarah.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 The Israelite leaders also threw lots in order to assign cities and their surrounding pasturelands to the clans descended from Gershon. These clans were also descendants of Levi.
+\pi So these clans received two cities from the area the tribe of Manasseh received—that is, the half of the tribe that had settled down on the east side of the Jordan River. Those cities were Golan in the region of Bashan, which was one of the cities to which people could run, and Beeshtarah—two cities with their pasturelands.
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 From the half tribe of Mannasseh, to clans of Gershon, these were other Levite clans, and they gave Golan in Bashan with its pasturelands—a city of refuge for anyone who killed another unintentionally, along with Beeshterah with its pasturelands—two cities in all.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:tribe]]
+  * [[vi:obe:other:manasseh]]
+  * [[vi:obe:other:clan]]
+  * [[vi:obe:other:levite]]
+  * [[vi:obe:other:bashan]]
+  * [[vi:obe:kt:refuge]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Gershon; Golan; Beeshterah** - Names of cities. (See: [[vi:ta:vol1:translate:translate_names]])
+    * **killed another unintentionally**  - Refers to a death resulting from an action not intended to harm a person.
+    * **two cities**  - Refers to the same cities named as a number. (See: [[vi:ta:vol2:translate:translate_numbers]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:21|Joshua Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:21:25|<<]] | [[:vi:bible:notes:jos:21:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

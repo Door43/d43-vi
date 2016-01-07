@@ -1,0 +1,71 @@
+====== Psalms 037:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Commit to Yahweh all the things that you plan to do;
+\q2 trust in him,
+\q2 and he will do \add whatever is needed to help you\add*.
+\q1
+\v 6 He will show as clearly as the sunlight that you are innocent\f + \ft Or: have done nothing that is wrong \f*;
+\q2 he will show \add as clearly\add* as \add the sun at\add* noontime \f + \ft simile \f*
+\q2 that all the things that you have decided are just.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Commit to Yahweh all the things that you plan to do;
+\q2 trust in him,
+\q2 and he will do whatever is needed to help you.
+\q1
+\v 6 He will show as clearly as the sunlight that you are innocent;
+\q2 he will show as clearly as the sun at noontime 
+\q2 that all the things that you have decided are just.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Roll your ways onto Yahweh;
+\q trust in him, and he will act on your behalf.
+\q
+\v 6 He will display your justice like the daylight
+\q and your innocence like the day at noon.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:innocent]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Roll your ways onto Yahweh**  - AT: "Let your ways come from your belief that Yahweh guides you"  (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **like the daylight ... like the day at noon**  - (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+    * **like the daylight**  - AT: "in full view of all." (See: [[:vi:ta:vol1:translate:figs_simile]])
+    * **like the day at noon** - AT: "visible during the brightest time of day" (See: [[:vi:ta:vol1:translate:figs_simile]])
+
+  
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:037|Psalms Chapter 037 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:037:003|<<]] | [[:vi:bible:notes:psa:037:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish text book1}}
+
+~~NOCACHE~~

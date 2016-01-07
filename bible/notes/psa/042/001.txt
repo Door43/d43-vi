@@ -1,0 +1,70 @@
+====== Psalms 042:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Deer desire to drink water from a stream of cool water.
+\q2 In the same way \f + \ft simile \f*, God, I need you very much.
+\q1
+\v 2 I desire to have fellowship with \f + \ft metaphor \f* you, the all-powerful God.
+\q2 \add I say to myself\add*, "When will I be able to go \add back to the temple in Israel\add*
+\q2 and worship in your presence again?"
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 O God, I need you very much as a deer needs to drink water from a cool stream.
+\q1
+\v 2 I desire to be with you, the all-powerful God.
+\q2 I say to myself, "When will I be able to go back to the temple in Israel
+\q2 and worship in your presence again?"
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 42
+\d For the chief musician. A maschil of the sons of Korah.
+\b
+\q
+\v 1 As the hart pants after streams of water,
+\q so my soul pants after you, God.
+\q
+\v 2 My soul thirsts for God, for the living God;
+\q when will I come and appear before God?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:korah]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:life]]
+ 
+===== Translation Notes: =====
+
+  * **maschil** - "a contemplative poem"
+  * **hart**  - a male deer
+  * **As the hart pants ... so my soul pants after you **- The author's desire for God is compared to a thirsty hart that needs water. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **pants**  - heavy breathing from an animal or person that is very tired or thristy
+  * **my soul pants after you ... My soul thirsts for God**- The author uses the eternal part of a person that relates to God to refer to himself. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **thirsts for God** - The author uses the example of thirst to express a strong desire. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **when will I come and appear before God?** - The author does not ask this question to get an answer but to show his strong desire to be before God. (See: [[vi:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:042|Psalms Chapter 042 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:041:013|<<]] | [[:vi:bible:notes:psa:042:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,68 @@
+====== Proverbs 31:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 She knows when she is getting a good profit from her business.
+\q1 \add When it is necessary\add*, she works \f + \ft metonymy \f* until it is late at night.
+\q1
+\v 19 She holds the spindle\f + \ft Or: rod which twists the thread that she is making \f*,
+\q2 and then she spins the thread \f + \ft metonymy \f* \add that she will use\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 She knows when she is getting a good profit from her business.
+\q1 She keeps a lamp burning all night long. 
+\q1
+\v 19 She holds the spindle,
+\q2 and then she spins the thread that she will use.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 She perceives what will make a good profit for her; 
+\q all night long her lamp is not extinguished.
+\q
+\v 19 She puts her hands on the spindle,
+\q and she holds the twisting thread.
+</usfm>
+
+
+===== Important Terms: =====
+
+   * [[:En:obe:other:profit]]
+   * [[:En:obe:other:lamp]]
+
+===== Translation Notes: =====
+
+
+    * **perceives** - "discerns" or "identifies" 
+    * **all night long her lamp is not extinguished** - This refers to her working long into the night while it is dark. She does not work the entire night, from dusk to dawn, this is an exaggeration. AT: "She burns a lamp through the night as she works" (See: [[:vi:ta:vol2:translate:figs_hyperbole]] and [[:vi:ta:vol1:translate:figs_explicit]])
+    * **spindle**  - a thin rod or stick with pointed ends that is used in making thread
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:31|Proverbs Chapter 31 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/31/16|<<]] | [[en/bible/notes/pro/31/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== 2 Samuel 20:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 When David arrived at the palace in Jerusalem, he took the ten slave wives whom he had left there to take care of the palace and put them in another house. He put a guard at that house, and he provided for them what they needed, but he never had sex \f + \ft euphemism \f* with them again. So they remained shut up in their house until they died. It was as though they were widows.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 When David arrived at the palace in Jerusalem, he took the ten slave wives whom he had left there to take care of the palace and put them in another house. He put a guard at that house, and he provided for them what they needed, but he never had sexual relations with them again. So they remained shut up in their house until they died. It was as though they were widows.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 When David came to his palace at Jerusalem, he took the ten slave wives whom he had left to keep the
+palace, and he put them in a house under guard. He provided for their needs, but he did not sleep with them any longer. So they were shut up to the day of their death, living as if they were widows.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:palace]]
+  * [[vi:obe:other:jerusalem]]
+  * [[:vi:obe:other:servant]]
+  * [[vi:obe:other:house]]
+  * [[:vi:obe:other:sex]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:life]]
+ 
+===== Translation Notes: =====
+
+    * **ten slave wives**  - A number referring to an amount (See: [[vi:ta:vol2:translate:translate_numbers]])
+    * **under guard**  - An expression describing the condition of being watched or protected by an official attendant.
+    * **He provided**  -  refers to David (See: [[vi:ta:vol2:translate:figs_singularpronouns]])  
+    * **their needs**  -  refers to his slave wives. (See: [[vi:ta:vol2:translate:figs_pluralpronouns]]) 
+    * **widows**  - women who have lost their husbands through death
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:20|2 Samuel Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/20/01|<<]] | [[en/bible/notes/2sa/20/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

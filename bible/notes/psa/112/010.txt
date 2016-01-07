@@ -1,0 +1,51 @@
+====== Psalms 112:10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Wicked people see those things and are angry;
+\q2 they gnash their teeth \add angrily\add*,
+\q2 but they will disappear \add and die\add*.
+\q2 The \add wicked\add* things that they want to do will never happen.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Wicked people see those things and are angry;
+\q2 they gnash their teeth angrily,
+\q2 but they will disappear and die.
+\q2 The wicked things that they want to do will never happen.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 The wicked person will see this and be angry;
+\q he will gnash with his teeth and melt away;
+\q the desire of the wicked people will perish.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:gnashteeth]]
+  * [[:En:obe:other:melt]]
+  * [[:vi:obe:kt:perish]]
+
+===== Translation Notes: =====
+
+  * **will see this** - "will see that things go well for the righteous person"
+  * **melt away** - AT: "will disappear and die." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **the desire of the wicked people will perish** - Possible meanings are 1) AT: "the wicked things that he want to do will never happen" or 2) "the bad things that he wanted to happen to the righteous person will never happen." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:112|Psalms Chapter 112 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:112:008|<<]] | [[:vi:bible:notes:psa:113:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5 melt}}
+
+~~NOCACHE~~

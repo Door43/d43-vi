@@ -1,0 +1,85 @@
+====== Psalms 069:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 People have insulted\f + \ft Or: ridiculed \f* me because \add I am devoted to\add* you.
+\q2 They have thoroughly humiliated [IDI] me.
+\q1
+\v 8 Even my own \add older\add* brothers act as if they do not know me;
+\q2 they treat me like a foreigner.
+\q1
+\v 9 \add Some people have despised your temple\add*;
+\q2 but my zeal for keeping your temple \add holy\add* is like a fire burning inside me.
+\q1 So \add it is as though\add* those who are insulting you are also insulting me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 People have insulted me because I am devoted to you.
+\q2 They have thoroughly humiliated me.
+\q1
+\v 8 Even my own older brothers act as if they do not know me;
+\q2 they treat me like a foreigner.
+\q1
+\v 9 Some people have despised your temple;
+\q2 but because I have tried to keep your temple holy, people have caused trouble for me.
+\q1 So it is as though those who are insulting you are also insulting me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 For your sake I have borne rebuke;
+\q shame has covered my face.
+\q
+\v 8 I have become a stranger to my brothers,
+\q an alien to my mother’s children.
+\q
+\v 9 For the zeal of your house has eaten me up,
+\q and the rebukes of those who rebuke you have fallen on me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rebuke]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:brother]]
+  * [[:vi:obe:kt:zealous]]
+  * [[:vi:obe:other:house]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **rebuke** - to express disapproval in a very strong manner
+    * **For your sake I have borne rebuke** - This can be translated as "I was rebuked by people for your sake" (See: Explicit and Implicit)
+    * **shame has covered my face** - This means that he felt very ashamed.  It was as if his face was covered in shame and everyone could see it.  (See: Personification)
+    * **I have become a stranger to my brothers, an alien to my mother’s children** - These two phrases are saying same thing. They mean that David felt like a stranger among his family. (See: Doublet)
+    * **the zeal of your house has eaten me up**  - The term “zeal” can be translated as “energetic devotion”  or “righteous enthusiasm.” David is saying that his whole life is devoted to the worship of God (See: Hyperbole, Personification)
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:069|Psalms Chapter 069 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/069/005|<<]] | [[en/bible/notes/psa/069/010|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Revelation 21:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 The twelve gates \add of the city\add* were \add something like huge\add* pearls. Each gate was like \add it was\add* a single pearl. The \add ground of\add* the main plaza of the city \f + \ft Or: The streets of the city \f* \add appeared to be\add* pure gold \add that looked\add* like clear glass.
+\p
+\v 22 There was no temple in the city. The Lord God Almighty \add himself\add*, and the \add one who is like a\add* lamb, are \add there, so there was no need for\add* \f + \ft metaphor \f* a temple.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 The twelve gates of the city were something like huge pearls. Each gate was like a single pearl. The city streets appeared to be pure gold that looked like clear glass.
+\p
+\v 22 There was no temple in the city. The Lord God Almighty himself and the lamb are there, so there was no need for a temple.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 The twelve gates were twelve pearls, each of the gates was made from a single pearl. The streets of the city were pure gold, appearing like clear glass.
+\v 22 I saw no temple in the city, for the Lord God, who rules over all, and the Lamb are its temple.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:gate]]
+  * [[vi:obe:kt:purify]]
+  * [[vi:obe:other:gold]]
+  * [[:vi:obe:kt:temple]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[vi:obe:kt:lamb]]
+
+===== Translation Notes: =====
+
+  * **pearls** - See how you translated this in [[vi:bible:notes:rev:17:03|17:4]].
+  * **Lord God...and the Lamb are its temple** - The temple represented God's presence. This means the new Jerusalem does not need a temple since God and the Lamb will live there. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:21|Revelation Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:21:18|<<]] | [[:vi:bible:notes:rev:21:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

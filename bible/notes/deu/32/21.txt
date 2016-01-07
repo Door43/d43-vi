@@ -1,0 +1,61 @@
+====== Deuteronomy 32:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Because they now are worshiping idols, which are not really gods,
+\q2 they have caused me to be like a jealous husband \f + \ft metaphor \f* \add because I want them to worship only me\add*.
+\q1 So now, in order to cause them to become angry,
+\q2 I will now send to \add attack them an army\add* of a nation of worthless and foolish people.
+\q
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Because they now are worshiping idols, which are not really gods,
+\q they have caused me to be like a jealous husband  because I want them to worship only me.
+\q So now, in order to cause them to become angry,
+\q I will now send to attack them an army of a nation of worthless and foolish people.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 They have made me jealous by what is no god
+\q and angered me with their worthless idols. 
+\q I will move them envious by those who are not a people,
+\q I will make them angry by a nation that has no understanding.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:jealous]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:idol]]
+  * [[:vi:obe:other:envy|envy, covet]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:understand]]  
+
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **They have made me jealous** - Here "me" refers to Yahweh.
+  * **by those who are not a people...a nation that has no understanding** - Both of these refer to a non-Jewish nation that does not know Yahweh.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:19|<<]] | [[:vi:bible:notes:deu:32:22|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

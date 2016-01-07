@@ -1,0 +1,57 @@
+====== Psalms 139:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Yahweh, I certainly \f + \ft rhetorical question \f* hate those who hate you!
+\q2 And I despise \f + \ft rhetorical question \f* those who rebel against you.
+\q1
+\v 22 I hate them completely\f + \ft Or: with all my inner being \f*,
+\q2 and I consider that they are my enemies.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Yahweh, I certainly hate those who hate you!
+\q2 I despise those who rebel against you.
+\q1
+\v 22 I hate them completely,
+\q2 and I consider that they are my enemies.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Do I not hate those, Yahweh, who hate you?
+\q Do I not despise those who rise up against you?
+\q
+\v 22 I hate them completely;
+\q they have become my enemies.
+</usfm>
+
+===== Important Terms: =====
+
+
+
+===== Translation Notes: =====
+
+  * **Do I not hate those, Yahweh, who hate you?** - AT: "I hate those who hate you" (See: [[vi:ta:vol1:translate:figs_rquestion]])
+  * **Do I not hate those, Yahweh, who hate you? Do I not despise those who rise up against you?** - These two sentences have similar meanings. The second one strengthens the thought in the first. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **raise up** - (See: [[:vi:obe:other:rebel]] and [[vi:ta:vol1:translate:figs_idiom]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:139:019|<<]] | [[:vi:bible:notes:psa:139:023|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

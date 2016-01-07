@@ -1,0 +1,57 @@
+====== Revelation 11:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 When the  \add rebellious\add* people who live on the earth  \add see that the witnesses are dead\add*, they will rejoice and celebrate. They will send gifts to each other, because these two prophets had  \add sent plagues which\add* tormented the  \add rebellious\add* people on the earth.
+\v 11 But after three and a half days, God will cause them to breathe again and live. They will stand up, and the people who see them will be terrified.
+\v 12 The  \add two witnesses\add* will hear a loud voice from heaven saying to them: "Come up here!" Then they will go up into heaven in a cloud. Their enemies will see them  \add as they ascend\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 When the people who live on the earth see that the witnesses are dead, they will rejoice and celebrate. They will send gifts to each other because these two prophets had sent plagues that tormented them.
+\v 11 But after three and a half days, God will cause them to breathe again and live. They will stand up, and the people who see them will be terrified.
+\v 12 The two witnesses will hear a loud voice from heaven saying to them: "Come up here!" Then they will go up into heaven in a cloud. Their enemies will watch them go up.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Those who live on the earth will rejoice over them and celebrate, even sending gifts one to another because these two prophets tormented those who lived on the earth.
+\v 11 But after three and a half days a breath of life from God will enter them and they will stand on their feet. Great fear will fall on those who see them.
+\v 12 Then they will hear a loud voice from heaven say to them, "Come up here!" And they will go up into heaven in a cloud, while their enemies look on.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice|]]
+  * [[:vi:obe:other:send|send, send out]]
+  * [[:vi:obe:kt:gift|gift]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:En:obe:other:torment]]
+  * [[:vi:obe:kt:breath]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+  * **three and a half days **- “3 full days and one half day: or “3.5 days” or “3 1/2 days” (See: TranslateNumbers)
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:11|Revelation Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:11:08|<<]] | [[:vi:bible:notes:rev:11:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish torment}}
+
+~~NOCACHE~~

@@ -1,0 +1,85 @@
+====== Psalms 090:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 No one \f + \ft rhetorical question \f* has really experienced the powerful things you can do to them when you are angry with them,
+\q1 and people are not afraid that you will greatly punish them because of your being angry with them.
+\q1
+\v 12 So teach\f + \ft Or: help \f* us to realize that we live for only a short time
+\q2 in order that we may \add use our time\add* wisely.
+\b
+\q1
+\v 13 Yahweh, how long \add will you be angry with us\add*?
+\q1 Pity us who serve you.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 No one has really experienced the powerful things you can do to them when you are angry with them,
+\q1 and people are not afraid that you will punish them because of your being angry with them.
+\q1
+\v 12 So teach us to realize that we live for only a short time
+\q2 in order that we may use our time wisely.
+\b
+\q1
+\v 13 Yahweh, how long will you be angry with us?
+\q1 Pity us who serve you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Who knows the intensity of your anger;
+\q your wrath matches the fear it inspires?
+\q
+\v 12 So teach us to consider our life
+\q so that we might live wisely.
+\q
+\v 13 Turn back, Yahweh! How long will it be?
+\q Have pity on your servants.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Who knows the intensity of your anger; your wrath matches the fear it inspires?** - AT: "Who knows the intensity of your anger, and your wrath that is equal to the fear it causes?" (See: [[:vi:ta:vol1:translate:figs_rquestion]]) or "no one knows the degree of your anger, and your rage that is equal to the fear it causes." 
+    * **Turn back, Yahweh!** - AT: "Turn back from your anger, Yahweh!" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+    * **pity** - "sympathy"
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:090|Psalms Chapter 090 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/090/009|<<]] | [[en/bible/notes/psa/090/014|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

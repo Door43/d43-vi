@@ -1,0 +1,58 @@
+====== Leviticus 18:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 No man should have sex with another man; that is detestable.
+\p
+\v 23 No one, man or woman, should defile himself\f + \ft Or: cause himself to become unacceptable to me \f* by having sex with an animal; that is a perverse act.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 No man should have sex with another man. That is detestable.
+\p
+\v 23 No one, man or woman, should defile himself by having sex with an animal. That is a perverse action.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 Do not have sexual relations with other men as with a woman. This would be wicked.
+\v 23 Do not have sexual relations with any animal and defile yourself with it. No woman must consider having sexual relations with any animal. This would be perversion.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:sex]]
+  * [[:vi:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **This would be perversion** - This means it goes against how God intended for men and women to have sexual relations.
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lev:18|Leviticus Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/18/21|<<]] | [[en/bible/notes/lev/18/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

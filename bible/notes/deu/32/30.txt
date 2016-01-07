@@ -1,0 +1,64 @@
+====== Deuteronomy 32:30-31 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 \add You would have realized\add* why a thousand \add of your soldiers\add* would be defeated by only one \add of the enemy soldiers\add*,
+\q2 and why two of your enemies would chase away ten thousand \add Israelite soldiers\add*.
+\q1 \add You would realize that this would happen\add* only if God, the one who always defended you \f + \ft metaphor \f*, had put you in the hands of your enemies,
+\q2 that Yahweh had abandoned you.
+\q1
+\v 31 Your enemies know that their gods are not powerful like Yahweh, our God,
+\q2 \add so their gods could not have defeated us Israelites\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 You would have realized why a thousand of your soldiers would be defeated by only one of the enemy soldiers,
+\q and why two of your enemies would chase away ten thousand Israelite soldiers.
+\q You would realize that this would happen only if God, the one who always defended you, had put you in the hands of your enemies,
+\q that Yahweh had abandoned you.
+\q
+\v 31 Your enemies know that their gods are not powerful like Yahweh, our God,
+\q so their gods could not have defeated us Israelites.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 30 How could one chase a thousand,
+\q and two put ten thousand to flight,
+\q unless their Rock had sold them,
+\q and Yahweh had given us victory over them?
+\q
+\v 31 For our enemies’ rock is not like our Rock,
+\q just as even our enemies admit.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **How could one chase a thousand...victory over them?** - Moses uses a question to teach the people of Israel that if they were wise, they would know that their enemies defeat them only because God is punishing them for their sin. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **one chase a thousand, and two put ten thousand** - AT: "1 man chase 1,000 men, and 2 men put 10,000" (See: [[vi:ta:vol2:translate:translate_numbers]] and [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **unless their Rock had sold them**  - The word “Rock ” refers to Yahweh who is strong and able to protect his people. AT: "unless Yahweh, their Rock, had handed them over" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **our enemies' rock is not like our Rock** - This means the enemies' idols and false gods are not powerful like Yahweh.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:28|<<]] | [[:vi:bible:notes:deu:32:32|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

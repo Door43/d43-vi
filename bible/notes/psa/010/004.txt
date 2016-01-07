@@ -1,0 +1,64 @@
+====== Psalms 010:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 The wicked people are very proud.
+\q2 As a result, they do not seek \add help from\f + \ft Or: worship\add* \f* God;
+\q2 they do not even think that God exists.
+\q1
+\v 5 But \add it seems that\add* they succeed in everything that they do.
+\q2 They do not think that they will be condemned\f + \ft Or: punished \f* for their deeds,
+\q2 and they sneer at\f + \ft Or: make fun of \f* their enemies.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 The wicked people are very proud.
+\q2 So they do not ask God for help;
+\q2 they do not even think about him.
+\q1
+\v 5 But it seems that they succeed in everything that they do.
+\q2 The things that you have commanded are too difficult for him to understand;
+\q2 they mock their enemies.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Because the wicked man is so proud, he does not seek God.
+\q He never thinks about God because he does not care at all about him.
+\q
+\v 5 He is secure at all times,
+\q but your righteous decrees are too high for him;
+\q he snorts at all his enemies.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:proud]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+  * **the wicked man**  - In this phrase, "the wicked man" is representing many wicked people. (See UDB)
+  * **he does not care at all about him** - AT: "he has no concern for him." or "they have no concern for him."
+  * **He is secure at all times** - He is not really secure, but he seems to be secure to others. (See UDB)
+  * **snorts** - This means to make an offensive sound with the nose and mouth.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:010|Psalms Chapter 010 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:010:001|<<]] | [[:vi:bible:notes:psa:010:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Isaiah 63:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Yahweh, why did you cause us to wander away from your road \f + \ft rhetorical question \f*?
+\q2 Why did you cause us to be stubborn in our inner beings,
+\q2 with the result that we no longer revere you \f + \ft rhetorical question \f*?
+\q1 Help us like you did previously,
+\q2 because we are the people who serve you and belong to you.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Yahweh, why did you cause us to wander away from your road?
+\q2 Why did you cause us to be stubborn in our inner beings,
+\q2 with the result that we no longer honor you?
+\q1 Help us like you did previously,
+\q2 because we are the people who serve you and belong to you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 17 Yahweh, why do you make us wander from your ways and harden our hearts, so we do not obey you? 
+\q1 Return for your servants’ sake, the tribes of your inheritance.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:obey]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:tribe]]
+  * [[:vi:obe:kt:inherit]]
+ 
+
+===== Translation Notes: =====
+
+The people of Israel continue speaking.
+
+  * **Yahweh, why do you make us wander from your ways and harden our hearts, so we do not obey you?**  - They use a question to express their complaint to God. AT: "Yahweh, you have made us wander from your ways and become stubborn so that we do not obey you." (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **why do you make us wander from your ways**  - This people lament, wondering if God has misled them so they wander off the correct path. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:63|Isaiah Chapter 63 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:63:15|<<]] | [[:vi:bible:notes:isa:63:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

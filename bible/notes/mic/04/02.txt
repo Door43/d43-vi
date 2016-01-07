@@ -1,0 +1,102 @@
+====== Micah 04:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 People from many nations will say to each other,
+\q1 "Let's go to the mountain where Yahweh is,
+\q2 to the temple where we can worship the God whom Jacob \add worshiped\add*.
+\q1 There he will teach us how he wants us to conduct our lives,
+\q2 and we will do what he wants us to do."
+\q1 Zion \add Hill\add* is the place where he will teach people;
+\q2 and \add people will\add* go out from Jerusalem \add to tell others\add* his messages.
+\q1
+\v 3 Yahweh will settle disputes between many people,
+\q2 and he will also settle disputes between powerful nations that are far away.
+\q1 Then people will hammer their swords to cause them to become plow blades,
+\q2 and hammer their spears to cause them to become pruning knives.
+\q1 \add Armies of\add* nations will no longer fight against \add armies of other\add* nations,
+\q2 and they will no longer train \add men how to fight\add* in wars.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 People from many nations will say to each other,
+\q1 "Let us go to the mountain where Yahweh is,
+\q2 to the temple where we can worship the God whom Jacob worshiped.
+\q1 There he will teach us how he wants us to conduct our lives,
+\q2 and we will do what he wants us to do."
+\q1 Mount Zion is the place where he will teach people;
+\q2 and people will go out from Jerusalem to tell others his messages.
+\q1
+\v 3 Yahweh will settle disputes between many different people and groups who are fighting against each other,
+\q2 and he will also settle disputes between powerful nations that are far away.
+\q1 Then people will hammer their swords to cause them to become plow blades,
+\q2 and hammer their spears to cause them to become pruning knives.
+\q1 Armies of nations will no longer fight against armies of other nations,
+\q2 and they will no longer train men how to fight in wars.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 2 Many nations will go and say,
+\q "Come, let us go up to the mountain of Yahweh,
+\q to the house of the God of Jacob.
+\q He will teach us his ways,
+\q and we will walk in his paths."
+\q For from Zion the law will go out,
+\q and the word of Yahweh from Jerusalem.
+\q
+\v 3 He will judge among many peoples
+\q and will decide concerning numerous nations far away.
+\q They will beat their swords into plowshares
+\q and their spears into pruning knives.
+\q Nation will not lift up sword against nation,
+\q neither will they learn how to wage war any more.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:nation]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:house]]
+  * [[vi:obe:kt:god]]
+  * [[vi:obe:other:jacob]]
+  * [[vi:obe:kt:walk]]
+  * [[vi:obe:other:zion]]
+  * [[vi:obe:kt:lawofmoses]]
+  * [[vi:obe:kt:word]]
+  * [[vi:obe:other:jerusalem]]
+  * [[vi:obe:kt:judge]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:sword]]
+  * [[vi:obe:other:spear]]
+
+===== Translation Notes: =====
+
+  * **let us go up to the mountain of Yahweh, to the house of the God of Jacob**  - Both the mountain and the house are references to the temple in Jerusalem. (See: [[:vi:ta:vol2:translate:figs_doublet|Doublet]] and [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **He will teach us his ways, and we will walk in his paths**  - Here "his ways" and "his paths" refer to what God wants the people to do. Also, "walk" means they will obey what he says.
+  * **For from Zion the Law will go out, and the word of Yahweh from Jerusalem**  - Here the words "Law" and "word" are speaking of the same thing. The nations of the world will hear God's Law in Jerusalem.
+  * **plowshares**  - A plowshare is a blade that people use to dig into soil so they can plant seeds.
+  * **They will beat their swords into plowshares and their spears into pruning knives.**  -****  The two parts of this sentence mean the same thing: weapons for war will be changed to tools to provide food. (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **pruning knives**  - A pruning knife is used to cut off branches or stems from a plant to make it produce better.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mic:04|Micah Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:mic:04:01|<<]] | [[:vi:bible:notes:mic:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

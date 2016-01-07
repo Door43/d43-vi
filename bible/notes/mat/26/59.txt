@@ -1,0 +1,49 @@
+====== Matthew 26:59-61 ======
+
+===== TFT: =====
+
+<usfm>
+\v 59 The chief priests and the rest of the \add Jewish\add* Council were trying to find people who would tell lies about Jesus so that they could \add convince the Roman authorities to\add* execute him.
+\v 60 But even though many people spoke lies about him, they did not find anyone \add who said anything that was useful\add*. Finally two men came forward
+\v 61 and said, "This man said, 'I am able to destroy God's Temple and to rebuild it within three days.'"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 59 The chief priests and the rest of the Jewish Council were trying to find persons who would tell lies about Jesus so that they could condemn him to death.
+\v 60 But even though many people spoke lies about him, they did not find anyone who said anything that was useful. Finally two men came forward
+\v 61 and said, "This man said, 'I am able to destroy God's temple and to rebuild it within three days.'"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 59 Now the chief priests and the whole Council were looking for false testimony against Jesus, so that they might put him to death.
+\v 60 They did not find any, even though many false witnesses came forward. But later two came forward
+\v 61 and said, "This man said, 'I am able to destroy the temple of God and rebuild it in three days.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chiefpriests]]
+  * [[:vi:obe:other:council]]
+  * [[:vi:obe:other:falsewitness]]
+  * [[:vi:obe:kt:temple]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus being questioned by the high priest.
+
+  * **two came forward **- "two men came forward" (UDB) or "two witnesses came forward"
+  * **said, "This man said, 'I am able to destroy the temple of God and rebuild it in three days.'"**  - AT: "testified that they heard Jesus say he was able to destroy the temple of God and rebuild it in three days." (See: [[:vi:ta:vol2:translate:figs_quotations|Speech Quotations]])
+  * **This man said **- "This man Jesus said"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:26:57|<<]] | [[:vi:bible:notes:mat:26:62|>>]]**
+
+~~DISCUSSION~~{{tag>publish chiefpriests council testimony }}
+
+~~NOCACHE~~

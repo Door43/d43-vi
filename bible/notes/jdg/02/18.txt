@@ -1,0 +1,77 @@
+====== Judges 02:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Whenever Yahweh brought a leader to them, he helped that leader and enabled his to rescue the people from their enemies. He did that as long as that leader was alive. Yahweh pitied them as they groaned because they were being oppressed and caused to suffer.
+\v 19 But after that leader died, the people went back to behaving in more evil ways than their ancestors had behaved. They worshiped other gods and bowed down to them and did all \f + \ft litotes \f* the things that they thought those gods wanted them to do.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Whenever Yahweh brought a leader to them, he helped that leader and enabled him to rescue the people from their enemies. He did that as long as that leader was alive. Yahweh pitied them as they groaned because they were being oppressed and caused to suffer.
+\v 19 But after that leader died, the people always began behaving in more evil ways than their ancestors had behaved. They worshiped other gods and bowed down to them and did all the things that they thought those gods wanted them to do.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 When Yahweh raised up judges for them, Yahweh helped the judges and rescued them from the power of their enemies all the days the judge lived. For Yahweh had pity on them as they groaned because of those who oppressed them and afflicted them.
+\v 19 But when the judge died, they would turn away and do things that were even more corrupt than their fathers had done. They would go after other gods to serve them and worship them. They refused to give up any of their evil practices or their stubborn ways.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:raise]]
+  * [[:En:obe:other:judgeposition]]
+  * [[vi:obe:kt:power]]
+  * [[[[:En:obe:other:adversary]]
+  * [[:vi:obe:kt:life]]
+  * [[vi:obe:kt:oppress]]
+  * [[vi:obe:kt:afflict]]
+  * [[:En:obe:kt:death]] 
+  * [[:vi:obe:kt:turn]]
+  * [[vi:obe:kt:corrupt]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[vi:obe:other:serve]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:kt:evil]]
+  * [[vi:obe:other:stiffnecked]]
+
+===== Translation Notes: =====
+
+
+    * **judges for them...rescued them** - The word "them" refers to the Israelites.
+    * **all the days** - "while"
+    * **pity** - to have compassion for someone or something.
+    * **groaned** - The sound made by a person who suffers is used to describe the pain of the Israelites as they suffer. AT: "suffered" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **go after other gods** - "follow other gods" or "obey other gods"
+    * **give up** - "stop"
+    * **their evil practices** - "evil things they did"
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jdg:02|Judges Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/02/16|<<]] | [[en/bible/notes/jdg/02/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

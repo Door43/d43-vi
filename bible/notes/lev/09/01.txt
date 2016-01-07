@@ -1,0 +1,53 @@
+====== Leviticus 09:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Eight days later, Moses\f + \ft Or: I \f* summoned the elders of Israel.
+\v 2 Then he\f + \ft Or: I \f* said to Aaron, "Take a young bull for the offering to enable you leaders to become acceptable to Yahweh again, and a ram to be completely burned \add on the altar\add*, both of them without any defects, and offer them to Yahweh.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Eight days later Moses summoned the elders of Israel.
+\v 2 Then he said to Aaron, "Take a young bull so you can offer it for your sins, and a ram so that you can burn it whole on the altar, both of them without any defects, and offer them to Yahweh.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 On the eighth day Moses called Aaron and his sons and the elders of Israel. 
+\v 2 He said to Aaron, "Take a calf from the herd for a sin offering, and a ram without blemish for a burnt offering, and offer them before Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:moses|Moses]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:aaron|Aaron]]
+  * [[vi:obe:kt:son]]
+  * [[:vi:obe:other:elder|elder]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:cow|cow, calf, bull]]
+  * [[:vi:obe:other:flock|flock, herd]]
+  * [[:vi:obe:other:sinoffering|sin offering]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[vi:obe:other:blemish]]
+  * [[vi:obe:other:burntoffering]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+There are no translation notes for these verses.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:09|Leviticus Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:08:34|<<]] | [[:vi:bible:notes:lev:09:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 119:33-34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 Yahweh, teach me the meaning of your statutes\f + \ft Or: the things that you have decreed that we should do \f*,
+\q2 and then I will obey them, every one of them.
+\q1
+\v 34 Help me to understand your laws
+\q2 in order that I may obey them with all my inner being.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 Yahweh, teach me the meaning of your statutes,
+\q2 and then I will completely obey them.
+\q1
+\v 34 Help me to understand your laws
+\q2 so that I may obey them with all my inner being.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\d HE.
+\q
+\v 33 Teach me, Yahweh, the way of your statutes,
+\q and I will keep them to the end.
+\q
+\v 34 Give me understanding, and I will keep your law;
+\q  I will observe it with all my heart.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:other:heart|heart]]
+
+===== Translation Notes: =====
+
+  * **HE** - This is the fifth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 33-40 begins with this letter.
+  * **to the end** - AT: "to the end of my life" or "to the end of time"
+  * **keep your law** - "obey your law "
+  * **I will keep your Law with all my heart** - “I will surely keep your Law” or “I am completely committed to keeping your Law”
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:031|<<]] | [[:vi:bible:notes:psa:119:035|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

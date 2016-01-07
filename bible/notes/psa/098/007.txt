@@ -1,0 +1,69 @@
+====== Psalms 098:7-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 The oceans and all the creatures that are in the oceans should roar \add to praise Yahweh\add*.
+\q1 Everyone on the earth should sing!
+\q1
+\v 8 \add It should seem as though\add* the rivers are clapping their hands \add to praise Yahweh\add*
+\q2 and that the hills are singing together joyfully in front of Yahweh,
+\q1
+\v 9 because he will come to judge \add everyone on\add* \f + \ft metonymy \f* the earth!
+\q2 He will judge \add all\add* the people-groups \add in the world\add* justly and fairly \f + \ft doublet \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 The oceans and all the creatures that are in the oceans should roar to praise Yahweh.
+\q1 Everyone on the earth should sing!
+\q1
+\v 8 It should seem as though the rivers were clapping their hands to praise Yahweh
+\q2 and that the hills were singing together joyfully in front of Yahweh
+\q1
+\v 9 because he will come to judge everyone on the earth!
+\q2 He will judge all the people groups in the world justly and fairly.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Let the sea shout and everything in it,
+\q the world and those who live in it!
+\q
+\v 8 Let the rivers clap their hands,
+\q and let the mountains shout for joy.
+\q
+\v 9  Yahweh is coming to judge the earth;
+\q he will judge the world with righteousness
+\q and the nations with fairness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:world|world, worldly]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:judge|judge, judgment]]
+  * [[:vi:obe:other:earth|earth]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:nation|nation]]
+===== Translation Notes: =====
+
+  * **Let the sea shout** - Here the "sea" is being descibed as shouting to God. (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **the world and those who live in it** - "let the world and those who live in it shout (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **Let the rivers clap their hands, and let the mountains shout for joy.** - Here the "rivers" are being described as clapping with their hands and the "mountains" are being described as shouting. (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **he will judge the world ... and the nations with fairness** - These two phrases have similar meanings are used together for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **the nations with fairness** - AT: "he will judge the nations with fairness" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **fairness** - "honestly" or "equity" 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:098|Psalms Chapter 098 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:098:005|<<]] | [[:vi:bible:notes:psa:099:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

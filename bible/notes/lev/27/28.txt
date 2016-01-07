@@ -1,0 +1,51 @@
+====== Leviticus 27:28-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 However, no slave or animal or family land that someone owns can be sold or bought back after it has been dedicated to me \add and no price has been paid for it\add*. That kind of gift belongs to me permanently\f + \ft Or: forever \f*.
+\p
+\v 29 No person who has \add done something that I consider to be very wicked\add* is permitted to be freed \add from being punished\add*; that person must surely be executed.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 However, no slave or animal or family land that someone owns can be sold or bought back after it has been dedicated to Yahweh. It becomes holy to Yahweh.
+\p
+\v 29 No person who has done something that Yahweh considers to be very wicked is permitted to go free. The people must certainly execute such a person.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 However, nothing dedicated to Yahweh by a man from anything he has, whether human or animal, or his family land, may be sold or redeemed. Every dedicated thing is holy to Yahweh.
+\v 29 No person who is set apart to be destroyed from among the population may be ransomed. He must surely be put to death.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:dedicate]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:holy]]
+  * [[vi:obe:kt:setapart]]
+  * [[:vi:obe:kt:ransom|ransom]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+
+===== Translation Notes: =====
+
+  * **nothing dedicated to Yahweh by a man from anything he has, whether human or animal, or his family land, may be sold or redeemed. Every dedicated thing is holy to Yahweh** - AT: "if someone dedicates anything he has to Yahweh, whether a human, an animal, or his family land, no one may sell it or redeem it" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **No person who is set apart to be destroyed from among the population may be ransomed** - "If Yahweh determines that a person should die because of his sin, no one may pay to set him free" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:27|Leviticus Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:27:26|<<]] | [[:vi:bible:notes:lev:27:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

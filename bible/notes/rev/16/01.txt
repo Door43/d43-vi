@@ -1,0 +1,45 @@
+====== Revelation 16:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add In the vision\add* I heard \add someone\add* in the temple speak in a loud voice to the angels \add who had the seven bowls\add*. He said, "Go \add from here\add* and pour out on the earth \add the wine\f + \ft Or: liquid \f* in\add* \f + \ft metonymy \f* the seven bowls. \add This will show that\add* God is angry with \add rebellious people and will punish them\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 In the vision I heard someone in the very holy place speak in a loud voice to the angels who had the seven bowls. He said, "Go from here and pour out on the earth the wine in the seven bowls. This will make the people suffer because God is angry with them."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 16
+\p
+\v 1 I heard a loud voice call out of the most holy place and say to the seven angels, "Go and pour out on the earth the seven bowls of God's wrath."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:voice]]
+  * [[vi:obe:kt:holyplace]]
+  * [[:vi:obe:kt:angel]]
+  * [[:vi:obe:other:earth]]
+  * [[vi:obe:kt:God]]
+  * [[vi:obe:kt:wrath]]
+
+===== Translation Notes: =====
+
+  * **I heard** - the writer John ([[:vi:bible:notes:rev:01:09|1:9]]) heard
+  * **bowls of God's wrath** - See how you translated a similar phrase in [[vi:bible:notes:rev:15:07|15:7]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:16|Revelation Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:15:07|<<]] | [[:vi:bible:notes:rev:16:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~
+
+~~COMPLEX_TABLES~~

@@ -1,0 +1,65 @@
+====== Psalms 108:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 And \add Yahweh answered our prayers and\add* spoke from his temple, saying, "Because I have conquered \add your enemies\add*, I will joyfully divide Shechem \add city\add*
+\q2 and I will distribute among my people \add the land in\add* Succoth \add Valley\add*.
+\q1
+\v 8 The Gilead \add region\add* in mine;
+\q2 the \add people of the tribe of\add* Manasseh are mine;
+\q1 and the tribe of Judah is like the scepter\f + \ft Or: stick that I hold which shows that I am the ruler \f* \f + \ft metaphor \f*;
+\q
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh answered our prayers and spoke from his temple, saying, "Because I have conquered your enemies, I will joyfully divide the city of Shechem,
+\q2 and I will distribute among my people the land in the Valley of Succoth.
+\q1
+\v 8 The region of Gilead is mine;
+\q2 the people of the tribe of Manasseh are mine;
+\q1 and the tribe of Judah is like my scepter.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 God has spoken in his holiness; "I will rejoice;
+\q I will divide Shechem and apportion out the valley of Succoth.
+\q
+\v 8 Gilead is mine, and Manasseh is mine;
+\q Ephraim also is my helmet;
+\q Judah is my scepter.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:kt:holy]]
+  * [[vi:obe:other:rejoice]]
+  * [[:vi:obe:other:shechem]]
+  * [[:vi:obe:other:succoth]]
+  * [[:vi:obe:other:gilead]]
+  * [[:vi:obe:other:manasseh]]
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:scepter]]
+
+===== Translation Notes: =====
+
+  * **God has spoken in his holiness ... Judah is my scepter** - See how you translated this passage in [[vi:bible:notes:psa:060:006|60:6-7]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:108|Psalms Chapter 108 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:108:005|<<]] | [[:vi:bible:notes:psa:108:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

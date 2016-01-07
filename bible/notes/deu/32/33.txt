@@ -1,0 +1,58 @@
+====== Deuteronomy 32:33-34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 the wine \add from those grapes\add* is like the poison of snakes \f + \ft doublet \f*.
+\b
+\q1
+\v 34 \add Yahweh says\add*, 'I know \f + \ft rhetorical question \f* \add what I have planned to do to the Israelite people and to their enemies\add*,
+\q2 and I have locked up those plans \add as someone would lock up his valuable possessions\add* \f + \ft metaphor \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 The wine from those grapes is like the poison of snakes.
+\b
+\q
+\v 34 Yahweh says, 'I know  what I have planned to do to the Israelite people and to their enemies,
+\q and I have locked up those plans as someone would lock up his valuable possessions.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 33 Their wine is the poison of serpents
+\q and the cruel venom of asps.
+\q
+\v 34 Is not this plan secretly kept by me,
+\q sealed up among my treasures?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:serpent|serpent, snake]]
+  * [[:vi:obe:other:seal|seal, to seal]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **Their wine is the poison of serpents and the cruel venom of asps** - Moses continues comparing the enemies of the people of Israel to grapevines that produce poisonous fruit. This means it will destroy the Israelites if they start to act like their enemies. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Is not this plan secretly kept by me, sealed up among my treasures?** - Yahweh uses a question to emphasize that he knows what he plans to do but he is keeping it secret and secure like a valuable item. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **Is not this plan secretly kept by me** - AT: "Have I not kept this plan secret" or "I have kept this plan secret" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:32|<<]] | [[:vi:bible:notes:deu:32:35|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

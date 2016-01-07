@@ -1,0 +1,86 @@
+====== Psalms 105:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 that is the agreement that he made with Abraham,
+\q2 and he repeated that agreement with Isaac.
+\q1
+\v 10 Later he confirmed it again to Jacob
+\q2 as an agreement for the Israelite people that would last forever.
+\q1
+\v 11 What he said was, "I will give you the Canaan region;
+\q2 it will belong to you \add and your descendants forever\add*."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 That is the covenant that he made with Abraham,
+\q2 and he repeated that covenant with Isaac.
+\q1
+\v 10 Later he confirmed it again to Jacob
+\q2 as a covenant for the Israelite people that would last forever.
+\q1
+\v 11 What he said was, "I will give you the region of Canaan;
+\q2 it will belong to you and your descendants forever."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 He calls to mind the covenant that he made with Abraham
+\q and his oath to Isaac.
+\q
+\v 10 This is what he confirmed to Jacob as a statute
+\q and to Israel as an everlasting covenant.
+\q
+\v 11 He said, "I will give you the land of Canaan
+\q as your share of your inheritance."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:oath]]
+  * [[vi:obe:other:isaac]]
+  * [[vi:obe:other:confirm]]
+  * [[vi:obe:other:statute]]
+  * [[vi:obe:other:jacob]]
+  * [[vi:obe:other:israel]]
+  * [[vi:obe:kt:eternity]]
+  * [[vi:obe:other:canaan]]
+  * [[vi:obe:kt:inherit]]
+ 
+
+===== Translation Notes: =====
+
+    * **he calls to mind** - "he remembers" (See: [[vi:ta:vol1:translate:figs_idiom]])
+    * **his oath to Isaac** - "his oath that he gave to Isaac" 
+
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:105|Psalms Chapter 105 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/105/007|<<]] | [[en/bible/notes/psa/105/012|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

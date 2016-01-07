@@ -1,0 +1,47 @@
+====== 2 Chronicles 28:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 Ahaz gathered all the furnishings \add that were used\add* in the temple and broke them into pieces. He locked the doors of the temple and set up altars \add for worshiping idols\add* at every street corner in Jerusalem.
+\v 25 In every town in Judah, his workers built shrines to burn sacrifices to other gods, and that caused Yahweh, the God whom their ancestors \add worshiped\add*, to be very angry.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 Ahaz gathered all the furnishings that were used in the temple and broke them into pieces. He locked the doors of the temple and set up altars for worshiping idols at every street corner in Jerusalem.
+\v 25 In every city in Judah, his workers built shrines to burn sacrifices to other gods, and that caused Yahweh, the God whom their ancestors worshiped, to be very angry.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 Ahaz gathered together the furnishings of the house of God and cut them to pieces. He shut
+the doors of the house of Yahweh and he made for himself altars in every corner of Jerusalem.
+\v 25 In every city of Judah he made shrines to burn sacrifices to other gods, and in this way provoked to anger Yahweh, the God of his ancestors.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:houseofgod|house of God, Yahweh's house]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+  * **furnishings - **"furniture and other objects"
+  * **in every corner of Jerusalem** - AT: "in all of Jerusalem"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:28|2 Chronicles Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:28:22|<<]] | [[:vi:bible:notes:2ch:28:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Psalms 103:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I tell\add* myself that I should praise Yahweh.
+\q2 I will praise him \f + \ft metonymy \f* with all of my inner being, \add because\add* he \f + \ft metonymy \f* is holy.
+\q1
+\v 2 \add I tell\add* myself that I should praise Yahweh
+\q2 and never forget all the kind things he has done for me:
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I tell myself that I should praise Yahweh.
+\q2 I will praise him because he is holy.
+\q1
+\v 2 I tell myself that I should praise Yahweh
+\q2 and never forget all the kind things he has done for me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 103
+\d A psalm of David.
+\b
+\q
+\v 1 Bless Yahweh, my soul,
+\q and all that is within me, bless his holy name.
+\q
+\v 2 Bless Yahweh, my soul,
+\q and do not forget all his benefits.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:name]]
+
+===== Translation Notes: =====
+
+See: Translating Poetry and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+ 
+  * **Bless Yahweh, my soul, and all that is within me, bless his holy name .** - AT: "I should praise God" (See:[[:vi:ta:vol2:translate:figs_doublet]])
+  * **and all that is within me** - "my complete physical and non-physical being" (See: Synecdoche)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:103|Psalms Chapter 103 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:102:028|<<]] | [[:vi:bible:notes:psa:103:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

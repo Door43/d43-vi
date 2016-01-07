@@ -1,0 +1,63 @@
+====== Psalms 115:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Our God is in heaven,
+\q2 and he does whatever he wants to!
+\q1
+\v 4 But their idols are only \add statues made of\add* silver and gold,
+\q2 things that humans have made.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Our God is in heaven,
+\q2 and he does whatever he wants!
+\q1
+\v 4 But their idols are only statues made of silver and gold,
+\q2 things that humans have made.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Our God is in heaven;
+\q he does whatever he pleases.
+\q
+\v 4 The nations' idols are silver and gold,
+\q the work of men’s hands.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:idol]]
+  * [[:vi:obe:other:silver]]
+  * [[:vi:obe:other:gold]]
+  * [[:vi:obe:kt:works]]
+
+===== Translation Notes: =====
+
+  * **Our God is in heaven** - AT: "Our God has supreme power" or "Our God has the utmost power." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Our God**  - The word "Our" refers to the people of Israel.
+  * **whatever he pleases** - "whatever he wants"
+  * **The nations' idols are silver and gold** - "The idols of the nations are made of silver and gold"
+  * **the work of men’s hands** - AT: "The result of men's effort." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:115|Psalms Chapter 115 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:115:001|<<]] | [[:vi:bible:notes:psa:115:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

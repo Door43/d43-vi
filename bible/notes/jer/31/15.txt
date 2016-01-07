@@ -1,0 +1,58 @@
+====== Jeremiah 31:15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Yahweh also says this:
+\q1 "Women were weeping in Ramah \add town on the border between Israel and Judah\add*;
+\q2 they were mourning and crying very loudly.
+\q1 \add The women who were the descendants of Ephraim and Manasseh, the two grandsons of\add* Rachel \add the wife of Jacob\add*, were weeping about their children,
+\q2 and no one could comfort them
+\q2 because their children were all dead.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Yahweh also says this:
+\q1 "Women were weeping in Ramah, on the border between Israel and Judah;
+\q2 they were mourning and crying very loudly.
+\q1 The women who were the descendants of Ephraim and Manasseh, the two grandsons of Rachel the wife of Jacob, were weeping about their children,
+\q2 and no one could comfort them
+\q2 because their children were all dead.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 Yahweh says this: "A voice is heard in Ramah, wailing and bitter weeping.
+\q It is Rachael weeping for her children. She refuses to be comforted over them, for they live no longer."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:other:ramah|Ramah]]
+  * [[:vi:obe:other:rachel|Rachel]]
+  * [[:vi:obe:kt:children|children, child]]
+  * [[:vi:obe:other:comfort|comfort]]
+
+===== Translation Notes: =====
+
+  * **A voice is heard in Ramah**  - AT: "I hear a voice in Ramah" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **It is Rachael weeping for her children**  - Here "Rachael" refers to the women of Israel who are crying over their children. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **She refuses to be comforted over them, for they live no longer**  - AT: "She will not let anyone comfort her for her children are dead" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:31|Jeremiah Chapter 31 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:31:13|<<]] | [[:vi:bible:notes:jer:31:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

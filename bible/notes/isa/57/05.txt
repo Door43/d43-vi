@@ -1,0 +1,55 @@
+====== Isaiah 57:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 You are eager to have sex under every big green tree where you worship your gods.
+\q1 You kill your children as sacrifices \add to your idols\add* in the dry riverbeds,
+\q2 and also offer them as sacrifices to your idols in the rocky caves.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 You are eager to have sex under every tall  green tree where you worship your gods.
+\q1 You kill your children as sacrifices to your idols in the dry riverbeds,
+\q2 and offer them as sacrifices to your idols in the rocky caves.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 You heat yourselves up in having sex under the oaks, under every green tree, 
+\q1 you who kill your children in the dry riverbeds, under the rocky overhangs.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:oak]]
+  * [[:vi:obe:kt:children]]
+
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the unfaithful people of Israel.
+
+  * **You heat yourselves…under the rocky overhangs**  - All of these actions are associated with worshiping idols. The oaks were sacred trees to the Canaanites. People thought such activity would increase fertility for people and the land. (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:57|Isaiah Chapter 57 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:57:03|<<]] | [[:vi:bible:notes:isa:57:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

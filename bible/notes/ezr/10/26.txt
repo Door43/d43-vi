@@ -1,0 +1,69 @@
+====== Ezra 10:26-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 From the clan of Elam there were Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+\li1
+\v 27 From the clan of Zattu there were Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+\li2
+\v 28 From the clan of Bebai there were Jehohanan, Hananiah, Zabbai, and Athlai.
+\li1
+\v 29 From the clan of Bani there were Meshullam, Malluch,, Adaiah, Jashub, Sheal, and Jeremoth.
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 In the clan of Elam there were Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+\v 27 In the clan of Zattu there were Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+\v 28 In the clan of Bebai there were Jehohanan, Hananiah, Zabbai, and Athlai.
+\v 29 In the clan of Bani there were Meshullam, Malluch, Adaiah, Jashub, and Sheal Jeremoth.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 Among the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+\v 27 Among the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+\v 28 Among the descendants of Bebai: Jehochanan, Hananiah, Zabbai, and Athlai.
+\v 29 Among the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, and Sheal Jeremoth.
+</usfm>
+
+
+===== Important Terms: =====
+
+   * [[vi:obe:other:descendant]]
+   * [[vi:obe:other:zechariahot]]
+   * [[vi:obe:other:elijah]]
+
+===== Translation Notes: =====
+
+Ezra continues to list the men who married non-Jewish women. (See: [[vi:ta:vol1:translate:translate_names]])
+
+    * **Elam, Zattu, Bani**  - See how you translated this in [[vi:bible:notes:ezr:02:07|2:07]].
+    * **Jehiel**  - See how you translated this in [[vi:bible:notes:ezr:08:08|8:08]].   
+    * **Elioenai**  - See how you translated this in [[vi:bible:notes:ezr:10:20|10:20]].
+    * **Eliashib, Jehochanan**  - See how you translated this in [[vi:bible:notes:ezr:10:05|10:05]].   
+    * **Bebai**  - See how you translated this in [[vi:bible:notes:ezr:02:11|2:11]].
+    * **Jehochanan**  - See how you translated this in [[vi:bible:notes:ezr:10:05|10:05]].
+    * **Meshullam**  - See how you translated this in [[vi:bible:notes:ezr:08:15|8:15]].
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezr:10|Ezra Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/10/23|<<]] | [[en/bible/notes/ezr/10/30|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

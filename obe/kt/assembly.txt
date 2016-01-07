@@ -6,18 +6,22 @@ The term "assembly" usually refers to a group of people who come together to dis
 
   * An assembly can be a group that is organized in an official and somewhat permanent way, or it can be a group of people who come together temporarily for a specific purpose or occasion.
   * In the Old Testament there was a special kind of assembly called a "sacred assembly" where the people of Israel would gather to worship before the Lord.
-  * Sometimes the term "assembly" is used to refer to a large gathering of enemy forces. This could translated as "army."
-  * <font 14px line-height: 15.6800003051758px/inherit;;inherit;;inherit>In the New Testament, the Jewish judicial assembly or council was also known as the "Sanhedrin</font>    ."
+  * Also in the Old Testament the term "assembly" sometimes refers to the Israelites in general, as a group.
+  * Sometimes the term "assembly" is used to refer to a large gathering of enemy soldiers. This could be translated as "army."
+  * In the New Testament, the Jewish judicial assembly or council was also known as the "Sanhedrin."
+
 
 ===== Translation Suggestions =====
 
   * Depending on the context, "assembly" could also be translated as "special gathering" or "congregation" or "council" or "army."
+  * When the term "assembly" refers in general to the Israelites as a group, it could also be translated as "community" or "group of people" or "people of Israel."
+  * The phrase, "all the assembly" could be translated as "all the people" or "everyone."
 
-(See also: [[:vi:obe:other:council|council]], [[:vi:obe:other:sanhedrin|Sanhedrin]], [[en:obe:other:)
+(See also: [[:vi:obe:other:council|council]])
 
 ===== Bible References: =====
 
-{{topic>:en:bible?assembly&nocomments}}
+{{topic>:en:bible?assembly&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

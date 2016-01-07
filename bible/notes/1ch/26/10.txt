@@ -1,0 +1,58 @@
+====== 1 Chronicles 26:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Another guard was Hosah's son Shimri, a descendant of Merari. Hosah appointed Shimri to be the leader, even though he was not Hosah's oldest son.
+\v 11 Hosah's other sons were Hilkiah, Tabaliah, and Zechariah. Altogether there were 13 sons and relatives of Hosah.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Another guard was Hosah's son Shimri, a descendant of Merari. Hosah appointed Shimri to be the leader, even though he was not Hosah's oldest son.
+\v 11 Hosah's other sons were Hilkiah, Tabaliah, and Zechariah. Altogether there were 13 sons and relatives of Hosah.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Hosah, a descendant of Merari, had sons: Shimri the leader (although he was not the firstborn, his father made him leader),
+\v 11 Hilkiah the second, Tebaliah the third, Zechariah the fourth. All of Hosah's sons and kinsmen were thirteen in number.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:kin]]
+
+===== Translation Notes: =====
+
+This continues the list of gatekeepers which started in [[:vi:bible:notes:1ch:26:01]].
+
+  * **Hosah...Merari...Shimri...Hikiah...Tebaliah...Zehariah** - These are the names of men.  (See: [[vi:ta:vol1:translate:translate_names]])
+  * **the second … third … fourth** - This shows the order in which the sons were born. AT: "number 2...number 3...number 4" or "the next" for each one.  (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **All of Hosah's sons and kinsmen were thirteen in number** - AT: There were 13 of Hosah's sons and kinsmen" (See: [[vi:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:26|1 Chronicles Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/26/07|<<]] | [[en/bible/notes/1ch/26/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

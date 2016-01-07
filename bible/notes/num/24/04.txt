@@ -1,0 +1,64 @@
+====== Numbers 24:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 I hear this message from God;
+\q2 I see a vision from the one who is all-powerful.
+\q2 My eyes are open as I prostrate myself in front of him.
+\b
+\q1
+\v 5 You descendants of Jacob, your tents are very beautiful!
+\q2 The places where you live are lovely!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 I hear this message from God.
+\q2 I see a vision from the one who is all-powerful.
+\q2 My eyes are open as I prostrate myself in front of him.
+\b
+\q1
+\v 5 You descendants of Jacob, your tents are very beautiful!
+\q2 The places where you live are lovely!
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 He speaks and hears God’s words.
+\q2 He sees a vision from the Almighty,
+\q Before whom he bows down with his eyes open.
+\q
+\v 5 How beautiful are your tents, Jacob,
+\q2 the place where you live, Israel!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+  * [[:vi:obe:other:vision|vision]]
+  * [[:vi:obe:kt:almighty|Almighty]]
+  * [[:vi:obe:kt:bow|bow, bow down]]
+  * [[:vi:obe:other:tent|tent]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+
+===== Translation Notes: =====
+  * **He speaks** - Here Balaam refers to himself as "he."
+  * **with his eyes open** - This means Balaam has received the spiritual power to know and understand God's will. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **How beautiful are your tents, Jacob, the place where you live, Israel!** - Both of these statements mean the same thing. They emphasize the Israelite camp was beautiful to Balaam. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:num:24:02|<<]] | [[:vi:bible:notes:num:24:06|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

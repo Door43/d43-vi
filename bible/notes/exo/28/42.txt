@@ -1,0 +1,48 @@
+====== Exodus 28:42-43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 Also \add tell them to\add* make linen undershorts for them. The undershorts should extend from their waists to their thighs, in order that no one can see their private parts.
+\v 43 Aaron and his sons must always wear those undershorts when they enter the Sacred Tent or when they come near to the altar to offer sacrifices in the Holy Place. If they do not obey this ritual, I will cause them to die. Aaron and all his male descendants must obey this rule forever."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 Also tell them to make linen undershorts for them. The undershorts should extend from their waists to their thighs in order that no one can see their private parts.
+\v 43 Aaron and his sons must always wear those undershorts when they enter the sacred tent or when they come near to the altar to offer sacrifices in the holy place. If they do not obey this ritual, I will cause them to die. Aaron and all his male descendants must obey this rule forever."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 42 You must make them linen undergarments to cover their private parts, undergarments that will cover them from the waist to the thighs.
+\v 43 Aaron and his sons must wear these when they enter the tent of meeting or when they approach  the altar to serve in the holy place. They must do this so that they may bear no iniquity and die. This will be a permanent law for Aaron and his descendants after him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:aaron]]
+  * [[vi:obe:other:tentofmeeting]]
+  * [[:vi:obe:other:altar]]
+  * [[vi:obe:other:serve]]
+  * [[:vi:obe:kt:holyplace]]
+  * [[:vi:obe:kt:iniquity]]
+  * [[vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:other:descendant]]
+
+===== Translation Notes: =====
+God continues to tell Moses what the people must do.
+
+  * **undergarments** - "underwear." These are clothing worn under the outer clothes, next to the skin.
+  * **private parts** - AT: "genitals" (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **tent of meeting** - See how you translated this in [[vi:bible:notes:exo:27:20|27:21]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:28|Exodus Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:28:40|<<]] | [[:vi:bible:notes:exo:29:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

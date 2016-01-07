@@ -1,0 +1,75 @@
+====== Deuteronomy 32:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 I will praise Yahweh \f + \ft metonymy \f*.
+\q2 And \add all you people should\add* tell others that our God is very great.
+\q1
+\v 4 He is like a rock \f + \ft metaphor \f* \add under which we are protected\add*;
+\q2 \add everything\add* that he does is perfect and completely just\f + \ft Or: fair \f* \f + \ft doublet \f*.
+\q1 He always does what he says that he will do;
+\q2 he never does anything that is wrong.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 I will praise Yahweh.
+\q And all you people should praise how great our God is.
+\q
+\v 4 He is like a rock on top of which we are protected;
+\q everything that he does is perfect and completely just.
+\q He always does what he says that he will do;
+\q he never does anything that is wrong.
+\b
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For I will proclaim the name of Yahweh,
+\q and ascribe greatness to our God.
+\q
+\v 4 The Rock, his work is perfect;
+\q for all his paths are just.
+\q He is the faithful God who has no iniquity.
+\q He is just and upright.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:proclaim|proclaim, proclamation]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:kt:perfect|perfect]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:kt:faithful|faithful, faithfulness]]
+  * [[:vi:obe:kt:iniquity|iniquity]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **the name of Yahweh** - AT: "Yahweh's reputation" or "Yahweh" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **ascribe greatness to our God** - "declare the greatness of our God"
+  * **The Rock** - The word “Rock” refers to Yahweh who is strong and able to protect his people. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **all his paths are just**  - AT: "all his ways are just" or "all he does is just"
+  * **He is just and upright**  - "He is fair and does what is right"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:01|<<]] | [[:vi:bible:notes:deu:32:05|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

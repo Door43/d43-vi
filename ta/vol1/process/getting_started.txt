@@ -1,0 +1,25 @@
+===== Getting Started =====
+
+This module answers the question: What do I need to have in place before getting started?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:process:process_manual|Introduction to the Process Manual]]
+
+==== How to Get Started ====
+
+Before getting started, you must be able to:
+
+   * Agree with the [[vi:ta:vol1:intro:statement_of_faith|Statement of Faith]], [[vi:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[vi:ta:vol1:intro:open_license|Open License]]. (Everyone involved in the translation and checking will need to [[https://unfoldingword.org/forms|sign a statement]] that work is being done according to those standards.)
+   * Read with fluency the source language in which the text and translation helps are available.
+   * Gain access to the source text and translation helps either in print form, or online at https://door43.org, or through translationStudio - our mobile app platform (see https://unfoldingword.org/translationstudio/).
+   * Have access to an internet-connected computer or tablet where the translation can be uploaded and audio (if desired) can be recorded. See "[[vi:ta:vol1:tech:hardware|Suggested Hardware]]".
+
+You should be able to: 
+
+   * Know where to get answers to your questions. See "[[vi:ta:vol1:intro:finding_answers|Get answers to my questions]]".
+
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:process:platforms|Selecting a Platform]]
+

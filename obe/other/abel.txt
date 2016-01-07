@@ -1,8 +1,7 @@
-====== Abel ======
+====== Abel  ======
 
 
 ===== Facts: =====
-
 
 Abel was Adam and Eve' second son.
 
@@ -11,7 +10,7 @@ Abel was Adam and Eve' second son.
     * Adam and Eve's firstborn son Cain, murdered, Abel.
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]]) 
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]]) 
 
 
 (See also: [[adam]], [[eve]], [[shepherd]])

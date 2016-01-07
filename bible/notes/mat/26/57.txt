@@ -1,0 +1,52 @@
+====== Matthew 26:57-58 ======
+
+===== TFT: =====
+
+<usfm>
+\v 57 The men who had seized Jesus took him \add to the house where\add* Caiaphas, the high priest, \add lived\add*. The men who taught the \add Jewish\add* laws and the \add Jewish\add* elders had already gathered \add there\add*.
+\v 58 Peter followed \add Jesus\add* at a distance. He came to the high priest's courtyard. He entered\add the courtyard\add* and sat down with the guards to see what would happen.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 57 The men who had arrested Jesus took him to the house where Caiaphas, the high priest, lived. The men who taught the Jewish laws and the Jewish elders had already gathered there.
+\v 58 Peter followed Jesus at a distance. He came to the high priest's courtyard. He entered the courtyard and sat down with the guards to see what would happen.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 57 Those who had seized Jesus led him away to 
+Caiaphas the high priest, where the scribes and the elders had gathered together.
+\v 58 But Peter followed him from a distance to the courtyard of the high priest; he went inside and sat down with the guards to see the 
+outcome.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:caiaphas]]
+  * [[:vi:obe:kt:highpriest]]
+  * [[:vi:obe:other:scribe]]
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:other:peter]]
+
+===== Translation Notes: =====
+
+This begins the account of Jesus being questioned by the high priest.
+
+  * **courtyard of the high priest**  - an open area near the high priest's house
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:26:55|<<]] | [[:vi:bible:notes:mat:26:59|>>]]**
+
+~~DISCUSSION~~{{tag>publish caiaphas}}
+
+~~NOCACHE~~

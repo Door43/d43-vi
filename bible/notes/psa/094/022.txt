@@ -1,0 +1,72 @@
+====== Psalms 094:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 But Yahweh has become like my fortress\f + \ft Or: protects me \f* \f + \ft metaphor \f*;
+\q2 my God is like a huge rock under which I am protected\f + \ft Or: safe \f* \f + \ft metaphor \f*.
+\q1
+\v 23 He will punish those wicked leaders in return for the wicked things that they have done,
+\q2 and will get rid of them for the sins that they have committed;
+\q2 yes, Yahweh our God will wipe them out\f + \ft Or: destroy them completely \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 But Yahweh has become like my fortress;
+\q2 my God is like a huge rock on which I am protected.
+\q1
+\v 23 He will punish those wicked leaders in return for the things that they have done;
+\q2 he will get rid of them because of the sins that they have committed;
+\q2 yes, Yahweh our God will wipe them out.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 But Yahweh has been my high tower,
+\q and my God has been the rock of my refuge.
+\q
+\v 23 He will bring on them their own iniquity
+\q and will cut them off in their own wickedness.
+\q Yahweh our God will cut them off.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:watchtower]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:kt:refuge]]
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:kt:cutoff]]
+  * [[:vi:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Yahweh has been my high tower**  - Here "tower" represents protection. AT: "Yahweh has protected me from my enemies" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **God has been the rock of my refuge**  - Here "rock" describes God as strong and firm, and "refuge" refers to safety. AT: "God has kept me safe by his power" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:094|Psalms Chapter 094 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/094/020|<<]] | [[en/bible/notes/psa/095/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== 1 Corinthians 08:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Nevertheless, some people do not understand \add that idols are not really alive\add*. In the past, some among you who are believers now were accustomed to believing that idols \add were really alive\add*. As a result, when they eat such meat \add now\add*, they still think that it was sacrificed to an idol \add that is alive\add*. They are not sure \add that God allows believers to eat meat that has been offered to idols\add*. So, \add when they eat such meat\add*, they think that they have sinned.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 But not everyone knows this.  Some worshiped an idol in earlier times, and, now, if they ate food sacrificed to an idol, they worry that they are still worshiping a god. They were torn between two opinions, they were weak in their faith in Christ, but they felt they were honoring an idol when they bought food that had been offered to it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 However, this knowledge is not in everyone. Instead, some previously practiced idol worship, and they eat this food as if it were something sacrificed to an idol. Their conscience is thereby corrupted because it is weak.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:other:idol]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:other:sacrifice]]
+  * [[:vi:obe:other:conscience]]
+  * [[:vi:obe:kt:corrupt]]
+
+ 
+===== Translation Notes: =====
+
+  * **everyone...some** - "all people...a portion of all people"
+  * **corrupted** - "ruined" or "harmed"
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1co:08|1 Corinthians Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/08/04|<<]] | [[en/bible/notes/1co/08/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

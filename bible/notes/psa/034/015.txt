@@ -1,0 +1,76 @@
+====== Psalms 034:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Yahweh \f + \ft metonymy \f* carefully watches over those who \add act\add* righteously;
+\q2 he always responds \f + \ft metonymy \f* to them when they call \add to him for help\add*.
+\q1
+\v 16 But Yahweh \f + \ft synecdoche \f* is opposed to\f + \ft Or: turns away from \f* those who do what is evil.
+\q2 \add And after they die\add*, people here on earth will forget them completely.
+\b
+\q1
+\v 17 Yahweh hears righteous people when they call out to him;
+\q2 he rescues them from all their troubles.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Yahweh  carefully watches over those who act righteously;
+\q2 he always responds to them when they call to him for help.
+\q1
+\v 16 But Yahweh works against those who do what is evil.
+\q2 After they die, people here on earth will forget them completely.
+\b
+\q1
+\v 17 Yahweh hears righteous people when they call out to him;
+\q2 he rescues them from all their troubles.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 The eyes of Yahweh are on the righteous,
+\q and his ears are directed toward their cry.
+\q
+\v 16 Yahweh is against evildoers,
+\q in order to wipe out their memory from the earth.
+\q
+\v 17 The righteous cry out, and Yahweh hears
+\q and rescues them from all their troubles.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:cry]]
+  * [[:vi:obe:other:evildoer]]
+  * [[:vi:obe:kt:blotout]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:trouble]]
+ 
+===== Translation Notes: =====
+
+  * **The eyes of Yahweh are on the righteous** - AT: "Yahweh watches over the righteous" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **his ears are directed toward their cry** - AT: "he directs his attention toward their cry" or "he pays attention to their cry" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **in order to wipe out their memory from the earth** - AT: "so that when they are dead, people will forget them completely" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **and Yahweh hears** - AT: "and Yahweh pays attention to them" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:034|Psalms Chapter 034 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:034:012|<<]] | [[:vi:bible:notes:psa:034:018|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

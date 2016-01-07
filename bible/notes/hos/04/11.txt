@@ -1,0 +1,75 @@
+====== Hosea 04:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 and they are devoting themselves to sleeping with prostitutes,
+\q2 and to \add drinking\add* old wine and new wine,
+\q2 which results in their not being able to think clearly."
+
+\q1
+\v 12 "You my people request wooden idols
+\q2 \add to tell them what they should do\add*!
+\q1 Like prostitutes who have left\f + \ft Or: abandoned \f* their husbands,
+\q2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 You have given yourselves over to doing forbidden sexual acts,
+\q2 and to drinking wine and new wine.
+\q2 All these things have made it impossible for you to know right from wrong.
+\q1
+\v 12 My own people pray to an idol made from a piece of wood. 
+\q2 They ask their walking staffs to tell them which way they should go!
+\q1 They are filled with a spirit of sexual impurity that has led them away from me, the God they should worship.
+
+
+\q2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 11 Sexual promiscuity, wine, and new wine have taken away their understanding.
+\q
+\v 12 My people consult their wooden idols,
+\q and their walking sticks give them prophecies.
+\q For the spirit of promiscuity has misled them,
+\q and they have left me, their God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fornication|fornication, sexual immorality]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:understand]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:kt:spirit|spirit, spiritual]]
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+Yahweh is talking about Israel.
+
+  * **have taken away their understanding**  - //have taken away their understanding//  can be made explicit: "have made it impossible for you to know right from wrong" (UDB) (see: Explicit and implicit information; also see metaphor)
+  * **their walking sticks give them prophecies **- idol worshipers used the staff (or walking stick) to foretell the future (see: Personification)
+  * **spirit of promiscuity has misled them **- worshiping the idols and having sex with the temple prostitutes has caused Israel to sin greatly against Yahweh (see: metaphor)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:04|Hosea Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:04:10|<<]] | [[:vi:bible:notes:hos:04:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

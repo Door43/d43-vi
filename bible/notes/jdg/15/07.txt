@@ -1,0 +1,46 @@
+====== Judges 15:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Samson \add found out about that\add*, and said to them, "Because you have done this, I will get revenge on you, and I will not stop \add very quickly\add*!"
+\v 8 So he attacked the Philistines furiously, and killed many of them. Then he went \add to hide\add* in a cave in the large rock at a place called Etam.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Samson found out about that and said to them, "Because you have done this, I will get revenge on you, and then I will be happy!"
+\v 8 So he attacked the Philistines furiously and killed many of them. Then he went to hide in a cave in the large rock at a place called Etam.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 Samson said to them, “If this is what you do, I will get my revenge against you, and after that is done, I will stop.”
+\v 8 Then he cut them to pieces, hip and thigh, with a great slaughter. Then he went down and lived in a cave in the cliff of Etam.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:samson]]
+  * [[en/obe/kt/avenge]]
+  * [[vi:obe:other:slaughter]]
+===== Translation Notes: =====
+  * **said to them**  - "said to the Philistines"
+  * **he cut them to pieces, hip and thigh** - This phrase is used to express that the attack was very violent. The hip and thigh are parts of the body and leg. (See: [[:en/bible/team-info/training/quick-reference/figures/metonymy]])
+  * **cave**  - an opening in a hill or mountainside
+  * **cliff** - a high, rocky  hill or mountainside
+  * **Etam** - the name of the rocky hill country near Jerusalem  (See: [[:vi:ta:vol1:translate:translate_names]])                                                                                                                                                                                                                                                                                                                                       
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:15|Judges Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:15:05|<<]] | [[:vi:bible:notes:jdg:15:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Psalms 107:39-40 ======
+
+===== TFT: =====
+
+<usfm>
+\v 39 When the number of people becomes smaller and they have been humiliated \add by their enemies\add*
+\q2 by being oppressed and caused to suffer \f + \ft doublet \f*,
+\q1
+\v 40 Yahweh shows contempt for the leaders who oppress them,
+\q2 and causes them to wander in deserts where there are no roads.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 39 When the number of people became smaller and they were humiliated by their enemies
+\q2 by being oppressed and caused to suffer,
+\q1
+\v 40 Yahweh shows contempt for the leaders who oppress them,
+\q2 and makes them to wander in a wilderness where there are no roads.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 39  They were diminished and brought low
+\q by painful distress and suffering.
+\q
+\v 40 He pours contempt on the leaders
+\q and causes them to wander in the wilderness, where there are no roads.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:suffer]]
+  * [[:vi:obe:other:contempt]]
+  * [[:vi:obe:other:desert]]
+
+===== Translation Notes: =====
+
+  * **They** - The word "They" refers to the people who were hungry but Yahweh blessed them.
+  * **were diminished** - "became fewer in number"
+  * **and brought low by painful distress and suffering** - AT: "because their leaders oppressed and made them suffer." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **pours contempt on** - AT: "shows contempt for." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **the leaders** - "the nobility" or "the upper class"
+  * **where there are no roads** - "where people never go."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:107|Psalms Chapter 107 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:107:036|<<]] | [[:vi:bible:notes:psa:107:041|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

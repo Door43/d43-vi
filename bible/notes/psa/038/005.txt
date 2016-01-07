@@ -1,0 +1,57 @@
+====== Psalms 038:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 Because I have done foolish things,
+\q2 I have sores that have become worse, and they stink.
+\q1
+\v 6 Sometimes I am bent over, and sometimes I lie prostrate;
+\q2 I mourn\f + \ft Or: cry \f* all day.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Because I have done foolish things,
+\q2 I have sores that have become worse, and they stink.
+\q1
+\v 6 Sometimes I am bent over, and sometimes I lie prostrate;
+\q2 I mourn all day.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 My wounds are infected and smell
+\q because of my foolish sins.
+\q
+\v 6 I am stooped over and humiliated every day;
+\q I go about mourning all day long.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:foolish|fool, foolish, folly]]
+  * [[:vi:obe:other:mourn|mourn, mourning]]
+
+===== Translation Notes: =====
+
+
+David continues describing what his guilt and shame does to his body. He uses hyperbole to emphasize his lesson.
+
+  * **My wounds are infected and smell** - "Wounds" here refer to the writer's guilt and shame that is the source of his sickness. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:038|Psalms Chapter 038 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:038:003|<<]] | [[:vi:bible:notes:psa:038:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

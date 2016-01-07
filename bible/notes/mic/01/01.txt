@@ -1,0 +1,54 @@
+====== Micah 01:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I am\add* Micah. I am from Moresheth \add town in Judah\add*. Yahweh gave me these \add messages in\add* visions about Samaria and Jerusalem during the time when Jotham, \add and then\add* Ahaz, and \add then\add* Hezekiah were the kings of Judah.
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I am Micah. I am from Moresheth in Judah. Yahweh gave me these messages in visions about Samaria and Jerusalem during the time when Jotham, and then Ahaz, and then Hezekiah were the kings of Judah.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 This is the word of Yahweh that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, the word that he
+saw concerning Samaria and Jerusalem.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:micah|Micah]]
+  * [[:vi:obe:other:jotham|Jotham]]
+  * [[:vi:obe:other:ahaz|Ahaz]]
+  * [[:vi:obe:other:hezekiah|Hezekiah]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:other:samaria|Samaria, Samaritan]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+  * **The Morashtite** - This means he is from Moresheth which is  a town in Judah. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **in the days of Jotham, Ahaz, and Hezekiah, kings of Judah** - "when Jotham, Ahaz, and Hezekiah were kings of Judah"
+  * **the word that he saw concerning Samaria and Jerusalem** - AT: "the vision that he saw concerning the people of Samaria and Jerusalem" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+  * **[[:vi:bible:questions:comprehension:mic:01|Micah Chapter 01 Comprehension Questions]]**
+**| [[:vi:bible:notes:mic:01:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

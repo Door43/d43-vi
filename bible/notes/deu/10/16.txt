@@ -1,0 +1,55 @@
+====== Deuteronomy 10:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 So you must change your inner beings \f + \ft metaphor \f* and stop being stubborn [IDI].
+\v 17 Yahweh our God is greater than all gods, and he is greater than all rulers. He is very powerful \f + \ft doublet \f* and awesome. He is impartial\f + \ft Or: does not do things that favor one ◄group, Or: person \f* more than others►, and he does not accept bribes.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 So you must change your inner beings  and stop being stubborn.
+\v 17 Yahweh our God is greater than all gods, and he is greater than all rulers. He is very powerful, more than others, and he does not accept bribes.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Therefore circumcise the foreskin of your heart, and be stubborn no longer.
+\v 17 For Yahweh your God, he is God of gods and Lord of lords, the great God, the mighty one and the fearsome one, who favors no one and takes no bribes.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:circumcise|circumcise, circumcision]]
+  * [[vi:obe:other:heart]]
+  * [[vi:obe:other:stiffnecked]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:god]]
+  * [[vi:obe:kt:falsegod]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:kt:favor|favor, favorable, favoritism]]
+  * [[:vi:obe:other:bribe|bribe]]
+
+===== Translation Notes: =====
+
+  * **circumcise the foreskin of your heart** - Moses is referring to a spiritual circumcision. This means the people must remove the sin from their lives. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **God of gods** - "the supreme God" or "the only true God"
+  * **Lord of lords** - "the supreme Lord" or "the greatest Lord"
+  * **the fearsome one** - "the one who causes people to fear"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:10|Deuteronomy Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:14|<<]] | [[:vi:bible:notes:deu:10:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

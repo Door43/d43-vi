@@ -1,0 +1,61 @@
+====== Deuteronomy 32:43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 43 You people of all nations, you should praise Yahweh's people,
+\q2 because Yahweh gets revenge on those who kill the people who serve him;
+\q1 and he cleanses his people's land
+\q2 which has become defiled because of their sins."
+\b
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 43 You people of all nations, you should praise Yahweh's people,
+\q because Yahweh gets revenge on those who kill the people who serve him,
+\q and he cleanses his people's land
+\q which has become defiled because of their sins."
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 43 Rejoice, you nations, with God’s people,
+\q for he will avenge the blood of his servants;
+\q he will render vengeance on his enemies,
+\q and he will make atonement for his land, for his people.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice|rejoice, exult]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:kt:blood]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:atonement|atonement, atone]]
+
+===== Translation Notes: =====
+This is the end of Moses' song. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **Rejoice, you nations**- Moses addresses the peoples of all the nations as if they were there listening. (See: [[:vi:ta:vol2:translate:figs_apostrophe]])
+  * **for he will avenge the blood of his servants and he will render vengeance on his enemies**  AT: "for he will take revenge on those who killed his servants" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:42|<<]] | [[:vi:bible:notes:deu:32:44|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Jeremiah 42:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 But do not be afraid of the king of Babylon anymore, because I will be with\f + \ft Or: help \f* you. I will rescue you \f + \ft doublet \f* from his power \f + \ft metonymy \f*.
+\v 12 I will be merciful to you by causing him to act kindly toward you. So as a result, he will allow you to stay here in your land.'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 But do not be afraid of the king of Babylon anymore, because I will be with you. I will rescue you from his power.
+\v 12 I will be merciful to you by causing him to act kindly toward you. So as a result, he will allow you to stay here in your land.'
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 Do not fear the king of Babylon, whom you are fearing. Do not fear him'—this is Yahweh’s declaration—'since I am with you to save you and rescue you from his hand.
+\v 12 For I will give you mercy and have compassion on you, andI will bring you back to your land.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:vi:obe:other:babylon|Babylon, Babylonian]]
+  * [[:vi:obe:other:declare|declare, declaration]]
+  * [[:vi:obe:kt:save|save]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:mercy|mercy, merciful]]
+  * [[:vi:obe:kt:compassion|compassion, compassionate]]
+
+===== Translation Notes: =====
+
+  * **rescue you from his hand** - AT: "Yahweh will rescue you from the control of the king of Babylon" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **to save you and rescue you**  - The words "save" and "rescue" mean the same thing and are repeated for emphasis. AT: "to save you" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:42|Jeremiah Chapter 42 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:42:07|<<]] | [[:vi:bible:notes:jer:42:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Judges 08:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 Gideon died when he was very old. They buried his body in the grave where his father Joash was buried, at Ophrah, in the land belonging to the descendants of Abiether.
+\p
+\v 33 But as soon as Gideon died, the Israelites \add left God and gave themselves to worship the images of the god Baal, like\add* \f + \ft metaphor \f* adultresses leave their husbands and go to other men. They made a \add statue of a\add* new god called Baal-Berith.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 Gideon son of Joash died when he was very old. They buried his body in the grave where his father Joash was buried, at Ophrah, in the land of the Abietherites.
+\p
+\v 33 But as soon as Gideon died, the Israelites left God and gave themselves to worship the images of the god Baal, like adultresses leave their husbands and go to other men. They made Baal Berith the god they worshiped.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 Gideon (the son of Joash), died at a good old age and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
+\p
+\v 33 It came about, as soon as Gideon was dead, the people of Israel turned again and prostituted themselves by worshiping the Baals. They made Baal Berith their god.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:other:joash]]
+  * [[vi:obe:kt:death]]
+  * [[:vi:obe:other:tomb]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:other:prostitute]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:other:Baal]]
+  * [[:vi:obe:kt:falsegod]]
+===== Translation Notes: =====
+
+  * **a good old age**  - AT: "very old" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **Ophrah**  - See how you translated the name of this place in [[:vi:bible:notes:jdg:06:11|6:11]].
+  * **Abiezrites**  - See how you translated the name of this people group in [[:vi:bible:notes:jdg:06:11|6:11]].
+  * **turned again**  - AT: "turned away from God" (See:[[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **prostituted themselves by worshiping the Baals**  - AT: gave themselves to worship the images of the god Baal, like adultresses leave their husbands and go to other men. . (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **Baal Berith**  - This is the name of a false god. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:29|<<]] | [[:vi:bible:notes:jdg:08:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

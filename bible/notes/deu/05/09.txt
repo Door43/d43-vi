@@ -1,0 +1,59 @@
+====== Deuteronomy 05:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 You must not bow down to any idol and worship it, because I am Yahweh God, and I am very jealous\f + \ft Or: want you to worship me only \f*. I punish those who sin and hate me. I punish not only them, but I will punish their descendants, down to the third and fourth generation\f + \ft Or: their children and grandchildren and great-grandchildren \f*.
+\v 10 But I will steadfastly love thousands of generations\f + \ft Or: all the descendants \f* of those who love me and obey my commandments \f + \ft Or: I will love for thousands of generations \f*.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 You must not bow down to any idol and worship it, because I am Yahweh God, and I will not tolerate you doing that. I will punish anyone who does that, and their children, grandchildren, and great grandchildren.
+\v 10 But I will steadfastly love thousands of generations of those who love me and obey my commandments.
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 You will not bow down to them or serve them, for I, Yahweh, your God, am a jealous God. I punish the
+ancestors' wickedness by bringing punishment on the children, to the third and fourth generation of those who hate me,
+\v 10 and showing covenant faithfulness to thousands of them who love me and keep my commandments.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bow|bow, bow down]]
+  * [[:vi:obe:other:serve|serve]]
+  * [[:En:obe:kt:Yahweh]]
+  * [[:En:obe:kt:God]]
+  * [[:vi:obe:kt:jealous|jealous, jealousy]]
+  * [[:vi:obe:other:punish|punish, punishment]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:children|children, child]]
+  * [[:vi:obe:other:generation|generation]]
+  * [[:En:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+
+    * **bow down to them or worship them**  - "bow down to the carved figures or worship them"
+    * **am a jealous God** - This means God wants his people to only worship him.
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:05:07|<<]] | [[:vi:bible:notes:deu:05:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

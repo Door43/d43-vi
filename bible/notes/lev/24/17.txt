@@ -1,0 +1,39 @@
+====== Leviticus 24:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Also, If anyone murders another person, he must be executed.
+\v 18 And anyone who kills \add another person's\add* animal must give that person a live animal to replace the one that he killed.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Also, if anyone murders another person, the people must execute him.
+\v 18 And anyone who kills another person's animal must give that person a live animal to replace the one that he killed.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 And he who kills another man must certainly be put to death.
+\v 18 He who kills someone's animal must pay it back, life for life.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+Yahweh continues telling Moses what the people must do.
+  * **And he who kills another man must certainly be put to death** - AT: "You must certainly put to death anyone who kills another person" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **life for life** - AT: "one life to replace the other life" (See: [[vi:ta:vol2:translate:figs_ellipsis]]) 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:24|Leviticus Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:24:15|<<]] | [[:vi:bible:notes:lev:24:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

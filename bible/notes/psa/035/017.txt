@@ -1,0 +1,82 @@
+====== Psalms 035:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Yahweh, how long will you only watch them doing this?
+\q2 Rescue me from their attacking me;
+\q1 Save me from being killed by these men who are attacking me
+\q2 like \f + \ft metaphor \f* lions \add that are attacking other animals\add*!
+\q1
+\v 18 Then, when many of your people gather,
+\q2 I will praise you
+\q1 and I will thank you in front of all of them.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Yahweh, how long will you only watch them doing this?
+\q2 Rescue me from their attacks;
+\q1 Save me from being killed by these men who are attacking me
+\q2 as lions attack other animals!
+\q1
+\v 18 Then, when many of your people gather,
+\q2 I will praise you,
+\q1 and I will thank you in front of all of them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Lord, how long will you look on?
+\q Rescue my soul from their destructive attacks,
+\q my life from the lions.
+\q
+\v 18 Then I will thank you in the great assembly;
+\q I will praise you among many people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lord]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:Life]]
+  * [[:vi:obe:other:lion]]
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:other:peoplegroup]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **how long will you look on**  - AT: "how long will you only watch them doing this" (UDB) or, "when will your time of watching be complete"
+    * **my life from the lions**  - AT:"my very life from wild animals" (See:Translate Unknowns) (See:Metaphor)
+    * **I will thank you... I will praise you..."**  - (See:Parallelism)
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:035|Psalms Chapter 035 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/035/015|<<]] | [[en/bible/notes/psa/035/019|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

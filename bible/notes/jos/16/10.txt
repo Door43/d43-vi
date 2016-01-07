@@ -1,0 +1,50 @@
+====== Joshua 16:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 The people of the tribe of Ephraim could not force the Canaan people-group to leave Gezer, so the Canaan people-group still live among the people of the tribe of Ephraim, but the Israelites forced the people of the Canaan people-group to become their slaves.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 The people of the tribe of Ephraim could not force the Canaanites to leave Gezer. The Canaanites still live there. However, the people of Ephraim forced them to be their slaves.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 They did not drive out the Canaanites who lived in Gezer, so that the Canaanites live within Ephraim to this day, but these people were made to do forced labor.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:canaan]]
+  * [[vi:obe:other:ephraim]]
+  * [[vi:obe:other:labor]]
+
+
+===== Translation Notes: =====
+ 
+   * **these people were made to do forced labor**- "the Israelites forced these people to work as slaves"
+   * **to this day**  - until the time the book was written
+ 
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:16|Joshua Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/16/08|<<]] | [[en/bible/notes/jos/17/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

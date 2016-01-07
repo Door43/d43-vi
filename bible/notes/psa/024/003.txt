@@ -1,0 +1,67 @@
+====== Psalms 024:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Who will be allowed to go up on \add Zion\add* Hill \add in Jerusalem\add*,
+\q2 in order to stand \add and worship\add* in Yahweh's holy temple?
+\q1
+\v 4 Only those whose actions \f + \ft metonymy \f* and thoughts are pure,
+\q2 who have not worshiped idols,
+\q2 and who do not tell lies when they have solemnly promised \add to tell the truth\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Who will be allowed to go up onto Mount Zion in Jerusalem,
+\q2 in order to stand and worship in Yahweh's holy temple?
+\q1
+\v 4 Only those whose actions and thoughts are pure,
+\q2 who have not worshiped idols,
+\q2 and who do not tell lies when they have solemnly promised to tell the truth.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Who will ascend the mountain of Yahweh?
+\q Who will stand in his holy place?
+\q
+\v 4 He who has clean hands and a pure heart;
+\q who has not lifted up his soul to what is false,
+\q and who has not sworn deceitfully.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:clean]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:purify]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:other:oath]]
+  * [[:vi:obe:kt:deceive]]
+
+===== Translation Notes: =====
+
+  * **ascend**  -  "go up" or "climb"
+  * **the mountain of Yahweh** - This refers to Mount Zion in Jerusalem.
+  * **his holy place** - This refers Yahweh's temple (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **who has clean hands** - The word "hands" refers to what a person does. AT: "whose actions are clean" or "who does what is right" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **who has not lifted up his soul to** - AT: "who has not worshiped" or "who has not counted as important"
+  * **what is false** - This refers to idols.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:024|Psalms Chapter 024 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:024:001|<<]] | [[:vi:bible:notes:psa:024:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

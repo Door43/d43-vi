@@ -1,0 +1,56 @@
+====== Jeremiah 32:26-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Then Yahweh gave me this message:
+\v 27 "I am Yahweh, the God \add who rules\add* all the people \add in the world\add*. There is absolutely nothing \f + \ft rhetorical question \f* that is too difficult for me \add to do\add*.
+\v 28 So, this is what I say: \add It is true that\add* I will enable the Babylonian army and King Nebuchadnezzar to capture this city.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Then Yahweh gave me this message:
+\v 27 "I am Yahweh, the God who rules over every living thing in the world. There is absolutely nothing  that is too difficult for me to do.
+\v 28 So, this is what I say: It is true that I will enable the Babylonian army and King Nebuchadnezzar to capture this city.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 This is the word of Yahweh that came to Jeremiah and said,
+\v 27 “Look! I am Yahweh, God of all mankind. Is anything too difficult for me to do?"
+\v 28 Therefore Yahweh says this: "See, I am about to give this city over into the hand of the Chaldeans and Nebuchadnezzar, king of Babylon. He will capture it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:jeremiah]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:babylon]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **This is the word of Yahweh that came to Jeremiah and said** - "This is what Yahweh said to Jeremiah"
+    * **Is anything too difficult for me to do?"** - Yahweh uses a question to emphasize that he can do anything. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+    * **over into the hand of the Chaldeans** - Here "hand" refers to power or control. AT: "to the Chaldeans" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+   
+    
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:32|Jeremiah Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:32:24|<<]] | [[:vi:bible:notes:jer:32:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

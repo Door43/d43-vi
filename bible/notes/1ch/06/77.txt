@@ -1,0 +1,56 @@
+====== 1 Chronicles 06:77-79 ======
+
+===== TFT: =====
+
+<usfm>
+\v 77 The other descendants of Levi, those descended from Merari, were allotted towns and pasturelands from the tribe of Zebulun near Jokneam, Kartah, Rimmono, and Tabor.
+\li2
+\v 78-79 From the tribe of Reuben they were allotted cities and towns and pastureland near Bezer in the desert, Jahzah, Kedemoth, and Mephaath. The tribe of Reuben lived east of the Jordan \add River\add*, across from Jericho.
+\li2
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 77 The other descendants of Levi, those descended from Merari, were allotted towns and pasturelands from the tribe of Zebulun near Jokneam, Kartah, Rimmono, and Tabor.
+\li2
+\v 78-79 From the tribe of Reuben they were allotted cities and towns and pastureland near Bezer in the wilderness, Jahzah, Kedemoth, and Mephaath. The tribe of Reuben lived east of the Jordan River, across from Jericho.
+
+
+\li2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 77 To the rest of the Levites, Merari's descendants,
+were given from the tribe of Zebulun, Rimmono with its pasturelands and Tabor with its pasturelands.
+\v 78-79 To them were also given, on the other side of the Jordan at Jericho, on the river's east side, Bezer in the desert with its pasturelands, Jahzah with its pasturelands, Kedemoth with its pasturelands, and Mephaath with its pasturelands. These were given from the tribe of Reuben.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:levite]]
+  * [[:vi:obe:other:Zebulun]]
+  * [[:vi:obe:other:jordanriver]]
+  * [[:vi:obe:other:jericho]]
+  * [[:vi:obe:other:desert]]
+  * [[:vi:obe:other:reuben]]
+
+===== Translation Notes: =====
+
+  * **Merari** - See how you translated this in [[:vi:bible:notes:1ch:06:01|1 Chronicles 6:1]].
+  * **were given from the tribe** - AT: "gained from the tribe" or "received from the tribe" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **Rimmono ... Mephaath**  - These are the names of places. (See: [[vi:ta:vol1:translate:translate_names]])
+  * **To them were also given** - AT: "They also gained" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **pasturelands** - grassy lands where livestock graze
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:06|1 Chronicles Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:06:74|<<]] | [[:vi:bible:notes:1ch:06:80|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

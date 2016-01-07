@@ -1,0 +1,75 @@
+====== Isaiah 52:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 But now think about what is happening:
+\q1 My people are being forced to be slaves again, this time by the \add people of Babylonia\add*.
+\q2 And \add those who have conquered them this time have also\add* paid me nothing,
+\q1 and they despise me \f + \ft metonymy \f* continually \f + \ft doublet \f*.
+\q1
+\v 6 But my people will then have a close relationship with \f + \ft metonymy \f* me,
+\q2 and when that happens, they will know that I am the one who predicted\f + \ft Or: promised \f* \add that it would happen\add*.
+\q1 It is I, \add Yahweh, who will do it\add*."
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 But now think about what is happening:
+\q1 My people are being forced to be slaves again, this time by the people of Babylonia.
+\q2 And my people's own rulers wail and lament,
+\q1 and the other people groups in the world despise me.
+\q1
+\v 6 But after that, my people will love me and honor me;
+\q2 when that happens, they will know that I am the one who said that this would happen.
+\q1 It is I, Yahweh, who will do it."
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 This is the declaration of Yahweh: "Now what do I have here, seeing that my people are taken away for nothing? Those who rule over them wail, and my name is slandered continually all day long." This is the declaration of Yahweh.
+\q1
+\v 6 "Therefore my people will know my name;
+\q1 they will know in that day that I am the one who said this. Yes, it is I!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:declare]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:slander]]
+  * [[vi:obe:other:know]]
+ 
+
+===== Translation Notes: =====
+
+  * **Now, what do I have here** - Yahweh uses a question to make the people pay attention to what he is about to say. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **declaration of Yahweh** - See how you translated this in [[vi:bible:notes:isa:14:21|14:22]].
+  * **seeing that my people are taken away for nothing** - AT: "I see the enemy taking my people away without cause" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **my name is slandered continually all the day** - Here "name" refers to God's reputation. AT: "those who watch the enemy take away my people are continually saying evil things about me" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:52|Isaiah Chapter 52 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:52:04|<<]] | [[:vi:bible:notes:isa:52:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

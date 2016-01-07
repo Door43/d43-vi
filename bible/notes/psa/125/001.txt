@@ -1,0 +1,85 @@
+====== Psalms 125:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Those\f + \ft Or: We \f* who trust in Yahweh are \add as secure\f + \ft Or: steadfast \f*\add* \f + \ft simile \f* as Zion Hill,
+\q2 which cannot be shaken and can never be moved.
+\q1
+\v 2 Like the hills that surround Jerusalem \add protect the city\add*,
+\q2 Yahweh protects us, his people,
+\q2 and he will protect us forever.
+\b
+\q1
+\v 3 Wicked people \f + \ft metonymy \f* should not \add be allowed to\add* rule over the land where righteous people live.
+\q2 If they did that, those righteous people might \add ◄be encouraged to imitate them and\add*► do things that are wrong.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Those who trust in Yahweh are like Mount Zion,
+\q2 which cannot be shaken or moved out of its place.
+\q1
+\v 2 As the hills that surround Jerusalem protect it,
+\q2 so Yahweh protects us, his people,
+\q2 and he will protect us forever.
+\b
+\q1
+\v 3 Wicked people should not be allowed to rule over the land where righteous people live.
+\q2 If they did that, those righteous people would think of doing wrong themselves.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 125
+\d A song of ascents.
+\b
+\q
+\v 1 Those who trust in Yahweh
+\q are like Mount Zion, unshakable, forever enduring.
+\q
+\v 2 As the mountains surround Jerusalem,
+\q so Yahweh surrounds his people
+\q now and forever.
+\q
+\v 3 The scepter of wickedness must not rule in the land of the righteous.
+\q Otherwise the righteous might do what is wrong.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:zion|Zion, Mount Zion]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:kt:endure]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:scepter]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:wrong|wrong, mistreat, hurt]]
+
+===== Translation Notes: =====
+
+(See: [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **Song of Ascents**- See how you translated this in [[:vi:bible:notes:psa:120:001|120:1]]
+  * **so Yahweh surrounds his people now and forever** - Here the phrase "Now and forever" means "always". AT: "so Yahweh will always surround his people" (See: [[vi:ta:vol2:translate:figs_merism]]) 
+  * **The scepter of wickedness ... land of the righteous** - Here the scepter of wickedness of being used to represent wicked people. AT: "Wicked people must no be allowed to rule the righteous land of Israel" (See: [[vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:125|Psalms Chapter 125 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:124:008|<<]] | [[:vi:bible:notes:psa:125:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

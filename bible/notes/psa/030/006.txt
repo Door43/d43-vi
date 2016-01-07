@@ -1,0 +1,69 @@
+====== Psalms 030:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 As for me, when I had no troubles, I said \add to myself\add*,
+\q2 "No one will defeat me!"
+\q1
+\v 7 Yahweh, because you were good to me,
+\q2 at first you caused me to be safe \add as though I was inside\add* \f + \ft metaphor \f* a mountain.
+\q1 But then \add I became ill, and I thought that\add* you had turned away from me,
+\q2 and I became afraid.
+\b
+\q1
+\v 8 Then I called out to you,
+\q2 and I pleaded for you to help me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 As for me, I was calm when I said to myself, "No one will defeat me!"
+\q1
+\v 7 Yahweh, because you were good to me, at first you caused me to be safe as though I were on top of a high mountain.
+\q1 But then I thought that you had turned away from me, and I became afraid.
+\b
+\q1
+\v 8 So I called out to you, and I pleaded for you to help me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 In confidence I said, "I will never be shaken."
+\q
+\v 7 Yahweh, by your favor you established me as a strong mountain; but when you hid your face, I was troubled.
+\q
+\v 8 I cried to you, Yahweh, and sought favor from my Lord!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:confidence]]
+  * [[vi:obe:kt:favor]]
+  * [[:vi:obe:kt:face]]
+  * [[vi:obe:other:seek]]
+  * [[:vi:obe:kt:lordgod]]
+===== Translation Notes: =====
+
+
+  * **in confidence** - AT: "When I was confident" or "When I felt safe"  (See: [[vi:ta:vol2:translate:figs_abstractnouns]])
+  * **by your favor** - AT: "you showed me favor" or "you were kind to me" (See: [[vi:ta:vol2:translate:figs_abstractnouns]])
+  * **you established me as a strong mountain** - Possible meanings are  1) "you made my mountain stand strong so that I would be safe" or 2) "you made me as strong as a mountain"  (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **when you hid your face** - "when you turned away from me"
+  * **I was troubled** - "I was fearful" or "I was worried" 
+  * **sought favor from my Lord**  - AT: "begged you, my Lord, to have favor on me"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:030|Psalms Chapter 030 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:030:004|<<]] | [[:vi:bible:notes:psa:030:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

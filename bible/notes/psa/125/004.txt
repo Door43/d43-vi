@@ -1,0 +1,61 @@
+====== Psalms 125:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Yahweh, do good things to those who do good things to others
+\q2 and to those who sincerely obey your commands [IDI].
+\q1
+\v 5 But when you punish the wicked people \add who are not Israelites\add*,
+\q2 also punish those \add Israelites\add* who turn away from walking on the good roads that you have shown them!
+\b
+\q1 I wish that things will go well for people in Israel!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh, do good things to those who do good things to others
+\q2 and to those who sincerely obey your commands.
+\q1
+\v 5 But when you punish the Israelites who no longer obey you,
+\q2 you will punish them the same as you punish all the other evildoers.
+\b
+\q1 I wish that things may go well for people in Israel!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Do good, Yahweh, to those who are good
+\q and to those who are upright in their hearts.
+\q
+\v 5 But as for those who turn aside to their crooked ways,
+\q Yahweh will lead them away with the evildoers.
+\q May peace be on Israel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:good]]
+  * [[:vi:obe:kt:upright]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:turn|turn, turn away]]
+  * [[vi:obe:other:evildoer]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+===== Translation Notes: =====
+
+  * **Do good** - This is a request. AT: "Please do good" or "I beg you to do good"
+  * **upright in their hearts**  - AT: "righteous" (See: [[[[:vi:ta:vol1:translate:figs_metaphor]])
+  * **their crooked ways**  - "their wicked ways"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:125|Psalms Chapter 125 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:125:001|<<]] | [[:vi:bible:notes:psa:126:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Jeremiah 22:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add Yahweh also says\add*, "Do not mourn for King \add Josiah\add*;
+\q2 do not cry because he has died.
+\q1 Instead, mourn for \add King Jehoahaz, his son\add*,
+\q2 because he will be captured and taken to another country,
+\q1 and he will never return to see his own country, \add Judah\add*, again."
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh also says, "Do not mourn for King Josiah;
+\q2 do not cry because he has died.
+\q1 Instead, mourn for King Jehoahaz, his son,
+\q2 because he will be captured and taken to another country,
+\q1 and he will never return to see his own country, Judah, again."
+
+
+\m
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Do not weep for the dead. Do not mourn for him. But you must certainly weep for anyone who goes into captivity,
+\q for he will never return and see the land of his birth again.'"'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:other:mourn]]
+  * [[:vi:obe:other:captive]]
+ 
+
+===== Translation Notes: =====
+
+The speaker Yahweh has shifted from addressing the King of Judah and is speaking to a general audience. 
+
+    * **Do not weep for the dead. Do not mourn for him.**  - The subject "you" is implied. (See: [[vi:ta:vol1:translate:figs_explicitinfo]])   
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:22|Jeremiah Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/22/08|<<]] | [[en/bible/notes/jer/22/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

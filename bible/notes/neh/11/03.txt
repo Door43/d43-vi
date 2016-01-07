@@ -1,0 +1,67 @@
+====== Nehemiah 11:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add Some of\add* the priests, \add some of\add* the descendants of Levi, \add some of\add* the temple workers, and the descendants of King Solomon's servants, and many of the other people lived on their own property in the towns \add where their ancestors had lived\add*. But some people from the tribes of Judah and Benjamin decided to live in Jerusalem.
+\v 4 One of them from the tribe of Judah was Athaiah. He was the son of Uzziah, who was the son of Zechariah, who was the son of Amariah, who was the son of Shephatiah, who was the son of Mahalalel, who was a descendant of \add Judah's son\add* Perez.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 These are the provincial officials who came to live in Jerusalem. But in the cities of Judah everyone lived on his own family property in their towns. Some from  Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants came to live in Jerusalem.
+\v 4  But some of the people of Judah and the people of Benjamin stayed and lived in Jerusalem.
+\p
+These are from the relatives of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 These are the provincial officials who lived in Jerusalem. However, in the towns of Judah everyone lived on his own land, including some  Israelites, priests, Levites, temple servants, and descendants of Solomon’s servants.
+\v 4 In Jerusalem lived some of the descendants of Judah and some of the descendants of Benjamin.
+\p
+The people from Judah included: Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[:vi:obe:other:kingdomofjudah|Judah, kingdom of Judah]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:other:levite|Levite, Levi]]
+  * [[:vi:obe:kt:temple|temple]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:descendant|descendant]]
+  * [[:vi:obe:other:solomon|Solomon]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:other:benjamin|Benjamin]]
+  * [[:vi:obe:kt:son|son]]
+  * [[:vi:obe:other:uzziah|Uzziah, Azariah]]
+  * [[:vi:obe:other:zechariahot|Zechariah (OT)]]
+
+===== Translation Notes:  =====
+
+  * **in their towns, including some Israelites**  - "in their towns: Israelites"
+  * **some of the people of Judah and the people of Benjamin**  - "some of the Judahites and some of the Benjaminites" or "some of the descendants of Judah and some of the descendants of Benjamin"
+  * **The people from Judah included:**  - "From the descendants of Judah:"
+  * **a descendant of Perez**  - "from the descendants of Perez"
+  * **Benjamin…Athaiah…Uzziah…Zechariah…Amariah…Shephatiah…Mahalalel…Perez**  - These are male names. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:11|Nehemiah Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:11:01|<<]] | [[:vi:bible:notes:neh:11:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

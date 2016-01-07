@@ -1,0 +1,67 @@
+====== Psalms 112:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 They are confident and not afraid,
+\q2 because they know that they will see \add God defeat\add* their enemies.
+\q1
+\v 9 They give things generously to poor\f + \ft Or: needy \f* people;
+\q2 their kind deeds will endure forever,
+\q2 and they will be exalted and honored.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 They are confident and not afraid
+\q2 because they know that they will see God defeat their enemies.
+\q1
+\v 9 They give things generously to poor people;
+\q2 their kind deeds will endure forever,
+\q2 and they will be exalted and honored.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 His heart is tranquil, without fear,
+\q until he looks in triumph over his adversaries.
+\q
+\v 9 He generously gives to the poor;
+\q his righteousness endures forever;
+\q he will be exalted with honor.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:heart]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:endure]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:kt:exalt]]
+  * [[:vi:obe:other:honor]]
+
+===== Translation Notes: =====
+
+The person who sings this song continues to describe a person who reveres Yahweh.
+  * **His heart is tranquil** - AT: "He is confident." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **his righteousness endures forever** - See how you translated this in [[vi:bible:notes:psa:111:001|111:3]], but notice that here "his" refers to the man who reveres Yahweh and not to Yahweh.
+  * **he will be exalted with honor** - AT: "Yahweh will exalt him by giving him honor." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:112|Psalms Chapter 112 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:112:006|<<]] | [[:vi:bible:notes:psa:112:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

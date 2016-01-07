@@ -1,0 +1,54 @@
+====== Judges 01:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 There were people of the Canaan people-group who lived in Beth-Shan, Taanach, Dor, Ibleam, and Megiddo \add cities\add* and in the surrounding villages. \add The men of\add* the tribe of Manasseh did not force those people to leave those towns, because the people of the Canaan people-group were determined to stay there.
+\v 28 Later, the Israelites became stronger\f + \ft Or: more numerous \f*, and they forced the people of the Canaan people-group to work for them \add as their slaves\add*, but they did not force all the people of the Canaan people-group to leave their land.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 There were Canaanites who lived in Beth Shan, Taanach, Dor, Ibleam, and Megiddo cities and in the surrounding villages. The men of the tribe of Manasseh did not force them to leave those towns, because the Canaanites were determined to stay there.
+\v 28 Later, the Israelites became stronger, and they forced the Canaanites to work for them as their slaves, but they did not force all the Canaanites to leave their land.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 The people of Manasseh did not drive out the people living in the cities of Beth Shan and its villages, or Taanach and its villages, or those who lived in Dor and its villages, or those who lived in Ibleam and its villages, or those who lived in Megiddo and its villages, because the Canaanites were determined to live in that land.
+\v 28 When Israel became strong, they forced the Canaanites to serve them with hard labor, but they never drove them out completely.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:manasseh]]
+  * [[vi:obe:other:castout]]
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:other:canaan]]
+  * [[:En:obe:other:israel]]
+  * [[vi:obe:other:serve]]
+  * [[:vi:obe:other:labor]]
+ 
+
+===== Translation Notes: =====
+
+  * **cities…villages**  - These are towns, which are places where people live together. "Cities" are larger than towns, but "villages" are smaller than towns.
+  * **Beth Shan…Taanach…Dor…Ibleam…Megiddo**  - These are the names of cities. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **because the Canaanites were determined to live in that land**  - To "determine" is to firmly decide something. AT: "because the Canaanites firmly decided not to leave that land"
+  * **they forced the Canaanites to serve them with hard labor**  - AT: "they forced the Canaanites to do hard work for them"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:01|Judges Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:01:25|<<]] | [[:vi:bible:notes:jdg:01:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

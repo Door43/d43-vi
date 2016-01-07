@@ -1,0 +1,44 @@
+====== 1 Kings 12:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 But he ignored what the older men advised him to do. Instead, he consulted the younger men who had grown up with him, who were now his advisors\f + \ft Or: the ones who told him what would be good to do \f*.
+\v 9 He said to them, "What do you say that I should answer the men who are asking me to reduce the \add work and taxes\add* that my father required from them?"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 But he ignored what the older men advised him to do. Instead, he consulted the younger men who had grown up with him, who were now his advisors.
+\v 9 He said to them, "What do you say that I should answer the men who are asking me to reduce the work that my father required from them?"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 But Rehoboam ignored the advice of the old men that they had given him, and consulted with the young men who had grown up with him, who stood before him.
+\v 9 He said to them, "What advice do you give me, so that we may answer the people who spoke to me and said, 'Lighten the yoke that your father put on us’?”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rehoboam]]
+
+===== Translation Notes: =====
+
+  * **who stood before him** - AT: “who counseled him” or “who attended to him” (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **Lighten the yoke that your father put on us** - AT: "Do not treat us as cruelly as your father did" or "do not force us to work as hard as your father did" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:12|1 Kings Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:12:06|<<]] | [[:vi:bible:notes:1ki:12:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

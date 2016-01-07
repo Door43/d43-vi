@@ -1,0 +1,65 @@
+====== Haggai 02:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 On that same day, Yahweh gave another message to Haggai.
+\v 21 He said, "Tell Zerubbabel the governor of Judah that I am going to shake the sky and the earth.
+\v 22 I will end the power of the kings of many nations \f + \ft doublet \f*. I will cause their chariots and their drivers, their horses and \add the soldiers\add* who are riding on them to be destroyed. \add What will happen is that I will cause the soldiers\add* to kill each other with their swords.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 On that same day, Yahweh gave another message to Haggai.
+\v 21 He said, "Tell Zerubbabel, the governor of Judah, that I am going to shake the sky and the earth.
+\v 22 I will end the power of the kings of many nations. I will cause their chariots and their drivers, their horses and the soldiers who are riding on them to be destroyed. The soldiers will kill each other with their own swords.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Then the word of Yahweh came a second time to Haggai on the twenty-fourth day of the month and said,
+\v 21 "Speak to the governor of Judah, Zerubbabel, and say, 
+\q 'I will shake the heavens and the earth.
+\q
+\v 22 for I will overthrow the throne of kingdoms and destroy the strength of the kingdoms of the nations! 
+\q I will overthrow the chariots and their riders; the horses and their riders will fall down, each one because of his brother's sword.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:En:obe:other:governor]]
+  * [[:vi:obe:other:Judah]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:kingdom]]
+  * [[:En:obe:other:nation]]
+  * [[:vi:obe:other:horse]]
+  * [[:vi:obe:kt:brother]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **Haggai** and **Zerubbabel** - (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **on the twenty-fourth day of the month** - (See: [[vi:obe:other:biblicaltime]]).
+  * **I will shake the heavens and the earth**  - Yahweh will cause disruption in their world.
+  * **the heavens and the earth** - This phrase is a figure of speech. AT: "the whole universe". 
+  * **for I will overthrow the throne of kingdoms**- Governments will fall apart in the chaos.
+  * **the throne of kingdoms** - AT: "government ruled by kings". 
+  * **the chariots and their riders** - "Chariots" were horse-drawn carts used in battle. 
+  * **brother's sword** - AT: "the sword on a fellow soldier". 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hag:02|Haggai Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hag:02:18|<<]] | [[:vi:bible:notes:hag:02:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

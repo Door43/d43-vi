@@ -1,0 +1,84 @@
+====== Hosea 02:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 I will destroy all their grapevines and fig trees,
+\q2 which they said were what their idols\f + \ft Or: gods \f* who loved them paid them for worshiping those idols.
+\q1 I will cause those places to become a desert,
+\q2 and wild animals will eat the fruit \add that remains\add*.
+\q1
+\v 13 I will punish my people for all the times that they burned incense to \add honor\add* the idols of Baal.
+\q1 They decorated themselves with rings and jewelry,
+\q2 and they went to worship those false gods\f + \ft Or: idols \f* that \add they thought\add* \f + \ft irony \f* loved them,
+\q2 but they abandoned\f + \ft Or: forgot \f* me!
+\q1 \add That is what I\add*, Yahweh, say.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 I will destroy all of  Israel's grapevines and fig trees.
+\q2 This is because Israel is like a woman who says, 'These were the things that my lovers gave me in payment.'
+\q1 I, Yahweh, will turn those places into a forest, a thicket in which no vines can grow, 
+\q2 and where wild animals will devour any fruit that grows there.' 
+\q1
+\v 13 I will punish this woman named Israel for all the times that she burned incense to worship the Baal idols.
+\q1 She decorated herself with rings and jewelry, as a prostitute would adorn herself for her lovers.
+\q2 She used to follow her lovers—like Israel has gone after the Baals—those false gods that she worshiped.
+\q2 And she forgot about me." This is what Yahweh says.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 "I will destroy her vines and her fig trees,
+\q of which she has said,
+\q "These are my wages that my lovers gave me."
+\q I will make them a forest,
+\q and the animals of the field will eat them.
+\q
+\v 13 I will punish her for the feast days of the Baals,
+\q when she burned incense to them,
+\q when she adorned herself with her rings and jewelry,
+\q and she went after her lovers and forgot me."
+\q This is the declaration of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:vine|vine]]
+  * [[:vi:obe:other:fig|fig]]
+  * [[:vi:obe:other:lover|lover]]
+  * [[:vi:obe:other:baal]]
+  * [[:vi:obe:other:feast|feast]]
+  * [[:vi:obe:other:incense|incense]]
+  * [[:vi:obe:other:declare]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+God is speaking to Hosea about what he will do to Israel.
+
+  * **These are my wages that my lovers gave me.** - payment (wages) that came from her "lovers"  - false gods or Baals. These are the words Yahweh is reporting that Israel said. (See: [[:vi:ta:vol2:translate:figs_quotations]]).
+  * **make them a forest** - destroy the vineyards and fruit trees by allowing other trees and weeds to grow up among them so that only wild animals will be able to get in and reap the harvest. (See: [[:vi:ta:vol1:translate:figs_metaphor]]).
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:02:10|<<]] | [[:vi:bible:notes:hos:02:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

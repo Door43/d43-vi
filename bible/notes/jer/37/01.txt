@@ -1,0 +1,71 @@
+====== Jeremiah 37:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 After Jehoiakim died, \add his son Jehoiachin became king for only three months, after which\add* King Josiah's son Zedekiah became the king of Judah. Nebuchadnezzar, the king of Babylon, appointed him to be the new king.
+\v 2 But King Zedekiah and his palace officials and the other people in the land paid no attention to the messages that Yahweh gave me.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After Jehoiakim died, his son Jehoiachin became king for only three months, after which King Josiah's son Zedekiah became the king of Judah. Nebuchadnezzar, the king of Babylon, appointed him to be the new king.
+\v 2 But King Zedekiah and his palace officials and the other people in the land paid no attention to the messages that Yahweh gave me.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 37
+\p
+\v 1 Now Zedekiah son of Josiah reigned as king instead of Jehoiachin son of Jehoiakim. Nebuchadnezzar king of Babylon had made Zedekiah king over the land of Judah.
+\v 2 But Zedekiah, his servants, and the people of the land did not listen to the words of Yahweh that he proclaimed by the hand of Jeremiah the prophet.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:zedekiah]]
+  * [[:vi:obe:other:josiah]]
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:jehoiachin]]
+  * [[:vi:obe:other:jehoiakim]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:proclaim]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:jeremiah]]
+  * [[:vi:obe:kt:prophet]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:37|Jeremiah Chapter 37 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:36:32|<<]] | [[:vi:bible:notes:jer:37:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Psalms 042:11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 But \add I say to\add* myself,
+\q2 "Why am I sad and discouraged?\f + \ft Or: I should not be sad and discouraged! \f* \f + \ft rhetorical question \f*
+\q1 I will confidently expect God \add to bless me\add*,
+\q2 and I will praise him again,
+\q2 my God, the one who saves me."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 But I say to myself,
+\q2 "Why am I in a panic?
+\q1 I will confidently expect God to bless me,
+\q2 and I will praise him again,
+\q2 my God, the one who saves me."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Why have you melted away, my soul?
+\q Why are you worried within me?
+\q Hope in God, for I will yet praise him,
+\q who is the help of my face and my God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:hope]]
+  * [[vi:obe:other:praise]]
+  * [[:vi:obe:kt:face]]
+===== Translation Notes: =====
+
+  * **Why are you discouraged, my soul?**  - The author refers to himself as "my soul". The author speaks to himself as if he were speaking to another person. (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **he is the help of my face and my God**  - The author refers to himself as "my face". AT: "he is my help and he is my God" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]]) Also, this is written as two phases so that it has a stronger meaning. If necessary they can be combined. AT: "he is my helpful God" (See: [[:vi:ta:vol2:translate:figs_hendiadys|Hendiadys]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:042|Psalms Chapter 042 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:042:009|<<]] | [[:vi:bible:notes:psa:043:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,49 @@
+====== 1 Kings 18:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 For almost three years there was no rain in Samaria. Then Yahweh said this to Elijah: "Go and meet with King Ahab and \add tell him that\add* I will soon send rain."
+\v 2 So Elijah went to talk to Ahab.
+\p In Samaria there was almost no food for anyone to eat.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 For almost three years there was no rain in Samaria. Then Yahweh said this to Elijah: "Go and meet with King Ahab and tell him that I will soon send rain."
+\v 2 So Elijah went to talk to Ahab.
+\p In Samaria there was almost no food for anyone to eat.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\p
+\v 1 So after many days the word of Yahweh  came to Elijah, in the third year of the drought, saying, "Go, show yourself to Ahab, and I will send rain on the land."
+\v 2 Elijah went to show himself to Ahab; now the famine was severe in Samaria.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:wordofgod]]
+  * [[vi:obe:other:elijah]]
+  * [[vi:obe:other:ahab]]
+  * [[vi:obe:other:send]]
+  * [[vi:obe:other:famine]]
+  * [[vi:obe:other:samaria]]
+
+===== Translation Notes: =====
+
+  * **send rain on the land** - AT: "cause rain to fall on the land" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **now the famine was severe** - The word "now" is used here to mark a break in the main storyline. Here the writer tells background information about how the famine had affected Samaria. (See: [[vi:ta:vol2:translate:writing_background]]) 
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:18|1 Kings Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:17:22|<<]] | [[:vi:bible:notes:1ki:18:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,81 @@
+====== Hosea 08:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Someone in\add* Israel made that idol for you;
+\q1 \add but I am\add* God and it is not.
+\q2 So that idol of a calf in Samaria must be smashed to pieces.
+\b
+\q1
+\v 7 \add The foolish thing that the people of Israel have done is like\add* \f + \ft metaphor \f* trying to plant wind;
+\q2 but what they harvest will be like \f + \ft metaphor \f* a whirlwind.
+\q1 So the grain that they planted will have no heads \add on the stalks\add*
+\q2 and as a result \add there will be no grain\add* from which to make flour.
+\q1 And if it did produce good grain,
+\q2 foreigners would \add come and\add* steal it.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 The shame of it is that this idol came from Israel! A craftsman made it. 
+\q1 It is only an idol; it cannot be the true and living God! 
+\q2 I will ensure that someone will smash it to bits.
+\b
+\q1
+\v 7 This is because these people do useless things, so something terrible will destroy them.
+\q2 Their grain standing in the fields will give no harvest.
+\q1 And even if it does, foreign soldiers will eat everything it produces.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 For this idol came from Israel;
+\q a workman made it;
+\q it is not God!
+\q The calf of Samaria will be broken to pieces.
+\q
+\v 7 For the people sow the wind
+\q and reap the whirlwind.
+\q The standing grain has no heads;
+\q it yields no flour.
+\q If it does come to maturity,
+\q foreigners will devour it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:god|God]]
+  * [[: vi:obe:other:cow]]
+  * [[: vi:obe:other:samaria]]
+  * [[:vi:obe:other:grain|grain]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+  * [[:vi:obe:other:devour|devour]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **For the people sow the wind and reap the whirlwind**  - This is figurative language showing cause and effect of Israel's actions: they have "planted" (or committed) evil actions and as a consequence will "reap" (or experience) the destructive results of Yahweh's wrath. (UDB) (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **The standing grain has no heads**  - "Head" here refers to the part of the plant where the grain is. (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:08|Hosea Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:08:04|<<]] | [[:vi:bible:notes:hos:08:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

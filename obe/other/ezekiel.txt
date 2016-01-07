@@ -9,7 +9,7 @@ Ezekiel was a prophet of God during the exile period when many Jews were taken t
   * Among other things, Ezekiel prophesied about the destruction and restoration of Jerusalem and the temple.
   * He also prophesied about the future kingdom of the Messiah.
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:other:Babylon]], [[:vi:obe:kt:Christ]])
 

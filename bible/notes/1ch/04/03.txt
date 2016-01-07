@@ -1,0 +1,45 @@
+====== 1 Chronicles 04:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3-4 The oldest son of Caleb and his wife Ephrathah was Hur. Hur was the one who started\f + \ft Or: founded \f* Bethlehem \add town\add*. His three sons were Etam, Penuel, and Ezer. Etam's sons were Jezreel, Ishma, and Idbash. Their sister was Hazzelelponi. Penuel was the father of Gedor, and Ezer was the father of Hushah.
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 What follows are the names of the three men who started the clans that lived in the city of Etam: Jezreel, Ishma, and Idbash—and they had a sister named Hazzelelponi.
+\v 4 Hur was the firstborn son of Ephrathah; he founded the city of Bethlehem. Hur had these descendants: Penuel and Ezer. Penual started the clans that lived in the city of Gedor, and Ezer started the clans living in the city of Hushah.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 These were the originators of the clans in the city of Etam: Jezreel, Ishma, and Idbash. Their sister's name was Hazzelelponi.
+\v 4 Penuel was the originator of the clans in the city of Gedor. Ezer was the originator of the clans in Hushah. These were descendants of Hur, the firstborn of Ephrathah and the originator of Bethlehem.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jezreel]]
+  * [[:vi:obe:other:bethlehem]]
+  * [[vi:obe:kt:firstborn]]
+
+===== Translation Notes: =====
+
+  * **Etam...Gedor...Hushah** - These are names of cities. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Ishma...Idbash...Penuel...Ezer...Ephrathah** - These are the names of men.
+  * **Hazzelelponi** - This is the name of a woman.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:04|1 Chronicles Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:04:01|<<]] | [[:vi:bible:notes:1ch:04:05|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

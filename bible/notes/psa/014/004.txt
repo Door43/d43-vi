@@ -1,0 +1,53 @@
+====== Psalms 014:4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Will those evil people never learn \add what God will do to punish them\add* \f + \ft rhetorical question \f*?
+\q1 They act violently toward Yahweh's people while eating the food that he provides),
+\q2 and they never pray to Yahweh.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Will those evil people never learn what God will do to punish them?
+\q1 They act violently toward Yahweh's people and want to consume them like one who eats food consumes it,
+\q2 and they never pray to Yahweh.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Do they not know anything, those who commit iniquity,
+\q those who eat up my people as they eat bread,
+\q but who do not call on Yahweh?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:bread]]
+  * [[:vi:obe:kt:call]]
+  * [[vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **Will they not know anything ... who do not call on Yahweh?** - The writer puts this verse in the form of a question to add emphasis. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **those who commit iniquity** - AT: "those who behave in evil ways,"
+  * **those who eat up my people** - Just as people "eat" bread, those who do evil things destroy God's people. (See: [[:vi:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:014|Psalms Chapter 014 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:014:002|<<]] | [[:vi:bible:notes:psa:014:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

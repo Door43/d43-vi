@@ -1,0 +1,45 @@
+====== Deuteronomy 12:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Rejoice there in the presence of Yahweh, along with your children, your male and female servants, and the descendants of Levi who live in your towns. Do not forget that the descendants of Levi will not have their own land, like you do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Rejoice there in the presence of Yahweh, along with your children, your male and female servants, and the descendants of Levi who live in your towns. Do not forget that the descendants of Levi will not have their own land, like you do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 You will rejoice before Yahweh your God—you, your sons, your daughters, your male servants, your female servants, and the Levites who are within your gate, because he has no portion or inheritance among you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice|rejoice, exult]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:levite|Levite, Levi]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[vi:obe:kt:inherit]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+  * **rejoice before Yahweh** - "rejoice in the presence of Yahweh"
+  * **the Levites who are within your gate** - The tribe of Levi did not receive a portion of land because Yahweh was to be their inheritance. Here "gate" refers to the towns or cities where the Levites lived. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:10|<<]] | [[:vi:bible:notes:deu:12:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

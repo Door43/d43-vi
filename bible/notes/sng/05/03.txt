@@ -1,0 +1,67 @@
+====== Song of Solomon 05:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 But I had already taken off my robe;
+\q2 I did not \f + \ft rhetorical question \f* want to put it on again \add to open the door\add*.
+\q1 I had already washed my feet;
+\q2 I did not \f + \ft rhetorical question \f* want to cause them to become dirty again.
+\q1
+\v 4 The one who loves me put his hand through the opening \add in the wall\add*,
+\q2 and I was thrilled in my inner being \add that he was there\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 [The young woman speaking to herself] But I had already taken off my robe;
+\q2 I did not want to put it on again to open the door.
+\q1 I had already washed my feet;
+\q2 I did not want them to get dirty again.
+\q1
+\v 4 The one who loves me put his hand through the opening in the door,
+\q2 and I was thrilled in my inner being that he was there.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 [The young woman speaking to herself] "I have taken off my robe; must I put it on again?
+\q I have washed my feet; must I get them dirty?"
+\q
+\v 4 My beloved put in his hand through the opening of the door latch,
+\q and my heart was stirred up for him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:robe]]
+  * [[vi:obe:kt:beloved]]
+  * [[vi:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **I have taken off my robe** - Possible interpretations are 1) the young woman took off her robe so that she could go to sleep during the night or 2) "I took off my robe." The young woman takes off her cloths so that she can have sex with her lover.
+  * **robe** - thin linen clothing that people wore on their skin
+  * **must I put it on again** - Possible interpretations are 1) AT: "I do not want to get up and put my cloths on in order to let you into the house" or 2) AT: "I could not keep my cloths on because I wanted to have sex too." (See: [[:vi:ta:vol1:translate:figs_rquestion]] and [[:vi:ta:vol1:translate:figs_explicit]])
+  * **I have washed my feet** - Possible interpretations are 1) the young woman had washed her feet so that she could go to bed or 2) People often used the word "feet" as a euphemism to refer to a woman's private parts. AT: or "I washed my vulva" or "I washed my crotch" "I washed my private parts."(See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **must I get them dirty** -  Possible interpretations are 1) the young woman does not want to get her feet dirty by getting out of bed and letting her lover into her house, AT: "I do not want to get them dirty" or 2) "I could not have left them dirty because I wanted to have sex too."
+  * **My beloved put in his hand through the opening of the door latch** - Possible interpretations are 1) the lover reaches into the house through a hole in the door in order to open the door or 2) People sometimes used the word "hand" as a euphemism for the penis. AT: "My beloved pushed his penis in through my vagina."
+  * **My beloved** - See how you translated this in [[vi:bible:notes:sng:01:12|1:12]].
+  * **door latch** - "door lock"
+  * **my heart was stirred up for him** - Possible interpretations are 1) AT: "I began to long for him" or 2) AT: "I began to orgasm because of him" or "my vagina and my vulva began to spasm because of him."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:05|Song of Solomon Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:05:02|<<]] | [[:vi:bible:notes:sng:05:05|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

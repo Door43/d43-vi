@@ -1,0 +1,61 @@
+====== Deuteronomy 10:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 "Now, you Israelite people, \add I will tell you\add* \f + \ft rhetorical question \f* what Yahweh our God requires\f + \ft Or: demands \f* that you do. He requires you to have an awesome respect for him, to conduct your lives as he wants you to, to love him, and to serve him with all that you desire and all that you feel,
+\v 13 and to obey all of his commandments \f + \ft doublet \f* which I am giving to you today for your benefit.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 "Now, you Israelite people, I will tell you what Yahweh our God says that you do. He requires you to honor him, to conduct your lives as he wants you to, to love him, and to serve him with all that you desire and all that you feel,
+\v 13 and to obey all of his commandments  which I am giving to you today, so they will help you.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Now, Israel, what does Yahweh your God require of you, except to fear Yahweh your God, to walk in all his ways, to love him, and to worship Yahweh your God with all your heart and with all your soul,
+\v 13 to keep the commandments of Yahweh, and his statutes, that I am commanding you today for your own good?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Israel]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+
+===== Translation Notes: =====
+
+  * **Now, Israel** - AT: “Now, people of Israel” or “Now, Israelites” (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **what does Yahweh your God require of you...for your own good?** - Moses uses a question to teach the people of Israel. AT: "Yahweh your God requires you to...for your own good." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **with all your heart and with all your soul** - See how you translated this phrase in [[vi:bible:notes:deu:04:29|4:29]].
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:10|Deuteronomy Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:10|<<]] | [[:vi:bible:notes:deu:10:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

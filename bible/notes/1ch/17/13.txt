@@ -1,0 +1,60 @@
+====== 1 Chronicles 17:13-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 I will be \add like\add* a father to him, and \add it will be as though\add* he is a son to me. I stopped loving \add Saul\add*, the one who was the king before you became king, but I will never stop loving your son.
+\v 14 I will cause him to rule over my people \f + \ft metonymy \f*, and his kingdom will endure forever \f + \ft doublet \f*.'~"
+\p
+\v 15 So Nathan reported to David everything that Yahweh had revealed to him.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 I will be like a father to him, and it will be as though he is a son to me. I stopped loving Saul, the one who was the king before you became king, but I will never stop loving your son.
+\v 14 I will cause him to rule over my people and his kingdom will endure forever.’ ” 
+\p
+\v 15 So Nathan reported to David everything that Yahweh had revealed to him.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 I will be a father to him, and he will be my son. I will not take my covenant faithfulness away from him, as I took it from Saul, who ruled before you. 
+\v 14 I will set him over my house and in my kingdom forever, and his throne will be established forever."'"
+\v 15 Nathan spoke to David and reported to him all these words, and he told him about the entire vision.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:other:saul|Saul (OT)]]
+  * [[:vi:obe:other:house|house]]
+  * [[:vi:obe:other:nathan|Nathan]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:vision|vision]]
+
+===== Translation Notes: =====
+
+  * **I will be a father to him…**  - God is speaking. Nathan will give this message to King David.
+  * “I” and "my" refer to God.
+  * "Him," "his" and "he" - in vs. 13-14 refer to David's son, Solomon,  who will be born later.
+  * “You” refers to David.
+  * **in my kingdom forever, and his throne will be established forever** - (See: [[:vi:ta:vol2:translate:figs_doublet]]) 
+  * **reported** - "told"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:17|1 Chronicles Chapter 17 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:17:11|<<]] | [[:vi:bible:notes:1ch:17:16|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

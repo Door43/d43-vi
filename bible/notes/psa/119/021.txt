@@ -1,0 +1,64 @@
+====== Psalms 119:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 You rebuke those who are proud;
+\q2 you curse those who disobey your commands\f + \ft Or: what you have commanded \f*.
+\q1
+\v 22 Do not allow them to continue to insult and scorn me;
+\q2 \add I request this\add* because I have obeyed your requirements\f + \ft Or: what you have instructed us to do \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 You rebuke those who are proud;
+\q2 you curse those who disobey your commands.
+\q1
+\v 22 Do not allow them to continue to insult and scorn me;
+\q2 I request this because I have obeyed your requirements.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 You rebuke the proud, who are cursed,
+\q who wander from your commandments.
+\q
+\v 22 Spare me from disgrace and humiliation,
+\q for I have obeyed your covenant decrees.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rebuke|rebuke]]
+  * [[:vi:obe:other:proud|proud, pride, prideful]]
+  * [[:vi:obe:kt:curse|curse, cursed]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:kt:covenant|covenant]]
+
+===== Translation Notes: =====
+
+  * **who are cursed**  - Possible meanings are that 1) God will curse them, or 2) they deserve God's punishment. AT: "who deserve your punishment"
+  * **who wander from your commandments**  - AT: "who go away from the path of your commandments" or "who disobey your commandments" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **Spare me from**  - "Keep me from" or "Rescue me from"
+  * **and humiliation**  - "and feeling ashamed and foolish"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:019|<<]] | [[:vi:bible:notes:psa:119:023|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

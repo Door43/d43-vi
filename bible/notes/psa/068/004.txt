@@ -1,0 +1,84 @@
+====== Psalms 068:4-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Sing to God; sing to praise him;
+\q1 sing a song \f + \ft Or: make a road \f* for him who rides on the clouds;
+\q1 his name is Yahweh; be glad when you are in his presence.
+\q1
+\v 5 God, who lives in his sacred temple, is like \f + \ft metaphor \f* a father to those who are orphans,
+\q2 and he is the one who protects widows.
+\q1
+\v 6 He provides families \add to live with\add* for those who have no one to live with.
+\q1 He frees prisoners and enables them to be successful,
+\q2 but those who rebel \add against him\add* will be forced to live in a very hot and dry land.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Sing to God; sing to praise him;
+\q1 sing a song for him who rides in the desert plains;
+\q1 his name is Yahweh; be glad when you are in his presence.
+\q1
+\v 5 God, who lives in his sacred temple, is like a father to those who are orphans,
+\q2 and he is the one who protects widows.
+\q1
+\v 6 He provides families for those who have no one to live with.
+\q1 He frees prisoners and enables them to be successful,
+\q2 but those who rebel against him will be forced to live in a very hot and dry land.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Sing to God, sing praises to his name;
+\q make a highway for him who rides through the plains of the Jordan river valley; 
+\q his name is Yahweh; rejoice before him.
+\q
+\v 5 A father of the fatherless, a judge of the widows,
+\q is God in the holy place where he lives. 
+\v 6 God puts the lonely into families;
+\q he brings out the prisoners with singing;
+\q but the rebellious live in a parched land.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:name|name]]
+  * highway
+  * [[:vi:obe:other:jordanriver|Jordan River]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * exult
+  * [[:vi:obe:other:judgeposition|judge]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:prison|prison, prisoner]]
+  * [[:vi:obe:other:rebel|rebel, rebellious]]
+
+===== Translation Notes: =====
+
+  * **make a highway…valley **- This phrase can be translated "The people should make it easy for God to be in their lives".  (See: Metaphor)
+  * **a father of the fatherless**- This can also be translated "God acts like a father to children who have no parents". (See: Metaphor)
+  * **a judge of the widows**  - This can also be translated "God protects widows." (See: Metaphor)
+  * **the lonely into families - **  This can also be translated "Even when we have no earthly family, God treats us as family members." (See: Metaphor)
+  * **he brings out the prisoners with singing - **  This can also be translated "God frees prisoners to be successful." (See: Metaphor)
+  * **rebellious live in a parched land **- This can also be translated "Those who rebel against God are alone, without family, and unprotected. They are prisoners of their sins, and have no resources to get out of their condition." (See: Metaphor)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:068|Psalms Chapter 068 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:068:001|<<]] | [[:vi:bible:notes:psa:068:007|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 025:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Yahweh, show me the way that I should conduct my life\f + \ft Or: live as you want me to \f*,
+\q2 teach me how to act in the manner that you want me to act\f + \ft Or: behave \f*.
+\q1
+\v 5 Teach me to conduct my life \add by obeying\add* your truth
+\q2 because you are my God, the one who saves me.
+\q2 All during the day I trust in you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh, show me the way that I should conduct my life,
+\q2 teach me how to act in the manner that you want me to act.
+\q1
+\v 5 Teach me to conduct my life by obeying your truth
+\q2 because you are my God, the one who saves me.
+\q2 All during the day I trust in you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Make known to me your ways, Yahweh;
+\q teach me your paths.
+\q
+\v 5 Guide me into your truth and teach me,
+\q for you are the God of my salvation;
+\q I hope in you all day long.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:kt:true|true, truth]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:salvation|salvation]]
+  * [[vi:obe:kt:hope]]
+
+===== Translation Notes: =====
+
+  * **your ways ... your paths** - "Ways" and "paths" represent behavior. "The phrases "your ways" and "your paths" refer to the way God wants people to behave. (See [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **I hope in you** - "I depend on you" or "I wait patiently for you"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:025|Psalms Chapter 025 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:025:001|<<]] | [[:vi:bible:notes:psa:025:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,74 @@
+====== Psalms 033:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 We trust that Yahweh will help us;
+\q2 he protects us like a shield protects a soldier \f + \ft metaphor \f*.
+\q1
+\v 21 We rejoice because of what he \add has done for us\add*;
+\q2 we trust in him because he \f + \ft metonymy \f* is holy.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 We trust Yahweh to help us;
+\q2 he protects us as a shield protects a soldier.
+\q1
+\v 21 We rejoice because of what he has done for us;
+\q2 we trust in him because he is holy.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 We wait for Yahweh;
+\q he is our help and our shield.
+\q
+\v 21 Our hearts rejoice in him,
+\q for we trust in his holy name.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:shield]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+
+  * **We wait for Yahweh** - AT: "We trust in Yahweh" (UDB) or "We hope in Yahweh"
+  * **he is our help and our shield** - AT: "he is our helper and protects us like a shield" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Our hearts rejoice** - AT: "We rejoice" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **in his holy name** - AT: "in his holy character" or "in him" or "him" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:033|Psalms Chapter 033 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/033/018|<<]] | [[en/bible/notes/psa/033/022|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,48 @@
+====== 1 Chronicles 02:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 Their sisters were Zeruiah and Abigail. Zeruiah's three sons were Abishai, Joab, and Asahel.
+\v 17 Abigail's husband was Jether, a descendant of Ishmael, and their son was Amasa,
+
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 Their sisters were Zeruiah and Abigail. Zeruiah's three sons were Abishai, Joab, and Asahel.
+\v 17 Abigail's husband was Jether, a descendant of Ishmael, and their son was Amasa,
+
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 Their sisters were Zeruiah and Abigail. The sons of Zeruiah were Abishai, Joab, and Asahel, three of them.
+\v 17 Abigail bore Amasa, whose father was Jether the Ishmaelite.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:sister]]
+  * [[vi:obe:other:joab]]
+
+===== Translation Notes: =====
+
+  * **Zeruiah, Abigail **- These are the names of women. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **Abishi, Joab, Asahel, Amasa, Jether**  -These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **three of them**  - AT: "3 of them" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:02|1 Chronicles Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:02:13|<<]] | [[:vi:bible:notes:1ch:02:18|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

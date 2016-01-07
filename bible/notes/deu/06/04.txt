@@ -1,0 +1,49 @@
+====== Deuteronomy 06:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 You Israelite people, listen! Only Yahweh is our God.
+\v 5 You must love him with all your inner being and with all that you feel and with all that you do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 You Israelite people, listen! Only Yahweh is our God.
+\v 5 You must love him with all your inner being and with all that you feel and in every way that you can.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 4 Listen, Israel: Yahweh our God is one.
+\v 5 You will love Yahweh your God with all your heart, with all your soul, and with all your might.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Israel]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+
+===== Translation Notes: =====
+
+  * **Yahweh our God is one** - Our God Yahweh is the one and only God.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:06|Deuteronomy Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:06:03|<<]] | [[:vi:bible:notes:deu:06:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

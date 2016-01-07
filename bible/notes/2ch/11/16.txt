@@ -1,0 +1,54 @@
+====== 2 Chronicles 11:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 And people from every tribe in Israel who wanted to worship Yahweh, the God to whom the Israelites belonged, went with the descendants of Levi to Jerusalem to offer sacrifices to Yahweh, the God whom their ancestors \add worshiped\add*.
+\v 17 They caused the kingdom of Judah to be strong, and for three years they were happy that Solomon's son Rehoboam was the king. During that time they conducted their lives \add righteously\add* as David and Solomon had done previously.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 And people from every tribe in Israel who wanted to worship Yahweh, the God to whom the Israelites belonged, went with the descendants of Levi to Jerusalem to offer sacrifices to Yahweh, the God whom their ancestors worshiped.
+\v 17 They caused the kingdom of Judah to be strong, and for three years they were happy that Solomon's son Rehoboam was the king. During that time they conducted their lives righteously as David and Solomon had done previously.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 People from all the tribes of Israel came after them, those who set their hearts to seek Yahweh, the God of Israel; they came to Jerusalem to sacrifice to Yahweh, the God of their fathers.
+\v 17 So they strengthened the kingdom of Judah and made Rehoboam, the son of Solomon, strong, during three years—for they walked in the path of David and Solomon for three years.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:tribe]]
+  * [[:En:obe:other:heart]]
+  * [[:vi:obe:other:israel]]
+  * [[:En:obe:other:sacrifice]]
+  * [[:vi:obe:other:father]]
+  * [[:En:obe:other:david]]
+ 
+
+===== Translation Notes: =====
+
+  * **People from all the tribes of Israel came after them**  - The people from the tribes belonging to the northern kingdom who still worshipped the Lord God fled to Judah.
+  * **set their hearts to seek Yahweh**  - AT: "who desire to worship Yahweh"
+  * **for they walked in the path of David and Solomon**  - AT: "for they followed the example of David and Solomon"
+  * **[[:vi:bible:questions:comprehension:2ch:11|2 Chronicles Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:11:13|<<]] | [[:vi:bible:notes:2ch:11:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

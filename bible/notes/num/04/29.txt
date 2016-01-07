@@ -1,0 +1,45 @@
+====== Numbers 04:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Count also the men who belong to the clans descended from Merari.
+\v 30 Write the names of the men who are between thirty and fifty years old. They will be men who will also work at the Sacred Tent.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Count also the men who belong to the clans descended from Merari.
+\v 30 Write the names of the men who are between thirty and fifty years old. They will be men who will also work at the sacred tent.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 You must count the descendants of Merari by their clans, and order them by their ancestor's families,
+\v 30 from thirty years old and older up to fifty years old. Count every one who is going join the company to serve in  the tent of meeting.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:family]]
+
+===== Translation Notes: =====
+
+  * **thirty years old...fifty years old** - AT: "30 years old...50 years old" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **join the company to serve in  the tent of meeting** - See how you translated this in [[vi:bible:notes:num:04:01|4:3]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:04|Numbers Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:num:04:27|<<]] | [[:vi:bible:notes:num:04:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

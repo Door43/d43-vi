@@ -1,0 +1,67 @@
+====== Psalms 025:17-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Help me to not worry,
+\q2 and rescue me from my troubles.
+\q1
+\v 18 Note that I am distressed and troubled \f + \ft doublet \f*,
+\q2 and forgive me for all my sins.
+\q1
+\v 19 Note that I have many enemies,
+\q2 see that they hate me very much.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 I have many troubles that make me afraid;
+\q2 rescue me from them.
+\q1
+\v 18 Note that I am distressed and troubled,
+\q2 and forgive me for all my sins.
+\q1
+\v 19 Note that I have many enemies;
+\q2 you see that they hate me very much.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 The troubles of my heart are enlarged;
+\q draw me out from my distress!
+\q
+\v 18 See my affliction and my toils;
+\q forgive all my sins.
+\q
+\v 19 See my enemies, for they are many;
+\q they hate me with cruel hatred.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:forgive]]
+  * [[:vi:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **The troubles of my heart are enlarged** - AT: "The troubles of my heart have increased" or "I feel very troubled in my heart"
+  * **draw me out from my distress** - "bring me out of my distress."  AT: "rescue me from my distress"
+  * **my distress** - AT: "the things that distress me" or "the things that cause me to be afraid"
+  * **my affliction** - AT: "the things that afflict me" or "how afflicted I am"
+  * **they hate me with cruel hatred** - AT: "they hate me cruelly" or "they hate me fiercely"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:025|Psalms Chapter 025 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:025:014|<<]] | [[:vi:bible:notes:psa:025:020|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

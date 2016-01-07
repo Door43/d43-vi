@@ -1,0 +1,44 @@
+====== Exodus 34:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 Afterwards, all the other Israelite people came near, and he\f + \ft Or: I \f* told them all the laws that Yahweh had given to him\f + \ft Or: me \f* on Sinai Mountain.
+\v 33 When Moses\f + \ft Or: I \f* finished talking to the people, he\f + \ft Or: I \f* put a veil over his\f + \ft Or: my \f* face.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 Afterwards, all the Israelite people came near, and he told them all the commands that Yahweh had given to him on Mount Sinai.
+\v 33 When Moses finished talking to the people, he covered his face with a cloth.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 After this, all the people of Israel came up to Moses, and he told them all the commands that Yahweh had  given him on Mount Sinai.
+\v 33 When Moses had finished speaking with them, he put a veil over his face.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:israel]]
+  * [[vi:obe:other:moses]]
+  * [[:vi:obe:other:command]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:sinai]]
+  * [[:vi:obe:kt:veil|veil]]
+
+===== Translation Notes: =====
+
+  * **he put a veil over his face**- AT: "He put a veil over his face because it was still shining." (See: [[vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:34|Exodus Chapter 34 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:34:29|<<]] | [[:vi:bible:notes:exo:34:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

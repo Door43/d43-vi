@@ -1,0 +1,76 @@
+====== Psalms 073:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 \add Now I know that\add* you will surely put them in slippery places,
+\q2 and they will fall down and die.
+\q1
+\v 19 They will be destroyed instantly;
+\q2 they will die in terrible ways.
+\q
+\v 20 They \add will disappear as quickly\add* as a dream disappears when a person awakes in the morning;
+\q2 Lord, when you arise, you will cause them to disappear\f + \ft Or: forget all about them \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Now I know that you will surely put them in dangerous places
+\q2 where they will fall down and die.
+\q1
+\v 19 They will be destroyed instantly;
+\q2 they will die in terrible ways.
+\q
+\v 20 They will disappear as quickly as a dream disappears when a person awakes in the morning;
+\q2 Lord, when you arise, you will cause them to disappear.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Surely you put them in slippery places;
+\q you bring them down to ruin.
+\q
+\v 19 How they become a wilderness in a moment!
+\q They come to an end and are finished in awful terrors.
+\q
+\v 20 They are like a dream after one wakes up;
+\q2 Lord, when you arise, you will think nothing of those dreams.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ruin]]
+  * [[:vi:obe:other:desert]]
+  * [[:vi:obe:other:terror]]
+  * [[vi:obe:kt:lordgod]]
+  * [[:vi:obe:other:dream]]
+ 
+
+===== Translation Notes: =====
+
+  * **put them**- The word "them" refers to the wicked.
+  * **slippery places**  - AT: "unsafe or unstable ground."
+  * **How they become a wilderness in a moment**  - This phrase means  "How quickly they are destroyed."
+  * **like a dream after one wakes up**  - This phrase means "easily forgotten." The wicked will last no longer than what we see in a dream. It disappears as soon as one wakes up.(See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:073:016|<<]] | [[:vi:bible:notes:psa:073:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

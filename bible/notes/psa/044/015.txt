@@ -1,0 +1,78 @@
+====== Psalms 044:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 All day I feel disgraced;
+\q2 from seeing my face, people know that I am ashamed.
+\q
+\v 16 I hear what those who sneer at me and revile me say;
+\q2 I am ashamed in front of my enemies and those who want to harm me.
+\b
+\q1
+\v 17 All these things have happened to us
+\q2 even though we have not forgotten you,
+\q2 and we are not the ones who disobeyed the agreement you made with \add our ancestors\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 All day I am disgraced;
+\q2 from seeing my face, people know that I am ashamed.
+\q
+\v 16 I hear what those who sneer at me and revile me say;
+\q2 I am ashamed in front of my enemies and those who want to harm me.
+\b
+\q1
+\v 17 All these things have happened to us
+\q2 even though we have not forgotten you,
+\q2 and we are not the ones who disobeyed the covenant you made with our ancestors.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 All the day long my dishonor is before me,
+\q and the shame of my face has covered me
+\q
+\v 16 because of the voice of him who rebukes and insults,
+\q because of the enemy and the avenger.
+\q
+\v 17 All this has come on us; yet we have not forgotten you
+\q or dealt falsely with your covenant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:dishonor]]
+  * [[vi:obe:other:shame]]
+  * [[:vi:obe:kt:face|face]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[vi:obe:other:rebuke]]
+  * [[:vi:obe:kt:avenge|avenge, revenge, vengeance]]
+  * [[:vi:obe:kt:covenant|covenant]]
+
+===== Translation Notes: =====
+
+  * **my dishonor is before me** - This phrase means that he is always thinking about his dishonor, like you would think about something that was always in front of you. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **the shame of my face** - The author refers to himself by his face, which is the part of his body that other people recognize him by.  AT: "my shame" or "my shameful reputation" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **has covered me**- This phrase refers to how his shame has effected everything in his life. AT: "is all over me" or "has become very great" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **him who rebukes and insults**- Both of these words have similar meanings. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:044:012|<<]] | [[:vi:bible:notes:psa:044:018|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

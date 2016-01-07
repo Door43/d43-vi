@@ -1,0 +1,53 @@
+====== 1 Kings 15:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 After Jeroboam had been the king of Israel for almost twenty years, Asa started to rule Judah.
+\v 10 He ruled in Jerusalem for 41 years. His grandmother was Maacah, the granddaughter of Absalom.
+\p
+\v 11 Asa did what was pleasing to Yahweh, as his ancestor David had done.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 After Jeroboam had been the king of Israel for almost twenty years, Asa started to rule Judah.
+\v 10 He ruled in Jerusalem for forty-one years. His grandmother was Maacah, the daughter of Abishalom.
+\p
+\v 11 Asa did what was pleasing to Yahweh, as his ancestor David had done.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 In the twentieth year of Jeroboam king of Israel, Asa began to reign over Judah.
+\v 10 He ruled forty-one years in Jerusalem. His grandmother’s name was Maacah, the daughter of Abishalom.
+\v 11 Asa did what was right in the eyes of Yahweh, as David, his ancestor, had done.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:jeroboam]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:other:kingdomofisrael]]
+  * [[vi:obe:other:kingdomofjudah]]
+  * [[vi:obe:other:jerusalem]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:david]]
+
+===== Translation Notes: =====
+
+  * **In the twentieth year** - AT: "In year 20" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **forty-one years** - AT: "41 years"
+  * **right in the eyes of Yahweh**  - AT: "what Yahweh considered to be right" (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:15|1 Kings Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:15:07|<<]] | [[:vi:bible:notes:1ki:15:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,69 @@
+====== Proverbs 30:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add I will list four kinds of evil things that people do\add*:
+\q1 Some people curse their fathers and do not \add ask God to\add* bless their mothers.
+\q1
+\v 12 Some people think that they are perfect,
+\q2 but really they have never been cleansed from their guilt for committing disgusting sins.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 There are many people who curse their fathers
+\q2 and they do not praise their mothers or thank them; 
+\q1
+\v 12 those people think everything they do should not be criticized,
+\q2 but really they have never been cleansed from their filth.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 A generation that curses their father 
+\q and does not bless their mother,
+\q
+\v 12 that is a generation that are pure in their own eyes,
+\q but they are not washed of their filth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:generation]]
+  * [[:En:obe:kt:curse]]
+  * [[:En:obe:kt:bless]]
+  * [[:vi:obe:kt:purify]] 
+
+===== Translation Notes: =====
+
+
+    * **A generation that curses their father and does not bless their mother** - "A generation of people who curse their fathers and do not bless their mothers"
+    *  **are pure in their own eyes** - AT: "believes they are pure" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **they are not washed of their filth**  - AT: "they are not cleansed from their sins" or "they are still dirty with their sins" (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:30|Proverbs Chapter 30 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/30/10|<<]] | [[en/bible/notes/pro/30/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Deuteronomy 01:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 So now continue traveling. Go to the hilly area where the Amor people-group lives and to the nearby areas—to the Jordan \add River\add* Valley, to the hilly region, to the western foothills\f + \ft Or: hills at the bottom of the mountains \f*, to the desert area to the south, to the \add Mediterranean\add* seacoast, to all of Canaan land, to the Lebanon \add mountains\add*, and \add northeast\add* to the great Euphrates River.
+\v 8 Note that I will give that land to you. I, Yahweh, promised to your ancestors Abraham and Isaac and Jacob that I would give it to them and to their descendants. So now go and occupy it.'~"
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 So now continue traveling. Go to the hilly area where the Amorites live and to the nearby areas—to the plain along the Jordan, to the hilly region, to the western foothills, to the southern Judean wilderness, to the Mediterranean seacoast, to all the land of Canaan, to the Lebanon mountains, and northeast to the great Euphrates River.
+\v 8 I will give that land to you. I, Yahweh, promised to your ancestors Abraham and Isaac and Jacob that I would give it to them and to their descendants. So now go and occupy it.'"
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 Turn and take your journey, and go to the hill country of the Amorites and to all the places near there in the plain of the Jordan river valley, in the hill country, in the lowland, in the Negev, and by the seashore—the land of the Canaanites, and in Lebanon as far as the Great River, the Euphrates River.
+\v 8 Look, I have set the land before you; go in and possess the land that Yahweh swore to your fathers—to Abraham, to Isaac, and to Jacob—to give to them and to their descendants after them.’"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:amorite]]
+  * [[vi:obe:other:jordanriver]]
+  * [[:vi:obe:other:negev]]
+  * [[:vi:obe:other:canaan]]
+  * [[:vi:obe:other:lebanon]]
+  * [[:vi:obe:other:euphrates]]
+  * [[:vi:obe:other:possess]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:oath]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:abraham]]
+  * [[:vi:obe:other:isaac]]
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:other:descendant]]
+
+===== Translation Notes: =====
+ 
+Moses continues to remind the people of Israel what Yahweh said to them.
+    * **take your journey** - "set out on a journey"
+    * **hill country...Euphrates River**  - Yahweh is describing which areas are a part of the land that he has promised to give to the Israelites.
+    * **hill country**  - the areas in the hills around the place where the Amorites lived
+    * **lowland**  - an area of low hills between the high hill country and the planes near the coast.
+    
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:01|Deuteronomy Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/01/05|<<]] | [[en/bible/notes/deu/01/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

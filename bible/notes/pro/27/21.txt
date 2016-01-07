@@ -1,0 +1,64 @@
+====== Proverbs 27:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 \add Workers put\add* silver and gold in a very hot furnace \add to burn out what is impure\add*,
+\q2 and \f + \ft simile \f* people learn \add what we are really like when they see how we react when people\add* praise us.
+\b
+\q1
+\v 22 Even if you beat\f + \ft Or: crush \f* a fool severely like \f + \ft metaphor \f* you pulverize grain with a pestle,
+\q2 you probably will not be able to cause him to stop being foolish\f + \ft Or: doing foolish things \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Silver is refined in a crucible, and gold is put into a furnace to be made pure;
+\q2 and how a person responds to the praise given to them 
+\q2 will tell you what kind of person he is. 
+\q1
+\v 22 Through you grind a fool at the same time you are grinding up the grain,
+\q2 you will not be able to take the foolishness out of from him.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 The crucible is for silver and the furnace is for gold,
+\q and a person is tested when he is praised. 
+\q
+\v 22 Though you should crush the fool with the pestle—along with the grain—
+\q yet his foolishness will not leave him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:silver|silver]]
+  * [[:vi:obe:other:furnace]]
+  * [[:vi:obe:other:gold|gold]]
+  * [[:vi:obe:kt:test|test]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:foolish|fool, foolish, folly]]
+
+===== Translation Notes: =====
+
+  * **crucible** - a container used for heating substances to very high temperatures
+  * **Though you should crush the fool ... yet his foolishness will not leave him** - This means that even if a fool was crushed like grain is crushed by a mortar and pestle, the foolishness could not be removed from him. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Though you should** - AT: "Even if you"
+  * **pestle** - a tool for grinding materials in a mortar
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:27|Proverbs Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:27:19|<<]] | [[:vi:bible:notes:pro:27:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

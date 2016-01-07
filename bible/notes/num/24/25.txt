@@ -1,0 +1,37 @@
+====== Numbers 24:25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 Then Balaam and Balak returned to their homes.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 Then Balaam and Balak returned to their homes.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\m
+\v 25 Then Balaam got up and left. He returned to his home, and Balak also went away.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:balaam]]
+
+===== Translation Notes: =====
+
+  * **Balak** - See how you translated this name in [[vi:bible:notes:num:22:02|22:2]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:num:24:23|<<]] | [[:vi:bible:notes:num:25:01|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

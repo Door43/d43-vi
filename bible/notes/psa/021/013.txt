@@ -1,0 +1,55 @@
+====== Psalms 021:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Yahweh, show us that you are very strong!
+\q2 When you do that, while we sing we will praise you because you are very powerful.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh, show us that you are very strong!
+\q2 When you do that, we will sing and praise you because you are very powerful.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Be exalted, Yahweh, in your strength;
+\q we will sing and praise your power.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:exalt]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:power]]
+
+===== Translation Notes: =====
+
+
+  * **in your strength** - "in your force" AT: “because you are strong”
+  * **sing and praise** - These two words basically mean the same thing and are repeated to emphasize the enthusiasm of the people. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:021|Psalms Chapter 021 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/021/011|<<]] | [[en/bible/notes/psa/022/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Revelation 21:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Then \add God\add*, who sits on the throne, said, "Listen to this! I am \add now\add* making everything new!" He said \add to me\add*: "Write these things \add that I have told you\add*, because you can trust \add that I will certainly cause them to happen\add*."
+\v 6 He said to me, "I have completed \add all these things\add*! I am the one who began all things \f + \ft metaphor \f* and the one who will cause all things to end \f + \ft metaphor \f*. To everyone who is \add spiritually\add* thirsty \f + \ft metaphor \f*, I will freely give\f + \ft Or: give as a free gift \f* water from the spring \add that causes people\add* to live \add forever\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Then God, who sits on the throne, said, "Listen to this! I am now making everything new!" He said to me: "Write these things that I have told you because you can trust that I will certainly cause them to happen."
+\v 6 He also said to me, "I have completed all these things! I am the one who began all things and the one who will cause all things to end. To everyone who wants it, I will freely give water from the spring that causes people to live forever.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 He who was seated on the throne said, "Look! I make all things new." He said, "Write this down because these words are trustworthy and true."
+\v 6 He said to me, "These things are done! I am the Alpha and the Omega, the beginning and the end. To the one who thirsts I will give drink without cost from the spring of the water of life.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:gift]]
+ 
+
+===== Translation Notes: =====
+
+    * **the Alpha and the Omega, the Beginning and the End** - These two phrases share similar meanings and are combined to emphasize that God is eternal. (See: [[:vi:ta:vol2:translate:figs_doublet]] and [[vi:ta:vol2:translate:figs_merism]]).
+    * **the Alpha and the Omega** - See how you translated this in [[vi:bible:notes:rev:01:07|1:8]].
+    * **To the one who thirsts...water of life** - This means God will freely give eternal life to any person that really wants it. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:21|Revelation Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:21:03|<<]] | [[:vi:bible:notes:rev:21:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

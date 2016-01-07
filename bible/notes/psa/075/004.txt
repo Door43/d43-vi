@@ -1,0 +1,70 @@
+====== Psalms 075:4-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 I say to people who boast\f + \ft Or: talk proudly about themselves \f*, 'Stop bragging!'
+\q1 and I say to wicked people, 'Do not proudly \add do things to\add* show how great you are [IDI]!
+\q
+\v 5 Do not be arrogant,
+\q2 and do not speak so boastfully!'~"
+\b
+\q1
+\v 6 The one who judges people does not come from the east or from the west,
+\q1 and he does not come from the desert.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 I say to people who boast, 'Stop bragging!'
+\q1 and I say to wicked people, 'Do not proudly do things to show how great you are!'"
+\q
+\v 5 Do not be arrogant,
+\q2 and do not speak so boastfully!
+\b
+\q1
+\v 6 The one who judges people does not come from the east or from the west,
+\q1 and he does not come from the desert.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 I said to the arrogant, "Do not be arrogant,"
+\q and to the wicked, "Do not be confident of victory.
+\q
+\v 5 Do not be so sure of victory;
+\q do not speak with your head held so high."
+\q
+\v 6 Victory does not come from the east, from the west,
+\q or from the wilderness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:arrogant|arrogant]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+
+===== Translation Notes: =====
+
+God continues to speak in 75:4-5. The writer begins speaking in 75:6.
+
+  * **and to the wicked** - "and I said to the wicked" (See: [[vi:ta:vol2:translate:figs_ellipsis]])
+  * **Do not be confident ... Do not be so sure** - It would be better to use the same words two times than to make these two lines one. "Do not be confident" is parallel to "Do not be arrogant," and "Do not be so sure" is parallel to "do not speak."
+  * **with your head held so high** - "arrogantly" (See: [[vi:ta:vol1:translate:figs_idiom]] and [[vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:075|Psalms Chapter 075 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:075:001|<<]] | [[:vi:bible:notes:psa:075:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

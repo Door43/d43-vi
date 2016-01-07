@@ -1,0 +1,80 @@
+====== Job 21:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add But allow me to ask this:\add* 'Why do wicked people continue to live,
+\q2 and become prosperous, and not die until they are very old?'
+\q1
+\v 8 They see their children around them,
+\q2 and they watch them while they \add grow up and\add* start to live in their own houses.
+\q1
+\v 9 Wicked people live in their own houses without being afraid,
+\q2 and God does not punish \f + \ft metonymy \f* them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 But allow me to ask this: 'Why do wicked people continue to live,
+\q2 and become prosperous, and not die until they are very old?'
+\q1
+\v 8 They see their children around them,
+\q2 and they watch them while they grow up and start to live in their own houses.
+\q1
+\v 9 Wicked people live in their own houses without being afraid,
+\q2 and God does not punish them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Why do the wicked continue to live,
+\q become old, and grow mighty in power?
+\q
+\v 8 Their descendants are established with them in their sight,
+\q and their offspring are established before their eyes.
+\q
+\v 9 Their houses are safe from fear;
+\q neither is the rod of God on them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:mighty]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:offspring]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:other:rod]]
+  * [[:vi:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+  * **rod of God - A rod is a stick used for disciplining or punishing. Here the word is used  of God's discipline or punishment.(See: Metanymy)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:21|Job Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:job:21:04|<<]] | [[:vi:bible:notes:job:21:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

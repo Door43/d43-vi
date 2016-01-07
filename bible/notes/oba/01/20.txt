@@ -1,0 +1,59 @@
+====== Obadiah 01:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 Those who were exiled in\f + \ft Or: forced to go to \f* \add Babylon\add* will \add return to their land\add*
+\q2 \add and\add* capture the Phoenicia \add region\add* as far north as Zarephath \add on the coast of the Mediterranean Sea\add*.
+\q1 People of Jerusalem who were captured and taken to Sardis, \add the capital city of the Lydia region\add*, will capture the towns in the southern desert.
+\q1
+\v 21 The army of Jerusalem will attack Edom and conquer it,
+\q2 and Yahweh will be their king.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 Those who were exiled in Babylon will return to their land
+\q2 and capture the region of Phoenicia as far north as Zarephath on the coast of the Mediterranean Sea.
+\q1 People of Jerusalem who were captured and taken to Sardis, the capital city of the region of Lydia, will capture the towns in the southern Judean wilderness.
+\q1
+\v 21 The army of Jerusalem will attack Edom and conquer it,
+\q2 and Yahweh will be their king.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 The exiles of this host of the people of Israel will posess the land of Canaan as far as Zarephath. The exiles of Jerusalem, who are in Sepharad, will possess the cities of the Negev.
+\v 21 Saviors will go up to mount Zion to judge the mount of Esau, and the kingdom will be Yahweh's.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:exile]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:canaan]]
+  * [[vi:obe:other:jerusalem]]
+  * [[vi:obe:other:negev]]
+  * [[vi:obe:kt:savior]]
+  * [[vi:obe:other:zion]]
+  * [[vi:obe:kt:judge]]
+  * [[vi:obe:other:esau]]
+  * [[:vi:obe:other:kingdom]]
+  * [[vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **The exiles of this host of the people of Israel** - "Those of the host of the people of Israel who were in exile"
+  * **host** - a very large group of people
+  * **Zarephath** - the name of a Phoenician city on the coast of the Mediterranean between Tyre and Sidon (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Sepharad** - the name of a place whose location is unknown.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:oba:01|Obadiah Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:oba:01:19|<<]] | **
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

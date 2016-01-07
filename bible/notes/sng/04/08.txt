@@ -1,0 +1,66 @@
+====== Song of Solomon 04:8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 My bride, \add it is as though you are in\add* \f + \ft metaphor \f* Lebanon
+\q2 \add far away, where I cannot reach you\add*;
+\q1 come back to me.
+\q1 \add It is as though you are inaccessible\add* \f + \ft metaphor \f*
+\q2 on the top of Hermon Mountain or the nearby peaks.
+\q1 Come from where the lions have their dens
+\q2 and where the leopards live on the mountains.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 My darling, it is as though you were in Lebanon
+\q2 far away, where I cannot reach you.
+\q1 Come back to me.
+\q1 It is as though you were on the top of Mount Hermon
+\q2 or the nearby peaks, where I cannot go to you.
+\q1 Come from the mountains, where the lions have their dens
+\q2 and where the leopards live on the mountains.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Come with me from Lebanon, my bride.
+\q Come with me from Lebanon;
+\q come from the top of Amana,
+\q from the top of Senir and Hermon,
+\q from lions’ dens,
+\q from mountain dens of leopards.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lebanon]]
+  * [[vi:obe:other:bride]]
+  * [[:vi:obe:other:lion]]
+  * [[:vi:obe:other:leopard]]
+
+===== Translation Notes: =====
+
+Solomon is inviting his wife to be close to him.
+
+  * **Amana** - a mountain near Damascus (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Senir** - a mountain top in Lebanon
+  * **Hermon** - a mountain in Palestine
+  * **dens** - "hideaways" or "caves"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:04|Song of Solomon Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:04:06|<<]] | [[:vi:bible:notes:sng:04:09|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

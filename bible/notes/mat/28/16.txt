@@ -1,0 +1,45 @@
+====== Matthew 28:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 \add Later we\add* eleven \add disciples\add* went to Galilee \add district\add*. We went to the mountain where Jesus had told\add us\add* to go.
+\v 17 We saw him \add there\add* and worshipped him. But some of\add us\add* doubted \add that it was really Jesus, and that he had become alive again\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 Later the eleven disciples went to the district of Galilee. They went to the mountain where Jesus had told them to go.
+\v 17 they saw him there and worshiped him. But some doubted that it was really Jesus and that he had become alive again.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 But the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.
+\v 17 When they saw him, they worshiped him, but some doubted.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:thetwelve]]
+  * [[:vi:obe:kt:disciple]]
+  * [[:vi:obe:other:galilee]]
+  * [[:vi:obe:kt:jesus]]
+  * [[:vi:obe:kt:worship]]
+
+===== Translation Notes: =====
+
+This begins the account of Jesus meeting with his disciples after his resurrection.
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:mat:28|Matthew Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:28:14|<<]] | [[:vi:bible:notes:mat:28:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

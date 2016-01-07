@@ -1,0 +1,55 @@
+====== 1 Chronicles 03:19-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Pedaiah's sons were Zerubbabel and Shimei.
+\li1 \add Two of\add* Zerubbabel's sons were Meshullam and Hananiah, and their sister was Shelomith.
+\v 20 \add Zerubbabel's five other sons were\add* Hashubah, Ohel, Berekiah, Hasadiah, and Jushab-Hesed.
+\li1
+\v 21 The descendants of Hananiah were Pelatiah and Jeshaiah. Jeshaiah's son was Rephaiah. Rephaiah's son was Arnan. Arnan's son was Obadiah. Obadiah's son was Shecaniah.
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Pedaiah's sons were Zerubbabel and Shimei.
+\li1 Two of Zerubbabel's sons were Meshullam and Hananiah, and their sister was Shelomith.
+\v 20 Zerubbabel's five other sons were Hashubah, Ohel, Berekiah, Hasadiah, and Jushab Hesed.
+\li1
+\v 21 The descendants of Hananiah were Pelatiah and Jeshaiah. Jeshaiah's son was Rephaiah. Rephaiah's son was Arnan. Arnan's son was Obadiah. Obadiah's son was Shecaniah.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 Pedaiah's sons were Zerubbabel and Shimei. Zerubbabel's sons were Meshullam and Hananiah; Shelomith was
+their sister.
+\v 20 His other five sons were Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed.
+\v 21 Hananiah's descendants were Pelatiah, Jeshaiah, and Rephaiah's sons—Arnan, Obadiah, and Shecaniah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:zerubbabel]]
+  * [[vi:obe:other:sister]]
+  * [[:vi:obe:other:descendant]]
+  * [[vi:obe:other:obadiah]]
+
+===== Translation Notes: =====
+
+  * **Pedaiah...Shimei...Meshullam...Hananiah...Hashubah...Ohel...Berechiah...Hasadiah...Jushab Hesed...Pelatiah...Jeshaiah...Rephaiah...Arnan...Shecaniah** - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Shelomith** - This is the name of a woman.
+  * **Obadiah** - This man has the same name as the prophet Obadiah but is a different person.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:03|1 Chronicles Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:03:17|<<]] | [[:vi:bible:notes:1ch:03:22|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

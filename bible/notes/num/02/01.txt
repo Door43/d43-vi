@@ -1,0 +1,55 @@
+====== Numbers 02:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Yahweh said this to Aaron and Moses\f + \ft Or: me \f*:
+\v 2 "When the Israelites set up their tents, they should set them up in areas that surround the Sacred Tent, but not close to it. The people of each tribe must set up their tents in a different area. Each tribe must erect in that area a flag\f + \ft Or: banner \f* that represents their tribe.
+\b
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Yahweh said this to Aaron and Moses,
+\v 2 "When the Israelites set up their tents, they are to set them up in areas that surround the sacred tent, but not close to it. The people of each tribe must set up their tents in a different area. Each tribe must erect in that area a flag that represents their tribe.
+\b
+
+
+\li
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 Yahweh spoke again to Moses and Aaron. He said,
+\v 2 "Every descendant of Israel must camp around the banner of his armed group belonging to the army, and around a smaller flag indicating his tribe. Their camps must face the tent of meeting.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:moses]]
+  * [[:vi:obe:other:aaron]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:tribe]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:other:tentofmeeting]]
+
+===== Translation Notes: =====
+
+  * **banner** - A “banner” is a large flag.
+  * **his armed group** - “his military division”
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:02|Numbers Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:num:01:53|<<]] | [[:vi:bible:notes:num:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

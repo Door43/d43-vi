@@ -1,0 +1,78 @@
+====== Song of Solomon 03:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Who is it that is coming from the desert,
+\q2 who is \add stirring up dust\add* like a column of smoke
+\q1 from burning myrrh and incense
+\q2 \add made from\add* spices \add imported by\add* merchants?
+\q1
+\v 7 It is \add someone\f + \ft Or: Solomon's bride \f*\add*, \add sitting in\add* Solomon's palanquin\f + \ft Or: portable chair \f*
+\q2 surrounded by sixty bodyguards
+\q2 chosen from the strongest\f + \ft Or: greatest \f* warriors in Israel.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 What is that I see coming from the wilderness,
+\q2 something that is stirring up dust like a column of smoke
+\q1 like some from burning myrrh and incense
+\q2 made from spices imported by merchants?
+\q1
+\v 7 It is Solomon's litter carried by servants and
+\q2 surrounded by sixty bodyguards
+\q2 chosen from the strongest soldiers in Israel.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\b
+\q
+\v 6 [PART THREE] [The young woman speaking to herself] What is that coming up from the wilderness
+\q like a column of smoke,
+\q perfumed with myrrh and frankincense,
+\q with all powders sold by merchants?
+\q
+\v 7 Look, it is the portable litter of Solomon;
+\q sixty warriors surround it,
+\q sixty soldiers of Israel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:desert]]
+  * [[vi:obe:other:pillar]]
+  * [[:vi:obe:other:myrrh]]
+  * [[:vi:obe:other:frankincense]]
+  * [[:vi:obe:other:solomon]]
+  * [[vi:obe:other:warrior]]
+  * [[:vi:obe:other:israel]]
+
+
+===== Translation Notes: =====
+
+  * **What is that coming up from the wilderness** - The group of people is traveling from the wilderness to Jerusalem. Because the wilderness is low in the Jordan valley and Jerusalem is high in the mountains, the people must go up in order to reach Jerusalem.
+  * **like a column of smoke** - Because the people raised much dust in the air as they traveled, the dust looked like smoke in the distance. AT: "with columns of smoke going up." (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **perfumed with myrrh and frankincense** - AT: "the sweet smelling smoke of myrrh and frankincense surround it." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **with all powders sold by merchants** - AT: "and the sweet smelling smoke of all powders that merchants sell." (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **powders** - a fine dust made by crushing something solid
+  * **Look** - This word shows here that the speaker now discovers the answer to the question in verse 6.
+  * **it is the portable litter** - The word "portable" means that people can easily moved the litter (a bed with a cover) from one place to another. 
+  * **sixty warriors surround it, sixty soldiers of Israel** - This is repeated for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **warriors** - men who fight
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:03|Song of Solomon Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:03:05|<<]] | [[:vi:bible:notes:sng:03:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

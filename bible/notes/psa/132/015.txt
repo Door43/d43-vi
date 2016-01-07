@@ -1,0 +1,71 @@
+====== Psalms 132:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 I will give to the people of Jerusalem all that they need;
+\q2 I will give enough food even to satisfy the poor people there.
+\q1
+\v 16 I will cause the priests \add to behave in a manner worthy of\add* ones whom I have saved;
+\q2 \add that will be as evident as the beautiful\add* robes that they wear \f + \ft metaphor \f*;
+\q2 and all my people who live there will shout joyfully.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 I will give to the people of Jerusalem all that they need;
+\q2 I will give enough food to satisfy even the poor people there.
+\q1
+\v 16 I will cause the priests to behave in a manner worthy of ones whom I have saved;
+\q2 and all my people who live there will shout joyfully.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 I will abundantly bless her with provisions;
+\q I will satisfy her poor with bread.
+\q
+\v 16 I will clothe her priests with salvation;
+\q her faithful ones will shout aloud for joy.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:bread]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:kt:faithful]]
+ 
+
+===== Translation Notes: =====
+
+    * **her ... her ... her ... her**  - "Zion ... Zion's ... Zion's ... Zion's" (See: [[vi:ta:vol2:translate:figs_personification]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:132|Psalms Chapter 132 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/132/013|<<]] | [[en/bible/notes/psa/132/017|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book5}}
+
+~~NOCACHE~~

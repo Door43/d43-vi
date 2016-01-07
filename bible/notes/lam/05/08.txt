@@ -1,0 +1,76 @@
+====== Lamentations 05:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add Officials from Babylon\add* who were \add previously\add* slaves now rule over us,
+\q2 and there is no one who can rescue us from their power.
+\q1
+\v 9 When we roam around in the desert searching for food, we are in danger of being killed,
+\q2 because people there kill strangers with their swords.
+\q1
+\v 10 Our skin has become hot like \f + \ft simile \f* an oven,
+\q2 and we have a very high fever because we are extremely hungry.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Now the people who rule over us are themselves slaves to their own masters in Babylon.
+\q2 There is no one who can rescue us from their power.
+\q1
+\v 9 We go far to look for food, but we are in danger of dying when we do so,
+\q2 because of the robbers who live in the wilderness.
+\q1
+\v 10 Our skin has become hot like an oven,
+\q2 and we have a very high fever because we are extremely hungry.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Slaves rule over us,
+\q and there is no one to rescue us out of their hand.
+\q
+\v 9 We are risking our lives to get our bread
+\q in the face of the sword of the wilderness.
+\q
+\v 10 Our skin is like an oven,
+\q burnt up from the fever of famine.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:ruler]]
+  * [[vi:obe:other:hand]]
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:other:bread]]
+  * [[vi:obe:kt:face]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:other:desert]]
+  * [[:vi:obe:other:famine]]
+
+===== Translation Notes: =====
+
+  * **Slaves rule over us** - Possible meanings are 1) "Now the people who rule over us are themselves slaves to their own masters in Babylon" (UDB) or 2) "People who used to be slaves in Babylon now rule over us."
+  * **to rescue us out of their hand** - Here the word "hand" refers to power. AT: "to rescue us from their power" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **in the face of the sword of the wilderness** - AT: "because there are people in the wilderness who kill others with swords" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:05:05|<<]] | [[:vi:bible:notes:lam:05:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

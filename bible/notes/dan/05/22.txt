@@ -1,0 +1,60 @@
+====== Daniel 05:22-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 Now, Belshazzar, you have become the king. You also knew all these things, but you have not made yourself humble.
+\v 23 You have considered yourself to be greater than \add God\add*, the Lord of heaven. So you have commanded your servants to bring to you these sacred cups, \add which were dedicated to the Supreme God\add*, and which were taken from his temple \add in Jerusalem\add*. You and your officials and your wives and your concubines\f + \ft Or: slave wives \f* have been drinking wine from these cups, while you have been praising your own gods—gods which are made of gold and silver and bronze and iron and wood and stone. Those are gods that cannot see, that cannot hear, and that do not know anything! You have not honored the God who gives you breath and who controls everything that happens to you.
+\v 24 So God sent this hand to write a message \add for you\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 Now, Belshazzar, you have become the king. You knew all these things, but you have not made yourself humble.
+\v 23 You have put yourself above the Lord who rules in heaven. You called for the cups from the house of God in Jerusalem so that you could use them to drink wine. You and your officials and your wives and your concubines have been drinking wine from these cups and toasting your own gods—gods of gold and silver, bronze, iron, wood, and stone. Those gods cannot see, they cannot hear, and they do not know anything! But you have not honored God, who gives you breath and who controls everything that happens to you.
+\v 24 So God sent this hand to write a message for you on the wall.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 You his son, Belshazzar, have not humbled your heart, even though you knew all this.
+\v 23 You have lifted yourself up against the Lord of heaven. From his house they brought you the containers that you, your nobles, your wives and your concubines drank wine from, and you praised the idols made of silver and gold, bronze, iron, wood, and stone—idols that do not see, hear, or know anything. You have not honored the God who holds your breath in his hand and who knows all your ways.
+\v 24 Then God sent out a hand from his presence and this writing was done.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:heart]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[vi:obe:kt:heaven]]
+  * [[vi:obe:other:noble]]
+  * [[vi:obe:other:concubine]]
+  * [[vi:obe:other:wine]]
+  * [[vi:obe:other:idol]]
+  * [[vi:obe:other:silver]]
+  * [[vi:obe:other:gold]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[vi:obe:other:honor]]
+  * [[vi:obe:kt:breath]]
+  * [[vi:obe:other:hand]]
+===== Translation Notes: =====
+
+  * **Belshazzar** - See how you translated this name in [[vi:bible:notes:dan:05:01|5:1]]
+  * **From his house** - "From his temple in Jerusalem" (See: [[:vi:ta:vol1:translate:figs_explicitinfo]])
+  * **God who holds your breath in his hand** - AT: "God who gives you breath" (See: [[:vi:ta:vol1:translate:figs_idiom]]
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:05|Daniel Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:05:20|<<]] | [[:vi:bible:notes:dan:05:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

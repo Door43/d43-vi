@@ -1,0 +1,62 @@
+====== Psalms 132:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 There \add in Jerusalem\add* I will cause one of David's descendants \f + \ft metaphor \f* to become a great king;
+\q2 he also will be my chosen king,
+\q1 and he will be like a \add bright\add* lamp \f + \ft metaphor \f* \add that shines continually\add*.
+\q1
+\v 18 I will \add defeat his\add* enemies and cause them to be very ashamed\f + \ft Or: disgraced \f*;
+\q2 but the crown that my king wears will always shine."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 There in Jerusalem I will cause one of David's descendants to become a great king;
+\q2 he also will be my chosen king,
+\q1 It is there that I will make David's line of descendants continue.
+\q1
+\v 18 I will defeat his enemies and cause them to be very ashamed;
+\q2 but the crown that my king wears will always shine."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 There I will make the horn of David to grow;
+\q I have placed a lamp there for my anointed one.
+\q
+\v 18 I will clothe his enemies with shame,
+\q but his crown will shine.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:trumpet]]
+  * [[:vi:obe:other:lamp]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:crown]]
+ 
+
+===== Translation Notes: =====
+
+  * **make the horn … to grow **- An animal horn is meant here. This is a metaphor for power. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **my anointed one**  - AT: "my king"
+  * **his crown will shine**  - a reference to the glory of the king (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:132|Psalms Chapter 132 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:132:015|<<]] | [[:vi:bible:notes:psa:133:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,75 @@
+====== 2 Samuel 22:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Then \add it was as though\add* the earth quaked and shook;
+\q2 \add it was as though\add* the foundations that held up\f + \ft Or: supported \f* the sky trembled,
+\q2 because you were angry.
+\q1
+\v 9 \add It was as though\add* smoke poured out of your nostrils
+\q2 and burning coals and fire that burns everything came out of your mouth.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Then it was as though the earth quaked and shook.
+\q2 It was as though the foundations that held up the sky trembled,
+\q2 because you were angry.
+\q1
+\v 9 It was as though smoke poured out of your nostrils
+\q2 and burning coals and fire that burns everything came out of your mouth.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Then the earth shook and trembled.
+\q The foundations of the heavens trembled
+\q And were shaken, because God was angry.
+\q
+\v 9 Smoke went up from out of his nostrils,
+\q And blazing fire came out of his mouth.
+\q Coals were ignited by it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:foundation]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:fire]]
+ 
+===== Translation Notes: =====
+
+These verses are describing David's perception of God's reaction & response to his cry for help from his enemies. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+
+    * **shook and trembled**  - moving with quick, short, involuntary movements from fear or anxiety
+    * **smoke**  - gas given  off by burning items
+    * **coals**  - black or dark brown rocks, found in the earth, that can be used for fuel
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:22|2 Samuel Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/22/07|<<]] | [[en/bible/notes/2sa/22/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

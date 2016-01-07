@@ -1,0 +1,60 @@
+====== Psalms 065:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 The meadows are covered with\f + \ft Or: full of \f* sheep and goats,
+\q2 and the valleys are full of grain;
+\q2 \add it is as though\add* they also sing and shout joyfully.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 The meadows are covered with sheep and goats,
+\q2 and the valleys are full of grain;
+\q2 it is as though they also sing and shout joyfully.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 The pastures are clothed with flocks;
+\q the valleys also are covered over with grain;
+\q they shout for joy, and they sing.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:clothed]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **pastures**  - a large field where animals feed on the grass
+    * **flocks** - a group of animals, such as sheep and goats
+    * **clothed with flocks** - This phrase is one way of saying that there were so many animals on the pasture, that there seems to be no space in between them.  It was as if the pasture was completely covered by the flocks. (See: Personification)
+    * **they shout for joy, and they sing** - They (the pastures, hills and valleys) are so bountiful, that they seem to shout and sing for joy
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:065|Psalms Chapter 065 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/065/010|<<]] | [[en/bible/notes/psa/066/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book2}}
+
+~~NOCACHE~~

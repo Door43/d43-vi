@@ -1,0 +1,45 @@
+====== Exodus 33:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Yahweh replied to Moses\f + \ft Or: me \f*, "What you have asked is exactly what I will do, because I know you well and I am pleased with you."
+\p
+\v 18 Then Moses\f + \ft Or: I \f* said, "Please let me see your glorious presence!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Yahweh replied to Moses, "I will do what you have asked because I know you well and I am pleased with you."
+\p
+\v 18 Then Moses said, "Please let me see you in all your power."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Yahweh said to Moses, "I will also do this thing that you have requested, for you have found favor in my sight, and I know you by name."
+\v 18 Moses said, "Please show me your glory."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:Moses]]
+  * [[vi:obe:kt:favor]]
+  * [[vi:obe:kt:name]]
+  * [[:vi:obe:kt:glory|glory, glorious]]
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:33|Exodus Chapter 33 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:33:14|<<]] | [[:vi:bible:notes:exo:33:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

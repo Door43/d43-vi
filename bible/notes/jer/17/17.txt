@@ -1,0 +1,63 @@
+====== Jeremiah 17:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Do not cause me to be terrified!
+\q2 When disasters come\f + \ft Or: occur \f*, you are the one to whom I will go to be safe.
+\q1
+\v 18 \add So now\add*, cause those who persecute me\f + \ft Or: cause me to suffer \f* to be ashamed and dismayed,
+\q2 but do not \add do things to me that will\add* cause me to be ashamed and dismayed.
+\q1 Cause them to be terrified!
+\q2 Do to them many things that will completely destroy them!
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Do not cause me to be terrified!
+\q2 When disasters come, you are the one to whom I will go to be safe.
+\q1
+\v 18 So now, cause those who persecute me to be ashamed and dismayed,
+\q2 but do not do things to me that will cause me to be ashamed and dismayed.
+\q1 Cause them to be terrified!
+\q2 Do to them many things that will completely destroy them!
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Do not be a terror to me. You are my refuge on the day of calamity.
+\q
+\v 18 May my pursuers be ashamed, but do not let me be ashamed. May they be dismayed, but do not let me be dismayed.
+\q Send the day of disaster against them and shatter them with a double share of destruction."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:terror|terror, terrify]]
+  * [[:vi:obe:kt:refuge|refuge]]
+  * [[:vi:obe:other:send|send, send out]]
+
+===== Translation Notes: =====
+
+  * **calamity **- an event that causes great harm
+  * **my pursuers **- those who try to catch me to do me harm
+  * **dismayed **- upset
+  * **disaster **- a sudden event that causes much suffering
+  * **shatter **- See how you translated this in 1:17.
+  * **double share **- two times the amount that others receive
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:17|Jeremiah Chapter 17 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:17:15|<<]] | [[:vi:bible:notes:jer:17:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

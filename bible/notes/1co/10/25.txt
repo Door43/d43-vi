@@ -1,0 +1,45 @@
+====== 1 Corinthians 10:25-27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 \add This is what you should do\add*: Eat any \add food\add* that is sold \f + \ft Or:that people sell \f* in the market. Do not ask questions \add to find out if that food has been offered\add* \f + \ft Or:\add someone offered that food\add* \f* \add to idols, just\add* because you think it would be wrong \add to eat such food\add*.
+\v 26 \add Remember that the Psalmist wrote\add*, "Everything on the earth belongs to \add the\add* Lord \add God because he created it!\add*" \add So, food that has been offered to idols belongs to the Lord, not to the idols, and you may eat it\add*.
+\v 27 If a non-believer invites you to a meal, go if you want to, and eat any food that is set \f + \ft Or:that \add he\add* sets \f* before you. Do not ask \add whether it was offered to idols, just\add* because you think that it would be wrong \add to eat such food\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 Here is our rule: you may buy whatever meat you want in the market without having to ask whether it was sacrificed to idols or not.
+\v 26 As the psalmist says, "The earth is the Lord's and everything in it."
+\v 27 If a non-Jewish unbeliever invites you to a meal, and you desire to go, eat whatever he serves you. You are not under any obligation to ask him about where he purchased the food.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 25 You may eat whatever is sold in the market, without questions of conscience.
+\v 26 For "The earth is the Lord’s, and the fulness of it." 
+\v 27 If an unbeliever invites you to eat a meal, and you wish to go, eat whatever is set before you without asking questions of conscience.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:conscience|conscience]]
+  * [[:vi:obe:other:earth|earth]]
+  * [[:vi:obe:kt:unbeliever|unbeliever, unbelief]]
+
+===== Translation Notes: =====
+
+  * **in the market** - a meeting place for people to buy and sell things like food.
+  * **The earth is the Lord's, and the fullness of it** - The Lord made the earth and everything in it.
+  * **without asking questions of conscience** - It is better not know where the food came from for conscience sake, acknowledging that all food comes from the Lord regardless if it was offered to idols or not.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:10|1 Corinthians Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:10:23|<<]] | [[:vi:bible:notes:1co:10:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== Psalms 113:9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 He also enables women who have no children to have homes to live in,
+\q2 and he causes them to be happy by enabling them to give birth to children.
+\b
+\q1 Praise Yahweh!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 He also enables women who have no children to live in their houses
+\q2 as happy as mothers with children.
+\b
+\q1 Praise Yahweh!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 He gives the barren woman in the house a seat 
+\q like a joyful mother of the children.
+\q Praise Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:barren]]
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:other:praise]]
+
+
+===== Translation Notes: =====
+*
+There are no notes for this chunk.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:113|Psalms Chapter 113 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:113:007|<<]] | [[:vi:bible:notes:psa:114:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== 1 Kings 21:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 King Ahab had a palace in Jezreel \add city\add*. Near the palace was a vineyard owned by a man named Naboth.
+\v 2 One day, Ahab \add went to\add* Naboth and said to him, "Your vineyard is close to my palace. I would like to buy it, so that I can plant some vegetables there. I will give you in exchange a better vineyard \add somewhere else\add*, or \add if you prefer\add*, I will pay you for your vineyard."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 King Ahab had a palace in the city of Jezreel. Near the palace was a vineyard owned by a man named Naboth.
+\v 2 One day, Ahab went to Naboth and said to him, "Your vineyard is close to my palace. I would like to buy it, so that I can plant some vegetables there. I will give you in exchange a better vineyard somewhere else, or if you prefer, I will pay you for your vineyard."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 It later came about that Naboth the Jezreelite had a vineyard in Jezreel, near the palace of Ahab, king of Samaria.
+\v 2 Ahab spoke to Naboth, saying, "Give me your vineyard, so I can have it as a vegetable garden, because it is near my house. In exchange, I will give you a better vineyard, or, if you prefer, I will pay you its value in money."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jezreel]]
+  * [[:vi:obe:other:vineyard]]
+  * [[:vi:obe:other:palace]]
+  * [[:vi:obe:other:ahab]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:samaria]]
+
+===== Translation Notes: =====
+
+  * **It later came about that** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **Naboth the Jezreelite** - This is the name of a man from Jezreel. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **king of Samaria** - Ahab ruled Israel from Samaria. AT: "king of Israel" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:21|1 Kings Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:20:41|<<]] | [[:vi:bible:notes:1ki:21:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

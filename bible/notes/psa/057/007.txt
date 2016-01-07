@@ -1,0 +1,66 @@
+====== Psalms 057:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 God, I am very confident \f + \ft doublet \f* in you.
+\q1 I will sing to you,
+\q2 and I will praise you while I sing.
+\q1
+\v 8 I will awaken myself;
+\q2 I will arise before the sun rises
+\q2 and \add praise you while I play\add* my big harp or my lyre\f + \ft Or: small harp \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 God, I am very confident  in you.
+\q1 I will sing to you,
+\q2 and I will praise you while I sing.
+\q1
+\v 8 It is an honor to wake up and praise you.
+\q2 I will arise before the sun rises
+\q2 and praise you while I play my big harp or my lyre.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 My heart is fixed, God, my heart is fixed;
+\q I will sing, yes, I will sing praises.
+\q
+\v 8 Wake up, my honored heart; wake up, lute and harp;
+\q I will wake up the dawn.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[vi:obe:other:honor]]
+  * [[:vi:obe:other:lute|lute, lyre]]
+  * [[:vi:obe:other:harp|harp]]
+
+===== Translation Notes: =====
+
+  * **My, I **- David is speaking.
+  * **fixed**  - AT: "will not be moved or does not change".
+  * **verse 7**  - (See: [[:vi:ta:vol2:translate:figs_doublet|Doublet]])
+  * **my honored heart** - the speaker refers to himself as having the honor of waking early in the morning and singing praise to God.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:057|Psalms Chapter 057 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:057:006|<<]] | [[:vi:bible:notes:psa:057:009|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

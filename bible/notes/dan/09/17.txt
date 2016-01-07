@@ -1,0 +1,64 @@
+====== Daniel 09:17-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Lord our God, listen to what I am praying and pleading for you to do. For your own sake\f + \ft Or: In order that people will know that you are very great \f*, act kindly [IDI] concerning your temple, which was destroyed \add by the armies of Babylonia\add*.
+\v 18 My God, listen to \add my prayer\add*. Look at us and see our troubles, and see that this city that belongs to you \f + \ft metonymy \f* is ruined\f + \ft Or: destroyed \f*. We are praying to you because you are merciful, not because we have done what is right\f + \ft Or: good \f*.
+\v 19 Lord, listen to us! Lord, forgive us! Lord, this city and these people belong to you, so \add we plead with you to\add* heed what we are saying and act \add to help us\add* right now, for your own sake\f + \ft Or: in order that people will know that you are very great \f*!
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Our God, listen to the prayer I, your servant, am pleading for you to do. For your own sake, act kindly toward your sanctuary in Jerusalem, which has been destroyed by the armies of Babylonia.
+\v 18 My God, listen to my prayer. Look at us and do what you must. See, this city that belongs to you is ruined. We are praying to you because you are merciful, not because we have done what is right.
+\v 19 Lord, listen to us! Lord, forgive us! This city and these people belong to you. So I plead with you, my God, to pay attention to what I am saying and act to help us right now, for your own sake!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 Now, our God, listen to the prayer of your servant and to his pleas for mercy; for your sake, Lord, make your face shine on your sanctuary that is desolate.
+\v 18 My God, open your ears and listen; open your eyes and see. We have been devastated; look at the city that is called by your name. We do not beg for your help because of our righteousness, but because of your great mercy.
+\v 19 Lord, listen! Lord, forgive! Lord, pay attention and take action! For your own sake, do not delay, my God, for your city and your people are called by your name."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:pray]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:sanctuary]]
+  * [[:vi:obe:other:desolate]]
+  * [[:vi:obe:kt:lord]]
+  * [[vi:obe:other:devastated]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:beg]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:forgive]]
+  * [[vi:obe:kt:peopleofgod]]
+
+===== Translation Notes: =====
+
+  * **Now** - This does not mean "at this moment", but it is a way to show that the next phase in Daniel's prayer is about to start.
+  * **your servant ... his pleas for mercy** - The words "your servant" and "his" here refer to Daniel. He speaks about himself in the third person as a sign of respect for God. (See [[vi:ta:vol2:translate:figs_123person]].)
+  * **pleas for mercy** - "requests for mercy"
+  * **make your face shine on** -  AT: "act kindly toward" (UDB) or "act with favor toward" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **open your eyes** - AT: "Notice us" or "Pay attention"
+  * **do not delay** - AT: "do not wait any longer" or "act quickly"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:09|Daniel Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:09:15|<<]] | [[:vi:bible:notes:dan:09:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

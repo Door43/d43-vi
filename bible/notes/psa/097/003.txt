@@ -1,0 +1,79 @@
+====== Psalms 097:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 He \add sends\add* fire in front of him,
+\q2 and he completely burns all his enemies in that fire.
+\q1
+\v 4 All around the world he sends lightning to flash;
+\q2 \add people on\add* the earth see it, and it causes them to \add be afraid and\add* tremble.
+\q1
+\v 5 The mountains\f + \ft Or: hills \f* melt like wax in front of Yahweh,
+\q2 in front of the one who is the Lord, \add who rules\add* over all the earth.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 He sends fire in front of him,
+\q2 and he completely burns all his enemies in that fire.
+\q1
+\v 4 All around the world he sends lightning to flash;
+\q2 people on the earth see it, and it causes them to be afraid and to tremble.
+\q1
+\v 5 The mountains melt like wax in front of Yahweh,
+\q2 in front of the one who is the Lord, who rules over all the earth.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Fire goes before him
+\q and consumes his adversaries on every side.
+\q
+\v 4 His lightning lights up the world;
+\q the earth sees and trembles.
+\q
+\v 5 The mountains melt like wax before Yahweh,
+\q the Lord of the whole earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:fire]]
+  * [[:vi:obe:other:consume]]
+  * [[:vi:obe:other:adversary]]
+  * [[vi:obe:kt:world]]
+  * [[:vi:obe:kt:lordyahweh]]
+ 
+ 
+===== Translation Notes: =====
+
+    * **the earth sees and trembles** - “the earth” is described as a person who is able to see and tremble. This can be restated as “the people on the earth see and tremble” (See: [[:vi:ta:vol2:translate:figs_personification]])
+    * **tremble** - shake with fear
+    * **The mountains melt like wax before Yahweh** - The mountains are unable to stand before Yahweh. AT: "The mountains are unable to stand before Yahweh." or "The mountains crumble before Yahweh." (See: [[:vi:ta:vol1:translate:figs_simile]])
+    
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:097|Psalms Chapter 097 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/097/001|<<]] | [[en/bible/notes/psa/097/006|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

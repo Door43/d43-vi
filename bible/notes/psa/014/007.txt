@@ -1,0 +1,50 @@
+====== Psalms 014:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 I wish\f + \ft Or: desire \f* that \add Yahweh\add* would come from Jerusalem \f + \ft metonymy \f* and rescue us Israelite people!
+\q2 Yahweh, when you bless your people again,
+\q2 all of us Israelite people, who are the descendants of Jacob, will rejoice.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Is there anyone for Yahweh to send to help the Israelite people on behalf of Yahweh?
+\q2 Yahweh, when you bless your people again,
+\q2 all of us Israelite people, who are the descendants of Jacob, will rejoice.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Oh, that the salvation of Israel would come from Zion!
+\q When Yahweh brings back his people from the captivity,
+\q then Jacob will rejoice and Israel will be glad!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:captive]]
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:other:rejoice]]
+
+===== Translation Notes: =====
+
+  * **Oh, that the salvation of Isreal would come from Zion!** - David is saying he longs for help from God in Jerusalem. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Jacob** - Here "Jacob" refers to the people of Isreal, the descendents of Jacob.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:014|Psalms Chapter 014 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:014:005|<<]] | [[:vi:bible:notes:psa:015:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

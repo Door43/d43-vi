@@ -1,0 +1,21 @@
+===== Accurate Translation =====
+
+This module answers the question: Is the translation accurate?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:checking:church_leader_check|Church Leader Check]]
+
+==== An Accurate Translation ====
+
+It is very important to make sure that the new translation is accurate. Those who have been chosen to check the translation for accuracy have the responsibility to make sure that it communicates the same meaning as the source translation.  
+
+For instructions on how to do this, go to [[:vi:ta:vol1:checking:accuracy_check]], and follow the steps in the section under the heading "All Levels." 
+
+
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:checking:complete|Complete Translation]]
+  * [[vi:ta:vol1:checking:accuracy_check|Accuracy Check]]
+  * [[vi:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+

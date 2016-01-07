@@ -1,0 +1,72 @@
+====== Proverbs 20:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 There is no one \f + \ft rhetorical question \f* who can truthfully say, "I do not know of any wrong things that I have done;
+\q2 I have gotten rid of all my sinful behavior\f + \ft Or: quit doing what is sinful \f*."
+\b
+\q1
+\v 10 Yahweh detests people who use weights that are not right
+\q2 and measures that are not correct.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 No one can truthfully say, "I have kept my heart pure, and I am free from my sins."
+\b
+\q1
+\v 10 Uneven weights, improperly marked, and unequal measures, that favor the one who is selling,
+\q2 Yahweh hates both of them. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Who can say, "I have kept my heart clean;
+\q I am free from my sin?"
+\q
+\v 10 Differing weights and unequal measures—
+\q Yahweh hates them both.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:kt:clean]]
+  * [[:En:obe:kt:free]]
+  * [[:En:obe:kt:sin]]
+  * [[:En:obe:kt:yahweh]] 
+
+===== Translation Notes: =====
+
+
+    * **Who can say, "I have kept my heart clean, I am free from my sin?"** The implicit answer to this question is "no one can say that" - AT: "No one can say that his heart is clean and that he is free from sin" or "everyone has to say that his heart is not clean and that he is a sinner" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+    * **my heart** - AT: "myself" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **I am free from sin** - AT: "I have not sinned"
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:20|Proverbs Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/20/07|<<]] | [[en/bible/notes/pro/20/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

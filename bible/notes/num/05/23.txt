@@ -1,0 +1,37 @@
+====== Numbers 05:23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Then the priest must write \add with ink\add* on a small scroll these curses\f + \ft Or: bad things that will happen to her if she is guilty \f* \add and then wash the ink off into the bitter water\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Then the priest must write with ink on a small scroll these curses and then wash the ink off into the bitter water.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 The priest must write these curses on a scroll, and then he must wash away the written curses into the bitter water.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:scroll]]
+
+===== Translation Notes: =====
+
+  * **the written curses** - AT: "the curses that he has written" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:05|Numbers Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:num:05:20|<<]] | [[:vi:bible:notes:num:05:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

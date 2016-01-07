@@ -1,0 +1,87 @@
+====== Hosea 08:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Yahweh said to me\add*, "Blow \f + \ft metonymy \f* your trumpet
+\q2 \add to warn the people\add*!
+\q1 My people have rejected the agreement that I made with them,
+\q2 and they have rebelled against \add obeying\add* my laws.
+\q1 Therefore, \add their enemies\add* are swooping down on my people's country like \f + \ft simile \f* an eagle.
+\q1
+\v 2 My Israelite people cry out to me,
+\q2 'Our God, we know that you are our God!'
+\q1
+\v 3 But because the Israelite people have rejected what is good,
+\q2 their enemies will pursue them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh says, "Get a trumpet and blow it.
+\q2 There are enemies swooping down over my people,
+\q1 as an eagle swoops down over a victim.
+\q2 This is because my people have left my covenant with them
+\q1 and have violated the law I gave them.
+\q1
+\v 2 My people Israel cry out to me and say,
+\q2 'Our God, we are loyal to you!'
+\q1
+\v 3 But the people of Israel have thrown away what is good,
+\q2 so their enemies will chase after them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 8
+\p
+\q
+\v 1 "Place a trumpet at your lips.
+\q An eagle is coming over the house of me, Yahweh.
+\q This is happening because the people have broken my covenant
+\q and rebelled against my law.
+\q
+\v 2 They cry out to me,
+\q 'My God, we in Israel know you.'
+\q
+\v 3 But Israel has rejected what is good,
+\q and the enemy will pursue him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:trumpet|trumpet, horn]]
+  * [[:vi:obe:other:eagle|eagle]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:other:rebel|rebel, rebellious]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[: vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **Place a trumpet at your lips**  - (UDB) (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **An eagle is coming over the house of me, Yahweh.**  - AT: "In the same way that an eagle flies over and captures its prey, your enemies will capture you." (UDB) (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:08|Hosea Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:07:16|<<]] | [[:vi:bible:notes:hos:08:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

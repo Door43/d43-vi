@@ -1,0 +1,94 @@
+====== Jeremiah 12:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 The soldiers of our enemies have marched across all the barren hilltops.
+\q1 But I, Yahweh, am using those armies \f + \ft metonymy \f* to punish your land from one end to the other,
+\q2 and no one will escape.
+\q1
+\v 13 \add It is as though\add* my people planted wheat,
+\q2 but now they are harvesting thorns.
+\q1 They have become very tired \add because of much hard work\add*,
+\q2 but they have gained nothing \add from all that work\add*.
+\q1 They will be very disappointed because their harvests \add will be very small\add*,
+\q2 \add and that will happen\add* because I, Yahweh, am extremely angry with them."
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 The soldiers of our enemies have marched across all the barren hilltops.
+\q1 But I, Yahweh, am using those armies to punish your land from one end to the other,
+\q2 and no one will escape.
+\q1
+\v 13 It is as though my people planted wheat,
+\q2 but now they are harvesting thorns.
+\q1 They have become very tired because of much hard work,
+\q2 but they have gained nothing from all that work.
+\q1 They will be very disappointed because their harvests will be very small,
+\q2 and that will happen because I, Yahweh, am extremely angry with them."
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Destroyers have come against all the bare places in the wilderness,
+\q1 for Yahweh's sword is devouring from one end of the land to the other.
+\q2 There is no safety in the land for any living creature.
+\q1
+\v 13 They have sown wheat but harvest thorn bushes. They are exhausted from work but have gained nothing.
+\q2 So be ashamed of your gain because of Yahweh's anger.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:destroyer]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:other:sow]]
+  * [[:vi:obe:other:wheat]]
+  * [[:vi:obe:kt:harvest]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:angry]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bare**  - "not covered" or "empty"
+    * **Yahweh's sword is devouring**  - Yahweh is using these armies to punish his people (See: [[:vi:ta:vol2:translate:figs_personification]])
+    * **From one end of the land to the other**  - This refers to all of the Promised Land (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+    * **They have**  - "My people have"
+    * **thorn**  - a sharp, pointed growth on plants
+    * **bush**  - a plant that is like a tree but smaller 
+    * **exhausted** - "worn out" or "tired"
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:12|Jeremiah Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/12/10|<<]] | [[en/bible/notes/jer/12/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr text}}
+
+~~NOCACHE~~

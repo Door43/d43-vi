@@ -1,0 +1,61 @@
+====== Leviticus 07:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 These are the regulations concerning the offerings that people make to maintain fellowship \add with Yahweh\add*:
+\p
+\v 12 "If you bring an offering to thank \add Yahweh\add*, along with \add the animal that you slaughter\add* you must offer loaves of bread made with olive oil mixed \add with the flour\add* but without yeast, and wafers that are made without yeast but with olive oil smeared on them, and loaves made from fine flour with olive oil well mixed with the flour.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 These are the regulations concerning the offerings that people make to promise friendship with Yahweh.
+\p
+\v 12 If you bring an offering to thank Yahweh, along with the animal that you slaughter you must offer loaves of bread made with olive oil mixed with the flour but without yeast, and wafers that are made without yeast but with olive oil smeared on them, and loaves made from fine flour with olive oil mixed well with the flour.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 This is the law of the sacrifice of peace offerings which people will offer to Yahweh.
+\v 12 If anyone offers it in order to give thanks, then he must offer it with a sacrifice of cakes made without yeast, but mixed with oil, of cakes made without yeast, but spread with oil, and of cakes made with fine flour that is mixed with oil.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:law]]
+  * [[vi:obe:other:sacrifice]]
+  * [[vi:obe:other:fellowshipoffering]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:yeast]]
+  * [[:vi:obe:other:oil|oil]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **of cakes made without yeast, but mixed with oil** - AT: "of cakes he made without yeast, but he mixed it with oil" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **of cakes made without yeast, but spread with oil** - AT: "of thin cakes he made without yeast, but he spread oil on it" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **of cakes made with fine flour that is mixed with oil** - AT: "of cakes he made with fine flour that he mixed with oil" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lev:07|Leviticus Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/07/09|<<]] | [[en/bible/notes/lev/07/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

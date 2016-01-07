@@ -1,0 +1,50 @@
+====== Deuteronomy 12:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 In the places where you live, you must not eat the things that you are offering \add to Yahweh\add*: You must not eat the tithes\f + \ft Or: ten percent \f* of your grain or of your wine, or of your \add olive\add* oil, or the firstborn of your cattle and sheep, or the offerings that you yourselves decide to give to Yahweh, or any other offerings.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 In the places where you live, you must not eat the things that you are offering to Yahweh: You must not eat the tithes of your grain or of your wine, or of your olive oil, or the firstborn of your cattle and sheep, or the offerings that you yourselves decide to present to Yahweh, or any other offerings.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 You may not eat within your gates the tithe of your grain, your new wine, or of your oil, or the firstborn of your herd or flock; and you may not eat any of the meat you sacrifice along with any of your vows that you make, nor that of your freewill offerings, nor that of offering you present with your hand.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tenth|tenth, tithe]]
+  * [[:vi:obe:other:grain|grain]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:oil|oil]]
+  * [[vi:obe:kt:firstborn]]
+  * [[vi:obe:other:flock]]
+  * [[vi:obe:other:sacrifice]]
+  * [[vi:obe:kt:vow]]
+  * [[vi:obe:other:freewilloffering]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+  * **You may not eat within your gates...** - Moses goes on to describe all the special offerings and sacrifices that are to be held at the tabernacle.
+  * **within your gates** - AT: “inside your city” or "at your homes" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **nor that of offering you present with your hand** - "nor that of any offering which you bring to Yahweh"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:15|<<]] | [[:vi:bible:notes:deu:12:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

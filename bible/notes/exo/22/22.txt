@@ -1,0 +1,51 @@
+====== Exodus 22:22-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 You must not mistreat any widow or any orphan.
+\v 23 If you mistreat them and they cry out to me \add for help\add*, I will hear them.
+\v 24 And I will be angry with you, and I will cause you to be killed in a war \f + \ft metonymy \f*. Your wives will become widows, and your children will no longer have fathers.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 You must not mistreat any widow or any orphan.
+\v 23 If you mistreat them and they ask me to help them, I will help them,
+\v 24 and I will be angry with you; I will cause you to die in war. Your wives will become widows, and your children will no longer have fathers.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 You must not mistreat any widow or fatherless child.
+\v 23 If you afflict them at all, and if they call out to me, Yahweh, I will surely hear their call.
+\v 24 My anger will burn, and I will kill you with the sword; your wives will become widows, and your children will become fatherless.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:wrong]]
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **You must not mistreat any widow or fatherless child** - AT: "You must treat all widows and fatherless children fairly." (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  * **widow** - "woman whose husband has died"
+  * **fatherless child** - "orphan" or "child with no parents"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:22|Exodus Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:22:20|<<]] | [[:vi:bible:notes:exo:22:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

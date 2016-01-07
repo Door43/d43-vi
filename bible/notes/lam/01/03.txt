@@ -1,0 +1,62 @@
+====== Lamentations 01:3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add The people of\add* Judah have been exiled\f + \ft Or: forced to go to other countries \f*
+\q2 and caused to suffer greatly as slaves.
+\q1 They live in other nations
+\q2 where they do not have peace\f + \ft Or: safety \f*.
+\q1 Their enemies seized them,
+\q2 and there was no way for them to escape.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 All of us, the people of Judah have become poor and have suffered greatly;
+\q2 most of our people have gone to other lands as slaves.
+\q1 They now live in other lands
+\q2 and have no peace.
+\q1 Our enemies captured us all;
+\q2  there was no way for us to escape.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 After poverty and affliction, Judah has gone into captivity.
+\q She lives among the nations and finds no rest.
+\q All her pursuers overtook her in her desperation.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:captive]]
+  * [[:vi:obe:kt:rest]]
+
+===== Translation Notes: =====
+
+  * **Judah has gone into captivity** - AT: "the people of Judah have gone into captivity" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **She** - She is the kingdom of Judah who is described as a woman. She also stands for the citizens of Judah. (See: [[:vi:ta:vol2:translate:figs_personification]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **find no rest** - "does not find rest" AT: "is always afraid"
+  * **All her pursuers overtook her** - AT: "Everyone who was chasing her managed to capture her" or "Everyone who was hunting for her found her"
+  * **in her desperation** - AT: "when she was desperate" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:01|Lamentations Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:01:01|<<]] | [[:vi:bible:notes:lam:01:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

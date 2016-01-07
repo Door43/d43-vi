@@ -1,0 +1,69 @@
+====== Proverbs 18:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 What you say can cause others to be killed or it can cause them to \add continue to\add* live;
+\q2 so those who like \add to talk a lot\add* must accept the consequences\f + \ft Or: realize that what they say can cause much harm \f*.
+\b
+\q1
+\v 22 If you marry a \add good\add* woman, that is like finding a wonderful thing;
+\q2 \add it shows that\add* Yahweh is pleased with you.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 People are able to kill others or keep them alive by means of what they say.
+\q2 And there is danger for those who love the power of their speaking. 
+\b
+\q1
+\v 22 The one who finds a wife, finds something so good it is a gift to bless his life,
+\q2 and it is Yahweh who gives him this wonderful gift. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Death and life are in the power of the tongue,
+\q and those who love it will eat its fruit.
+\q
+\v 22 He who finds a wife finds a good thing
+\q and receives favor from Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:death]]
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:power]]
+  * [[:vi:obe:other:tongue]]
+  * [[:vi:obe:kt:fruit]]
+  * [[:En:obe:kt:favor]]
+  * [[:En:obe:kt:yahweh]]
+ 
+
+===== Translation Notes: =====
+
+    * **Death and life are in the power of the tongue** - AT: "What people say can lead to life or death" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **those who love it will eat its fruit** - Eating the fruit of the power of the tongue means to experience the consequences, good or bad. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **love it** - "love the power of the tongue" or "love to talk"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:18|Proverbs Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:18:19|<<]] | [[:vi:bible:notes:pro:18:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

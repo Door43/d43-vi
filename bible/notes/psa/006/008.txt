@@ -1,0 +1,68 @@
+====== Psalms 006:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 You people who do evil things, get away from me
+\q2 because Yahweh heard me when I was crying.
+\q1
+\v 9 Yahweh heard me when I called out to him \add to help me\add*,
+\q2 and he will answer my prayer.
+\q1
+\v 10 \add When that happens\add*, all my enemies will be ashamed,
+\q2 and they will also be terrified.
+\q1 They will turn away \add from me\add* and suddenly \add leave me\add*
+\q2 because they will be disgraced.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 You people who do evil things, get away from me,
+\q2 because Yahweh heard me when I was crying!
+\q1
+\v 9 Yahweh heard me when I called out for him to help me,
+\q2 and he will answer my prayer.
+\q1
+\v 10 When that happens, all my enemies will be ashamed;
+\q2 they will be the ones who are terrified.
+\q1 They will turn away from me and suddenly leave me
+\q2 because they will be disgraced.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Get away from me, all you who practice iniquity;
+\q for Yahweh has heard the sound of my weeping.
+\q
+\v 9 Yahweh has heard my appeal for mercy;
+\q Yahweh has accepted my prayer.
+\q
+\v 10  All my enemies will be ashamed  and greatly troubled.
+\q They will turn back and  be suddenly humiliated.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:other:pray]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:trouble]]
+
+===== Translation Notes: =====
+
+  * **Yahweh has heard my appeal for mercy ... Yahweh has accepted my prayer** - These two lines have very similar meanings. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **humiliated** - This means to be disgraced. 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:006|Psalms Chapter 006 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:006:006|<<]] | [[:vi:bible:notes:psa:007:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

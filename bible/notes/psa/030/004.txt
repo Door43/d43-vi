@@ -1,0 +1,61 @@
+====== Psalms 030:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 All you who belong to Yahweh, sing to praise him!
+\q2 Think about what God, the holy one, has done, and thank him!
+\q1
+\v 5 When he becomes angry, he is angry for only a very short time \f + \ft hyperbole \f*,
+\q2 but he is good to us all of our life.
+\q1 We may cry during the night,
+\q2 but the next morning we will be joyful.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 All you who are faithful to the covenant with Yahweh, sing to praise him! Remember what God, the holy one, has done and thank him!
+\q1
+\v 5 When he becomes angry, he is angry for only a very short time, but he is good to us all of our lives.
+\q1 We may cry during the night, but the next morning we will be joyful.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Sing praise to Yahweh, you who are faithful! Give thanks at the remembrance of his holiness.
+\q
+\v 5 For his anger is only for a moment; but his favor is for a lifetime.
+\q Weeping comes for a night, but joy comes in the morning.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:joy]]
+
+===== Translation Notes: =====
+
+  * **Give thanks at the remembrance of his holiness** - AT: "Remember God's holiness and thank him" or "Remember what God has done because he is holy and thank him"
+  * **his anger is only for a moment** - "his anger lasts only a moment" or "he is angry for only a moment" (See: [[vi:ta:vol2:translate:figs_abstractnouns]])
+  * **a moment**  - "a short time"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:030|Psalms Chapter 030 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:030:001|<<]] | [[:vi:bible:notes:psa:030:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

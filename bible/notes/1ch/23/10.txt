@@ -1,0 +1,50 @@
+====== 1 Chronicles 23:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 There were four men who were other sons of Shimei:
+\li2
+\v 11 Jahath, who was his oldest son, and his \add younger\add* brothers Ziza, Jeush, and Beriah.
+\li2 Jeush and Beriah did not have many sons, so they were counted as though they were one family.
+
+\m
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 There were four men who were other sons of Shimei:
+\li2
+\v 11 Jahath, who was his oldest son, and his younger brothers Ziza, Jeush, and Beriah.
+\li2 Jeush and Beriah did not have many sons, so they were counted as though they were one family.
+
+\m
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 There were four of Shimei's sons: Jahath, Zina, Jeush, and Beriah.
+\q
+\v 11 Jahath was the oldest, and Zizah the second, but Jeush and Beriah did not have many sons, so they were considered as one clan with the same duties.
+</usfm>
+
+===== Important Terms: =====
+  * No Important Terms for this chunk.
+
+===== Translation Notes: =====
+
+  * **There were four of Shimei's sons** - AT: "Shimei had 4 sons" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **Jahath, Zina, Jeush ... Beriah**- These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **the second** - "the 2nd" or "the son born next" (See: Ordinal Numbers)
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:23|1 Chronicles Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:23:07|<<]] | [[:vi:bible:notes:1ch:23:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

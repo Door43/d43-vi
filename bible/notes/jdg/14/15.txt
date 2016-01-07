@@ -1,0 +1,43 @@
+====== Judges 14:15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 On the fourth day, they said to Samson's bride, "Ask your husband to tell you the meaning of the riddle. If you do not do that, we will burn down your father's house, with you inside it! Did you invite us here only to make us poor \add by forcing us to buy a lot of clothes for your husband\add*?"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 On the fourth day, they said to Samson's wife, "Use your tricks and make your husband tell you the meaning of the riddle. If you do not do that, we will burn down your father's house, with you and your family inside it! Did you invite us here only to make us poor by forcing us to buy a lot of clothes for your husband?"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 On the fourth day they said to Samson’s wife, “Trick your husband so that he may tell us the answer to the riddle, or we will burn up you and your father’s houses. Did you invite us here in order to make us poor?”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Samson]]
+  * [[vi:obe:other:family]]
+
+===== Translation Notes: =====
+
+  * **On the fourth day** - "On day 4"
+  * **Trick** - mislead or fool someone into doing something they would not want to do
+  * **your father’s houses** - Possible meanings are 1) “the houses your father and his family live in” or 2) “your father's family.” The word “house” can refer to the people who live in it. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:14|Judges Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:14:14|<<]] | [[:vi:bible:notes:jdg:14:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

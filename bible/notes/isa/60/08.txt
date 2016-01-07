@@ -1,0 +1,80 @@
+====== Isaiah 60:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 And what are those things that are
+\q2 moving swiftly like \f + \ft simile \f* clouds?
+\q1 They resemble \f + \ft simile \f* doves \add returning\add* to their nests.
+\q1
+\v 9 But they are really ships from Tarshish that are bringing your people back here.
+\q2 When your people come, they will bring with them all the valuable possessions that they have acquired,
+\q1 and they will do that to honor me, Yahweh, your God, the Holy One of Israel,
+\q2 because I will have greatly honored you.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 And what are those things that are
+\q2 moving swiftly like clouds?
+\q1 They resemble  doves returning to their nests.
+\q1
+\v 9 But they are really ships from Tarshish that are bringing your people back here.
+\q2 When your people come, they will bring with them all the valuable possessions that they have acquired,
+\q1 and they will do that to honor me, Yahweh, your God, the Holy One of Israel,
+\q2 because I will have greatly honored you.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 8 Who are these who fly along like a cloud, and like the doves to their shelters?
+\q1
+\v 9 The coastlands look for me, and the ships of Tarshish lead, 
+\q1 to bring your sons from far, their silver and their
+gold with them, 
+\q1 for the name of Yahweh your God, and for the Holy One of Israel, because he has honored you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:dove]]
+  * [[:vi:obe:other:tarshish]] 
+  * [[vi:obe:other:silver]]
+  * [[vi:obe:other:gold]] 
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:holyone]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:honor]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Israel.
+
+  * **Who are these who fly along like a cloud, and like the doves to their shelters?**  - Yahweh uses questions and poetic images to draw attention here. He compares the sails of the ships to clouds and doves. Doves are sometimes trained to return to the dovecotes (shelters) where they belong. This is a picture, too, of the Israelites returning to the country where they belong. AT: "Look, I see something like clouds moving quickly and like doves returning to their shelters." (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]] and [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **The coastlands**  - AT: "The people from the coastlands" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Holy One of Israel**  - See how you translated this in [[:vi:bible:notes:isa:01:04|1:4]].
+  * **he has honored you**  - "Yahweh has honored you, the people of Israel"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:60|Isaiah Chapter 60 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:60:06|<<]] | [[:vi:bible:notes:isa:60:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,25 @@
+===== Welcome to the Technology Manual =====
+
+This module answers the question: What is the Technology Manual?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * [[vi:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+
+==== The Technology Manual ====
+
+Welcome to the Technology Manual! This manual will help you to understand and use the different technology tools that have been created by unfoldingWord. 
+
+Three sections are included in Volume 1 of the Technology Manual: 
+  * [[vi:ta:vol1:tech:tS_intro]]
+  * [[vi:ta:vol1:tech:tK_intro]]
+  * [[vi:ta:vol1:tech:uW_intro]]
+
+In these sections you will find practical helps for installing, navigating, sharing, and using these mobile apps. 
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[vi:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * [[vi:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+

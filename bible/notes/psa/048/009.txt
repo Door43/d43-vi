@@ -1,0 +1,65 @@
+====== Psalms 048:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 God, here in your temple we think about your faithfully loving us.
+\q1
+\v 10 You \f + \ft metonymy \f* are famous and are praised\f + \ft Or: people praise you \f* all over the earth,
+\q2 because you rule powerfully \f + \ft metonymy \f* and justly.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 God, here in your temple we think about how you love us as you promised to do.
+\q1
+\v 10 People all over the earth will praise you
+\q2 because you rule powerfully and justly.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 We have thought about your covenant faithfulness, God,
+\q in the middle of your temple.
+\q
+\v 10 As your name is, God,
+\q so is your praise to the ends of the earth;
+\q your right hand is full of righteousness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:temple]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other;praise]]
+  * [[:vi:obe:kt:righthand]]
+  * [[:vi:obe:kt:righteous]]
+ 
+
+===== Translation Notes: =====
+
+
+  * **in the middle of your temple** - "while in the middle of your temple"
+  * **As your name is ... so is your praise to the ends of the earth** - These phrases are connected to say God is both praised and known in every place on earth. AT: "People know your name and praise you in every place on earth" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **to the ends of the earth** - See how you translated this in [[vi:bible:notes:psa:046:008|46:9]].
+  * **your right hand is full of righteousness** - Since God's right hand is full with righteousness, it cannot hold anything unrighteous.  God's right hand refers to his actions. AT: "you only use your power to do righteous things" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:048|Psalms Chapter 048 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:048:007|<<]] | [[:vi:bible:notes:psa:048:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

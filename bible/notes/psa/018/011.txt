@@ -1,0 +1,52 @@
+====== Psalms 018:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Darkness was all around him \add like a blanket\add* \f + \ft metaphor \f*;
+\q2 dark clouds, full of water moisture, covered him \f + \ft metaphor \f*.
+\q1
+\v 12 Hailstones and flashes of lightning were around him;
+\q2 hail and burning coals fell down from the sky.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Darkness was all around him like a blanket; dark clouds, full of water moisture, covered him.
+\q1
+\v 12 Hailstones and flashes of lightning were around him; hail and burning coals fell down from the sky.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 He made darkness a tent around him, heavy rainclouds in the skies.
+\q
+\v 12 From the lightning before him, hailstones and coals of fire fell.
+</usfm>
+
+===== Important Terms: =====
+
+
+There are no new Important Terms for these verses.
+===== Translation Notes: =====
+
+  * **He made darkness ... him** - The words “He” and "him" continue to refer to Yahweh.
+  * **He made darkness a tent** - AT: "He made darkness a covering" or AT: "He made darkness a hiding place" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **heavy rain clouds** - AT: "clouds heavy with rain" or AT: "thick, dark rain clouds"
+  * **From the lightning before him, hailstones and coals of fire fell** - AT: "From the brightness before him came hail and coals of fire through his thick clouds."
+  * **hail** - AT: "stones of ice"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:009|<<]] | [[:vi:bible:notes:psa:018:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

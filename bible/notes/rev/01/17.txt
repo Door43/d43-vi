@@ -1,0 +1,45 @@
+====== Revelation 01:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 When I saw him, I fell down at his feet \add and was unable to move or speak\add* \f + \ft simile \f*, as though \add I were\add* dead. But he put his right hand on me and said to me, "Stop being afraid! I am the one who began \add all things\add* and the \add one who causes all things to\add* end.
+\v 18 I am the one who always lives. Although I died, I am alive and will live forever! I have \add the power to cause people\add* to die, and I have authority over the place where all the dead people \add are\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 When I saw him, I fell down at his feet as though I were dead. But he put his right hand on me and said to me, "Do not be afraid! I am the first one who began all things and the last one who causes all things to end.
+\v 18 I am alive, even though I died once, and indeed, I am alive forever! I have power over death and I control the place of the dead.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 When I saw him, I fell at his feet like a dead man. He placed his right hand on me and said, "Do not be afraid. I am the First and the Last,
+\v 18 and the one who lives. I was dead, but look, I live forever! And I have the keys of Death and of Hades.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:other:hades|hades, sheol]]
+
+===== Translation Notes: =====
+John's continued vision of a Son of Man among the lampstands
+
+  * **He placed his right hand on me **- AT: "He touched me with his right hand"
+  * **I am the First and the Last**  - This refers to being the first to live and the last to live implying his eternal nature. (See: [[vi:ta:vol2:translate:figs_merism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:01|Revelation Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:01:14|<<]] | [[:vi:bible:notes:rev:01:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish hades}}
+
+~~NOCACHE~~

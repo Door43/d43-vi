@@ -1,0 +1,57 @@
+====== Psalms 055:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 I desire\f + \ft Or: hope \f* that my enemies will die suddenly
+\q2 and, while they are still young, go down to the place where the dead people are.
+\q2 They do evil things in their homes, and they think evil things in their inner beings.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 I desire that my enemies will die suddenly
+\q2 and, while they are still young, go down to the place where the dead people are.
+\q2 I want this because they do evil things in their homes, and they think evil things in their inner beings.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 Let death come suddenly on them;
+\q let them go down alive to sheol,
+\q for wickedness is where they live, right among them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:hades]]
+  * [[:vi:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+  * **them** - David's enemies.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:055|Psalms Chapter 055 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:055:012|<<]] | [[:vi:bible:notes:psa:055:016|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

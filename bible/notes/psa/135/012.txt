@@ -1,0 +1,76 @@
+====== Psalms 135:12-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Then he gave their land to us Israelite people
+\q2 to belong to us \add forever\add*.
+\b
+\q1
+\v 13 Yahweh's name will endure forever,
+\q2 and people who are not yet born will remember the great things \add that you have done\add*.
+\q1
+\v 14 Yahweh declares that we his people are innocent\f + \ft Or: have not done things that are wrong \f*,
+\q2 and he acts mercifully toward us.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Then he gave their land to us Israelite people
+\q2 to belong to us forever.
+\b
+\q1
+\v 13 Yahweh, your name will endure forever,
+\q2 and people who are not yet born will remember the great things that you have done.
+\q1
+\v 14 Yahweh declares that we, his people, are innocent,
+\q2 and he acts mercifully toward us.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 He gave their land for a heritage,
+\q a heritage to Israel his people.
+\q
+\v 13 Your name, Yahweh, endures forever;
+\q your renown, Yahweh, endures throughout all generations.
+\q
+\v 14 For Yahweh defends his people
+\q and has compassion on his servants.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:kt:endure]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:renown]]
+  * [[:vi:obe:other:generation]]
+  * [[:vi:obe:kt:compassion|compassion, compassionate]]
+
+===== Translation Notes: =====
+
+  * **he gave their land as a heritage**  - AT: "for Israel to pass on to following generations"
+  * **Your name**  - "your fame" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Your name, Yahweh, endures forever, your renown, Yahweh, endures throughout all generations**  - (See:[[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:135|Psalms Chapter 135 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:135:010|<<]] | [[vi:bible:notes:psa:135:015|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr book5}}
+
+~~NOCACHE~~

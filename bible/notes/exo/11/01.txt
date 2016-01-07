@@ -1,0 +1,56 @@
+====== Exodus 11:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Yahweh said to Moses\f + \ft Or: me \f*, "I will bring one more disaster on the king of Egypt and on all his people \f + \ft metonymy \f*. After that, he will let you leave. In fact, he will expel you all.
+\v 2 So now speak to all the \add Israelite\add* people. Tell them to ask all their \add Egyptian\add* neighbors, both men and women, to give them some silver and gold jewelry."
+\v 3 Yahweh made the Egyptians highly respect the Israelite people. In particular, the Egyptian officials and all \add the rest of\add* the people considered Moses\f + \ft Or: me \f* to be a very great man.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Yahweh said to Moses, "I will bring one more disaster on the king of Egypt and on all his people. After that, he will let you leave. In fact, he will chase you out of Egypt.
+\v 2 So now, speak to all the Israelite people. Tell them to ask all their Egyptian neighbors, both men and women, to give them their silver and gold jewelry."
+\v 3 Yahweh made the Egyptians highly respect the Israelite people. In fact, the king's officials and all the rest of the people thought that Moses was a very great man.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 Then Yahweh said to Moses,"There is still one more plague that I will bring on Pharaoh and Egypt. After that, he will let you go from here. When he finally lets you go, he will drive you away completely.
+\v 2 Instruct the people that every man and woman is to ask of his or her neighbor for jewels of silver, and jewels of gold."
+\v 3 Now Yahweh had made the Egyptians eager to please the Israelites. Moreover, the man Moses was very impressive in the sight of Pharaoh’s servants and the people of Egypt.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:moses]]
+  * [[:vi:obe:other:plague]]
+  * [[:vi:obe:other:pharaoh]]
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:other:silver]]
+  * [[:vi:obe:other:gold]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * **neighbor** - This is a person who lives near you.
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:11|Exodus Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:10:27|<<]] | [[:vi:bible:notes:exo:11:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

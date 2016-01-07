@@ -1,0 +1,59 @@
+====== Psalms 027:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Yahweh, listen to me while I pray.
+\q2 Act kindly toward me and answer my prayer.
+\q1
+\v 8 Within my inner being I heard you say, "Come and worship me [IDI],"
+\q2 so, Yahweh, I will worship you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh, listen to me while I pray.
+\q2 Act kindly toward me and answer my prayer.
+\q1
+\v 8 Within my inner being I desire to worship you,
+\q2 so, Yahweh, I will come to your temple to pray to you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Hear, Yahweh, my voice when I cry out!
+\q Have mercy on me, and answer me!
+\q
+\v 8 My heart says about you,
+\q "Seek his face!" I seek your face, Yahweh!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:other:heart]]
+  * [[:En:obe:other:seek]]
+  * [[:vi:obe:kt:face]]
+
+===== Translation Notes: =====
+
+  * **answer me** - AT: "answer my prayer" (UDB) or "do what I request of you"
+  * **My heart says** - AT: "In my heart I say" or "I say to myself"  (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Seek his face** - "Seek him" or "Seek Yahweh." This means to worship him. AT: "Worship him." 
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:027|Psalms Chapter 027 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:027:005|<<]] | [[:vi:bible:notes:psa:027:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish seek book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,74 @@
+====== Deuteronomy 17:2-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 "When you are living in any of the towns \add in the land\add* that Yahweh our God is giving to you, suppose there is some man or woman who sins by disobeying the agreement that Yahweh has made with you.
+\v 3 Suppose that person has worshiped and served other gods, or the sun, or the moon, or the stars.
+\v 4 If someone tells you that some person has been doing that, you must investigate it thoroughly. If \add you find out that\add* it is true that this detestable thing has happened in Israel,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 When you are living in any of the towns in the land that Yahweh our God is giving to you, suppose some man or woman sins by disobeying the covenant that Yahweh has made with you.
+\v 3 Suppose that person has worshiped and bowed down to other gods, or the sun, or the moon, or the stars.
+\v 4 If someone tells you that some person has been doing that, you must investigate it thoroughly to see whether this detestable thing has happened in Israel.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 2 If there is found among you, within any of your city gates that Yahweh your God is giving you, any man or woman  who does what is evil in the sight of Yahweh your God and transgresses his covenant—
+\v 3 anyone who has gone and worshiped other gods and bowed down to them, either the sun, the moon, or any of the host of heaven—nothing that I have commanded,
+\v 4 and if you are told about this, or if you have heard of it—then you must make a careful investigation. If it is true and certain that such a detestable thing has been done in Israel—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:gate]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:transgression]]
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **If there is found among you**  - AT: "If you find someone." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **within any of your city gates**  - AT: "living in one of your cities." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+    * **what is evil in the sight of Yahweh your God**  - In this phrase, the sight of Yahweh refers to the perspective of Yahweh or what Yahweh thinks about something. AT: "something that Yahweh your God thinks is evil." (See: [[vi:ta:vol1:translate:figs_idiom]])
+    * **transgresses his covenant**  - "disobeys his covenant"
+    * **anyone who has gone**  - "if you find anyone who has gone"
+    * **any of the host of heaven**  - "any of the stars"
+    * **nothing that I have commanded** - "which I did not command you." Yahweh uses a negative phrase to emphasize that he clearly told them to not worship other gods or the sun, moon, or stars. AT: "which I clearly commanded you to not worship." (See: [[:vi:ta:vol2:translate:figs_litotes]] and [[:vi:ta:vol2:translate:figs_ellipsis]])
+    * **if you are told about this**  - AT: "if someone tells you about this disobedient act."
+    * **make a careful investigation**  - "check carefully to find out if it is true"
+    * **such a detestable thing has been done in Israel**  - "someone has really done such a horrible thing in Israel"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/17/01|<<]] | [[en/bible/notes/deu/17/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,45 @@
+====== Numbers 06:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 The amount of time that you were set apart for me the previous time does not count, because you had become unacceptable to me \add by coming close to a corpse\add* during the time that you were a Nazir-man. So you must again make a solemn promise to dedicate yourself to me for the entire amount of time that you indicated the previous time. And you must also sacrifice a one year-old lamb to take away your guilt.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 The amount of time that you were set apart for me the previous time does not count, because you had become unacceptable to me by coming close to a corpse during the time that you were a Nazir. So you must again make a solemn promise to dedicate yourself to me for the entire amount of time that you indicated the previous time. And you must also sacrifice a one year old lamb to take away your guilt.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 He must rededicate himself to Yahweh for the time of his separation. He must bring a male lamb one year old as a guilt offering. The days before he defiled himself must not be counted, because he was defiled while he was separate for God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:lamb]]
+  * [[:vi:obe:other:guiltoffering]]
+  * [[vi:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **He must rededicate himself** - "He must dedicate himself again"
+  * **The days before he defiled himself must not be counted** - AT: "He must not count the days before he defiled himself" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **he was defiled** - AT: "he defiled himself" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:06|Numbers Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:num:06:10|<<]] | [[:vi:bible:notes:num:06:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

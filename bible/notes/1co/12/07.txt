@@ -1,0 +1,46 @@
+====== 1 Corinthians 12:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add God's\add* Spirit gives his power to each believer in order to benefit all the other \add believers\add*.
+\v 8 To some, the Spirit gives the ability to speak very wise messages. To others, the same Spirit gives the ability to know \add things that he reveals to them\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 God makes it possible for each believer to show that he has some of the Spirit's power; God does this in order to help all believers together to trust him and honor him more.
+\v 8 For the Spirit makes one person able to speak a message with great wisdom from God, and he makes another person able to pass on to others some knowledge from God. These different gifts come through the work of the same Spirit in each one who believes in Christ.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 Now to each one is given the outward display of the Spirit for the benefit of all.
+\v 8 For to one is given by the Spirit the word of wisdom, and to another the word of knowledge by the same Spirit.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:holyspirit]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:other:know]] 
+
+===== Translation Notes: =====
+
+    * **to each one is given** - AT: "God gives to each one" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:12|1 Corinthians Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:12:04|<<]] | [[:vi:bible:notes:1co:12:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

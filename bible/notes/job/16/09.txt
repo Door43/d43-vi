@@ -1,0 +1,73 @@
+====== Job 16:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Because God is very angry with me and hates me,
+\q2 \add it is as though he is a wild animal that\add* \f + \ft metaphor \f* has gnashed his teeth at me
+\q2 because he is my enemy.
+\q1
+\v 10 People gape\f + \ft Or: stare \f* at me with their mouths open \add to sneer at me\add*;
+\q2 they have struck me on the face\f + \ft Or: cheek \f* to ridicule me,
+\q2 and they crowd around me to \add threaten\add* me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Because God is very angry with me and hates me,
+\q2 it is as though he were a wild animal that tore me apart with his teeth
+\q2 because he was my enemy.
+\q1
+\v 10 People gape at me with their mouths open to sneer at me;
+\q2 they have struck me on the face to ridicule me,
+\q2 and they crowd around me to threaten me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 God has torn me in his wrath and persecuted me;
+\q He has gnashed me with his teeth;
+\q my enemy fastens his eyes on me as he tears me apart.
+\q
+\v 10 People have gaped with open mouth at me;
+\q they have hit me reproachfully on the cheek;
+\q they have gathered together against me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wrath]]
+  * [[:vi:obe:other:persecute]]
+  * [[:vi:obe:other:gnashteeth]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:reproach]]
+ 
+
+===== Translation Notes: =====
+
+  * **torn me with his wrath, gnashed me with his teeth, he tears me apart - These expressions refer to God's anger and compare his anger to a wild animal killing its prey. (See: Metaphor)**
+  * **gape - This word means "to stare in amazement with open mouth".**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:16|Job Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:job:16:06|<<]] | [[:vi:bible:notes:job:16:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

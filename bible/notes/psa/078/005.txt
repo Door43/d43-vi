@@ -1,0 +1,68 @@
+====== Psalms 078:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 He gave laws and commandments to the Israelite people,
+\q1 \add those who are the descendants of\add* Jacob \f + \ft doublet \f*,
+\q1 and he told our ancestors to teach them to their children
+\q1
+\v 6 in order that their children would also know them
+\q2 and then they would teach them to their children.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 He gave laws and commandments to the Israelite people,
+\q1 those who are the descendants of Jacob,
+\q1 and he told our ancestors to teach them to their children.
+\q1
+\v 6 He commanded this so that their children would also know them
+\q2 and so that they would teach them to their own children.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 For he established covenant decrees in Jacob
+\q and appointed a law in Israel.
+\q He commanded our ancestors
+\q that they were to teach them to their children.
+\q
+\v 6 He commanded this so that the generation to come might know his decrees, the children not yet born,
+\q who should tell them in turn to their own children.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[:vi:obe:kt:appoint|appoint]]
+  * [[:vi:obe:other:law|law, principle]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[vi:obe:other:teach]]
+  * [[:vi:obe:other:generation]]
+
+===== Translation Notes: =====
+
+  * **he established**  - "Yahweh established"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:003|<<]] | [[:vi:bible:notes:psa:078:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

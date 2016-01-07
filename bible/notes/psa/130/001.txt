@@ -1,0 +1,65 @@
+====== Psalms 130:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I have great troubles\f + \ft Or: difficulties \f*, so I call out to you.
+\q1
+\v 2 Yahweh, hear me,
+\q2 while I call out to you \f + \ft synecdoche \f* to help me!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I have great troubles, so I call out to you.
+\q1
+\v 2 Yahweh, hear me
+\q2 while I call out to you to have mercy on me!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 130
+\d A song of ascents.
+\b
+\q
+\v 1 Out of the depths I cry to you, Yahweh.
+\q
+\v 2 Lord, hear my voice;
+\q let your ears be attentive
+\q to my pleas for mercy.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:kt:mercy]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **Song of Ascents**  - See how you translated this in [[:vi:bible:notes:psa:120:001|120:1]].
+  * **Out of the depths**  - AT: "Because I am very sad" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **I cry**  - "I pray to you"
+  * **let your ears be attentive**  - AT: "please listen" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **to my pleas for mercy**  - AT: "I ask you to be merciful to me" (See: [[:vi:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:130|Psalms Chapter 130 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:129:006|<<]] | [[:vi:bible:notes:psa:130:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Psalms 069:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Come near to me and save me;
+\q1 rescue me from my enemies.
+\b
+\q1
+\v 19 You know that I am insulted
+\q2 and that people cause me to feel ashamed and dishonored;
+\q1 you know who all my enemies are.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Come near to me and save me;
+\q1 rescue me from my enemies.
+\b
+\q1
+\v 19 You know that I am insulted
+\q2 and that people shame and dishonor me;
+\q1 you know who all my enemies are.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Draw near to my soul and redeem it;
+\q ransom me because of my enemies.
+\q
+\v 19 You know my rebuke, my shame, and my dishonor;
+\q my adversaries are all before you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:redeem]]
+  * [[:vi:obe:kt:ransom]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:dishonor]]
+  * [[:vi:obe:other:adversary]]
+ 
+
+===== Translation Notes: =====
+
+David continues to appeal to Yahweh
+
+    * **Draw near to my soul**  - The term “soul” can be translated as “inner self” or “inner person" or "me".  AT: "Come close to me"
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:069|Psalms Chapter 069 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/069/016|<<]] | [[en/bible/notes/psa/069/020|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book2}}
+
+~~NOCACHE~~

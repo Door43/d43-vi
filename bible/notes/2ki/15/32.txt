@@ -1,0 +1,47 @@
+====== 2 Kings 15:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 When Pekah had been ruling Israel for almost two years, Uzziah's son Jotham began to rule Judah.
+\v 33 He was 25 years old when he started to rule, and he ruled from Jerusalem for sixteen years. His mother was Jerusha, the daughter of Zadok.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 When Pekah had been ruling Israel for almost two years, Uzziah's son Jotham began to rule Judah.
+\v 33 He was twenty-five years old when he started to rule, and he ruled from Jerusalem for sixteen years. His mother was Jerusha, the daughter of Zadok.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 32 In the second year of Pekah, the son of Remaliah, king of Israel, began the reign of Jotham, the son of Uzziah, king of Judah.
+\v 33 He was twenty-five years old when he began to reign; he reigned sixteen years in Jerusalem. His mother’s name was Jerushah; she was the daughter of Zadok.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:kingdomofisrael]]
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:other:uzziah]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:other:zadok]]
+
+===== Translation Notes: =====
+
+  * **began the reign of Jotham, the son of Uzziah, king of Judah** - AT: "Jotham, the son of Uzziah, king of Judah, became king over the Kingdom of Judah."  
+  * **He was twenty-five years old ... sixteen years** - "He was 25 years old ... 16 years" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:15|2 Kings Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:15:29|<<]] | [[:vi:bible:notes:2ki:15:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Deuteronomy 10:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Have an awesome respect for Yahweh our God and worship only him. Be faithful to\f + \ft Or: Have a close relationship with \f* him, and say that he should punish you if you do not do what you promise.
+\v 21 He is the one whom you must praise. He is our God, and we have seen the great and awesome things that he has done for us.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Be sure to honor Yahweh our God and worship only him. Be faithful to him, and say that he should punish you if you do not do what you promise.
+\v 21 He is the one whom you must praise. He is our God, and we have seen the great and awesome things that he has done for us.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 You will fear Yahweh your God; him will you worship. To him you must cling, and by his name will you swear.
+\v 21 He is your praise, and he is your God, who has done for you these great and fearsome things, which your eyes have seen.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:fear]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[vi:obe:Kt:worship]]
+  * [[vi:obe:kt:name]]
+  * [[vi:obe:other:oath]]
+  * [[:vi:obe:other:praise|praise]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+  * **To him you must cling** - "You are to rely on him"
+  * **by his name will you swear** - In God's name they will promise or commit to doing something. See how you translated a similar phrase in [[vi:bible:notes:deu:06:13|6:13]].
+  * **which your eyes have seen** - They have seen God do great and fearsome things and miracles. AT: "which you yourselves saw" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:10|Deuteronomy Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:18|<<]] | [[:vi:bible:notes:deu:10:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

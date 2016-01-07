@@ -1,0 +1,86 @@
+====== Hosea 14:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 People will \add come to them to be protected\add*
+\q2 \add like people are protected from the hot sun by being\add* \f + \ft metaphor \f* in the shade \add of a tree\add*.
+\q1 They \add will flourish\f + \ft Or: be strong \f* like\add* \f + \ft simile \f* grain that grows well.
+\q2 They will \add be successful like\add* a vineyard \add in which grapes grow abundantly\add*.
+\q1 They will become as famous\f + \ft Or: well \f*-known as \f + \ft simile \f* wine from Lebanon.
+\q1
+\v 8 \add You people of\add* Israel, do not \f + \ft rhetorical question \f* have anything more to do with idols;
+\q2 if you \add get rid of your idols\add*, I will answer your \add prayers\add* and take care of you.
+\q1 I am like \f + \ft metaphor \f* a strong\f + \ft Or: green \f* pine tree,
+\q2 and your blessings come from me."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 They will return and live close to me, 
+\q2 and I will protect them from hardship.
+\q1 They will prosper like a field of grain that grows well.
+\q2 They will become as famous as the wine that people produce in the land of Lebanon. 
+\q1
+\v 8 The people of Israel will say, 'We have nothing mroe to do with idols!'
+\q2 It is I, Yahweh, who will take care of you. No idol can do that.
+\q1 I am like a strong cypress tree,
+\q2 and all your good gifts come from me."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 The people who live in his shade will return;
+\q they will revive like grain
+\q and blossom like vines.
+\q His fame will be like the wine of Lebanon.
+\q
+\v 8 Ephraim will say, .'What more have I to do with idols?'
+\q I will answer him and care for him.
+\q I am like a evergreen cypress;
+\q from me comes your fruit."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup|people group, people, poor (the poor)]]
+  * [[:vi:obe:other:grain|grain]]
+  * [[:vi:obe:other:vine|vine]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:lebanon|Lebanon]]
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:vi:obe:kt:fruit]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **The people who live in his shade will return** - Shade is signifying they will provide protection for others. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **they will revive like grain** - The people of Israel will sustain itself with food. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **and blossom like vines** - The people will sustain itself with drink. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **His fame will be like the wine of Lebanon** - AT: "recollection of him is like the wine of Lebanon." Israel will be remembered in the way you remember a good wine. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **What more have I to do with idols?**  - This question stated by the people (Ephraim) emphasizes that they will not worship idols any more. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **evergreen cypress **- a beautiful tree that stays green all year; this represents Yahweh and his blessings on Israel. (see: [[:vi:ta:vol1:translate:figs_simile]])
+  * **from me comes your fruit **- Yahweh is reminding Israel that every good thing represented by fruit is received from him. (see: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:14|Hosea Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:14:04|<<]] | [[:vi:bible:notes:hos:14:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

@@ -1,0 +1,66 @@
+====== Isaiah 63:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Where is the one who showed his glorious power \f + \ft metonymy \f*,
+\q2 and caused the water to separate when Moses lifted his arm above it,
+\q1 with the result that he will be honored\f + \ft Or: praised \f* forever?
+\q1
+\v 13 Where is the one who led our ancestors while they walked through the sea bed?
+\q2 They were like \f + \ft simile \f* horses that were racing along and never stumbled.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Where is the one who showed his glorious power
+\q2 and caused the water to separate when Moses lifted his arm above it,
+\q1 with the result that he will be honored forever?
+\q1
+\v 13 Where is the one who led our ancestors while they walked through the seabed?
+\q2 They were like horses that were racing along and never stumbled.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Where is God, who made his glorious power go with the right hand of Moses,
+\q1 and divided the water before them, to make an everlasting name for himself?
+\q1
+\v 13 Where is God, who led them through the deep water? Like a horse running on flat land, they did not stumble.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:glory]]
+  * [[;en:obe:kt:righthand]]
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:water]]
+  * [[:vi:obe:other:horse]]
+ 
+
+===== Translation Notes: =====
+
+The people of Israel continue speaking.
+
+  * **who made his glorious power go with the right hand of Moses**  - Here "arm" represents the power of Yahweh. This means it was God's power that enabled Moses to split the Reed Sea. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Like a horse running on flat land, they did not stumble**  - This means that the people of Israel were sure-footed as horses in open country on their travels toward Israel from Egypt. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:63|Isaiah Chapter 63 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:63:11|<<]] | [[:vi:bible:notes:isa:63:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

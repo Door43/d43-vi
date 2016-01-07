@@ -1,0 +1,54 @@
+====== Leviticus 22:31-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 31 Obey all my commands \f + \ft doublet \f*. I, Yahweh, \add am commanding them\add*;
+\v 32 do not dishonor me \f + \ft metonymy \f* \add by disobeying them\add*. You Israelite people must acknowledge that I, Yahweh, am holy, and I am the one who causes you to be holy.
+\v 33 And I am the one who brought you out of Egypt in order that I, Yahweh, will be your God."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 31 Obey all my commands. I, Yahweh, am commanding them.
+\v 32 Do not dishonor me by disobeying them. You Israelite people must acknowledge that I, Yahweh, am holy, and I am the one who causes you to be holy.
+\v 33 And I am the one who brought you out of Egypt in order that I, Yahweh, will be your God."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 So you must keep my commandments and carry them out. I am Yahweh.
+\p
+\v 32 You must not dishonor my holy name. I must be acknowledged as holy by the people of Israel. I am Yahweh who sanctifies you,
+\v 33 who brought you out of the land of Egypt, to be your God. I am Yahweh."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[vi:obe:other:dishonor]]
+  * [[vi:obe:kt:holy]]
+  * [[vi:obe:kt:name]]
+  * [[vi:obe:other:acknowledge]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:israel]]
+  * [[vi:obe:kt:sanctify]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[vi:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **keep my commandments and carry them out** - The words "keep" and "carry out" mean the same thing. They emphasize that the people must obey God's commands. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **You must not dishonor my holy name** - AT: "You must honor my holy reputation" or "You must honor me" (See: [[:vi:ta:vol2:translate:figs_litotes]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **I must be acknowledged as holy by the people of Israel** - AT: "The people of Israel must acknowledge me as holy" (See:[[vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:22|Leviticus Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:22:28|<<]] | [[:vi:bible:notes:lev:23:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

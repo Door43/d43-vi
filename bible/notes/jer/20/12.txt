@@ -1,0 +1,76 @@
+====== Jeremiah 20:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Almighty Commander of the armies of angels,
+\q1 you examine all those who are righteous;
+\q2 you know all that is in their inner beings and what they think.
+\q1 Allow me to see you getting revenge on those \add who want to harm me\add*,
+\q2 because I trust that you will do for me what is right."
+\b
+\q1
+\v 13 Sing to Yahweh!
+\q2 Praise Yahweh!
+\q1 He rescues poor and needy people,
+\q2 from those \f + \ft synecdoche \f* who are wicked.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Yahweh, Commander of the angel armies,
+\q1 you examine all those who are righteous;
+\q2 you know all that is in their inner beings and what they think.
+\q1 Allow me to see you getting revenge on those who want to harm me,
+\q2 because I came to you to petition for what is right."
+\b
+\q1
+\v 13 Sing to Yahweh!
+\q2 Praise Yahweh!
+\q1 He rescues poor and needy people,
+\q2 from those  who are wicked.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 But you, Yahweh of hosts, you who examine the righteous and who see the mind and the heart,
+\q let me see your vengeance on them since I have shown my case to you.
+\q
+\v 13 Sing to Yahweh! Praise Yahweh!
+\q For he has rescued the soul of the oppressed operson from the hand of evildoers.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:mind|mind]]
+  * [[:vi:obe:other:heart|heart]]
+  * vengeance
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:kt:oppress|oppress, oppression, oppressor]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+
+===== Translation Notes: =====
+
+  * **I have shown my case to you**  - AT: "I have asked you for justice"
+  * **he has rescued the soul of the oppressed person from the hand of evildoers**  - AT: "Yahweh has saved the poor person from the wicked people who meant to harm them" (See: Synecdoche)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:20|Jeremiah Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:20:10|<<]] | [[:vi:bible:notes:jer:20:14|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

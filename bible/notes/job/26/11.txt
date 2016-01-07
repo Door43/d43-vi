@@ -1,0 +1,67 @@
+====== Job 26:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 When he \add is angry, it is as though\add* he rebukes the pillars that hold up the sky.
+\q2 They are shocked\f + \ft Or: very fearful \f*, and they tremble.
+\q1
+\v 12 By his power he calmed the sea;
+\q2 by his skill\f + \ft Or: wisdom \f* he destroyed Rahab, the huge sea monster.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 When he is angry, it is as though he rebuked the pillars that hold up the sky.
+\q2 They are shocked, and they tremble.
+\q1
+\v 12 By his power he calmed the sea;
+\q2 by his skill he destroyed Rahab, the huge sea monster.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 The pillars of heaven tremble
+\q and are astonished at his rebuke.
+\q
+\v 12 He calmed the sea with his power;
+\q by his understanding he shattered Rahab.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pillar]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:other:rahab]]
+ 
+
+===== Translation Notes: =====
+
+  *
+
+  * **Rahab - This name does not refer to he woman Rahab as mentioned in Important Terms. Rahab here refers to a sea monster, and is figuratively referring to human pride.**
+  * **pillars of heaven - Here pillars of heaven refers to the whole creation.(See: Metonymy)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:26|Job Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:job:26:09|<<]] | [[:vi:bible:notes:job:26:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

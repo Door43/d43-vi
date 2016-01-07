@@ -1,0 +1,52 @@
+====== Jeremiah 38:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 So then I said to Zedekiah, "This is what the Almighty Commander of the armies of angels the God whom we Israelites \add worship\add*, says: 'If you surrender to the officers of the king of Babylon, you and your family will be spared\f + \ft Or: not be killed \f*, and this city will not be burned.
+\v 18 But if you refuse to surrender to them, you will not escape. And the army from Babylonia will capture this city and completely burn it.'~"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 So then I said to Zedekiah, "This is what Yahweh, Commander of the angel armies, the God whom Israel worships, says: 'If you surrender to the officers of the king of Babylon, you and your family will be spared, and this city will not be burned.
+\v 18 But if you refuse to surrender to them, you will not escape. And the army from Babylonia will capture this city and completely burn it.' "
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 So Jeremiah said to Zedekiah, “Yahweh, God of hosts, God of Israel, says this: If you indeed go out to the officials of the king of Babylon then you will live, and this city 
+will not be burned. You and your family will live.
+\v 18 But if you do not go out to the officials of the king of Babylon, then this city will be given over into the hand of the Chaldeans. They will burn it, and you will not escape from their hand.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahwehofhosts]]
+  * [[:vi:obe:other:israel]]
+  * [[vi:obe:other:Babylon]]
+  * [[:vi:obe:other:family]]
+  * [[vi:obe:other:chaldeans]]
+
+===== Translation Notes: =====
+
+  * **God of Israel** - AT: "God of the people of Israel" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **this city will not be burned** - AT: "the Babylonian army will not burn this city" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **this city will be given over into the hand of the Chaldeans** - AT: “I will allow the Chaldeans to conquer this city” (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **escape from their hand** - AT: "escape from their power" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:38|Jeremiah Chapter 38 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:38:14|<<]] | [[:vi:bible:notes:jer:38:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

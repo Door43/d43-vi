@@ -1,0 +1,75 @@
+====== Proverbs 19:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 When we give things to poor people, \add it is as though\add* we are lending to Yahweh,
+\q2 and he will pay us back\f + \ft Or: reward us for what we did \f*.
+\b
+\q1
+\v 18 Discipline your children while \add they are young\add*, while you still hope that \add they will learn to behave as they should\add*;
+\q2 \add if you do not discipline them\add*, you are helping them to destroy \add themselves\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 One who is kind to the poor, it is as if he were lending to Yahweh; 
+\q2 and Yahweh will pay him for what he did. 
+\b
+\q1
+\v 18 Train your son and give him discipline while there still is hope of rescuing him; 
+\q2 but do not be so offended by him that you consider taking his life. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Whoever is kind to the poor lends to Yahweh,
+\q and he will repay him for what he has done. 
+\q
+\v 18 Discipline your child while there is hope,
+\q and do not set your heart on putting him to death.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:kt:discipline]]
+  * [[:En:obe:kt:children]]
+  * [[:En:obe:kt:hope]]
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **while there is hope** - AT: "while he is young" or "while he can still be taught"
+    * **do not set your heart on putting him to death** - AT: "do not punish him so that he might die" or "you should always want your child to live" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+    * **set your heart on** - AT: "be determined to do something" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+      
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:19|Proverbs Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/19/15|<<]] | [[en/bible/notes/pro/19/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

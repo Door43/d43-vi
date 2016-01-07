@@ -1,0 +1,45 @@
+====== Exodus 22:28 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 Do not revile\f + \ft Or: speak evil about \f* God, and do not curse\f + \ft Or: ask God to do harmful things to \f* any ruler of your people.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 Do not insult God, and do not call on God to do harmful things to any ruler of your people.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 You must not blaspheme me, God, nor curse a ruler of your people.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:blasphemy]]
+  * [[:vi:obe:kt:curse]]
+  * [[:vi:obe:other:ruler]]
+  * [[:vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * **You must not blaspheme me, God** - "Do not insult God"
+  * **nor curse a ruler** - "and do not ask God to do bad things to a ruler"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:22|Exodus Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:22:25|<<]] | [[:vi:bible:notes:exo:22:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Song of Solomon 05:13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 His cheeks are like \f + \ft simile \f* a garden full of spice trees
+\q2 that produce \add sweet-smelling\add* perfume.
+\q1 His lips are like \f + \ft simile \f* lilies
+\q2 that have myrrh\f + \ft Or: perfume \f* dripping from them.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 His cheeks are like a garden full of spice trees
+\q2 that produce sweet-smelling perfume.
+\q1 His lips are like lilies
+\q2 that have myrrh dripping from them.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 His cheeks are like beds of spices,
+\q yielding aromatic scents.
+\q His lips are lilies, dripping myrrh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:myrrh|myrrh]]
+
+===== Translation Notes: =====
+
+  * **beds of spices** - a garden or field where spices are grown (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **yielding aromatic scents** - "bringing good smells"
+  * **His lips are lilies** - She is not saying his lips are actually lilies. Lilies are plants that have sweet smelling white or colorful bell-shaped flowers. (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:05|Song of Solomon Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:05:12|<<]] | [[:vi:bible:notes:sng:05:14|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

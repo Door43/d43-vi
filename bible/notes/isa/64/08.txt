@@ -1,0 +1,71 @@
+====== Isaiah 64:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Yahweh, you are our father.
+\q2 We are like \f + \ft metaphor \f* clay,
+\q2 and you created us, like \f + \ft metaphor \f* a potter \add creates pottery\add*.
+\q1
+\v 9 Yahweh, do not continue to be angry with us;
+\q2 do not keep thinking about our sins forever.
+\q1 Do not forget that we are all your people.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 But even so, Yahweh, you are our father.
+\q2 We are like clay that a potter uses,
+\q2 and you created us, like a potter creates pottery.
+\q1
+\v 9 Yahweh, do not continue to be angry with us;
+\q2 do not keep thinking about our sins forever.
+\q1 Do not forget that we are all your people.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 8 And yet, Yahweh, you are our father; 
+\q1 we are the clay. You are our potter; and we all are the work of your hand.
+\q1
+\v 9 Be not too angry, Yahweh, nor always call to  mind against us our sins. 
+\q1 Please look at us all, your people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:father]]
+  * [[vi:obe:other:hand]]
+  * [[:vi:obe:other:angry]]
+  * [[vi:obe:other:mind]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:peopleofgod]]
+ 
+
+===== Translation Notes: =====
+The people of Israel continue speaking to Yahweh.
+
+    * **we are the clay. You are our potter; and we all are the work of your hand** - This means God created the people of Israel. (See: [[vi:ta:vol1:translate:figs_metaphor]]) 
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:64|Isaiah Chapter 64 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:64:06|<<]] | [[:vi:bible:notes:isa:64:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

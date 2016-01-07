@@ -1,0 +1,73 @@
+====== Isaiah 54:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 I abandoned you people of Jerusalem for a while,
+\q2 but now I am saying, 'I will take you back.'
+\q1
+\v 8 I was very angry with you for a while,
+\q2 and I turned away from you.
+\q1 But I will act mercifully toward you
+\q2 and I will faithfully love you forever.
+\q2 That is what I, Yahweh, your protector, say to you.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 I abandoned you people of Jerusalem for a while,
+\q2 but now I am saying, 'I will take you back.'
+\q1
+\v 8 I was very angry with you for a while,
+\q2 and I turned away from you.
+\q1 But I will act mercifully toward you
+\q2 and I will faithfully love you forever.
+\q2 That is what I, Yahweh, your rescuer, say to you.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 7 "For a short time I abandoned you, but with great compassion I will gather you.
+\q1
+\v 8 In a flood of anger I hid my face from you momentarily; 
+\q1 but with everlasting covenant faithfulness I will have mercy on you," says Yahweh, the one who rescues you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:compassion]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Jerusalem.
+
+  * **I hid my face from you **- God abandoned his people and let them suffer.
+  * **covenant faithfulness**  - See how you translated this in [[:vi:bible:notes:isa:16:05|16:5]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:54|Isaiah Chapter 54 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:54:05|<<]] | [[:vi:bible:notes:isa:54:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

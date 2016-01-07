@@ -1,0 +1,57 @@
+====== Deuteronomy 23:21-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 When you solemnly promise to give something to Yahweh your God \add or to do something for him\add*, do not delay in doing it. Yahweh expects you to do what you promised, and if you do not do it, you will be committing a sin.
+\v 22 But if you \f + \ft synecdoche \f* do not solemnly promise \add to do something\add*, that is not sinful.
+\v 23 But if you voluntarily promise to do something, you must do it.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 When you solemnly promise to give something to Yahweh your God or to do something for him, do not delay in doing it. Yahweh expects you to do what you promised, and if you do not do it, you will be committing a sin.
+\v 22 But if you do not solemnly promise to do something, that is not sinful.
+\v 23 But if you voluntarily promise to do something, you must do it.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 When you make a vow to Yahweh your God, you must not be slow in fulfilling it, for Yahweh your God will surely require it of you;  it would be sin in you not to fulfill it.
+\v 22 But if you will refrain from making a vow, it will be no sin in you.
+\v 23 That which has gone out from your lips you must observe and do; according as you have vowed to Yahweh your God, anything that you have freely promised with your mouth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:vow]]
+  * [[:vi:obe:kt:fulfill]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:promise]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel.
+
+  * **you must not be slow in fulfilling it**  - "you must not take a long time to fulfill the vow"
+  * **for Yahweh your God will surely require it of you**  - AT: "because Yahweh your God will blame you and punish you if you do not fulfill your vow." ([[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **But if you will refrain from making a vow, it will be no sin in you**  - AT: "But, if you do not make a vow, you will not sin because you will not have a vow to fulfill." (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **That which has gone out from your lips**  -  AT: "Anything that you solemnly promise." (See: [[:vi:ta:vol2:translate:figs_metonymy]] )
+  * **according as you have vowed to Yahweh your God**  - "whatever you have vowed to Yahweh your God that you will do"
+  * **anything that you have freely promised with your mouth**  -  AT: "anything that you have voluntarily promised with your words." (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:23|Deuteronomy Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:23:19|<<]] | [[:vi:bible:notes:deu:23:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

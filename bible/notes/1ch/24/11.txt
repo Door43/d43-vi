@@ -1,0 +1,77 @@
+====== 1 Chronicles 24:11-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Next, Jeshua was selected.
+\li1 Next, Shecaniah was selected.
+\li1
+\v 12 Next, Eliashib was selected.
+\li1 Next, Jakim was selected.
+\li1
+\v 13 Next, Huppah was selected.
+\li1 Next, Jeshebeab was selected.
+\li1
+\v 14 Next, Bilgah was selected.
+\li1 Next, Immer was selected.
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Next, Jeshua was selected.
+\li1 Next, Shecaniah was selected.
+\li1
+\v 12 Next, Eliashib was selected.
+\li1 Next, Jakim was selected.
+\li1
+\v 13 Next, Huppah was selected.
+\li1 Next, Jeshebeab was selected.
+\li1
+\v 14 Next, Bilgah was selected.
+\li1 Next, Immer was selected.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 the ninth to Jeshua, the tenth to Shecaniah,
+\v 12 the eleventh to Eliashib, the twelfth to Jakim,
+\v 13 the thirteenth to Huppah, the fourteenth to Jeshebeab,
+\v 14 the fifteenth to Bilgah, the sixteenth to Immer,
+</usfm>
+
+
+===== Important Terms: =====
+  * No Important Terms for this chunk.
+
+
+===== Translation Notes: =====
+
+This is a continuation of the listing of the names in order of the men chosen by lot which began in [[:vi:bible:notes:1ch:24:07|1 Chronicles 24:7]].
+
+  * **ninth ... sixteenth** - This shows the order in which the leaders were chosen by the casting of lots. AT: “number 9…number 10…number 11…number 12…number 13…number 14…number 15…number 16” (See: Ordinal Numbers and [[:vi:ta:vol2:translate:translate_numbers]])
+  * **Jeshua ... Immer** - These are names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:24|1 Chronicles Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/24/07|<<]] | [[en/bible/notes/1ch/24/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

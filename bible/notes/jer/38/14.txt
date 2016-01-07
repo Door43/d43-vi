@@ -1,0 +1,64 @@
+====== Jeremiah 38:14-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 One day King Zedekiah summoned me, and I was brought to the king, \add who was waiting for me\add* at the entrance of the temple. He said to me, "I want to ask you something. I want you to \add answer me truthfully, and\add* and to not conceal anything."
+\p
+\v 15 I replied, "If I tell you the truth, you will \add command that I\add* be executed. And if I give you good advice, you will not pay attention to what I say."
+\p
+\v 16 But King Zedekiah secretly promised me, "\add Tell me the truth\add*! And as surely as Yahweh lives, I will not cause you to be executed, and I will not put you into the hands of those who are wanting to kill you."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 One day King Zedekiah summoned me, and I was brought to the king, who was waiting for me at the entrance of the temple. He said to me, "I want to ask you something. I want you to answer me truthfully, and to not conceal anything."
+\p
+\v 15 I replied, "If I tell you the truth, you will command that I be executed. And if I give you good advice, you will not pay attention to what I say."
+\p
+\v 16 But King Zedekiah secretly promised me, "Tell me the truth! And as surely as Yahweh lives, I will not cause you to be executed, and I will not put you into the hands of those who are wanting to kill you."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Then King Zedekiah sent word and brought Jeremiah the prophet to himself, to the third entrance in Yahweh's house. The king said to Jeremiah, “I want to ask you 
+something. Do not keep the answer from me.”
+\v 15 Jeremiah said to Zedekiah, “If I answer you, will you not certainly kill me? And if I give you advice, you will not listen to me.”
+\v 16 But King Zedekiah swore to Jeremiah in private and said, “As Yahweh lives, the one who made us, I will not kill you or give you into the hand of those men who are seeking your life.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:other:zedekiah]]
+  * [[:vi:obe:other:send]]
+  * [[vi:obe:kt:word]]
+  * [[vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[vi:obe:other:counselor]]
+  * [[:vi:obe:other:oath]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:hand]]
+  * [[vi:obe:kt:life]]
+
+===== Translation Notes: =====
+
+  * **If I answer you, will you not certainly kill me?** - Jeremiah uses this question to express his belief that the king will kill him if he answers truthfully. AT: "If I tell you the truth, you will certainly kill me" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **As Yahweh lives, the one who made us** - The king says this to emphasize that what he is about to say next is true.  AT: "Just as it is true that Yahweh, the one who made us, lives, it is true that"
+  * **give you into the hand of those men** - Here the word "hand" refers to the men's control or power. AT: "allow those men to capture you" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **are seeking your life** - AT: "are trying to kill you" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:38|Jeremiah Chapter 38 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:38:12|<<]] | [[:vi:bible:notes:jer:38:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr}}
+
+~~NOCACHE~~

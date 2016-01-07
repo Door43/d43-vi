@@ -1,0 +1,49 @@
+====== Deuteronomy 28:32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 While you watch, your sons and daughters will be given to foreigners to become their slaves. Every day you will watch for your children to return, but you will watch in vain\f + \ft Or: they will never return \f*.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 While you watch, your sons and daughters will be given to foreigners to become their slaves. Every day you will watch for your children to return, but you will watch in vain.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 32 Your sons and your daughters will be given to other peoples; your eyes will look for them the entire day, but will fail with longing for them. There will be no strength in your hand.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:biblicaltimeday]]
+  * [[:vi:obe:other:strength]]
+  * [[:vi:obe:other:hand|hand]]
+
+===== Translation Notes: =====
+
+  * **Your sons and your daughters will be given to other peoples** - AT: "Your enemies will take your sons and daughters" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **your eyes will look for them the entire day, but will fail with longing for them** - AT: "you will grow tired as you constantly watch for them and yearn to see them again" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **There will be no strength in your hand**- AT: "You will be powerless to do anything about it" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:30|<<]] | [[:vi:bible:notes:deu:28:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

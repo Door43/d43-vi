@@ -1,0 +1,76 @@
+====== Psalms 124:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 You Israelite people, \add answer this question:\add*
+\q1 What \add would have happened to us\add* if Yahweh had not been helping\f + \ft Or: fighting for \f* us?
+\q1
+\v 2 When \add our enemies\add* attacked us,
+\q1 if Yahweh had not been fighting for us,
+\q1
+\v 3 we would have all been killed [IDI]
+\q2 because they were very angry with us!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 You Israelite people, answer this question:
+\q1 What would have happened to us if Yahweh had not been helping us?
+\q1
+\v 2 When our enemies attacked us,
+\q1 if Yahweh had not been fighting for us,
+\q1
+\v 3 we would have all been killed
+\q2 because they were very angry with us!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 124
+\d A song of ascents; of David.
+\b
+\q
+\v 1 "If Yahweh had not been on our side,"
+\q let Israel say now,
+\q
+\v 2 "if it had not been Yahweh who was on our side
+\q when men rose up against us,
+\q
+\v 3 then they would have swallowed us up alive
+\q when their anger raged against us.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:angry]]
+  * [[vi:obe:other:rage]]
+===== Translation Notes: =====
+
+(See: [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **Song of Ascents**- See how you translated this in [[:vi:bible:notes:psa:120:001|120:1]]
+  * **of David** - “written by David”
+  * **if it had not been Yahweh who was on our side** - AT: "Without Yahweh's help"
+  * **swallowed us up alive**  - This metaphor compares how the Israelites could've died to how a fierce animal would attack a smaller animal to eat. AT: "killed us" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **their anger raged against us** - AT: "They attacked us"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:124|Psalms Chapter 124 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:123:003|<<]] | [[:vi:bible:notes:psa:124:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

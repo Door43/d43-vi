@@ -1,0 +1,62 @@
+====== Psalms 022:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 My enemies \f + \ft metaphor \f* surround me like a pack\f + \ft Or: group \f* of wild dogs.
+\q2 A group of evil men has encircled me, \add ready to attack me\add*.
+\q2 They have already gnashed my hands and my feet.
+\q1
+\v 17 \add I am so weak and thin that\add* I can count all my bones.
+\q2 My enemies stare at me and gloat\f + \ft Or: are happy \f* about \add what has happened to\add* me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 My enemies are like wild dogs that surround me.
+\q2 A group of evil men has encircled me, ready to attack me.
+\q2 They have pierced through my hands and my feet.
+\q1
+\v 17 I am so weak and thin that I can count all my bones.
+\q2 My enemies stare at me and gloat about what has happened to me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 For dogs have surrrounded me;
+\q a company of evildoers has encircled me;
+\q they have pierced my hands and my feet.
+\q
+\v 17 I can count all my bones.
+\q They look and stare at me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:En:obe:other:pierce]]
+
+===== Translation Notes: =====
+
+  * **dogs** - This word refers to his enemies or evil people. AT: "my enemies are like dogs that" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **a company of evildoers** - "a group of evildoers" or "a gang of evildoers"
+  * **encircled** - "surrounded"
+  * **pierced** - stabbed through something with a sharp object
+  * **I can count all my bones** - AT: "I can see all of my bones" or "I can feel each of my bones"
+  * **look and stare at me** - These two words mean the same thing and are repeated to emphasize how uncomfortable he is with people looking at him. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:014|<<]] | [[:vi:bible:notes:psa:022:018|>>]]**
+
+~~DISCUSSION~~{{tag>publish pierce discuss book1}}
+
+~~NOCACHE~~

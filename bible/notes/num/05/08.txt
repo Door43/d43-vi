@@ -1,0 +1,57 @@
+====== Numbers 05:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 If the person against whom the wrong was done \add has died and\add* there is no relative to whom the money can be paid, then the money belongs to me, and it must be paid to the priest. In addition, the one who did the wrong must give a male sheep to the priest \add to sacrifice\add* in order that that person's sin may be forgiven\f + \ft Or: I can forgive that person for his sin \f*.
+\v 9 All the sacred offerings that the Israelites bring to the priest belong to the priest.
+\v 10 The priest can keep those gifts.'~"
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 If the person against whom the wrong was done has died and there is no relative to whom the money can be paid, then the money belongs to me, and it must be paid to the priest. In addition, the one who did the wrong must give a male sheep to the priest to sacrifice in order that that person's sin may be forgiven.
+\v 9 All the sacred offerings that the Israelites present to me and bring to the priest belong to the priest.
+\v 10 The priest can keep those gifts.'"
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 But if the wronged person has no close relative to receive the payment, he must pay the price for his guilt to me through a priest, along with a ram to atone for himself.
+\v 9 Every offering presented to a priest from all the holy things, the things set aside for me by the people of Israel, will belong to that priest.
+\v 10 Every man’s holy things will belong to the priest. Whatever a man gives to the priest will belong to that priest."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:receive]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:kt:atonement]]
+  * [[:vi:obe:other:sacrifice]]
+  * [[:vi:obe:kt:holy]]
+
+===== Translation Notes: =====
+
+  * **if the wronged person** - AT: "if the person whom the guilty person has wronged" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **he must pay the price for his guilt...to atone for himself** - Here the words "he," "his," and "himself" refer to the guilty person.
+  * **Every offering presented** - AT: "Every offering that people present" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **the things set aside for me by the people of Israel** - AT: "the things that the people of Israel set aside for me" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **Every man’s holy things will belong to the priest. Whatever a man gives to the priest will belong to that priest** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:05|Numbers Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:num:05:05|<<]] | [[:vi:bible:notes:num:05:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

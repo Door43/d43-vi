@@ -1,0 +1,69 @@
+====== Job 10:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 If I am a wicked man, I hope\f + \ft Or: wish \f* that terrible things will happen to me.
+\q1 But even if I am righteous, I still must bow my head \add and feel ashamed\add*,
+\q2 because I am very disgraced and feel miserable.
+\q1
+\v 16 And if I am proud, you hunt me like \f + \ft simile \f* a lion hunts \add for some animal to kill\add*,
+\q2 and you act powerfully to injure me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 If I am a wicked man, I hope that terrible things will happen to me.
+\q1 But even if I am righteous, I still must bow my head and feel ashamed
+\q2 because I am very disgraced and feel miserable.
+\q1
+\v 16 And if I am proud, you hunt me like a lion hunts for some animal to kill,
+\q2 and you act powerfully to injure me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 If I am wicked, woe to me;
+\q even if I were righteous, I could not lift up my head,
+\q since I am filled with disgrace
+\q and am looking at my own suffering.
+\q
+\v 16 If my head lifts itself, you hunt me down like a lion;
+\q once again you show yourself powerful to me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:woe]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:head]]
+  * [[:vi:obe:kt:suffer]]
+  * [[:vi:obe:other:lion]]
+  * [[:vi:obe:kt:power]]
+
+===== Translation Notes: =====
+
+  * **if I am wicked** - "if I am guilty" or "if I do evil"
+  * **even if I were righteous** - "if I am innocent"
+  * **I could not lift up my head** - "I still must bow my head and feel ashamed" (UDB) (See: [[:vi:ta:vol1:translate:figs_idiom]] and [[:vi:ta:vol2:translate:figs_litotes]])
+  * **since I am filled with disgrace** - The word "disgrace" refers to Job's shame. AT: "Since I am ashamed"
+  * **and am looking at my own suffering** - AT: "and feel miserable." (UDB)
+  * **if my head lifts itself, you hunt me down like a lion** - AT: "if I become proud, you hunt me like a lion hunts its prey;" (See: [[:vi:ta:vol1:translate:figs_idiom]] and [[:vi:ta:vol1:translate:figs_simile]])
+  * **show yourself powerful** - "show your marvelous power"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:10|Job Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:job:10:12|<<]] | [[:vi:bible:notes:job:10:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

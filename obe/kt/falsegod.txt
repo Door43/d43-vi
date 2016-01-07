@@ -1,25 +1,25 @@
-====== false god, god ======
+====== false god, foreign god, god, goddess ======
 
 ===== Definition: =====
 
-A false god is something that people worship instead of the one true God.
+A false god is something that people worship instead of the one true God. The term "goddess" refers specifically to an idol that is described as female.
 
-  * These "gods" do not exist. Yahweh is the only God, and he has no rival.
+  * These false gods or goddesses do not exist. Yahweh is the only God, and he has no rival.
   * People sometimes make objects into idols to worship as symbols of their false gods.
-  *  In the Bible, God's people frequently turned away from obeying him in order to worship false gods.
+  * In the Bible, God's people frequently turned away from obeying him in order to worship false gods.
   * Demons often deceive people into believing that the false gods and idols they worship have power.
-
- 
+  * Baal, Dagon, and Molech were three of the many false gods that were worshiped by people in ancient times.
+  * Goddesses that were worshipped by people in Bible times included Asherah and Artemis (or Diana).
 
 ===== Translation Suggestions: =====
-
 
   * There may already be a word for "god" or "false god" in the language or in a nearby language.
   * The term "idol" could be used to refer to false gods.
   * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
   * Another option would be to use a different word to refer to the false gods.
+  * Some languages may add a word to specify whether the false god is described as male or female.
 
-(See also: [[:vi:obe:kt:god|God]], [[:vi:obe:other:idol|idol]], [[:vi:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
+(See also: [[:vi:obe:kt:god]], [[:En:obe:other:asherah]], [[:vi:obe:other:baal]], [[:En:obe:other:molech]], [[:vi:obe:other:idol]], [[:vi:obe:kt:demon]], [[:En:obe:other:image]])
 
 ===== Bible References: =====
 
@@ -32,6 +32,6 @@ A false god is something that people worship instead of the one true God.
   * **[[:vi:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
   * **[[:vi:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
   * **[[:vi:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
-~~DISCUSSION~~{{tag>publish ktobs}}
+~~DISCUSSION~~{{tag>publish knobs}}
 
 ~~NOCACHE~~

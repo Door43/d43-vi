@@ -1,0 +1,64 @@
+====== Deuteronomy 28:33-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 People from a foreign nation will take all the crops that you worked hard to produce,
+\pi and they will constantly treat you harshly and cruelly \f + \ft doublet \f*.
+\pi
+\v 34 The result will be that all these terrible things that you see\f + \ft Or: experience \f* will cause you to become insane.
+\pi
+\v 35 Yahweh will cause your legs \add to be covered with\add* painful boils that cannot be healed,
+\pi and you will have boils from the bottom of your feet to the top of your head.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 People from a foreign nation will take all the crops that you worked hard to produce,
+\pi and they will constantly treat you harshly and cruelly.
+\pi
+\v 34 The result will be that all these terrible things that you see will cause you to become insane.
+\pi
+\v 35 Yahweh will cause your legs to be covered with painful boils that cannot be healed,
+\pi and you will have boils from the bottom of your feet to the top of your head.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 The harvest of your land and of all your labors—a nation that you do not know not will eat it up; you will always  be oppressed and crushed,
+\v 34 so that you will become insane by what you have to see happen.
+\v 35 Yahweh will attack you in the knees and legs with a severe boils from which you cannot be cured, from the bottom of your feet to the top of your head.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:harvest|harvest]]
+  * [[:vi:obe:other:labor|labor, laborer]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:kt:oppress]]
+  * [[:vi:obe:other:heal]]
+
+===== Translation Notes: =====
+
+  * **a nation** - AT: "people from a nation" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **you will always be oppressed and crushed** - The words "oppressed" and "crushed" mean basically the same thing. AT: "they will always oppress and crush you" or "they will oppress you continually" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[:vi:ta:vol2:translate:figs_doublet]])
+  * **you will become insane by what you have to see happen**  - AT: "what you see will drive you mad"
+  * **from which you cannot be cured** - AT: "which no one will be able to cure"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:32|<<]] | [[:vi:bible:notes:deu:28:36|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

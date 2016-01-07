@@ -1,0 +1,22 @@
+====== House of David ======
+
+===== Facts: =====
+The "House of David" is another way of speaking about the bloodline, or lineage of King David. 
+
+  * David's son Solomon was the first descendant in the "House of David."
+  * Another way of saying this is "the descendants of David."
+  * Because Jesus was from the lineage of David he was part of the "House of David."
+
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
+
+(See also: [[:En:obe:other:david]], [[:En:obe:other:king]], [[:En:obe:other:descendant]], [[:En:obe:kt:jesus]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?houseofdavid&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>discuss ktlink}}

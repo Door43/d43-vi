@@ -1,0 +1,50 @@
+====== Psalms 093:5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 Yahweh, your laws never change,
+\q2 and your temple has always been holy\f + \ft Or: sacred \f*.
+\q2 And that will be true forever.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Yahweh, your laws never change,
+\q2 and your temple has always been holy.
+\q2 That will be true forever.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Your solemn commands are very trustworthy;
+\q holiness adorns your house,
+\q Yahweh, forever.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:other:house|house]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:forever|forever]]
+
+===== Translation Notes: =====
+ 
+  * **solemn** - very serious
+  * **adorns** - makes beautiful
+  
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:093|Psalms Chapter 093 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:093:003|<<]] | [[:vi:bible:notes:psa:094:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Judges 08:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 By that time, Zebah and Zalmunna had gone to Karkor \add town\add* with 15,000 troops. They were all that were left of the armies that had come from the east. 150,000 of their men had already been killed.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 By that time, Zebah and Zalmunna had gone to Karkor town with 15,000  troops. They were all that were left of the armies that had come from the east. 120,000 of their men had already been killed.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Now Zebah and Zalmunna were in Karkor, with their army with them, about 15,000 men, all who remained from the entire army of the people of the east. For there had fallen 120,000 men who had drawn the sword.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sword]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **Zebah and Zalmunna**  - See how you translated these men's names in (See: [[:vi:bible:notes:jdg:08:04|8:5]])
+  * **Karkor**  - The name of a city. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **there had fallen**  - A person who dies in battle is described as a person who has fallen. AT: "there had been killed" (See: [[:vi:ta:vol2:translate:figs_euphemism|Euphemism]])
+  * **who had drawn the sword**  -  AT: "who had fought in the war" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:08|<<]] | [[:vi:bible:notes:jdg:08:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

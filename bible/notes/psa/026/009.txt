@@ -1,0 +1,59 @@
+====== Psalms 026:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Do not get rid of me like you get rid of sinners;
+\q2 do not cause me to die like you cause those who murder \f + \ft metonymy \f* people to die,
+\q1
+\v 10 and people who \f + \ft synecdoche \f* are ready to do wicked things
+\q2 and people who are always taking bribes.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Do not get rid of me like you get rid of sinners;
+\q2 do not cause me to die like you cause those who murder people to die,
+\q1
+\v 10 people who are ready to do wicked things
+\q2 and those who are always taking bribes.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Do not sweep my soul away with the sinners,
+\q nor my life with bloodthirsty men,
+\q
+\v 10 in whose hands there is a plot,
+\q and whose right hand is full of bribes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul]]
+  * [[vi:obe:kt:sin]]
+  * [[vi:obe:kt:blood]]
+  * [[:vi:obe:kt:righthand]]
+  * [[:vi:obe:other:bribe]]
+===== Translation Notes: =====
+
+  * **nor my life with bloodthirsty men**  - AT: "and do not sweep away my life with bloodthirsty men" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **bloodthirsty men**  - AT: "men who are eager to shed others' blood" or "people who are eager to kill others"
+  * **in whose hands there is a plot**  - "people who plan to do wicked things"
+  * **a plot**  - "a wicked plan"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:026|Psalms Chapter 026 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:026:006|<<]] | [[:vi:bible:notes:psa:026:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

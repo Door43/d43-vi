@@ -1,0 +1,76 @@
+====== Psalms 075:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 God is the one who judges people;
+\q2 he says that some have sinned and must be punished and that others have not done what is wrong.
+\q1
+\v 8 \add It is as though\add* Yahweh holds a cup in his hand;
+\q2 it is filled with wine that \add has spices\add* mixed in it \add to cause those who drink it to become more drunk\add*;
+\q1 and when Yahweh pours it out, he will force all the wicked people to drink it;
+\q2 they will drink every drop of it,
+\q2 \add which means that he will give them all the punishment that they deserve\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 God is the one who judges people;
+\q2 he shames and punishes some, and he honors others.
+\q1
+\v 8 It is as though Yahweh held a cup in his hand;
+\q2 it is filled with wine that has spices mixed in it to cause those who drink it to become more drunk;
+\q1 and when Yahweh pours it out, he will force all the wicked people to drink it;
+\q2 they will drink every drop of it; yes, he will punish them fully.
+
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 But God is the judge;
+\q he brings one down and raises up another.
+\q
+\v 8 For Yahweh holds a cup in his hand of foaming wine,
+\q which is mixed with spices, and pours it out.
+\q Surely all the wicked of the earth will drink it to the last drop.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:judgeposition]]
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:wine]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:earth]]
+ 
+
+===== Translation Notes: =====
+
+Asaph speaks about God.
+
+  * **a cup ... of foaming wine ... mixed with spices**  - When Yahweh punishes the people they will be like people who have drunk strong wine and become ill. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **foaming wine** - wine with much alcohol (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **spices**  - dried leaves or ground seeds
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:075|Psalms Chapter 075 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:075:004|<<]] | [[:vi:bible:notes:psa:075:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

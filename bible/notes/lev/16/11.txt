@@ -1,0 +1,40 @@
+====== Leviticus 16:11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then Aaron must bring the young bull to me, to be an offering\f + \ft Or: sacrifice \f* for himself and for his family. He must slaughter that bull to be an offering for their sins, \add and he must drain the blood into a basin\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then Aaron must bring the young bull to me, for it to be an offering for himself and for his family. He must slaughter that bull to be an offering for their sins, and he must drain the blood into a basin.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Then Aaron must present the bull for the sin offering, which will be for himself. He must make atonement for himself and for his family, so he must kill the bull as a sin offering for himself.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Aaron]]
+  * [[:vi:obe:other:cow]]
+  * [[:vi:obe:other:sinoffering|sin offering]]
+  * [[vi:obe:kt:atonement]]
+
+===== Translation Notes: =====
+Yahweh continues telling Moses what Aaron must do on the Day of Atonement.
+  * **He must make atonement for himself and his family, so he must kill the bull as a sin offering for himself**  - "He must kill the bull as a sin offering to make atonement for himself and his family"
+  * **he must kill the bull** - Aaron would catch the blood of the bull in a bowl so he could later sprinkle it on the atonement lid. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:16|Leviticus Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:16:08|<<]] | [[:vi:bible:notes:lev:16:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

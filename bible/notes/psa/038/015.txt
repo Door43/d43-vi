@@ -1,0 +1,61 @@
+====== Psalms 038:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 But Yahweh, I trust in you.
+\q2 My Lord God, you will answer me.
+\q1
+\v 16 I said to you, "Do not cause \add me to die, with the result that\add* my enemies will rejoice!
+\q2 Do not cause me to stumble, with the result that they will be very happy!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 But Yahweh, I trust in you.
+\q2 My Lord God, you will answer me.
+\q1
+\v 16 I said to you, "Do not cause me to die so that my enemies will rejoice!
+\q2 If troubles overwhelm me, my enemies will do very bad things to me!"
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 Surely I wait for you, Yahweh;
+\q you will answer, Lord my God.
+\q
+\v 16 I say this so that my enemies will not gloat over me.
+\q If my foot slips, they will do terrible things to me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+  * **will not gloat over me**. - AT: "will not delight over me in my calamity."
+  * **If my foot slips** - "If I make mistakes that cause me to fall." Foot represents the whole person in his walk of life. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:038|Psalms Chapter 038 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:038:013|<<]] | [[:vi:bible:notes:psa:038:017|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

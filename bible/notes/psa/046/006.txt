@@ -1,0 +1,79 @@
+====== Psalms 046:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Sometimes\add* the people of many nations are terrified;
+\q2 kingdoms are overthrown\f + \ft Or: cease to exist \f*;
+\q1 God speaks \add loudly like thunder\add*,
+\q2 and the earth melts \f + \ft Or: people everywhere become terrified \f* \f + \ft metaphor \f*.
+\b
+\q1
+\v 7 But Yahweh, the commander of the armies of heaven, is with us;
+\q2 the God whom Jacob worshiped \f + \ft Or: we Israelite people worship \f* is our refuge.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Sometimes the people of many nations are terrified;
+\q2 kingdoms are overthrown;
+\q1 God speaks loudly like thunder,
+\q2 and the earth melts.
+\b
+\q1
+\v 7 But Yahweh, Commander of the angel armies, is with us;
+\q2 the God whom Jacob worshiped is our refuge.
+
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 The nations raged and the kingdoms were shaken;
+\q he lifted up his voice, and the earth melted.
+\q
+\v 7 Yahweh of hosts is with us;
+\q the God of Jacob is our refuge. 
+\qs Selah\qs*
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:rage|raged]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:other:earth|earth]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[vi:obe:kt:refuge]]
+  * [[:vi:obe:other:selah|selah]]
+
+===== Translation Notes: =====
+
+  * **the kingdoms were shaken** - AT: "the kingdoms were shaken with fear (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **the earth melted** - AT: the earth melted in fear" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **lifted up his voice** - To make a voice higher refers to making it louder.
+  * **God of Jacob is our refuge** - AT: "God of Jacob is like a refuge because he protects us" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:046|Psalms Chapter 046 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:046:004|<<]] | [[:vi:bible:notes:psa:046:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

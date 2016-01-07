@@ -1,0 +1,67 @@
+====== Lamentations 01:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Yahweh looked at our mighty soldiers
+\q2 and laughed at them.
+\q1 He has summoned a great army
+\q2 to come and crush our young soldiers.
+\q1 \add It is as though\add* \f + \ft metaphor \f* Yahweh has trampled on us people of Judah
+\q2 like \f + \ft simile \f* people trample on grapes in a pit \add to make juice\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 The Lord looked at our mighty soldiers,
+\q2 laughed at them, and threw them away.
+\q1 He summoned a great army
+\q2 to come and crush our strong young soldiers.
+\q1 It is as though the Lord has trampled on us people of Judah
+\q2 as people trample on grapes in a pit to make juice.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 The Lord has tossed aside all my mighty men who defended me.
+\q He has called an assembly against me to crush my vigorous men.
+\q The Lord has trampled the virgin daughter of Judah like grapes in a winepress.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lordgod]]
+  * [[:vi:obe:other:mighty]]
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:other:virgin]]
+  * [[vi:obe:other:kingdomofjudah]] 
+  * [[:vi:obe:other:grape]]
+  * [[:vi:obe:other:winepress]]
+===== Translation Notes: =====
+
+    * **my mighty men who defended me** - In this section Jerusalem is still described as a woman talking about herself. (See: [[:vi:ta:vol2:translate:figs_123person]] and [[:vi:ta:vol2:translate:figs_personification]])
+    * **vigorous men** - men at the strongest time of their lives
+    * **The Lord has trampled ... in a winepress** - Here the judgement of God is described as if Jerusalem was a bunch of grapes that God squashed. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **the virgin daughter of Judah** - This phrase refers to Jerusalem.  (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:01|Lamentations Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:01:13|<<]] | [[:vi:bible:notes:lam:01:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

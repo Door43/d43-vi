@@ -1,0 +1,56 @@
+====== Psalms 088:3-4 ======
+===== TFT: =====
+
+<usfm>
+\v 3 I have experienced many troubles\f + \ft Or: difficulties \f*,
+\q2 and I am about to die \f + \ft metonymy \f* and go where dead people are.
+\q1
+\v 4 Because I have no more strength,
+\q2 \add other people also\add* consider that I will soon die.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 I have experienced many troubles,
+\q2 and I am about to die and go where dead people are.
+\q1
+\v 4 Because I have no more strength,
+\q2 other people believe that I will soon die.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For my soul is full of troubles,
+\q and my life is nearing sheol.
+\q
+\v 4 People treat me like those who go down to the pit;
+\q I am a man with no strength.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:other:trouble|trouble, troubles, troubled]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:hades|hades, sheol]]
+  * [[:vi:obe:other:pit|pit]]
+
+===== Translation Notes: =====
+
+  * **like those who go down to the pit**  - AT: "as they treat those who are about to die"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:088|Psalms Chapter 088 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:088:001|<<]] | [[:vi:bible:notes:psa:088:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

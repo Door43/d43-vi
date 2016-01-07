@@ -1,0 +1,71 @@
+====== Isaiah 56:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 They should not say that, because I, Yahweh, say this to the eunuchs
+\q2 who obey my laws about the Sabbath,
+\q1 and who choose to do the things that please me,
+\q2 and who obey all \add the other laws of\add* the agreement that I \add made with the Israelite people\add*:
+\q1
+\v 5 I will cause to be put inside the walls of my temple a monument \f + \ft doublet \f* to them;
+\q2 because of that monument, they will be honored more than they would have if they had children;
+\q1 they will be honored forever.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 They should not say that, because I, Yahweh, say this to the eunuchs
+\q2 who obey my laws about the Sabbath,
+\q1 and who choose to do the things that please me,
+\q2 and who obey all the other laws of the covenant that I made with the Israelite people:
+\q1
+\v 5 I will cause people to put inside the walls of my temple a monument to them;
+\q2 because of that monument, they will be honored more than they would have if they had children;
+\q1 they will be honored forever.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 4 For this is what Yahweh says: "To the eunuchs who observe my Sabbaths
+\q1 and choose what pleases me, and hold fast my covenant—
+\q1
+\v 5 To them I will set up in my house and within my walls a monument that is better than having sons and of daughters;
+\q1
+I will give them an everlasting monument that will not be cut off."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:eunuch]]
+  * [[:vi:obe:kt:sabbath]]
+  * [[:vi:obe:kt:covenant]]
+  * [[vi:obe:kt:houseofgod]]
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:cutoff]]
+ 
+
+===== Translation Notes: =====
+
+  * **that will not be cut off**  - AT: "that will never end" or "that will never be forgotten" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:56|Isaiah Chapter 56 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:56:03|<<]] | [[:vi:bible:notes:isa:56:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

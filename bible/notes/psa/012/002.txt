@@ -1,0 +1,78 @@
+====== Psalms 012:2-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 Everyone tells lies to other people;
+\q2 they deceive others by flattering them\f + \ft Or: saying good things about them that they know are not true \f*.
+\b
+\q1
+\v 3 Yahweh, we wish that you would cut off their tongues
+\q2 so that they cannot continue to boast.
+\q1
+\v 4 They say, "By telling lies we will get what we want;
+\q2 we control what we say \f + \ft metonymy \f*, so no one can tell us what we should not do!"
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 Everyone tells lies to other people;
+\q2 they deceive others by flattering them, but they tell lies.
+\b
+\q1
+\v 3 Yahweh, we wish that you would cut off their tongues
+\q2 so that they cannot continue to boast.
+\q1
+\v 4 They say, "By telling lies we will get what we want;
+\q2 we control what we say, so no one can tell us what we should do!"
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 2 Everyone says empty words to his neighbor;
+\q everyone speaks with flattering lips and a double heart.
+\q
+\v 3 Yahweh, cut off all flattering lips,
+\q every tongue declaring great things.
+\q
+\v 4 These are those who have said, "With our tongues will we prevail.
+\q When our lips speak, who can be lord over us?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:neighbor]]
+  * [[:vi:obe:other:heart]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:cutoff]]
+  * [[:vi:obe:other:tongue]]
+  * [[:vi:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **everyone says ... everyone speaks** - The word "everyone" in both clauses is used to emphasize that the problem is serious. (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+  * **flattering lips** - AT: "false praise"
+  * **a double heart** - AT: "words that deceive."
+  * **cut off all flattering lips** - "stop them from speaking false praise,"
+  * **every tongue declaring great things** - "every person who is boasting," (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **"With our tongues will we prevail** - Here "our tongues" represent the many words that they speak. AT: "Speaking many words will make us victorious." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **who can be lord over us?** - AT: "no one can rule over us!" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:012|Psalms Chapter 012 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:012:001|<<]] | [[:vi:bible:notes:psa:012:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

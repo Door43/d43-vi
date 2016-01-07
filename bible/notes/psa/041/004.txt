@@ -1,0 +1,93 @@
+====== Psalms 041:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add When I was sick\add*, I said, "Yahweh, act mercifully toward me and heal me;
+\q2 \add I know that I am sick because\add* have sinned against you."
+\q1
+\v 5 My enemies say cruel things about me;
+\q2 they say, "How soon will he die, and then everyone will forget about him \f + \ft metonymy \f* \f + \ft Or: he will not have \add any descendants to continue\add* his name \f*?"
+\q1
+\v 6 When my enemies come to me, they falsely say that they \add are concerned about me\add*.
+\q2 They listen to bad news about me\f + \ft Or: my health \f*.
+\q2 Then they go away and tell everywhere what is happening to me.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 When I was sick, I said, "Yahweh, act mercifully toward me and heal me;
+\q2 I know that I am sick because I have sinned against you."
+\q1
+\v 5 My enemies say cruel things about me;
+\q2 they say, "How soon will he die, and then everyone will forget about him?"
+\q1
+\v 6 When my enemies come to me, they pretend to be concerned about me.
+\q2 They eagerly listen to all the bad news about myself.
+\q2 Then they go away and tell everyone what is happening to me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 I said, "Yahweh, have mercy on me:
+\q heal my soul; for I have sinned against you."
+\q
+\v 5 My enemies speak evil against me, saying,
+\q 'When will he die and his name perish?'
+\q
+\v 6 If my enemy comes to see me, he says worthless things;
+\q his heart gathers up my disaster for itself;
+\q when he goes away from me, he tells others about it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:other:heal]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:perish]]
+  * [[:vi:obe:kt:worthy]]
+  * [[:vi:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **heal my soul**  -  AT: "heal me" (UDB)
+    * **his name perish** - If a person's name dies, it means that people forget that he had ever lived.  AT: "when will his name perish" or "when will people forget about him" (See [[:vi:ta:vol2:translate:figs_ellipsis]] and [[:vi:ta:vol1:translate:figs_idiom]])
+    * **he says worthless things**  - AT: "they pretend to be concerned about me" (UDB) Note that the ULB uses a singular pronoun meaning one enemy.  The UDB uses a plural pronoun referring to any of his enemies.  
+    * **his heart gathers up my disaster for itself**  - AT: "they eagerly listen to all the bad news about myself" (UDB) (See: [[:vi:ta:vol2:translate:figs_singularpronouns]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:041|Psalms Chapter 041 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/041/001|<<]] | [[en/bible/notes/psa/041/007|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review larrys jimp text book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Exodus 24:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 He\f + \ft Or: I \f* also selected some young men. They burned sacrifices to Yahweh and they also sacrificed some cattle that were not burned completely, for the purpose of restoring fellowship with other people.
+\v 6 Moses\f + \ft Or: I \f* took half of the blood of the animals that were slaughtered and put it in bowls. The other half of the blood \add he\f + \ft Or: I \f*\add* threw\f + \ft Or: splashed \f* against the altar.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 He also chose some young men. They burned sacrifices to Yahweh and they also sacrificed some cattle as offerings to promise friendship with him.
+\v 6 Moses took half of the blood of the animals that were slaughtered and put it in bowls. The other half of the blood he threw against the altar.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 5 He sent some Israelite young men to offer burnt offerings and sacrifice fellowship offerings of oxen to Yahweh.
+\v 6 Moses took half of the blood and put it into basins; he splashed the other half onto the altar.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:altar]]
+  * [[vi:obe:other:pillar]]
+  * [[:vi:obe:other:12tribesofisrael]]
+  * [[:vi:obe:other:burntoffering]]
+  * [[vi:obe:other:sacrifice]]
+  * [[vi:obe:other:fellowshipoffering]]
+  * [[:vi:obe:other:ox]]
+  * [[vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **Moses took half of the blood and put it into basins** - Moses collected half of the blood in basins in order to splash it on the people in [[:vi:bible:notes:exo:24:07|24:8]]. This would confirm the people's participation in the covenant between the people of Israel and God.
+  * **he sprinkled the other half onto the altar** - Here the altar represents God. This would confirm God's participation in the covenant between God and the people of Israel.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:24|Exodus Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:24:03|<<]] | [[:vi:bible:notes:exo:24:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

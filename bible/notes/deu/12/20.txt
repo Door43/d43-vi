@@ -1,0 +1,44 @@
+====== Deuteronomy 12:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 When Yahweh our God gives you much more land \add than you will have when you first occupy it\add*, which is what he has promised to do, and you say 'I would like some meat to eat' because you are craving\f + \ft Or: wanting \f* some meat, you are permitted to eat meat whenever you want to.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 When Yahweh our God gives you much more land than you will have at first—and he has promised to do this, and when you say, 'I would like some meat to eat,' you are permitted to eat meat whenever you want to.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 When Yahweh your God enlarges your borders, as he has promised you, and you say, "I will eat flesh," because your soul desires to eat meat, you may eat meat, as your soul desires.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:promise]]
+  * [[:vi:obe:kt:soul|soul]]
+
+===== Translation Notes: =====
+
+  * **enlarges your borders** - “enlarges your territory” or "increases the size of your land"
+  * **I will eat flesh** - "I will eat the meat of an animal"
+  * **because your soul desires **  - AT: "because you want" or "because you crave" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:18|<<]] | [[:vi:bible:notes:deu:12:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,23 @@
+===== The Translation Process =====
+
+This module answers the question: What are two things I do to translate?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * [[vi:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+
+==== How to Translate ====
+
+There are two things to do in translation:
+  - Discover the meaning in the source language text (See: [[vi:ta:vol1:translate:translate_discover]])
+  - Re-tell the meaning in the target language translation (See: [[vi:ta:vol1:translate:translate_retell]])
+Instructions for translation sometimes divide these two things into smaller steps. The graphic below shows how these two fit into the translation process. 
+{{:en:ta:translation_process.png?nolink600x360}}
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+  * [[vi:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
+  * [[vi:ta:vol1:translate:translate_terms|Terms to Know]]
+  * [[vi:ta:vol1:translate:translate_fandm|Form and Meaning]]
+

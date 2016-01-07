@@ -1,0 +1,45 @@
+====== 2 Kings 08:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 During the time that Jehoram ruled, \add the king of\add* Edom rebelled against Judah, and they appointed their own king.
+\v 21 So Jehoram went with his army and all their chariots to Zair \add city near the border of Edom\add*. There the army of Edom surrounded them. But during the night, Jehoram and the commanders in their chariots were able to get through the enemy lines and escaped. And all his soldiers also fled to their homes.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 During the time that Jehoram ruled, the king of Edom rebelled against Judah, and they appointed their own king.
+\v 21 So Jehoram went with his army and all their chariots to the city of Zair near the border of Edom. There the army of Edom surrounded them. But during the night, Jehoram and the commanders in their chariots were able to get through the enemy lines and escaped. And all his soldiers also fled to their homes.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 In Jehoram’s days, Edom revolted from under the hand of Judah, and they set a king over themselves.
+\v 21 Then Jehoram crossed over with his commanders and all his chariots. It happened that he rose up at night and attacked and overwhelmed the Edomites, who had surrounded him and the commanders of the chariots. Then Jehoram’s army escaped to their homes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:edom]]
+  * [[:vi:obe:other:commander]]
+  * [[:vi:obe:other:chariot]]
+
+===== Translation Notes: =====
+
+  * **Edom revolted from under the hand of Judah**  - AT: "The people of Edom rebelled against being controlled by the king of Judah." (See: [[:vi:ta:vol1:translate:figs_idiom]] and [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **they set a king over themselves** - "the Edomites appointed a king to rule over themselves"
+  * **Then Jehoram crossed over with his commanders and all his chariots** - AT: "Then Jehoram crossed the enemy lines with his army and all their chariots." (See: [[:vi:ta:vol1:translate:figs_explicitinfo]])
+  * **It happened that he rose up at night and attacked and overwhelmed the Edomites, who had surrounded him and the commanders of the chariots** - AT: "At night, Jehoram's army attacked the Edomites who had been surrounding them."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:08|2 Kings Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:08:18|<<]] | [[:vi:bible:notes:2ki:08:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

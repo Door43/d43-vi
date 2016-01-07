@@ -1,0 +1,62 @@
+====== Joshua 09:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 When the people who lived in Gibeon \add city\add* heard that Joshua's army had defeated the people of Jericho and Ai,
+\v 4 they decided to trick the Israelites. They gathered some old sacks and some old leather wine bags that had been mended after they were cracked, and they put these on the backs of their donkeys.
+\v 5 They put on old sandals that had been patched, and wore old ragged clothes. And they took along bread that was dry and moldy.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 However, when the people who lived in the city of Gibeon heard that Joshua's army had defeated the people of Jericho and Ai,
+\v 4 they decided to trick the Israelites. They gathered some old sacks and some old leather wine bags that had been mended after they were cracked, and they put these on the backs of their donkeys.
+\v 5 They put on old sandals that had been patched and wore old ragged clothes. And they took along bread that was dry and moldy.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 When the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,
+\v 4 they acted with a cunning plan. They supplied  themselves with provisions and took worn out sacks and put them on their donkeys. They also took old wine skins that were worn, torn, and had been repaired. 
+\v 5 They put old and patched sandals on their feet, and dressed in old, worn out  clothing. All the bread in their food supply was dry and moldy.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:gibeon]]
+  * [[:vi:obe:other:joshua]]
+  * [[:vi:obe:other:jericho]]
+  * [[:vi:obe:other:ai]]
+  * [[:vi:obe:other:donkey]]
+  * [[vi:obe:other:wine]]
+  * [[:vi:obe:other:sandal]]
+  * [[:vi:obe:other:bread]]
+ 
+
+===== Translation Notes: =====
+
+    * **cunning plan**  - AT: "a deceitful plan intended to trick another"
+    * **dry and moldy**  - AT: "dry and filled with fungus" or "stale and ruined"
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:09|Joshua Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/09/01|<<]] | [[en/bible/notes/jos/09/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

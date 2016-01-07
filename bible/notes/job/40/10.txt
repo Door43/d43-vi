@@ -1,0 +1,67 @@
+====== Job 40:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 If you can do that, put on the robes
+\q2 that show that you are glorious and are greatly honored!
+\q1
+\v 11 Show that you are very angry;
+\q2 show that you have the right\f + \ft Or: authority \f* to humble people who are very proud!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 If you can do that, then put on the robes
+\q2 that show that you are glorious and are greatly honored!
+\q1
+\v 11 Show that you are very angry;
+\q2 show that you have the right to humble people who are very proud!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Now clothe yourself in glory and dignity;
+\q array yourself in honor and majesty.
+\q
+\v 11 Scatter around the excess of your anger;
+\q look at everyone who is proud and bring him down.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:clothed]]
+  * [[:vi:obe:kt:glory]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:majesty]]
+  * [[:vi:obe:other:angry]]
+ 
+
+===== Translation Notes: =====
+
+  * **the right - This expression in the UDB means, the authority.**
+  * **bring him down - This expression in the ULB means, to humble him.(See: Idiom)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:40|Job Chapter 40 Comprehension Questions]]**
+**[[:vi:bible:notes:job:40:08|<<]] | [[:vi:bible:notes:job:40:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

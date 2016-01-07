@@ -1,0 +1,55 @@
+====== Numbers 28:16-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 'The Passover festival must be celebrated to \add honor\add* me \add each year\add* on the fourteenth day of your first month.
+\v 17 The festival of Unleavened Bread will start on the next day. For the following seven days, the bread that you eat must be made without yeast.
+\v 18 On the first day of that festival, you must gather together to worship me, and you must not do any work.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 The Passover festival must be celebrated to honor me each year on the fourteenth day of your first month.
+\v 17 The festival of Unleavened Bread will start on the next day. For the following seven days, the bread that you eat must be made without yeast.
+\v 18 On the first day of that festival, you must gather together to worship me, and you must not do any work.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 During the first month, on the fourteenth day of the month, comes Yahweh’s Passover.
+\v 17 On the fifteenth day of this month a feast is to be held. For seven days, bread without yeast must be eaten.
+\v 18 On the first day, there must be a a holy assembly to honor Yahweh. You must do no normal work on that day.
+</usfm>
+
+===== Important Terms: =====
+
+  * day
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:passover|Passover]]
+  * feast
+  * bread
+  * yeast
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:kt:assembly|assembly]]
+  * [[:vi:obe:other:honor|honor, to honor]]
+
+===== Translation Notes: =====
+
+  * **fourteenth**  - AT: "14th"  (See: Biblical Numbers)
+  * **fifteenth**  - AT: "15th" (See: Biblical Numbers)
+  * **comes Yahweh's Passover**  - AT: "you must celebrate Yahweh's Passover" (see Metonymy)
+  * **a feast is to be held**  - AT: "you must celebrate a feast" (See: Idiom) (See: Passive)
+  * ** For seven days, bread without yeast must be eaten ** - AT: "For seven days, eat bread without yeast."  (See: Passive)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:28|Numbers Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:num:28:14|<<]] | [[:vi:bible:notes:num:28:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

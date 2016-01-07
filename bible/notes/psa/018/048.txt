@@ -1,0 +1,55 @@
+====== Psalms 018:48-49 ======
+
+===== TFT: =====
+
+<usfm>
+\v 48 and he rescues me from my enemies.
+\q1 He has lifted me up high so that violent men could not reach me \add and harm me\add*.
+\q1
+\v 49 So I praise him \add and I tell\add* the nations \add the great things that he has done\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 48 and he rescues me from my enemies. He has lifted me up high so that violent men could not reach me and harm me.
+\q1
+\v 49 So I praise him, and I tell the nations the great things that he has done.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 48 I am set free from my enemies! Indeed, you lifted me above the ones who rose against me! You rescued me from violent men.
+\q
+\v 49 Therefore I will give thanks to you, Yahweh, among the nations; I will sing praises to your name!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:free|free, freedom, liberty]]
+  * [[:vi:obe:other:adversary|adversary, enemy]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:name|name]]
+===== Translation Notes: =====
+
+  * **I am set free** - AT: "God has set me free" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **you lifted me above** - AT: "you made me more powerful than" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **who rose against me** - AT: "who attacked me" or "who rebelled against me"
+  * **violent men** - "cruel men" or "savage men"
+  * **among the nations** - AT: "where the nations will hear it"
+  * **to your name** - AT: "in honor of your name" or "to you" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:046|<<]] | [[:vi:bible:notes:psa:018:050|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

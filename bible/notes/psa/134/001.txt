@@ -1,0 +1,71 @@
+====== Psalms 134:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 All you people who serve Yahweh,
+\q2 who stand up and serve\f + \ft Or: pray to \f* him at night in his temple,
+\q1 come and praise him!
+\q1
+\v 2 Lift up your hands\f + \ft Or: arms \f* \add to pray to him\add* in the temple
+\q2 and praise him!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 All you people who serve Yahweh,
+\q2 who stand up and serve him at night in his temple,
+\q1 come and praise him!
+\q1
+\v 2 Lift up your hands to pray to him in the temple
+\q2 and praise him!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 134
+\d A song of ascents.
+\b
+\q
+\v 1 Come, bless Yahweh, all you servants of Yahweh,
+\q you who serve during the night in Yahweh's house.
+\q
+\v 2 Lift up your hands to the holy place
+\q and bless Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:serve|serve]]
+  * [[:vi:obe:kt:houseofgod|house of God, Yahweh's house]]
+  * [[:vi:obe:kt:holy|holy place]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **Song of Ascents**- See how you translated this in [[en/bible/notes/psa/120/001|120:1]].
+  * **all you servants of Yahweh** - "you who serve the 
+  * **you who serve during the night**  - AT: "even those who serve at night"
+  * **lift up your hands**  - This is how people prayed or praised.
+  * **to the holy place** - "to the temple"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:134|Psalms Chapter 134 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:133:002|<<]] | [[:vi:bible:notes:psa:134:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

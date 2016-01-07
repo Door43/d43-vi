@@ -1,0 +1,51 @@
+====== Judges 09:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Gideon's son Abimelech went to \add talk with\add* his mother's brothers in Shechem \add city\add*. He said to them and to all his mother's relatives,
+\v 2 "Ask all the leaders of your city: 'Do you \add think it would be\add* good for all seventy of Gideon's sons to rule over you? Or would it be better to have only one man, \add Abimelech\add*, to rule over you?' And do not forget that I am your relative! \f + \ft metonymy \f*"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Gideon's son Abimelech went to talk with his mother's brothers in the city of Shechem. Gideon was also called Jerub Baal. He said to them and to all his mother's relatives,
+\v 2 "Ask all the leaders of Shechem: 'Do you think it would be good for all seventy of Gideon's sons to rule over you? Or would it be better to have only one man, Abimelech, to rule over you?' And do not forget that I am a part of your family! "
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 Abimelech (the son of Jerub Baal) went to his mother’s relatives at Shechem and he said to them and to whole clan of his mother's family, 
+\v 2 “Please say this, so that all the leaders in Shechem may hear:  ‘Which is better for you? To have all seventy sons of Jerub Baal rule over you, or that just one rule over you?’ Remember that I am your bone and your flesh.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:abimelech]]
+  * [[:vi:obe:other:shechem]]
+  * [[:vi:obe:other:clan]]
+  * [[:vi:obe:other:ruler]]
+
+===== Translation Notes: =====
+
+  * **Jerub Baal**  - See how you translated this in [[:vi:bible:notes:jdg:06:31|Judges 6:32]].
+  * **his mother’s relatives**  - See UDB. "the brothers of his mother"
+  * **seventy** - "70" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **I am your bone and your flesh.**  -  "I am a member of your family."  (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:09|Judges Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:34|<<]] | [[:vi:bible:notes:jdg:09:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

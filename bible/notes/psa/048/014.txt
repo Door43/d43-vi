@@ -1,0 +1,55 @@
+====== Psalms 048:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add Say to them\add*, "This is \add the city of\add* our God, \add the one who lives\add* forever;
+\q2 he will guide us during all of our lives."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Say to your children, "This is the city of our God, the one who lives forever;
+\q2 he will guide us during all of our lives."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 For this God is our God forever and ever;
+\q he will be our guide to death.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **forever and ever** - Both of these words have the same meaning and are used together for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+    * **he will be our guide**  - "he will lead us"
+    * **to death** - AT: "for the rest of our lives" or "until we die" 
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:048|Psalms Chapter 048 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/048/012|<<]] | [[en/bible/notes/psa/049/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr book2}}
+
+~~NOCACHE~~

@@ -2,15 +2,19 @@
 
 ===== Definition: =====
 
-The term "command" refers to telling or ordering someone to do something.
+The terms "command" and "commandment" refer to ordering someone to do something.
 
-  * God commands us to obey his teachings. That includes commanding all people to repent and follow Jesus.
-  * Sometimes a command tells people what they should do, such as "Honor your parents."
-  * Other times a command tells people what they should not do, such as, "Do not steal."
-  * The term "commandment" is very similar in meaning, but it usually refers to something God has decreed, and it is more formal and permanent than an everyday command.
+  * Although these terms have basically the same meaning, "commandment" often refers to certain commands of God which are more formal and permanent, such as the Ten Commandments. 
+  * A command can be positive ("Honor your parents") or negative ("Do not steal").
+  * To "take command" means that someone is taking charge of something or someone. 
 
-(See also: [[:vi:obe:other:commandment]])
+===== Translation Suggestions =====
 
+  * It is best to translate this term differently from the term, "law." Also compare with the definitions of "decree" and "statute."
+  * Some translators may prefer to translate "command" and "commandment" with the same word in their language.
+  * Others may prefer to use a special word for commandment that refers to lasting, formal commands that God has made.
+
+(See [[:vi:obe:other:decree]], [[:En:obe:other:statute]], [[:En:obe:other:law]], [[:vi:obe:other:tencommandments]])
 ===== Bible References: =====
 
 {{topic>command&nocomments}}~~DISCUSSION~~

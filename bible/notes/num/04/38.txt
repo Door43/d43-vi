@@ -1,0 +1,47 @@
+====== Numbers 04:38-40 ======
+
+===== TFT: =====
+
+<usfm>
+\v 38 They\f + \ft Or: We \f* also counted the descendants of Gershon, writing also the names of their clans and family groups.
+\v 39 They\f + \ft Or: We \f* counted all the men who were between thirty and fifty years old who were able to work at the Sacred Tent.
+\v 40 The total was 2,630 men.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 38 They also counted the descendants of Gershon, writing also the names of their clans and family groups.
+\v 39 They counted all the men who were between thirty and fifty years old who were able to work at the sacred tent.
+\v 40 The total was 2,630 men.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 38 The descendants of Gershon were counted in their clans, by their ancestor's families,
+\v 39 from thirty to fifty years old, everyone who would join the company to serve in the tent of meeting.
+\v 40 All the men, counted by their clans and their ancestor's families, numbered 2630.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:descendant]]
+  * [[vi:obe:other:clan]]
+
+===== Translation Notes: =====
+
+  * **The descendants of Gershon were counted** - AT: "Moses and Aaron counted the descendants of Gershon" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **from thirty to fifty years old** - AT: "from 30 to 50 years old" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **join the company to serve in the tent of meeting** - See how you translated this in [[vi:bible:notes:num:04:01|4:3]].
+  * **counted by their clans** - AT: "whom Moses and Aaron counted by their clans" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:04|Numbers Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:num:04:37|<<]] | [[:vi:bible:notes:num:04:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

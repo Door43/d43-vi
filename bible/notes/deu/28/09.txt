@@ -1,0 +1,59 @@
+====== Deuteronomy 28:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 If you obey all the commandments that Yahweh our God \add has given to you\add* and if you conduct your lives as he wants you to do, he will continue to cause you to be his people, which is what he promised.
+\p
+\v 10 Then all the people-groups on the earth will realize that you belong to \f + \ft metonymy \f* Yahweh, and they will be afraid of you.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 If you obey all the commandments that Yahweh our God has given to you and if you live your lives by following his commandments, he will make you his own, his holy people, which is just as he promised.
+\p
+\v 10 Then all the people groups on the earth will realize that you belong to Yahweh, and they will be afraid of you.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Yahweh will establish you as a people holy to himself, as he has sworn to you, if you keep the commandments of Yahweh your God, and walk in his ways.
+\v 10 All the peoples of the earth will see that you are called by the name of Yahweh, and they will be afraid of you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:other:oath|oath, swear, swear by]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+
+===== Translation Notes: =====
+
+  * **Yahweh will establish you as a people holy to himself**- "Yahweh will set you apart as his holy people" or "Yahweh will make you a holy people that belongs to him"
+  * **you are called by the name of Yahweh** - AT: "you belong to Yahweh" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:07|<<]] | [[:vi:bible:notes:deu:28:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

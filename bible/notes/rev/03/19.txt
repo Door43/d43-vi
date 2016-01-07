@@ -1,0 +1,43 @@
+====== Revelation 03:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 \add Since\add* I rebuke and correct all those whom I affectionately love, earnestly turn away from your sinful behavior.
+\v 20 Be aware that \add I call each one of you to respond to me\add* as though \f + \ft metaphor \f* I \add was\add* standing \add waiting\add* at \add your\add* door and knocking. I will come to all those who hear my voice and respond to me, and I \add will fellowship\add* with them \add as friends do when they\add* eat together \f + \ft metaphor \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Since I rebuke and correct all those whom I love, turn away with all your heart from your sinful behavior.
+\v 20 Be aware that I am calling each one of you to respond to me as though I were standing and waiting at your door and knocking. I will come to all those who hear my voice, open the door, and invite me in. I will come in and be with them as friends do when they eat together.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 Everyone I love I train and teach them how they should live. Therefore, be earnest and repent.
+\v 20 Look, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to his home, and have a meal with him, and he with me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:love|love]]
+  * [[vi:obe:kt:repent]]
+
+===== Translation Notes: =====
+
+  * **be earnest and repent**  - "be serious and repent"
+  * **I stand at the door and knock**  - The "door" represents our life, or soul, that Christ wants to enter. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **hears my voice**  - The "voice" represents Christ's call. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **opens the door **  - This represents the decision to welcome and invite Christ in. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **have a meal with him**  - This represents relationship, friendship, fellowship. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:03|Revelation Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:03:17|<<]] | [[:vi:bible:notes:rev:03:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

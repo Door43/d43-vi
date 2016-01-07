@@ -1,0 +1,82 @@
+====== Psalms 031:5-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 Yahweh, you are a God who can be trusted,
+\q1 so I put myself into your care
+\q2 because you rescued me.
+\b
+\q1
+\v 6 Yahweh, I hate those who worship useless idols,
+\q2 but I trust in you.
+\q1
+\v 7 I will be very glad \f + \ft doublet \f* because you faithfully love me.
+\q1 You see me when I have been afflicted,
+\q2 and you have known when I have had troubles.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Yahweh, you are a God whom I can trust,
+\q1 so I put myself into your care
+\q2 because you will rescue me.
+\b
+\q1
+\v 6 Yahweh, I hate those who worship useless idols,
+\q2 but I trust in you.
+\q1
+\v 7 I will be very glad because you faithfully love me.
+\q1 You see me when I have been afflicted,
+\q2 and you know when I have had troubles.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Into your hands I entrust my spirit;
+\q you will redeem me, Yahweh, God of trustworthiness.
+\q
+\v 6 I hate those who serve worthless idols,
+\q but I trust in Yahweh.
+\q
+\v 7 I will be glad and rejoice in your covenant faithfulness,
+\q for you have seen my affliction;
+\q you have known the distress of my soul.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:spirit]]
+  * [[:vi:obe:kt:redeem]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:other:serve]]
+  * [[:vi:obe:kt:worthy]]
+  * [[:vi:obe:other:idol]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:kt:soul]]
+===== Translation Notes: =====
+
+  * **Into your hands I entrust my spirit** - AT: "so I put myself into your care" (UDB) or "I depend on you to take care of me." (See: [[:vi:ta:vol2:translate:figs_personification]] and [[:vi:ta:vol1:translate:figs_idiom]])
+  * **God of trustworthiness** - "you are a God I can trust"
+  * **I hate those who serve worthless idols** - "Idols are worthless. I hate those who serve them." 
+  * **you have seen my affliction ... you have known the distress of my soul** - Both of these phrases express the idea that God knows about the writer's troubles. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:031|Psalms Chapter 031 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:031:003|<<]] | [[:vi:bible:notes:psa:031:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

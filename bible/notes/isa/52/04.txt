@@ -1,0 +1,55 @@
+====== Isaiah 52:4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Yahweh our Lord also says this:
+\q1 "Long ago, my people went to Egypt to live there.
+\q2 Later they were being oppressed\f + \ft Or: treated cruelly \f* by \add the soldiers of\add* Assyria.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh our Lord also says this:
+\q1 "Long ago, my people went to Egypt to live there.
+\q2 Later the soldiers of Assyria oppressed them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 4 For this is what the Lord Yahweh says, "In the beginning my people went down into Egypt to live temporarily; 
+\q1 Assyria has oppressed them recently."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:other:assyria]]
+  * [[:vi:obe:kt:oppress]]
+ 
+
+===== Translation Notes: =====
+
+  * **Assyria has oppressed them**  - AT: "the people of Assyria have treated them badly through cruelty and force" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:52|Isaiah Chapter 52 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:52:02|<<]] | [[:vi:bible:notes:isa:52:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

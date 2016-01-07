@@ -1,0 +1,57 @@
+====== Psalms 055:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 During each day and night they march around on top of its walls,
+\q2 committing crimes and causing trouble.
+\q
+\v 11 They destroy things everywhere.
+\q2 They oppress people and defraud people in the marketplaces\f + \ft Or: public squares \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 During each day and night they march around on top of its walls,
+\q2 committing crimes and causing trouble.
+\q
+\v 11 They destroy things everywhere.
+\q2 They oppress people and defraud people in the marketplaces.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Day and night they go about on her walls;
+\q iniquity and mischief are in the middle of her.
+\q
+\v 11 Wickedness is in the middle of it;
+\q oppression and guile do not leave its streets.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:iniquity|iniquity]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:oppress|oppress, oppression]]
+
+===== Translation Notes: =====
+
+  * **they**  - David's enemies.
+  * **her**  -  The city of Jerusalem.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:055|Psalms Chapter 055 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:055:008|<<]] | [[:vi:bible:notes:psa:055:012|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

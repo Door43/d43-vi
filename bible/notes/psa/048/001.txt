@@ -1,0 +1,94 @@
+====== Psalms 048:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh is great, and he deserved to be greatly praised in the city where he \add lives\add*,
+\q2 \add which is built on Zion\add*, his sacred hill.
+\q1
+\v 2 That city, on a high \add hill\add*, is beautiful;
+\q2 it is the city where the true \add God\add*, the great king \add lives\add*,
+\q2 and it causes people all over the world to rejoice \add when they see it\add*.
+\q1
+\v 3 God is in the strong towers there,
+\q2 and he shows that he protects the people in that city.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh is great, and he deserves to be greatly praised in the city where he lives,
+\q2 which is built on Zion, his sacred hill.
+\q1
+\v 2 That city on a high hill is beautiful;
+\q2 it is the city where the true God, the great king, lives,
+\q2 and it causes people all over the world to rejoice when they see it.
+\q1
+\v 3 God is in the strong towers there,
+\q2 and he shows that he protects the people in that city.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 48
+\d A song; a psalm of the sons of Korah.
+\b
+\q
+\v 1 Great is Yahweh and greatly to be praised,
+\q in the city of our God on his holy mountain.
+\q
+\v 2 Beautiful in elevation, the joy of the whole earth,
+\q is Mount Zion, on the sides of the north,
+\q the city of the great King.
+\q
+\v 3 God has made himself known in her palaces as a refuge.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[vi:obe:kt:son]]
+  * [[:vi:obe:other:korah]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:joy]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:know]]
+  * [[vi:obe:other:palace]]
+  * [[:vi:obe:kt:refuge]]
+ 
+
+===== Translation Notes: =====
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+This psalm is a song about Jerusalem being God's dwelling place.
+
+  * **A psalm of the sons of Korah** - This can also be written as a sentence. AT: “This is a psalm of the sons of Korah" or “This is a psalm that the sons of Korah wrote” 
+  * **in the city of our God**- AT: "in Jerusalem where the people worship God"
+  * **Beautiful in elevation, the joy ... is Mount Zion ... on the sides ... of the great King.** - AT: "Mount Zion looks so beautiful in elevation when she is looked at from her north side. The city of the great King is the joy of the whole earth." 
+  * **Beautiful in elevation** - The word "elevation" refers to how high something is. AT: "beautiful and tall"
+  * **joy of the whole earth** - AT: "it is loved by all the people of the earth"
+  * **God has made himself known in her palaces as a refuge** - AT: "The people of Jerusalem's palaces know that God protects them" 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:048|Psalms Chapter 048 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:047:008|<<]] | [[:vi:bible:notes:psa:048:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

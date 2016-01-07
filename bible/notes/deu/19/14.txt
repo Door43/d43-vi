@@ -1,0 +1,53 @@
+====== Deuteronomy 19:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add When you are living\add* in the land that Yahweh our God is giving to you, do not move the markers of your neighbors' property boundaries which were placed there long ago.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 When you are living in the land that Yahweh our God is giving to you, do not move the markers of your neighbors' property boundaries that were placed there long ago.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 You must not remove your neighbor’s landmark that they set in place a long time ago, in your inheritance that you will inherit, in the land that Yahweh your God is giving you to possess.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:neighbor]]
+  * [[vi:obe:kt:inherit]]
+  * [[:vi:obe:other:possess]]
+
+===== Translation Notes: =====
+
+Moses is still speaking to the people of Israel.
+
+  * **You must not remove your neighbor’s landmark**  - "You must not take away the markers that show where the borders of your neighbor's land are." This implies that a person would take the markers away from the borders of his neighbor's land so he can say that he own some of that land. AT: "You must not take land away from your neighbor by moving the markers on the borders of his land." (See: [[:vi:ta:vol1:translate:figs_explicit]])  
+  * **that they set in place a long time ago, in your inheritance**  - "that your ancestors set up on the borders when they first got possession of the land"
+  * **in your inheritance**  - "in the inheritance of land" 
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:19|Deuteronomy Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:19:11|<<]] | [[:vi:bible:notes:deu:19:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

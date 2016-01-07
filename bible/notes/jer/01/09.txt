@@ -1,0 +1,63 @@
+====== Jeremiah 01:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then \add it was as though\add* Yahweh touched my mouth and said, "Listen to me! I have put my message into your mouth.
+\v 10 Today I am appointing you to warn nations and kingdoms. You will tell them that I will completely destroy and get rid of \f + \ft doublet \f* some of them and that I will establish \f + \ft metaphor \f* others and cause them to be strong."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then it was as though Yahweh touched my mouth and said, "Listen to me! I have put my message into your mouth.
+\v 10 Today I am appointing you to warn nations and kingdoms. You will tell them that I will completely destroy and get rid of  some of them and that I will establish others and cause them to be prosperous."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Then Yahweh reached out with his hand, touched my mouth, and said to me, “Now, I have placed my word in your mouth.
+\q
+\v 10 I am appointing you today over nations and over kingdoms,
+\q to uproot and break down, to destroy and overthrow, to build and plant."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand]]
+  * [[vi:obe:kt:word]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:kingdom]]
+ 
+===== Translation Notes: =====
+
+
+    * **placed my word in your mouth**  - AT: "given you my message for you to speak to the people."  (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **uproot** - pull a plant all the way out of the ground, the opposite of "plant." AT: "destroy" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **break down** - the opposite of "build"
+    * **destroy ... overthrow**  - Jeremiah uses these words, which mean almost the same thing, to show that this will certainly happen. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:01|Jeremiah Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/01/07|<<]] | [[en/bible/notes/jer/01/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

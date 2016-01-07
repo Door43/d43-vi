@@ -1,0 +1,59 @@
+====== Matthew 27:51-53 ======
+
+===== TFT: =====
+
+<usfm>
+\v 51 At that moment the \add heavy thick\add* curtain \add that closed off the most holy place\add* in the Temple split into two pieces from top to bottom. \add That signified that ordinary people could now go into the presence of God\add*. The earth shook, and \add some large\add* rocks split open.
+\v 52 \add Some\add* tombs opened up, and the bodies of many godly people who had died became alive again.
+\v 53 They came out of the tombs, and after Jesus became alive again, they went into Jerusalem and appeared to many people \add there\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 51 At that moment the heavy thick curtain that closed off the Most Holy Place in the Temple split into two pieces from top to bottom. The earth shook, and some large rocks split open.
+\v 52 Some tombs opened up, and the bodies of many people who had honored God became alive again.
+\v 53 They came out of the tombs, and after Jesus became alive again, they went into Jerusalem and appeared to many people there.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 51 Behold, the curtain of the temple was split in two from the top to the bottom; and the earth shook, and the rocks 
+split apart.
+\v 52 The tombs were opened, and the bodies of many saints who had fallen asleep were raised.
+\v 53 They came out of the tombs after his resurrection, entered the holy city, and appeared to many.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:curtain]]
+  * [[:vi:obe:kt:temple]]
+  * [[:vi:obe:other:tomb]]
+  * [[:vi:obe:kt:saint]]
+  * [[:vi:obe:kt:sleep]]
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:kt:resurrection]]
+  * [[:vi:obe:other:holycity]]
+
+===== Translation Notes: =====
+
+This begins the account of the events that happened when Jesus died.
+
+  * **Behold**  - The writer is telling the reader to pay attention to the surprising information that follows.
+  * **The tombs were opened, and the bodies of many saints who had fallen asleep were raised** - "God opened the tombs and raised the bodies of many saints that had died" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **fallen asleep**  - "died" (See: [[:vi:ta:vol2:translate:figs_euphemism|Euphemism]])
+  * **The tombs were opened … appeared to many**  - The order of events is unclear. Possible orders: After the earthquake when Jesus died and the tombs were opened 1) the saints were raised, Jesus was resurrected, and the saints entered the city and were seen by many people, or 2) Jesus was resurrected, and the saints were raised, entered the city, and were seen by many people.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mat:27|Matthew Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:27:48|<<]] | [[:vi:bible:notes:mat:27:54|>>]]**
+
+~~DISCUSSION~~{{tag>publish tomb holycity}}
+
+~~NOCACHE~~

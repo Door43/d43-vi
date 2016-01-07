@@ -1,0 +1,41 @@
+====== Deuteronomy 22:30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 A man must not disgrace his father by having sex with any of his father's wives."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 A man must not take what belongs to his father by sleeping with any of his father's wives.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 A man must not take his father’s wife as his own; he must not take away his father’s marriage rights.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+===== Translation Notes: =====
+
+  * **not take his father’s wife as his own**  -  AT: "must not marry his father's former wife, even if she is not his mother." (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  *
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:28|<<]] | [[:vi:bible:notes:deu:23:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

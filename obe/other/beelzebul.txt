@@ -11,10 +11,10 @@ Beelzebul is the ruler of the demons and another name for Satan.
     * Beelzebul can also be translated as "Satan" or, "the devil" or, "the evil one."
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
 
-(See also: [[en:obe:kt:demon]], [[en:obe:kt:satan]])
+(See also: [[vi:obe:kt:demon]], [[vi:obe:kt:satan]])
 
 ===== Bible References: =====
 

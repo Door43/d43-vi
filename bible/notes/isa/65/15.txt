@@ -1,0 +1,79 @@
+====== Isaiah 65:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Those whom I have chosen will use your names when they curse people;
+\q1 I, Yahweh the Lord, will get rid of you.
+\q2 But I will give to those who worship and obey me a new name \add that they will use when they bless people\add*.
+\q1
+\v 16 The people in this land have had many troubles,
+\q2 but I will cause those troubles to occur no more.
+\q1 Therefore those who request me to bless them and those who solemnly promise to do something
+\q2 should never forget that I am God, who faithfully \add do what I promise to do\add*."
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Those whom I have chosen will use your names when they curse people;
+\q1 I, Yahweh the Lord, will get rid of you.
+\q2 But I will give to those who worship and obey me a new name.
+\q1
+\v 16 The people in this land have had many troubles,
+\q2 but I will cause those troubles to occur no more.
+\q1 Therefore those who request me to bless them and those who solemnly promise to do something
+\q2 should never forget that I am God, who faithfully do what I promise to do.
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 15 You will leave behind your name as a curse for my chosen ones to speak; I, the Lord Yahweh, will kill you;
+\q1 I will call my servants by another name.
+\q1
+\v 16 Whoever pronounces a blessing on the earth will be blessed by me, the God of truth. 
+\q1 Whoever takes an oath on the earth
+will swear by me, the God of truth, 
+\q1 because the former troubles will be forgotten, for they will be hidden from my eyes.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:curse]]
+  * [[:vi:obe:kt:elect]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:other:oath]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to those in Israel who worship idols.
+
+  * **will be blessed by me, the God of truth**  - AT: "I, the God who always speaks the truth, will bless him" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **because the former troubles will be forgotten, for they will be hidden from my eyes**  - AT: "because their troubles will be gone, and I will not even think about them again" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:65|Isaiah Chapter 65 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:65:13|<<]] | [[:vi:bible:notes:isa:65:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

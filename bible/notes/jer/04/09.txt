@@ -1,0 +1,71 @@
+====== Jeremiah 04:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Yahweh said that at the time \add Yahweh punishes you\add*, the king of Judah and all his officials will be very afraid.
+\q2 The priests and the prophets will be terrified.
+\p
+\v 10 Then I replied, "Yahweh my God, you completely deceived the people by telling them that there would be peace in Jerusalem, but now \add our enemies\add* \f + \ft personification \f* are ready to slaughter us with their swords!"
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Yahweh declares that at the time wYahweh punishes you, the king of Judah and all his officials will be very afraid.
+The priests and the prophets will be terrified.
+\v 10 Then I replied, "Yahweh my God, you completely deceived the people by telling them that there would be peace in Jerusalem, but now our enemies  are ready to slaughter us with their swords!"
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Then it will happen in that day—this is Yahweh’s declaration—that the hearts of the king and his officials will die. The priests will be appalled, and the prophets will be horrified.’”
+\v 10 So I said, “Woe, Lord Yahweh. Surely you have completely  deceived this people and Jerusalem by saying, ‘There will be peace for you.’ Yet the sword is striking against their life.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:woe]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:peace]]
+  * [[:vi:obe:other:sword]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Yahweh’s declaration**  - See how you translated this in [[:vi:bible:notes:jer:01:07|1:8]].
+    * **the sword is striking against their life**  - "our enemies  are ready to slaughter us with their swords" (UDB)  (See:[[:vi:ta:vol2:translate:figs_personification]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:04|Jeremiah Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/04/07|<<]] | [[en/bible/notes/jer/04/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish text}}
+
+~~NOCACHE~~

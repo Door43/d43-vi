@@ -1,0 +1,55 @@
+====== Psalms 076:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 When \add you punish those\add* with whom you are angry, your people will praise you,
+\q2 and \add your enemies\add* who survive\f + \ft Or: are not killed \f* will worship you on your festival days.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 When you punish those with whom you are angry, your people will praise you,
+\q2 and your enemies who survive will worship you on your festival days.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Surely your angry judgment of those people will bring you praise.
+\q You fully reveal your wrath.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:reveal]]
+  * [[:vi:obe:kt:wrath]]
+ 
+
+===== Translation Notes: =====
+
+  * **You fully reveal your wrath** - Possible meanings are 1) even Yahweh's judgment that does not cause people to praise him will show that he is angry (see ULB) or 2) those people whom Yahweh does not punish will repent and become his people (see UDB).
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:076|Psalms Chapter 076 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:076:008|<<]] | [[:vi:bible:notes:psa:076:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

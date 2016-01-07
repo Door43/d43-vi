@@ -1,0 +1,81 @@
+====== Hosea 07:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Their king is delighted with the wicked things that they do;
+\q2 his officials are happy about the people's lies.
+\q1
+\v 4 \add The king and his officials\add* are all treacherous.
+\q2 They are \add always eager to do wicked things\add*;
+\q1 they are like \f + \ft simile \f* an oven that is very hot:
+\q2 a baker mixes the dough and waits for it to expand,
+\q2 and he does not need to cause the oven to become hotter.
+\q1
+\v 5 The king and his officials get very drunk during their festivals,
+\q2 carousing with others who also do foolish things.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 The wicked things they do bring delight to their king, 
+\q2 and the king's officials are happy when they tell lies.
+\q1
+\v 4 They are all sexually immoral;
+\q2 they burn with lust like a baker's oven that is burning hot;
+\q1 once he lights the fire, he does not need to put any more wood on it, 
+\q1 until he is ready to bake the bread. 
+\q1
+\v 5 At the king's festivals, his officials do outrageous things because they are drunk with wine,
+\q2 and the king joinsd in with them as they mock me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 With their evil they make the king glad, 
+\q and by their lies the officials.
+\q
+\v 4 They are all adulterers,
+\q like an oven heated by the baker,
+\q who ceases to stir the fire
+\q from the kneading of the dough until it is leavened.
+\q
+\v 5 On the day of our king the officials made themselves sick with the heat of wine.
+\q He reaches out with his hand to those who mock.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:kt:adultery|adultery, adulterous, adulterer, adulteress]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:mock|mock, ridicule]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **They are all adulterers,**  - "adulterers" refers to people who are unfaithful to Yahweh and who worship idols (which included acts of sexual immorality). (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **like an oven heated by the baker **- This refers to the evil desires burning within the unfaithful people of Yahweh. (see: [[:vi:ta:vol1:translate:figs_simile]])
+  * **kneading of the dough** - This is a part of the process to prepare bread.
+  * **He reaches out with his hand to those who mock.**  - This means that the king also participates along with the people in the drunken festivities.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:07|Hosea Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:07:01|<<]] | [[:vi:bible:notes:hos:07:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

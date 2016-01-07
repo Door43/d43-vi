@@ -1,0 +1,27 @@
+===== Select an Input Method =====
+
+This module answers the question: How do I select an input method?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+
+==== Selecting Input Method ====
+
+Complete these steps to select your input language:
+
+   * Tap **Settings**.
+   * Tap the **Input Language**  button.
+   * At the list of Input languages, use a tap-swipe-up action to see all the languages on the list and locate the target language you want to use.
+   * To select a language, tap the box to the right of the language.
+   * Use the back arrow on the Android menu to go back to the **Setup**  window.
+
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+  * [[vi:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
+  * [[vi:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
+  * [[vi:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
+  * [[vi:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
+  * [[vi:ta:vol1:tech:tk_update|Update translationKeyboard]]
+

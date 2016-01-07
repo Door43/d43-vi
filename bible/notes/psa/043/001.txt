@@ -1,0 +1,68 @@
+====== Psalms 043:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, declare that I am innocent\f + \ft Or: have not done things that are wrong \f*.
+\q1 Defend me when ungodly people\f + \ft Or: people who do not worship you \f* say things against me,
+\q2 rescue me from people who deceive and \add say things about me that are\add* not true.
+\q1
+\v 2 You are God, the one who protects me;
+\q2 why have you abandoned me?\f + \ft Or: it seems that you have abandoned me! \f* \f + \ft rhetorical question \f*
+\q1 It does not seem right that \f + \ft rhetorical question \f* I am forced to mourn\f + \ft Or: cry \f* constantly
+\q2 because of my enemies acting cruelly toward me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, declare that I am innocent.
+\q1 Defend me when people say things against me—those people who do not honor you!
+\q2 Rescue me from people who deceive me and say things about me that are not true.
+\q1
+\v 2 You are God, the one who protects me;
+\q2 why have you abandoned me?
+\q1 It does not seem right that I should always have to be sad
+\q2 because of my enemies acting cruelly toward me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 43
+\p
+\q
+\v 1 Judge me, God, and plead my cause against an ungodly nation;
+\q
+\v 2 For you are the God of my strength; why have you thrown me away?
+\q Why do I go mourning because of the oppression of the enemy?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:judge|judge, judgment]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:plead|plead, pleading, petition]]
+  * [[:vi:obe:kt:ungodly|ungodly, godless, ungodliness, godlessness]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:mourn|mourn, mourning]]
+  * [[:vi:obe:kt:oppress|oppress, oppression]]
+  * [[:vi:obe:other:adversary|adversary, enemy]]
+
+===== Translation Notes: =====
+
+  * **the God of my strength**  - AT: "the God who gives me strength"
+  * **thrown me away**- The author feels that God has rejected him and compares it to being thrown away. AT: "rejected me" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **Why do I go mourning**  - To go mourning is to perform customs related to being very sad.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:043|Psalms Chapter 043 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:042:011|<<]] | [[:vi:bible:notes:psa:043:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

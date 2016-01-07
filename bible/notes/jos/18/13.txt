@@ -1,0 +1,51 @@
+====== Joshua 18:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 From there it extended southwest to Luz (which is \add now named\add* Bethel). From there it extended southwest to Ataroth-Addar \add town\add*, which is on the hill south of Lower Beth-Horon \add city\add*.
+\pi
+\v 14 At the hill south of Beth-Horon, the border turned and extended south to Kiriath-Baal \add town\add*, which is \add also named\add* Kiriath-Jearim. That is a town where people of the tribe of Judah live. That was the western border of the land allotted to the tribe of Benjamin.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 From there it extended south to Luz (which is now called Bethel). From there it goes down to Ataroth Addar, which is on the hill south of Lower Beth Horon.
+\pi
+\v 14 At the hill south of Beth Horon, the border turned and extended south to Kiriath Baal (which is also named Kiriath Jearim). That is a town where people of the tribe of Judah live. That was the western border.
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 From there the border passed along south in the direction of Luz (the same place as Bethel). Then the border went down to Ataroth Addar, by the mountain that lies south of Beth Horon.
+\v 14 From the hill facing Beth Horon, then turning on the western side. It ended at Kiriath Baal (that is, Kiriath Jearim), a city that belonged to the tribe of Judah. This formed the western side.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:bethel]]
+  * [[vi:obe:other:baal]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Ataroth Addar ... Beth Horon ... Kiriath Baal ... Kiriath Jearim**  - names of places (See: [[vi:ta:vol1:translate:translate_names]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:18|Joshua Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:18:11|<<]] | [[:vi:bible:notes:jos:18:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Jeremiah 19:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then I returned from the garbage dump where Yahweh had sent me to tell them that message. Then I stood in the courtyard of Yahweh's temple and said this to all the people \add who were there\add*:
+\v 15 "This is what the Almighty Commander of the armies of angels says: 'I will bring a disaster to this city and to the villages around it like I promised, because you people have stubbornly [IDI] refused to pay attention to what I said to you.'~"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then I returned from the garbage dump where Yahweh had sent me to tell them that message, and I stood in the courtyard of Yahweh's temple and said this to all the people who were there:
+\v 15 "This is what Yahweh, Commander of the angel armies, says: 'I will bring a disaster to this city and to the villages around it like I promised, because you people have stubbornly refused to pay attention to what I said to you.'"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Then Jeremiah went from Tophet, where Yahweh had sent him to prophesy. He stood in the courtyard of Yahweh's house and spoke to all the people:
+\v 15 “Yahweh of hosts, God of Israel, says this: 'See, I am about to bring to this city and to all of its towns all the disaster that I have proclaimed against it, since they stiffened their neck and 
+refused to listen to my words.'”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jeremiah|Jeremiah]]
+  * [[:vi:obe:other:send|send, send out]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:other:courtyard|courtyard, court]]
+  * [[:vi:obe:kt:houseofgod|house of God, Yahweh's house]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:proclaim|proclaim, proclamation]]
+  * [[:vi:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+
+===== Translation Notes: =====
+
+  * **Yahweh's house**  - "the Lord's temple"
+  * **Yahweh of hosts**  - AT: "Yahweh who rules over all"
+  * **to this city and to all of its towns**  - AT: "to the people of this city and the nearby towns" (See: Metonymy)
+  * **they stiffened their neck**  - This phrase means "they were stubborn" because animals that stubbornly refused to accept the yoke were said to be stiff-necked. (See: Explicit and Implicit)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:19|Jeremiah Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:19:12|<<]] | [[:vi:bible:notes:jer:20:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,66 @@
+====== Hosea 06:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Gilead is a city \add full\add* of people who do wicked things;
+\q2 \add in the streets\add* are the bloody footprints \add of those who have murdered others\add*.
+\q1
+\v 9 The priests are like \f + \ft simile \f* bandits who wait in ambushes\f + \ft Or: along the road \f* to attack people;
+\q2 they murder \add people who are walking\add* on the road to Shechem,
+\q1 and they commit other disgraceful crimes.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Gilead is a city of people who do wicked things;
+\q2 in the streets of that city are the footprints of murderers.
+\q1
+\v 9 As robbers make their plans to hide and then rob someone walking past them, 
+\q2 so are the priests—they band together making their plans, just like the robbers, 
+\q1 and they commit murder along the way to Shechem.
+\q2 They commit terrible crimes.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Gilead is a city of evildoers,
+\q filled with footprints of blood.
+\q
+\v 9 As gangs of robbers wait for someone,
+\q so the priests band together to commit murder on the way to Shechem;
+\q they have committed shameful crimes.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:gilead]]
+  * [[:vi:obe:kt:blood]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:shechem]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:criminal]]
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:06|Hosea Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:06:06|<<]] | [[:vi:bible:notes:hos:06:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,83 @@
+====== Lamentations 03:58-61 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 58 Yahweh, you defended me;
+\q2 you did not allow me to die.
+\q1
+\v 59 Now, Yahweh, you have seen the evil things that my enemies have done to me,
+\q2 so decide my case and show that I am right!
+\q1
+\v 60 You know the evil things
+\q2 that they have planned to do to me.
+\q1
+\v 61 Yahweh, you have heard them insult me
+\q2 and what they have planned to do to me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 58 Yahweh, you have defended me;
+\q2 you have not allowed me to die.
+\q1
+\v 59 Now, Yahweh, you have seen the evil things that my enemies have done to me,
+\q2 so decide my case and show that I am right!
+\q1
+\v 60 You know the evil things
+\q2 that they have planned to do to me.
+\q1
+\v 61 Yahweh, you have heard them insult me
+\q2 and what they have planned to do to me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 58 Lord, you have pleaded the disputes of my life; you have redeemed my life!
+\q
+\v 59 Yahweh, you have seen their oppression of me. Judge my cause justly.
+\q
+\v 60 You have seen all their acts of vengeance, all their plans against me.
+\q
+\v 61 You have heard their scorn, Yahweh, and all their plans regarding me,
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lord]]
+  * [[:vi:obe:other:plead]]
+  * [[:vi:obe:kt:redeem]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:oppress]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:avenge]]
+
+===== Translation Notes: =====
+
+  * **you have pleaded the disputes of my life** - God pleads his case as if he were a lawyer. AT: "you have pleaded my case" (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **you have redeemed my life** - AT: "you have redeemed me" or "you have saved my life" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **their oppression of me** - AT: "how they oppress me" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **all their acts of vengeance, all their plans against me** - These two phrases share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **all their acts of vengeance** - AT: "all of their attempts to take revenge against me" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **heard their scorn** - AT: "heard them taunt me" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:03:55|<<]] | [[:vi:bible:notes:lam:03:62|>>]]**
+
+~~DISCUSSION~~{{tag>text review}}
+
+~~NOCACHE~~

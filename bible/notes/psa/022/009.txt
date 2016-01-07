@@ -1,0 +1,57 @@
+====== Psalms 022:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add Why do\add* you \add not\add* protect me \add now as you did\add* when I was born?
+\q2 I was safe even when I was drinking milk from my mother's breasts\f + \ft Or: an infant \f*.
+\q1
+\v 10 \add It was as though\add* you adopted me right when I was born.
+\q2 You have been my God\f + \ft Or: taken care of me \f* ever since I was born.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Why do you not protect me now as you did when I was born?
+\q2 You persuaded me to trust in you even when I was still drinking milk from my mother's breasts.
+\q1
+\v 10 It was as though you had adopted me right when I was born.
+\q2 You have been my God ever since I was born.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 For you brought me from the womb;
+\q you made me trust you when I was on my mother’s breasts.
+\q
+\v 10 I have been thrown on you from the womb;
+\q you are my God since I was in my mother's womb!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:womb|womb]]
+  * [[:vi:obe:kt:trust]]
+===== Translation Notes: =====
+
+  * **you brought me from the womb** - AT: "you caused me to be born"
+  * **when I was on my mother’s breasts** - AT: "when I drank from my mother's breasts" or "when my mother fed me of her milk"
+  * **thrown on you from the womb** - AT: "made dependent on you from the moment I was born"
+  * **you are my God** - AT: "you have been the God that I worship"
+  * **since I was in my mother's womb** - AT: "since before I was born"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:006|<<]] | [[:vi:bible:notes:psa:022:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

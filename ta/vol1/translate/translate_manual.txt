@@ -1,0 +1,31 @@
+===== Introduction to Translation Manual =====
+
+This module answers the question: What is the Translation Manual?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
+  * [[vi:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[vi:ta:vol1:intro:finding_answers|Finding Answers]]
+
+==== What Does the Translation Manual Teach? ====
+
+This manual teaches translation theory and how to make a good translation. Many of the modules will be immensely helpful to study before starting a translation project. Other modules are only needed for "just-in-time" learning.
+
+Some highlights in the Translation Manual:
+
+  * [[vi:ta:vol1:translate:guidelines_intro]] - defining a good translation
+  * [[vi:ta:vol1:translate:translate_process]] - how to achieve a good translation
+  * [[vi:ta:vol1:translate:choose_team]] - some items to consider before starting a translation project
+  * [[vi:ta:vol1:translate:translate_what]] - how to start translating
+
+
+
+
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+  * [[vi:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+  * [[vi:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[vi:ta:vol1:translate:translate_what|What to Start Translating]]
+

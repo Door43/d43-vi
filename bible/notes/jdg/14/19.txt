@@ -1,0 +1,49 @@
+====== Judges 14:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then Yahweh's Spirit powerfully took control of Samson. He went down to \add the coast at\add* Ashkelon town, and killed thirty men. He took their clothes \add and went back to Timnah\add* and gave them to the men who had told him he meaning of the riddle. But he was very angry about what had happened, so he went back home to live with his mother and father.
+\v 20 So his wife was given\f + \ft Or: the bride's father gave his wife \f* to the man who was the bride's best friend, who was there at the wedding, \add but Samson did not know that\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then Yahweh's Spirit powerfully came on Samson. He went down to the coast at the city of Ashkelon and killed thirty men. He took their clothes and went back to Timnah; then he gave them to the men at the feast. But he was very angry about what had happened, so he went back home to live with his mother and father.
+\v 20 So his wife's father gave her instead to the man who had been Samson's special friend when he got married.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 Then Yahweh's Spirit suddenly came on Samson with power. Samson went down to Ashkelon and killed thirty men among those people. He took their plunder, and he gave the sets of clothing to those who had answered his riddle. He was furious and he went up to his father’s house.
+\v 20 And his wife was given to his best friend.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:holyspirit]]
+  * [[:vi:obe:other:Samson]]
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:other:ashkelon|Ashkelon]]
+
+===== Translation Notes: =====
+
+  * **came on Samson with power**  - AT: "came to Samson and gave him great power" or "and came to Samson and made him very strong" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **killed thirty men**  - "killed 30 men" - (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **those people**  - the people who live in Ashkelon
+  * **plunder**  - things taken by force, usually after a fight or battle
+  * **furious**  - AT: "very angry"
+  * **went up to his father’s house**  - AT: "went up the mountainside to his father's house"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:14|Judges Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:14:18|<<]] | [[:vi:bible:notes:jdg:15:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

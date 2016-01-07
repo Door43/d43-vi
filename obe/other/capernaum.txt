@@ -11,7 +11,7 @@ Capernaum was a fishing village on the northwest shore of the Sea of Galilee.
     * Jesus cursed Capernaum because its people did not receive His message. Today, the ancient town of Capernaum is in ruins.
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
 
 (See also: [[galilee]])

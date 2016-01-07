@@ -1,0 +1,45 @@
+====== 2 Samuel 03:27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 So when Abner returned to Hebron, Joab met him at the city gate, and took him aside as though he wanted to speak with him privately. Then he stabbed Abner in the stomach \add with his knife\f + \ft Or: sword \f*\add*. In that way he murdered Abner because Abner had killed \f + \ft metonymy \f* Joab's brother Asahel.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 So when Abner returned to Hebron, Joab met him at the city gate, and took him aside as though he wanted to speak with him privately. Then he stabbed Abner in the stomach with his knife. In that way he murdered Abner because Abner had killed Joab's brother Asahel.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 When Abner returned to Hebron, Joab took him aside at the gate to speak with him quietly, and there Joab stabbed him in the stomach and killed him. In this way, Joab avenged the blood of Asahel his brother.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:hebron]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:kt:avenge|avenge, revenge, vengeance]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[:vi:obe:kt:brother|brother]]
+
+===== Translation Notes: =====
+
+  * **blood of Asahel** - This phrase refers to the life of Asahel. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Asahel**  - This is name of a male person (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:03|2 Samuel Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:03:24|<<]] | [[:vi:bible:notes:2sa:03:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

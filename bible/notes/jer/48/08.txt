@@ -1,0 +1,84 @@
+====== Jeremiah 48:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 All the towns \add in Moab\add* will be destroyed;
+\q2 none of them will escape.
+\q1 Towns in the valleys and on the plateau will all be destroyed,
+\q2 because I, Yahweh, have said that is what will happen.
+\q1
+\v 9 Spread salt on the ground
+\q2 in order that it will become a wasteland because \add nothing will grow there anymore\add*,
+\q2 and no one will be living in it!"
+\b
+\q1
+\v 10 Yahweh will curse anyone who will not eagerly do what he desires,
+\q2 anyone who refrains from using his sword to kill \f + \ft metonymy \f* others \add in Moab\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 All the towns in Moab will be destroyed;
+\q2 none of them will escape.
+\q1 Towns in the valleys and on the plateau will all be destroyed,
+\q2 because I, Yahweh, have said that is what will happen.
+\q1
+\v 9 Spread salt on the ground
+\q2 in order that it will become a wasteland because nothing will grow there anymore,
+\q2 and no one will be living in it!"
+\b
+\q1
+\v 10 Yahweh will curse anyone who will not eagerly do what he desires,
+\q2 and he will curse anyone who refrains from using his sword to kill others in Moab.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 For the destroyer will come to every city; no city will escape.
+\q So the valley will perish and the plain will be devastated, as Yahweh has said.
+\q
+\v 9 Give wings to Moab, for she must certainly fly away.
+\q Her cities will become a wasteland, where there is no one to live in them.
+\v 10 May anyone who is lazy in doing Yahweh's work be cursed! May anyone who keeps his sword back from shedding blood be cursed!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:destroyer]]
+  * [[vi:obe:kt:perish]]
+  * [[vi:obe:other:devastated]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[vi:obe:other:moab]]
+  * [[:vi:obe:other:waste|waste, wasteland]]
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:kt:curse|curse, cursed]]
+  * [[vi:obe:other:sword]]
+  * [[:vi:obe:kt:blood|blood]]
+===== Translation Notes: =====
+
+  * **the valley will perish and the plain will be devastated** - These two phrases share similar meanings and are combined for emphasis. Together they are showing that there will be complete destruction. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **Give wings to Moab **- Moab is a country and cannot fly. This phrase is suggesting that Moab must quickly get away from the enemy. (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **lazy in doing Yahweh's work... May anyone who keeps his sword back from shedding blood be cursed! **- Yahweh has commanded that Moab be destroyed, this makes the people Moab "dedicated to destruction." These two phrase together emphasize the necessity of that destruction. AT: "either kill as I have commanded or you will become just like them and be killed." (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:48|Jeremiah Chapter 48 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:48:06|<<]] | [[:vi:bible:notes:jer:48:11|>>]]**
+
+~~DISCUSSION~~{{tag>check text}}
+
+~~NOCACHE~~

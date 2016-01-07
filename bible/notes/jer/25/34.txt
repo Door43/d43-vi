@@ -1,0 +1,79 @@
+====== Jeremiah 25:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 You \add evil\add* leaders, weep and moan!
+\q2 You who should take care of my people, \add fall down and\add* roll in the dust\f + \ft Or: dirt \f*.
+\q1 It is time for you to be slaughtered;
+\q2 you will fall down and be shattered like a fragile vase \add shatters when it falls to the ground\add*.
+\q1
+\v 35 You will not find any place to hide,
+\q2 there will be no place to which you can escape.
+\q1
+\v 36 \add People will\add* listen to your leaders crying
+\q2 when I, Yahweh, am ruining your nation.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 You evil leaders, weep and moan!
+\q2 You who thought you were the strongest ones of my people, fall down and roll in the dust.
+\q1 It is time for you to be slaughtered;
+\q2 you will fall down and be shattered like a fragile vase shatters when it falls to the ground.
+\q1
+\v 35 You will not find any place to hide,
+\q2 there will be no place to which you can escape.
+\q1
+\v 36 Your leaders and those who thought they were so strong—people will listen to them crying
+\q2 when I, Yahweh, ruin  your nation.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 34 Wail, shepherds, and shout for help! Roll about on the ground, you majestic people in the flock.
+\q For your day to be slaughtered and scattered has come. You will fall like chosen rams.
+\q
+\v 35 Refuge for the shepherds is gone; there is no escape for the majestic ones in the flock.
+\q 
+\v 36 There are the distressed cries of the shepherds and the wails of the majestic ones in the flock,
+\q for Yahweh is devastating their pastures.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:shepherd]]
+  * [[:vi:obe:other:flock]]
+  * [[:vi:obe:other:slaughter]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:kt:refuge]]
+  * [[:vi:obe:kt:yahweh]]
+
+ 
+===== Translation Notes: =====
+
+  * **shepherds**  - In this passage, the shepherds of the people are not good shepherds. They are the ones who are opposing Jeremiah. (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **Roll about on the ground **  - a sign of sorrow, mourning or utmost distress
+  * **majestic people**  - the stongest and wealthiest leaders
+  * **majestic ones**  - the strongest and wealthiest
+  * **You will fall like chosen rams.**  - The UDB translates this "like a fragile vase" which is closer to the Hebrew. However, it is difficult to see how fragile vases fit in with shepherds and flocks.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:25|Jeremiah Chapter 25 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:25:32|<<]] | [[:vi:bible:notes:jer:25:37|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

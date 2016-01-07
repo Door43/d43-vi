@@ -1,0 +1,58 @@
+====== Psalms 104:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Yahweh, you made the moon to indicate the times for our festivals,
+\q2 and you made the sun that knows when to go down.
+\q1
+\v 20 You bring darkness, and it becomes night,
+\q2 when all the animals in the forest prowl around, \add looking for food\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Yahweh, you made the moon to indicate the times for our festivals,
+\q2 and you made the sun that knows when to go down.
+\q1
+\v 20 You bring darkness, and it becomes night
+\q2 when all the animals in the forest prowl around looking for food.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 He appointed the moon to mark the seasons;
+\q the sun knows its time for setting.
+\q
+\v 20 You make the darkness of the night
+\q when all the beasts of the forest come out.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:appoint]]
+  * [[vi:obe:kt:darkness]]
+  * [[vi:obe:other:beast]]
+
+===== Translation Notes: =====
+
+  * **seasons** - This word refers to different weather changes through the year. Some places  have rainy season and dry season, while others have spring, summer, fall, and winter.
+  * **the sun knows its time**  - Here it treats the sun as knowing what time of day it is. (See: [[:vi:ta:vol2:translate:figs_personification]]) 
+  * **You make** - Here the authors switches from speaking about Yahweh to speaking to him. AT: "Yahweh, you make"
+ 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:104|Psalms Chapter 104 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:104:016|<<]] | [[:vi:bible:notes:psa:104:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

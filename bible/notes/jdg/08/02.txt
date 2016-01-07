@@ -1,0 +1,62 @@
+====== Judges 08:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 But Gideon replied, "I have done \f + \ft rhetorical question \f* very little compared with what you have done! My small clan of descendants of Abiezer only started the battle, but \add your very large group of\add* descendants of Ephraim \add helped me very much at the end, and finished the task very well. It is like\add* the final grapes of the harvest being much better than the first grapes that are picked.
+\v 3 God enabled you to defeat Oreb and Zeeb, the generals of the army from Midian. That is \f + \ft rhetorical question \f* much more important than what I did!" After Gideon told them that, they no longer resented what he had done.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 But Gideon replied, "I have done very little compared with what you have done! The grapes you don't bother to pick in the land of Ephraim are much better than the whole harvest among the descendants of Abi Ezer!
+\v 3 God helped you defeat Oreb and Zeeb, the generals of the army from Midian. That is much more important than what I did!" After Gideon told them that, they no longer resented what he had done.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 2 He said to them, “What have I done now compared to you? Are not the gleanings of Ephraim's grapes better than the full grape harvest of Abi Ezer?
+\v 3 God has given you victory over the princes of Midian—Oreb and Zeeb! What have I accomplished compared to you?” Their anger toward him died down when he said this.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:ephraim]]
+  * [[vi:obe:other:grape]]
+  * [[vi:obe:kt:harvest]]
+  * [[vi:obe:kt:god]]
+  * [[vi:obe:other:prince]]
+  * [[vi:obe:other:midian]]
+  * [[vi:obe:other:angry]]
+ 
+
+===== Translation Notes: =====
+Gideon replies to the men from Ephraim.
+
+    * **Are not the gleanings of Ephraim's grapes better than the full grape harvest of Abiezer?** - Gideon used this question to emphasize that the descendants of Ephraim had greater success in battle than the descendants of Abiezer. AT: “The grapes that were left over after you Ephraimites gathered your harvest are more than the whole harvest that we descendants of Abiezer gathered.  (See: [[:/en/ta/vol1/translate/figs_rquestion]])
+    * **Abiezer** - This is the name of one of Gideon's ancestors. Gideon used his name to refer to Abiezer's descendants and their land. (See: [[:vi:ta:vol2:translate:figs_metonymy]], [[:vi:ta:vol1:translate:translate_names]]) 
+    * **the princes of Midian**  - Gideon said "princes of Midian" to refer to the the princes and their armies. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+    * **Oreb and Zeeb** - See how you translated the names of these men in [[vi:bible:notes:jdg:07:24|7:25]].
+    * **What have I done now compared to you?**  - Gideon uses this question to honor the people of Ephraim and emphasize they have done greater things than he has.  (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+    * **accomplished** - AT: "been able to do"
+    * **died down**  - "became less"
+    
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:01|<<]] | [[:vi:bible:notes:jdg:08:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

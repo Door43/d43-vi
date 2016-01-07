@@ -1,0 +1,67 @@
+====== Psalms 023:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, you \add care for me like\add* a shepherd \add cares for his sheep\add* \f + \ft metaphor \f*.
+\q2 So I have everything that I need \f + \ft litotes \f*.
+\q1
+\v 2 You \add refresh my soul\f + \ft Or: encourage me\add* \f*
+\q1 and give me peace \f + \ft metaphor \f*
+\q2 like a shepherd leads his sheep to places where is plenty of green grass \add for them to eat\add*,
+\q2 and lets them rest beside streams where the water \add is flowing\add* slowly.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, you care for me like a shepherd cares for his sheep,
+\q2 so I have everything that I need.
+\q1
+\v 2 You enable me to rest in peace
+\q1 as when a shepherd leads his sheep to places where there is plenty of green grass for them to eat,
+\q2 as when he lets them lie down beside streams where the water is flowing slowly.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 23
+\d A psalm of David.
+\b
+\q
+\v 1 Yahweh is my shepherd; I will lack nothing.
+\q
+\v 2 He makes me to lie down in green pastures;
+\q he leads me beside tranquil water.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:shepherd|shepherd, to shepherd]]
+  * [[:vi:obe:other:water|water, waters]]
+
+===== Translation Notes: =====
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of David** - This can also be written as a sentence: “This is a psalm of David" or “This is a psalm that David wrote.”
+  * **Yahweh is my shepherd** - This psalm tells about how God cares for us as a shepherd cares for his sheep. AT: "Yahweh is like a shepherd to me" or "Yahweh cares for me as a shepherd cares for  his sheep" (See: [[:vi:ta:vol1:translate:figs_metaphor]]).
+  * **He makes me to lie down in green pastures** - AT: He gives me rest like  a shepherd who leads his sheep to lie down in green pastures" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **he leads me beside tranquil water** - He provides what I need like a shepherd who leads his sheep beside tranquil water.  (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **tranquil water** - "calm water" or "water that flows gently." This water is safe to drink.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:023|Psalms Chapter 023 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:030|<<]] | [[:vi:bible:notes:psa:023:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

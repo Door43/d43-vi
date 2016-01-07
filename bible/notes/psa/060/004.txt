@@ -1,0 +1,63 @@
+====== Psalms 060:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 But you have raised a battle flag for those who have a reverential respect for you
+\q2 in order that they can gather around it and not \add be killed by the enemies'\add* arrows.
+\qr (Think about that!)
+\q1
+\v 5 Answer our \add prayers\add* and enable us by your power \f + \ft metonymy \f* to defeat \add our enemies\add*
+\q2 in order that we, the people whom you love, will be saved."
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 But you have raised a battle flag for those who honor you
+\q2 so that they can gather around it and not be killed by the enemies' arrows.
+
+\q1
+\v 5 Answer our prayers and enable us by your power to defeat our enemies
+\q2 so that we, the people whom you love, will be saved."
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 You have given a banner to those who honor you
+\q so that it may be displayed because of the truth. 
+\qs Selah\qs*
+\b
+\q
+\v 5 So that those you love may be rescued,
+\q rescue us with your right hand and answer me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:honor|honor]]
+  * [[:vi:obe:kt:true|true, truth]]
+  * [[:vi:obe:other:selah|selah]]
+  * [[:vi:obe:kt:love|love]]
+  * [[vi:obe:kt:righthand]]
+===== Translation Notes: =====
+
+  * **You have given a banner ... it may be displayed because of the truth.**  - The most likely meaning of this sentence is what the UDB has chosen.
+  * **banner**  - a small cloth placed at the top of a stick used by kings or military to identify who they are in battle or elsewhere
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:060|Psalms Chapter 060 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:060:002|<<]] | [[:vi:bible:notes:psa:060:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

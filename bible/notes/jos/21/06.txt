@@ -1,0 +1,67 @@
+====== Joshua 21:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 The people from the Gershon clans were allotted thirteen cities in the areas that had been allotted to the tribes of Issachar, Asher, Naphtali, and the part of the tribe of Manasseh that lives on the east side of the Jordan \add River\add*.
+\p
+\v 7 The people from the Merari clans were allotted twelve cities in the areas that had been allotted to the tribes of Reuben, Gad, and Zebulun.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 To the people in the clans descended from Gershon, Israelite leaders assigned thirteen cities the areas that the tribes of Issachar, Asher, and Naphtali possessed, as well as the half tribe of Manasseh in region of Bashan.
+\p
+\v 7 To the people in the clans descended from Merari, the Israelite leaders assigned twelve cities in areas that the tribes of Reuben, Gad, and Zebulun possessed.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 And the people descended from Gershon were given by the casting of lots thirteen cities from the clans of the tribes of Issachar, Asher, Naphtali, and the half tribe of Manasseh in Bashan.
+\p
+\v 7 The people who were descendants of Merari received twelve cities from the tribes of Reuben, Gad, and Zebulun.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:issachar]]
+  * [[vi:obe:other:asher]]
+  * [[vi:obe:other:naphtali]]
+  * [[vi:obe:other:manasseh]]
+  * [[vi:obe:other:bashan]]
+  * [[vi:obe:other:reuben]]
+  * [[vi:obe:other:gad]]
+  * [[vi:obe:other:zebulun]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Gershon**  - Gershon was one of the sons of Levi. Translate the same way as in Genesis 46:11, Exodus 6:16, 17, Numbers 3:17, 18, 21-25, 4:21-24, 28, 38, 41, 54, 61, 9:32, 2 Chron. 20:19, 29:12 and 34:12. (See: [[vi:ta:vol1:translate:translate_names]])
+    * **Merari**  - Merari was one of the sons of Levi. Translate the same way as in Gen. 46:11, Ex6:16-19, Numbers 3:17, 20, 33, 35, 36, 4:29, 33, 42, 45, 7:8, 10:17, 26:57, 1 Chron. 6:1, 16, 19, 29. 44, 47, 63, 67, 9:14, 15:6, 17, 23:6, 21, 24:26, 27, 26:10, 19, 29:12, 34:12 and Ezra 8:19. (See: [[vi:ta:vol1:translate:translate_names]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:21|Joshua Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/21/04|<<]] | [[en/bible/notes/jos/21/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

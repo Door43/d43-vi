@@ -1,0 +1,57 @@
+====== Psalms 077:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 I cry out to God;
+\q1 I cry aloud to him, and he hears me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I will cry out to God;
+\q1 I will cry aloud to him, and he will listen to me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 77
+\d For the chief musician; after the manner of Jeduthun. A psalm of Asaph.
+\b
+\q
+\v 1 I will call out with my voice to God;
+\q I will call with my voice to God, and my God will hear me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:asaph|Asaph]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **For the chief musician**  - See how you translated this in [[:vi:bible:notes:psa:013:001|13:1]].
+  * **Jeduthun**  - See how you translated this in [[:vi:bible:notes:psa:039:001|39:1]].
+  * **A psalm of Asaph**  - This can also be written as a sentence. AT: “This is a psalm of Asaph" or “This is a psalm that Asaph wrote”
+  * **I will call out with my voice to God; I will call with my voice to God**  - These two phrases share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet|Doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:077|Psalms Chapter 077 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:076:011|<<]] | [[:vi:bible:notes:psa:077:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

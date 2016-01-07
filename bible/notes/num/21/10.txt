@@ -1,0 +1,46 @@
+====== Numbers 21:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Then the Israelites traveled to Oboth and camped\f + \ft Or: set up their tents \f* there.
+\v 11 Then they left there, and went to Iye-Abarim, in the desert on the eastern border of Moab.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then the Israelites traveled to Oboth and camped there.
+\v 11 Then they left there, and went to Iye Abarim, in the desert wilderness on the eastern border of Moab.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Then the people of Israel traveled on and camped at Oboth.
+\v 11 They traveled from Oboth and camped at Lye Abarim in the wilderness that faces Moab toward the east.
+</usfm>
+
+===== Important Terms: =====
+
+  * people
+  * Israel, Israelites, nation of Israel
+  * wilderness
+  * [[:vi:obe:kt:face|face]]
+  * [[:vi:obe:other:moab|Moab, Moabite, Moabitess]]
+
+===== Translation Notes: =====
+
+  * **Oboth**  - This is a name of a city. (See: Translate Names)
+  * **Lye Abarim**  - This is a name of a city. (See: Translate Names)
+  * **faces Moab **- AT: " is next to Moab" (See: Metonymy)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:21|Numbers Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:num:21:08|<<]] | [[:vi:bible:notes:num:21:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

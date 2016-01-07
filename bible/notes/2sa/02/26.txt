@@ -1,0 +1,59 @@
+====== 2 Samuel 02:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Then Abner called out to Joab, saying "Are we going to continue to fight forever \f + \ft rhetorical question \f*? Do you not realize that \add if we continue fighting\add*, the result will be very bad \f + \ft rhetorical question \f*? We are all descendants of Jacob. \add So we should stop fighting each other\add*! How long will it be until you tell your soldiers to stop pursuing us?\f + \ft Or: Tell your soldiers to stop pursuing us. \f*" \f + \ft rhetorical question \f*
+\p
+\v 27 Joab replied, "Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men until tomorrow morning!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Then Abner called out to Joab, saying, "Are we going to continue to fight forever? Do you not realize that if we continue fighting the result will be very bad? We are all descendants of Jacob, so we should stop fighting each other! How long will it be until you tell your soldiers to stop pursuing us? 
+\p
+\v 27 Joab replied, "Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men until tomorrow morning!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 Then Abner called to Joab and said, "Must the sword devour forever? Do you not know it will be bitter in the end? How long will it be before you tell your men to stop pursuing their brothers?"
+\v 27 Joab replied, "Just as God lives, if you had not said that, my soldiers would have pursed their brothers until the morning!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:abner]]
+  * [[:vi:obe:other:joab]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:life]]
+ 
+===== Translation Notes: =====
+
+  * **called to** - "shouted" or "yelled."
+  * **"Must the sword devour forever? **  - AT: "We do not need to keep using our swords to fight and kill each other." A "sword" cannot literally eat. When it is said to eat or "devour" it is taking part in warfare and killing.  (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]] and [[:vi:ta:vol2:translate:figs_personification]] and [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **Do you not know it will be bitter in the end? How long will it be before you tell your men to stop pursuing their brothers?** - AT: "This will not have a good ending, stop this now so that Israelite will not have to kill Israelite." Here "brother" is used to represent the members of the nation of Israel. (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]] ) 
+  * **as God lives** - This is a very strong vow. AT: "with God as my witness" or "God will affirm that I mean this thing I say."
+  * **if you had not said that** - This refers to what Abner has said to Joab about stopping the battle.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:02|2 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:02:24|<<]] | [[:vi:bible:notes:2sa:02:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

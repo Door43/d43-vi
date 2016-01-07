@@ -1,0 +1,69 @@
+====== Judges 05:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 One wise woman replied to her,
+\q2 and she \add kept consoling herself by\add* repeating those words:
+\q1
+\v 30 "Perhaps they are dividing up the things and the people they captured after the battle.
+\q2 Each soldier will get one or two women.
+\q2 Sisera will get some beautiful robes,
+\q2 and some beautiful embroidered robes for me."
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 One wise woman replied to her,
+\q2 and she kept consoling herself by repeating those words:
+\q1
+\v 30 "Perhaps they are dividing up the things and the people they captured after the battle.
+\q2 Each soldier will get one or two women who will bear them children.
+\q2 Sisera will get some beautiful robes,
+\q2 and some beautiful embroidered robes for me."
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 Her wisest princesses replied,
+\q and she gave herself the same answer:
+\q
+\v 30 ‘Have they not found and divided up the plunder?
+\q —A womb, two wombs for every man;
+\q the plunder of dyed fabric for Sisera,
+\q the plunder of dyed fabric embroidered,
+\q two pieces of dyed fabric embroidered for the necks of those who plunder?’
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:other:prince]]
+  * [[:vi:obe:other:womb]]
+  * [[:vi:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **princesses** - The term "princess" literally refers to the daughter of a king. However, this word is often used of female advisers to the royal family.
+  * **Have they not found and divided up the plunder?** - Sisera's mother suggests that it is possible Sisera and his men have been delayed in coming back because they have many things to gather from their defeated enemies. (See: [[vi:ta:vol1:translate:figs_rquestion]]) 
+  * **A womb, two wombs for every man** - Women are referred to as the part of their body associated with pregnancy.  This means the Sisera's men have taken many enemy women to produce more children with them.   (See: [[vi:ta:vol2:translate:figs_metonymy]])
+  * **Sisera** - See how you translated his name in [[:vi:bible:notes:jdg:04:01|4:2]].
+  * **dyed fabric embroidered**  - "fabric of different colors sewn together"
+  * **for the necks of those who plunder**  - Sisera's soldiers are referred to by the place on their body, around which, the fabric is joined.  They are also referred to by their actions. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:05:28|<<]] | [[:vi:bible:notes:jdg:05:31|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Deuteronomy 29:17-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 In those countries they saw those disgusting idols made of wood and stone and \add decorated with\add* silver and gold.
+\v 18 So be sure that no man or woman or family or tribe that is here \add today\add* turns away from Yahweh our God, to worship\f + \ft Or: serve \f* the gods of those nations. Doing that would be like a root \add of a plant that would grow\add* among you and bear poisonous and bitter fruit \f + \ft metaphor \f*.
+\p
+\v 19 Be sure that no one here today who hears this solemn agreement reassures\f + \ft Or: says to \f* himself, that 'Everything will go well with me, even if I stubbornly do what I want to.' If you do that, the result will be that Yahweh will eventually get rid of all of you, both good people and evil people \f + \ft metaphor \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 In those countries they saw those disgusting idols made of wood and stone and decorated with silver and gold.
+\v 18 So be sure that no man or woman or family or tribe that is here today turns away from Yahweh our God, to worship any of the gods of those people groups. If you do that, you will bring disaster on yourselves.
+\p
+\v 19 Be sure that no one here today who hears the words of this covenant says to himself, ‘Everything will go well with me, even if I stubbornly do what I want to.’ If you do that, the result will be that Yahweh will eventually destroy all of you, both good people and evil people
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 You have seen their disgusting things: their idols of wood and stone, silver and gold, that were among them,
+\v 18 so that there should not be among you any man, woman, family, or tribe whose heart is turning away today from Yahweh our God, so as to go worship the gods of those nations—so that there should not be among you any root that produces gall and wormwood,
+\v 19 so that when that person hears the words of this curse, he should not bless himself in his heart and say, 'I will have peace, though I walk in the stubbornness of my heart,’ This would destroy the wet together with the dry.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:vi:obe:other:silver|silver]]
+  * [[:vi:obe:other:gold|gold]]
+  * [[:vi:obe:other:family|family]]
+  * [[:vi:obe:other:tribe]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:kt:curse|curse, cursed]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:other:stiffnecked]]
+
+===== Translation Notes: =====
+
+  * **whose heart is turning away today from Yahweh our God**  - AT: "who stops following Yahweh our God" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **be among you any root that produces gall and wormwood** - The words "gall and wormwood" refer to a poisonous and bitter plant. Moses means that if the people worship other gods it will cause the death and destruction of the Israelites. AT: "be among you any person who worships idols which is like eating a poisonous plant" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **bless himself in his heart** - AT: "congratulate himself" or "encourage himself"
+  * **though I walk in the stubbornness of my heart** - AT: "even though I still refuse to obey Yahweh"
+  * **This would destroy the wet together with the dry** - Here "wet" and "dry" are used together to mean everyone and everything in Israel. AT: "This would cause Yahweh to destroy everyone in the land" (See: [[:vi:ta:vol2:translate:figs_merism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:29|Deuteronomy Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:29:14|<<]] | [[:vi:bible:notes:deu:29:20|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

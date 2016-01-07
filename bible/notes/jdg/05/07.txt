@@ -1,0 +1,71 @@
+====== Judges 05:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 People left their small villages, \add and moved into the walled cities\add*
+\q2 until I, Deborah became their leader.
+\q2 \add I became like\add* a mother to the Israelite people.
+\q1
+\v 8 When the Israelite people \add abandoned Yahweh and\add* chose new gods,
+\q2 enemies attacked the gates of the cities,
+\q1 and then \add they took away\add* the shields and spears from 40,000 Israelite soldiers.
+\q2 Not one was left.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 There were no peasants working the land in Israel
+\q2 until I, Deborah, became their leader.
+\q2 I became like a mother to the Israelite people.
+\v 8 When the Israelite people abandoned Yahweh and chose new gods,
+\q2 enemies attacked the gates of the cities,
+\q1 and then they took away the shields and spears from forty thousand Israelite soldiers.
+\q2 Not one was left with a metal weapon.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 There were no peasants in Israel,
+\q until I, Deborah, took command— 
+\q a mother took command in Israel!
+\q
+\v 8 They chose new gods,
+\q and there was fighting at the city gates;
+\q neither shields nor spears were seen
+\q among forty thousand in Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:israel]]
+  * [[:En:obe:kt:falsegod]]
+  * [[:En:obe:kt:gate]]
+  * [[:En:obe:other:shield]]
+  * [[:En:obe:other:spear]]
+===== Translation Notes: =====
+
+  * **There were no peasants in Israel**  - If needed, the reason can be made clear. AT: "Because our enemies kept attacking our villages, there were no peasants in Israel" or "Because our enemies kept attacking us, there were no peasants living in the villages of Israel" (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **peasants**  - This probably refers to people who lived in unwalled villages and farmed the land. They may have had to leave their villages and land and go to the walled cities for protection, or to the wilderness where enemies would not find them.
+  * **forty thousand in Israel**  - "40,000 in Israel" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **neither shields nor spears were seen among forty thousand in Israel**  - This statement is probably an exaggeration about how few weapons the Israelites had. AT: "few weapons for battle remained in Israel" (See: [[:vi:ta:vol2:translate:figs_hyperbole|Hyperbole]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:05:05|<<]] | [[:vi:bible:notes:jdg:05:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

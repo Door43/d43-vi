@@ -1,0 +1,49 @@
+====== Deuteronomy 12:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add When you are in that land\add*, you must not do some of the things that we have been doing. Until now, you have all been worshiping \add Yahweh\add* the way you wanted to,
+\v 9 because you have not yet arrived in the land which Yahweh is giving to you, where you will be able to live peacefully.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 When you are in that land, you must not do some of the things that we have been doing. Until now, you have all been worshiping Yahweh the way you want to,
+\v 9 because you have not yet arrived in the land which he will allow you to permanently possess, where you will be able to live peacefully.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 You will not do all the things that we are doing here today; now everyone is doing whatever is right in his own eyes;
+\v 9 for you have not yet come to the rest, to the inheritance that Yahweh your God is giving you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:rest|rest]]
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+
+===== Translation Notes: =====
+
+  * **You will not do all the things that we are doing here today**  - "You will not do as we are doing here today." This means that they would worship in the promised land differently than the way they were worshiping at that moment. They would have to follow the instructions of how Yahweh wanted them to worship.
+  * **now everyone is doing whatever is right in his own eyes**  - “everyone is doing what seems best to him” (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **come to the rest**  - "come to the place of rest." They will live in security in the land.
+  * **to the inheritance**  - This refers to the land Yahweh would give them as a permanent gift.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:12:07|<<]] | [[:vi:bible:notes:deu:12:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

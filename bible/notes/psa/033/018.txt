@@ -1,0 +1,77 @@
+====== Psalms 033:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Do not forget that Yahweh watches over those who have a reverential respect for him,
+\q2 those who confidently expect him to faithfully love them.
+\q1
+\v 19 He saves them \f + \ft synecdoche \f* from dying \add before they should die\add*
+\q2 and preserves them when there is a famine.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Do not forget that Yahweh watches over those who honor him,
+\q2 those who confidently expect him to faithfully love them.
+\q1
+\v 19 He saves them from dying before they should die;
+\q2 he preserves them when there is a famine.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 See, Yahweh's eye is on those who fear him,
+\q on those who count on his covenant faithfulness
+\q
+\v 19 to save their soul from death
+\q and to keep them alive through famine.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear]]
+  * [[:En:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:save]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:Life]]
+  * [[:vi:obe:other:famine]]
+ 
+
+===== Translation Notes: =====
+
+  * **See** - This word functions to show that a new theme begins in the Psalm. AT: "Look” or “Listen” or “Pay attention to what I am about to tell you”
+  * **Yahweh's eye** - AT: "Yahweh's attention" or "Yahweh" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **who count on** - "who wait for" or "who hope for"
+  * **to save their soul** - AT: "to save them" or "to protect them" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:033|Psalms Chapter 033 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/033/016|<<]] | [[en/bible/notes/psa/033/020|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

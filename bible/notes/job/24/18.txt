@@ -1,0 +1,71 @@
+====== Job 24:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 "\add But it is wicked people who\add* are swept\f + \ft Or: carried \f* away by floods,
+\q2 and God curses the land that they own,
+\q2 and no one goes to work in their vineyards.
+\q1
+\v 19 Just like the snow melts away when it is hot and there is no rain,
+\q2 those who have sinned disappear into the place where the dead people are.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 However, those wicked people will disappear very quickly,
+\q2 and God will curse the land that they owned;
+\q2 no one will go any longer to work in their vineyards.
+\q1
+\v 19 Just as the snow melts away when it is hot and there is no rain,
+\q2 those who have sinned will disappear into the place where the dead people are.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Swiftly they pass away, however, like foam on the surface of the waters;
+\q their portion of the land is cursed;
+\q no one goes to work in their vineyards.
+\q
+\v 19 Drought and heat consume the snow waters;
+\q so Sheol also consumes those who have sinned.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:water]]
+  * [[:vi:obe:kt:curse]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:vineyard]]
+  * [[:vi:obe:other:hades]]
+  * [[:vi:obe:kt:sin]]
+ 
+
+===== Translation Notes: =====
+
+  * **pass away like the foam - This is a comparison in time. Foam quickly disapears from on the water and these people quickly disappear from the earth.(See: Simile)**
+  * **Drought and Heat – , So Sheol –. - This is a comparison between drought and heat that consume the waters of melting snow and ice, so Sheol will consume sinful men.**
+  *
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:24|Job Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:job:24:15|<<]] | [[:vi:bible:notes:job:24:20|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

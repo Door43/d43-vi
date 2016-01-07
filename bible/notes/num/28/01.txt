@@ -1,0 +1,50 @@
+====== Numbers 28:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said this to Moses\f + \ft Or: me \f*:
+\v 2 "Tell this to the Israelite people: 'Bring to me the offerings that will be burned \add on the altar\add*. When they are burned, the smell will be very pleasing to me. And tell them that they must bring them at the proper\f + \ft Or: right \f* time.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said this to Moses,
+\v 2 "Tell this to the Israelite people, 'Bring to me the offerings that will be burned on the altar. When they are burned, the smell will be very pleasing to me. And tell them that they must bring them at the proper time.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 28
+\p
+\v 1 Yahweh spoke to Moses and said,
+\v 2 "Command the people of Israel and say to them, 'You must offer sacrifices to me at the appointed times, the food of my offerings made by fire to produce a sweet aroma for me.'
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:moses|Moses]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:kt:appoint|appoint]]
+  * fire
+
+===== Translation Notes: =====
+
+  * **at the appointed times**  - "at the set time"
+  * **food of my offerings made by fire **- "sacrifices you offered" (See: passive)
+  * **by fire**  - AT: "by burning them on the altar" (See: metonymy)
+  * **to produce a sweet aroma**  - AT: "will be pleasing" (See: idiom)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:28|Numbers Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:num:27:22|<<]] | [[:vi:bible:notes:num:28:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

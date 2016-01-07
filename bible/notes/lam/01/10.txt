@@ -1,0 +1,63 @@
+====== Lamentations 01:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Our enemies have taken away all our treasures,
+\q2 all the valuable things that we owned.
+\q1 We have seen \add soldiers from\add* other nations, men who do not worship Yahweh, enter our sacred temple,
+\q2 the place where foreigners\f + \ft Or: non \f*-Israelites were forbidden\f + \ft Or: not allowed \f* to enter.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Our enemies have taken away all our treasures,
+\q2 all the valuable things that we owned.
+\q1 We have seen soldiers from other nations, men who do not worship you, Yahweh, enter our sacred temple,
+\q2 where you had said no foreigner must go."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 The adversary has put his hand on all her precious treasures.
+\q She has seen the nations enter her sanctuary, 
+\q even though you had commanded that they must not enter into your assembly place.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:precious]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:sanctuary]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:assembly]]
+===== Translation Notes: =====
+
+    * **has put his hand on** - AT: "has taken possession of" or "has stolen" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **treasures** - "wealth"
+    * **she has seen** - The word "she" refers to Jerusalem. (See: [[:vi:ta:vol2:translate:figs_personification]])
+    * **you had commanded** - The word "you" refers to Yahweh. This means the author or the city is still speaking, after starting in [[:vi:bible:notes:lam:01:08|1:9]]. (See: [[:vi:ta:vol2:translate:figs_123person]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:01|Lamentations Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:01:08|<<]] | [[:vi:bible:notes:lam:01:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

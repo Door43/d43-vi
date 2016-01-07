@@ -1,0 +1,53 @@
+====== Deuteronomy 23:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 When you lend money or food or anything else to a fellow Israelite, do not charge them interest.
+\v 20 You are allowed to charge interest when you lend money to foreigners \add who live in your land\add*, but not when you lend money to Israelites. Do this in order that Yahweh our God will bless you in everything that you do in the land that you are about to enter and occupy.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 When you lend money or food or anything else to a fellow Israelite, do not charge them interest.
+\v 20 You are allowed to charge interest when you lend money to foreigners who live in your land, but not when you lend money to Israelites. Do this in order that Yahweh our God will bless you in everything that you do in the land that you are about to enter and occupy.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 You must not lend on interest to your fellow Israelite—interest of money, interest of food, or the interest of anything that is lent on interest.
+\v 20 To a foreigner you may lend on interest; but to your fellow Israelite you must not lend on interest, so that Yahweh your God may bless you in all that you put your hand to, in the land which you are going in to possess.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:possess]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel.
+
+  * **You must not lend on interest to your fellow Israelite**  - "If you lend something to your fellow Israelite, you must not make him pay you back more than he borrowed"
+  * **lend on interest**  - charge an extra amount, when you lend to somebody else, which is more than the amount that the person borrowed
+  * **interest of money...anything that is lent on interest**  - "you must not charge interest when you lend somebody money, food, or anything else"
+  * **foreigner**  - a stranger from a different nation who is not a part of the Israelite community 
+  * **in all that you put your hand to**  - AT: "in all that you do." (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:23|Deuteronomy Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:23:17|<<]] | [[:vi:bible:notes:deu:23:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

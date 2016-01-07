@@ -1,0 +1,50 @@
+====== Psalms 025:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 God, rescue us Israelite people from all of our troubles!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 God, rescue us Israelite people from all of our troubles!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 Rescue Israel, God,
+\q from all of its troubles!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:trouble]]
+ 
+
+===== Translation Notes: =====
+
+  * **Rescue Israel** - "Save Israel" or "Redeem Israel." This is a request. AT: "Please rescue Israel"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:025|Psalms Chapter 025 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/025/020|<<]] | [[en/bible/notes/psa/026/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

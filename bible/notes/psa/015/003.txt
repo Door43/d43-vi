@@ -1,0 +1,51 @@
+====== Psalms 015:3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 and they do not slander others.
+\q1 They do not do to others things that are wrong,
+\q2 and they do not say bad things about others.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 They do not slander others.
+\q1 They do not do to others things that are wrong,
+\q2 and they do not say bad things about anyone.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 He does not slander with his tongue,
+\q nor does harm to others,
+\q nor insults his neighbor.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:slander]]
+  * [[:vi:obe:other:tongue]]
+  * [[:vi:obe:other:neighbor]]
+
+===== Translation Notes: =====
+
+  * **He** - AT: "This kind of person"
+  * **He does not slander with his tongue** - Here "tongue" represents evil speech. ALT: "He does not say evil things about," (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **harm** - "hurt" or "damage"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:015|Psalms Chapter 015 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:015:001|<<]] | [[:vi:bible:notes:psa:015:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

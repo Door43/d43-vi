@@ -1,0 +1,80 @@
+====== Psalms 081:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 You who are my people, listen while I warn you!
+\q1 I wish that you Israelite people would pay attention to what I \add say to you\add*!
+\q1
+\v 9 You must not have any idols of other gods among you;
+\q2 you must never bow to worship any of them!
+\q1
+\v 10 I am Yahweh, your God;
+\q2 It was \add not any of those gods\add* who brought you out of Egypt,
+\q1 I am the one who did it!
+\q2 So request what you want me to do for you \f + \ft metonymy \f*, and I will do it.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 You who are my people, listen while I warn you!
+\q1 I wish that you Israelite people would pay attention to what I say to you!
+\q1
+\v 9 You must not have any idols of other gods among you;
+\q2 you must never bow to worship any of them!
+\q1
+\v 10 I am Yahweh, your God;
+\q2 It was not any of those gods who brought you out of Egypt;
+\q1 I am the one who did it!
+\q2 So request what you want me to do for you, and I will do it.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Listen, my people, for I will warn you,
+\q Israel, if you would only listen to me!
+\q
+\v 9 There must be no foreign god among you;
+\q you must not worship any foreign god.
+\q
+\v 10 I am Yahweh your God,
+\q who brought you out of the land of Egypt.
+\q Open your mouth wide, and I will fill it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+===== Translation Notes: =====
+
+Yahweh reminds the people what he said while they were in the desert.
+
+  * **for I will warn you,** - "because I am giving you a warning,"
+  * **Israel** - The name of the country represents the people (See: [[:vi:ta:vol2:translate:figs_synecdoche]]). Yahweh talks to the nation as if it was a person (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **if you would only listen to me!** - "but you must start listening to me!"
+  * **Open your mouth wide, and I will fill it.** - AT: "Tell me what you want me to do for you and I will do it." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:081|Psalms Chapter 081 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:081:006|<<]] | [[:vi:bible:notes:psa:081:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

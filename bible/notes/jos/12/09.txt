@@ -1,0 +1,65 @@
+====== Joshua 12:9-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Jericho, Ai (which was near Bethel),
+\v 10 Jerusalem, Hebron,
+\v 11 Jarmuth, Lachish,
+\v 12 Eglon, Gezer,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 The kings that the Israelites conquered were those of the following cities: Jericho, Ai (which was near Bethel),
+\v 10 Jerusalem, Hebron,
+\v 11 Jarmuth, Lachish,
+\v 12 Eglon, Gezer,
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 The kings included the king of Jericho, the king of Ai which is beside Bethel,
+\v 10 the king of Jerusalem, the king of Enaim,
+\v 11 the king of Jarmuth, the king of Lachish,
+\v 12 the king of Eglon, the king of Gezer,
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:jericho]]
+  * [[:vi:obe:other:ai]]
+  * [[:vi:obe:other:bethel]]
+  * [[:vi:obe:other:jerusalem]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Enaim**  - This is the name of a city. (See: [[vi:ta:vol1:translate:translate_names]])
+    * **Jarmuth**  - This is the name of a city. Translate the same way as in [[vi:bible:notes:jos:10:03|Joshua 10:3]].
+    * **Lachish**  - An important city. Translate the same way as in [[vi:bible:notes:jos:10:03|Joshua 10:3]].
+    * **Eglon**  - This is the name of a city. Translate the same way as in [[vi:bible:notes:jos:10:03|Joshua 10:3]].
+    * **Gezer**  - A Canaanite city-state in the foothills of the Judaean Mountains.  
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:12|Joshua Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/12/07|<<]] | [[en/bible/notes/jos/12/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Psalms 068:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 \add They are all singing\add*, "You Israelite people, praise God when you gather together;
+\q2 praise Yahweh, all you who are descendants of Jacob!"
+\q1
+\v 27 First come the people of the tribe of Benjamin, the smallest tribe,
+\q2 and following them come the leaders of the tribe of Judah and their group,
+\q1 and following them come the leaders of the tribes of Zebulun and Naphtali.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 They are all singing, "You Israelite people, praise God when you gather together;
+\q2 praise Yahweh, all you who are descendants of Jacob!"
+\q1
+\v 27 First come the people of the tribe of Benjamin, the smallest tribe,
+\q2 and following them come the leaders of the tribe of Judah and their group,
+\q1 and following them come the leaders of the tribes of Zebulun and Naphtali.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 Bless God in the assembly;
+\q praise Yahweh, you true descendants of Israel.
+\q
+\v 27 There is first Benjamin, the smallest tribe,
+\q then the leaders of Judah and their multitudes,
+\q the leaders of Zebulun and the leaders of Naphtali.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:other:benjamin]]
+  * [[:vi:obe:other:tribe]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:zebulun]]
+  * [[:vi:obe:other:naphtali]]
+
+===== Translation Notes: =====
+
+  * **descendants**-family members who come after the present members of the family
+  * **Benjamin…Judah…Zebulun…Naphtali**-all the tribes of Israel, not just these four
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:068|Psalms Chapter 068 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:068:024|<<]] | [[:vi:bible:notes:psa:068:028|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

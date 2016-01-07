@@ -1,0 +1,45 @@
+====== 1 Chronicles 24:19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Those were the men who were chosen to be the leaders of the groups that would serve in the temple, obeying the regulations that were set down by Aaron, regulations which Yahweh, the God to whom we Israelite people belong, had given to him.
+
+\m
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Those were the men who were chosen to be the leaders of the groups that would serve in the temple, obeying the regulations that were set down by Aaron, regulations which Yahweh, the God to whom we Israelite people belong, had given to him.
+
+\m
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 This was the order of their service, when they came into Yahweh's house, following the procedure given to them by Aaron their ancestor, as Yahweh, the God of Israel, had instructed him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:serve]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[:vi:obe:other:aaron]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:israel]]
+
+===== Translation Notes: =====
+
+  * **following the procedure given to them by Aaron their ancestor** - AT: "following the rules that Aaron their ancestor gave them" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:24|1 Chronicles Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:24:15|<<]] | [[:vi:bible:notes:1ch:24:20|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Psalms 107:11-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 They were in prison because they had rebelled against\f + \ft Or: not obeyed \f* the message of God;
+\q1 they were there because they had despised the advice given by God,
+\q2 who is greater than all other gods.
+\q1
+\v 12 That is why their bodies were worn out from hard labor;
+\q2 when they fell down, there was no one who would help them.
+\q1
+\v 13 In their troubles, they called out to Yahweh,
+\q2 and he rescued them from their being distressed.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 They were in prison because they had rebelled against the message of God;
+\q1 they were there because they had despised the advice given by God,
+\q2 who is greater than all other gods.
+\q1
+\v 12 That is why God  made them suffer hardships so that they would no longer be proud;
+\q2 when they got into trouble, there was no one who would help them.
+\q1
+\v 13 When they were in trouble, they called out to Yahweh,
+\q2 and he rescued them from being distressed.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 This was because they had rebelled against God's word
+\q and rejected the instruction of the Most High.
+\q
+\v 12 He humbled their hearts through hardship;
+\q they stumbled and there was no one to help them up.
+\q
+\v 13 Then they called out to Yahweh in their trouble,
+\q and he brought them out of their distress.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rebel]]
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:reject]]
+  * [[:vi:obe:kt:mosthigh]]
+  * [[:vi:obe:other:humble]]
+  * [[:vi:obe:other:heart]]
+  * [[vi:obe:other:stumble]]
+  * [[vi:obe:other:trouble]]
+
+===== Translation Notes: =====
+
+  * **This was because they had rebelled against God's word and rejected the instruction of the Most High**  - These clauses have much the same meaning. AT: "They were in prison because they refused to obey God." (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **He humbled their hearts through hardship**- The heart represents the will of a person. AT: "He used suffering to make them willing to listen to himself." (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **hardship**  - Possible meanings are 1) "trouble" or 2) "hard labor."
+  * **they stumbled and there**  - The word "stumbled" refers to times when these people got into very difficult situations and could not get themselves out of these situations. AT: "they were in trouble, but there."
+  * **Then they called out…their distress**  - See how you translated this in [[:vi:bible:notes:psa:107:004|107:6]], but notice that "rescued" and "brought" are different ideas, although they express the same general thought.
+  * **he brought**  - "he saved"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:107|Psalms Chapter 107 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:107:008|<<]] | [[:vi:bible:notes:psa:107:014|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

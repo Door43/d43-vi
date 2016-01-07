@@ -1,0 +1,53 @@
+====== 1 Samuel 10:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 When you arrive at the \add large\add* oak tree at Tabor \add town\add*, you will see three men coming toward you. They will be on their way to \add worship\add* God at Bethel \add town\add*. One of them will be leading three young goats, one will be carrying three loaves of bread, and one will be carrying a container of wine.
+\v 4 They will greet you, and they will offer you two of the loaves of bread. Accept them.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 When you arrive at the large oak tree at the town of Tabor, you will see three men coming toward you. They will be on their way to worship God at Bethel. One of them will be leading three young goats, one will be carrying three loaves of bread, and one will be carrying a container of wine.
+\v 4 They will greet you, and they will offer you two of the loaves of bread. Accept them.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 Then you will go on further from there, and you will come to the oak of Tabor. Three
+men going to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.
+\v 4 They will greetyou and give you two loaves of bread, which you will take from their hands.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:oak]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:bethel]]
+  * [[:vi:obe:other:goat]]
+  * [[:vi:obe:other:bread]]
+  * [[:vi:obe:other:wine]]
+
+===== Translation Notes: =====
+
+  * **Tabor**  - This is the name of a place or possibly a mountain. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Three men going to God**  - "Three men on their way to worship God"
+  * **one carrying three young goats,**  - "one carrying 3 young goats," (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **another carrying three loaves of bread,**  - "another carrying 3 loaves of bread," A loaf is an amount of bread that has been baked in a round or oblong shape.
+  * **a skin of wine.** - Here "skin" refers to a pouch made of animal hide that holds wine.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:10|1 Samuel Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:10:01|<<]] | [[:vi:bible:notes:1sa:10:05|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

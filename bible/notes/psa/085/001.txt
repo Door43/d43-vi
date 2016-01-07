@@ -1,0 +1,73 @@
+====== Psalms 085:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, you have acted kindly toward \add us people who live in\add* this land;
+\q1 you have enabled us Israelite people to become prosperous again.
+\q1
+\v 2 You forgave us, your people, for the sins that we had committed;
+\q2 you pardoned us for all our sins \f + \ft doublet \f*.
+\qr (Think about that!)
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, you have acted kindly toward us people who live in this land;
+\q1 you have enabled us Israelite people to become prosperous again.
+\q1
+\v 2 You forgave us, your people, for the sins that we had committed;
+\q2 you pardoned us for all our sins.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 85
+\d For the chief musician. A psalm of the sons of Korah.
+\b
+\q
+\v 1 Yahweh, you have showed favor to your land;
+\q you have restored the well-being of Jacob.
+\q
+\v 2 You have forgiven the sin of your people;
+\q you have covered all their sin. 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:kt:son]]
+  * [[:vi:obe:other:korah]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:restore]]
+  * [[:vi:obe:other:jacob]]
+  * [[:vi:obe:kt:forgive]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:selah]]
+
+===== Translation Notes: =====
+
+AT: "For the chief musician.  This is a psalm that the sons of Korah wrote."   See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **You have shown favor to your land.** - Here, “land” refers to the nation and people of Israel. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:085|Psalms Chapter 085 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:084:011|<<]] | [[:vi:bible:notes:psa:085:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

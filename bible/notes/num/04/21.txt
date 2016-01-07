@@ -1,0 +1,50 @@
+====== Numbers 04:21-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Yahweh also said to Moses\f + \ft Or: me \f*,
+\v 22 "Write down the names of all the men who belong to the clans descended from Gershon.
+\v 23 Write the names of the men who are between thirty and fifty years old. They will be men who will also do work at the Sacred Tent.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Yahweh also said to Moses,
+\v 22 "Write down the names of all the men who belong to the clans descended from Gershon.
+\v 23 Write the names of the men who are between thirty and fifty years old. They will be men who will also do work at the sacred tent.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 Yahweh spoke again to Moses. He said,
+\v 22 "Conduct a census of the descendants of Gershon also, by their ancestor’s families, by their clans.
+\v 23 Count those who are thirty years old to fifty years old. Count all of them who will join the company to serve in the tent of meeting.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:census]]
+  * [[vi:obe:other:family]]
+  * [[:vi:obe:other:serve]]
+
+===== Translation Notes: =====
+
+  * **thirty years old to fifty years old** - AT: “30 years old to 50 years old” (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **join the company to serve in the tent of meeting** - See how you translated this in [[vi:bible:notes:num:04:01|4:3]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:04|Numbers Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:num:04:17|<<]] | [[:vi:bible:notes:num:04:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

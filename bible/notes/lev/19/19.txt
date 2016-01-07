@@ -1,0 +1,55 @@
+====== Leviticus 19:19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Obey my laws.
+\p Do not allow two different kinds of animals to mate with each other.
+\p Do not plant two different kinds of seed in the \add same\add* field.
+\p Do not wear clothing made from two different kinds of material.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Obey my laws.
+\p Do not allow two different kinds of animals to mate with each other.
+\p Do not plant two different kinds of seed in the same field.
+\p Do not wear clothing made from two different kinds of material.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 You must keep my commands. 
+\p
+Do not try to breed your animals with different kinds of other animals. 
+\p
+Do not mix two different kinds of seeds when planting your field. 
+\p
+Do not wear clothing made of two kinds of material mixed together.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:kind|kind]]
+  * [[:vi:obe:kt:seed|seed]]
+
+===== Translation Notes: =====
+Yahweh continues telling Moses what the people must do.
+
+  * **clothing made of two kinds of material mixed together** - AT: "clothing that someone made from two kinds of thread" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:19|Leviticus Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:19:17|<<]] | [[:vi:bible:notes:lev:19:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

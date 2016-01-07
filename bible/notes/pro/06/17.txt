@@ -1,0 +1,76 @@
+====== Proverbs 06:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 People who show by their eyes that they are very proud;
+\q3 people who lie \f + \ft metonymy \f*;
+\q3 people \f + \ft synecdoche \f* who kill others \f + \ft synecdoche \f* who have done nothing wrong;
+\q3
+\v 18 people who plan to do evil deeds;
+\q3 people \f + \ft synecdoche \f* who run quickly to do wrong things;
+\q3
+\v 19 people who easily tell lies in court;
+\q3 and people who cause strife between family members.
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 The eyes of the proud, the tongue that tells lies,
+\q the hands that shed the blood of the innocent,
+\v 18 a heart that plots and makes plans to do evil things to others,
+\q3
+\v 19 the witness who breathes out lies when he gives testimony,
+\q3 and the one who causes strife between members of the same family.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 The eyes of the proud, a tongue that lies, 
+\q hands that shed the blood of the innocent,
+\q
+\v 18 a heart that invents wicked schemes,
+\q feet that quickly run to do evil,
+\q
+\v 19 the witness who breathes out lies,
+\q and one who sows discord among brothers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:proud]]
+  * [[:vi:obe:kt:blood]]
+  * [[:En:obe:kt:innocent]]
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:kt:evil]]
+  * [[:En:obe:kt:witness]]
+  * [[:En:obe:other:sow]]
+ 
+===== Translation Notes: =====
+
+
+    * **eyes ... tongue ... hands ... heart ... feet** - All of these body parts refer to a whole person. You can translate each of these with "people who." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+    * **shed the blood of** - AT: "kill" or "murder" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **wicked schemes** - "evil plans"
+    * **breathes out lies** - AT: "constantly lies" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **discord** - See how you translated this word in [[:vi:bible:notes:pro:06:14|6:14]].
+    * **one who sows discord** - "a person who sows discord" AT: "a person who causes discord" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:06|Proverbs Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:06:16|<<]] | [[:vi:bible:notes:pro:06:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

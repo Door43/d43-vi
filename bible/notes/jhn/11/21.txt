@@ -1,0 +1,45 @@
+====== John 11:21-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 When Martha \add got to where Jesus was\add*, she said to him, "Lord, if you had been here, my brother would not have died \add because you would have healed him\add*!
+\v 22 But I know that even now God will do for you whatever you ask \add concerning my brother\add*."
+\v 23 Jesus said to her, "Your brother will become alive again!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 When Martha saw Jesus, she said to him, "Lord, if you had been here, my brother would not have died.
+\v 22 Yet, even now I know that whatever you ask from God, God will give you."
+\v 23 Jesus said to her, "Your brother will rise again."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 21 Martha then said to Jesus, "Lord, if you had been here, my brother would not have died.
+\v 22 Even now, I know that whatever you ask from God, he will give to you."
+\v 23 Jesus said to her, "Your brother will rise again."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:martha]]
+  * [[vi:obe:kt:jesus]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[vi:obe:kt:brother]]
+  * [[vi:obe:kt:death]]
+  * [[vi:obe:kt:god]]
+  * [[vi:obe:kt:raise]]
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jhn:11|John Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:jhn:11:17|<<]] | [[:vi:bible:notes:jhn:11:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Deuteronomy 16:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add Each married couple\add* should be joyful in the presence of Yahweh. Their children, their servants, the descendants of Levi \add who are in that town\add*, and the foreigners, orphans, and widows \add who are living among you\add*, should also be joyful. Bring those offerings to the place of worship that Yahweh will choose.
+\p
+\v 12 \add When you celebrate these festivals\add* by obeying these commands, remember that your ancestors were previously slaves in Egypt."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Each married couple should be joyful in the presence of Yahweh. Their children, their servants, the descendants of Levi who are in that town, and the foreigners, orphans, and widows who are living among you, should also be joyful. Bring those offerings to the place of worship that Yahweh will choose.
+\p
+\v 12 When you celebrate these festivals by obeying these commands, remember that your ancestors were slaves in Egypt.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 You will rejoice before Yahweh your God—you, your son, your daughter, your male servant, your female servant, the Levite who is within your city gates, and the foreigner, the fatherless, and the widow who are in among you, at the place that Yahweh your God will choose for his sanctuary.
+\v 12 You will call to mind that you were a slave in Egypt; you must observe and do these statutes.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice|rejoice, exult]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:levite|Levite, Levi]]
+  * [[vi:obe:kt:gate]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+  * [[:vi:obe:kt:sanctuary|sanctuary]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:mind|mind]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+
+===== Translation Notes: =====
+
+  * **within your city gates**  - AT: “within your towns”  (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **fatherless** - Children whose parents have both died and do not have relatives to care for them.
+  * **widows** - a true widow is a woman who's husband has died and has no children to care for her in her old age.
+  * **call to mind** - AT: "remember" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:16|Deuteronomy Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:16:09|<<]] | [[:vi:bible:notes:deu:16:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

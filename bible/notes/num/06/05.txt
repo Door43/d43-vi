@@ -1,0 +1,41 @@
+====== Numbers 06:5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 Even your hair will be dedicated to me during the time that you a Nazir-man, so you must never allow anyone to cut your hair. Until the time that your solemn promise to dedicate yourself to me is ended, you must allow your hair to grow long.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Even your hair will be dedicated to me during the time that you a Nazir, so you must never allow anyone to cut your hair. Until the time that your solemn promise to dedicate yourself to me is ended, you must allow your hair to grow long.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 During all the time of his vow of separation, no razor is to be used on his head until the days of his separation to Yahweh are fulfilled. He must be separated to God. He must let the hair grow long on his head.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:vow]]
+  * [[:vi:obe:kt:fulfill]]
+  * [[:vi:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **no razor is to be used on his head** - AT: "no one is to use a razor on his head" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **the days of his separation to Yahweh** - AT: "the time that he has separated himself to Yahweh" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **He must be separated**  - AT: "He must separate himself" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:06|Numbers Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:num:06:01|<<]] | [[:vi:bible:notes:num:06:06|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

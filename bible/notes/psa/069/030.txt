@@ -1,0 +1,69 @@
+====== Psalms 069:30-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 When God does that, I will sing as I praise God,
+\q2 and I will honor him by thanking him.
+\q1
+\v 31 My doing that will please Yahweh more than \add sacrificing\add* oxen,
+\q2 more than offering him full-grown bulls.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 When God does that, I will sing as I praise God,
+\q2 and I will honor him by thanking him.
+\q1
+\v 31 My doing that will please Yahweh more than sacrificing oxen,
+\q2 more than offering him full grown bulls.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 30 I will praise the name of God with a song
+\q and will exalt him with thanksgiving.
+\q
+\v 31 That will please Yahweh better than an ox
+\q or a bull that has horns and hooves.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:exalt]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:ox]]
+  * [[:vi:obe:other:cow]]
+  * [[:vi:obe:other:hooves]]
+ 
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:069|Psalms Chapter 069 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/069/028|<<]] | [[en/bible/notes/psa/069/032|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book2}}
+
+~~NOCACHE~~

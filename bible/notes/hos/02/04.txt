@@ -1,0 +1,79 @@
+====== Hosea 02:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 I will not pity the people,
+\q2 because they have \add abandoned me\add* as \f + \ft metaphor \f* prostitutes abandon their husbands.
+\q1
+\v 5 Their parents are like prostitutes \f + \ft metaphor \f*: They have been unfaithful \add to me\add*,
+\q2 and they have done very disgraceful things.
+\q1 They said, 'We will run to our idols\f + \ft Or: gods \f* who love us;
+\q2 they are the ones who give us food and water
+\q2 and wool and linen and \add olive\add* oil, and \add wine to\add* drink.'
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 I will have no pity on her people, the people of Israel,
+\q2 because their nation is like a prostitute.
+\q1
+\v 5 Israel is like a prostitute; 
+\q2 she is like a woman who has had these children from shamefully being with other men.
+\q1 Israel decided to hurry after these idols whom she loved, to worship other gods.
+\q2 She thought that it was those gods who gave her bread and water.
+\q2 She thought that it was those gods who gave her wool, linen, and olive oil, and also wine to drink.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 I will not have any mercy on her children,
+\q for they are children of prostitution.
+\q
+\v 5 For their mother has been a prostitute,
+\q and she who conceived them has acted shamefully.
+\q She said, "I will go after my lovers,
+\q for they give me my bread and water,
+\q my wool and flax,
+\q my oil and drink."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:mercy|mercy, merciful]]
+  * [[:vi:obe:kt:children|children, child]]
+  * [[:vi:obe:other:prostitute]]
+  * [[:En:obe:other:conceive]]
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:vi:obe:other:lover]]
+  * [[:vi:obe:other:bread|bread]]
+  * [[:vi:obe:other:water|water, waters]]
+  * [[:vi:obe:other:oil|oil]]
+
+===== Translation Notes =====
+
+God is speaking to Hosea.
+
+  * **for they are children of prostitution** - The Israelites are acting like they do not belong to Yahweh. They are acting like they are children from another idol who is not a real god. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **For their mother has been a prostitute** - The idols that Israel has been worshipping are not real gods. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **She said, "I will go after my lovers, for they give me my bread and water, my wool and flax, my oil and drink." **- Instead of seeking and worshiping Yahweh, Israel has chosen to worship Baal and other false gods ("my lovers"). The list of things in this verse are essential needs for the people to live. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:02:02|<<]] | [[:vi:bible:notes:hos:02:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish text conceive}}
+
+~~NOCACHE~~

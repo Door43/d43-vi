@@ -1,0 +1,60 @@
+====== Deuteronomy 20:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Then the officers must also say, 'If anyone among you is afraid or timid \f + \ft rhetorical question \f*, he should go home, in order that he does not cause his fellow soldiers to also stop being courageous.'
+\v 9 When the officers have finished speaking to the troops, they must appoint commanders.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Then the officers must also say, 'If anyone among you is afraid or timid, he should go home, in order that he does not cause his fellow soldiers to also stop being courageous.'
+\v 9 When the officers have finished speaking to the troops, they must appoint commanders over them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 The officers must speak further to the people and say, "What man is there who is fearful or fainthearted? Let him go and return to his house, so that his brother’s heart does not melt like his own heart."
+\v 9 When the officers have finished speaking to the people, they must appoint commanders over them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:brother]]
+  * [[vi:obe:other:heart]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:other:commander]]
+
+===== Translation Notes: =====
+
+Moses continues covering reasons for military discharge.
+
+  * **What man is there who is fearful or fainthearted? Let him go**  - AT: "If any soldier here is afraid and not brave, he should go back to his house."
+  * **his brother’s heart does not melt like his own heart** - AT: "another Israelite does not become afraid like he is afraid." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **they must appoint commanders over them**  - "the officers must appoint people to be commanders and to lead the people of Israel"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:20|Deuteronomy Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/20/06|<<]] | [[en/bible/notes/deu/20/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

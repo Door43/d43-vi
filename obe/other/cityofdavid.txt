@@ -10,7 +10,7 @@ The "City of David" is another name for both Jerusalem and Bethlehem.
     * Bethlehem is where David was born.
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
 
 (See also: [[david]], [[bethlehem]], [[jerusalem]])

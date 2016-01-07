@@ -1,0 +1,64 @@
+====== Psalms 077:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Has he stopped faithfully loving us?
+\q1 Will he not do for us what he promised to do?
+\q1
+\v 9 God promised to act mercifully toward us; has he forgotten that?
+\q2 Because he is angry with us, has he decided to not be kind to us?"
+\qr (Think about that!)
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Has he stopped faithfully loving me?
+\q1 Will he not do for me what he promised to do?
+\q1
+\v 9 God promised to act mercifully toward me; has he forgotten that?
+\q2 Because he is angry with me, has he decided not to be kind to me?"
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Was his covenant faithfulness gone forever?
+\q Had  his promise failed forever?
+\q
+\v 9 Had God forgotten to be gracious?
+\q Had his anger shut off his compassion? 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:promise|promise]]
+  * [[:vi:obe:kt:grace|grace, gracious]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:kt:compassion|compassion, compassionate]]
+  * [[:vi:obe:other:selah|selah]]
+
+===== Translation Notes: =====
+
+These two pairs of phrases each share similar meanings and are combined for emphasis. (See: Doublet)
+
+  * **covenant faithfulness **- See how you translated this in See how you translated this in [[:vi:bible:notes:psa:013:005|13:5]].
+  * **Had his anger shut off his compassion**  - AT: "Had God stopped showing us compassion because he was angry with us"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:077|Psalms Chapter 077 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:077:006|<<]] | [[:vi:bible:notes:psa:077:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

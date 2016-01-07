@@ -1,0 +1,71 @@
+====== Psalms 081:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 "\add After the rulers of Egypt forced you Israelites to work as slaves\add*,
+\q1 I took those \add heavy\add* burdens off your backs,
+\q2 and I enabled you to lay down those heavy baskets \add of bricks that you were carrying\add*.
+\q1
+\v 7 When you were greatly distressed, you called out to me, and I rescued you;
+\q2 I answered you out of a thundercloud.
+\q2 \add Later\add* I tested \add whether you would trust me to give you\add* water \add when you were in the desert\add* at Meribah.
+\qr (Think about that!)
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 God says this: "After the rulers of Egypt forced you Israelites to work as slaves,
+\q1 I took those heavy burdens off your backs,
+\q2 and I enabled you to lay down those heavy baskets of bricks that you were carrying.
+\q1
+\v 7 When you were greatly distressed, you called out to me, and I rescued you;
+\q2 I answered you out of a thundercloud.
+\q2 Later I tested whether you would trust me to give you water when you were in the desert at Meribah.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 "I removed the burden from his shoulder;
+\q his hands were freed from holding the basket.
+\q
+\v 7 In your distress you called out, and I helped you;
+\q I answered you from a dark thundercloud.
+\q I tested you at the waters of Meribah. 
+\qs Selah\qs*
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:burden|burden]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:kt:test|test]]
+  * [[:vi:obe:other:water|water, waters]]
+  * [[:vi:obe:other:selah|selah]]
+
+===== Translation Notes: =====
+
+  * **I ** - In these verses, the pronoun "I" refers to God.
+  * **removed the burden from his shoulder; **- God removed the forced labor from the people as represented by "the burden." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **his hands were freed from holding the basket.**  - The people of Israel were no longer forced to do hard labor represented by "the basket." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **in your distress**  - "in your great suffering"
+  * **I answered you from a dark thundercloud **- God's presence and glory were represented to Israel in a dark and threatening cloud. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **I tested you at the waters of Meribah **- God tested the children of Israel to see if they would trust him to supply water in the desert of Meribah. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:081|Psalms Chapter 081 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:081:004|<<]] | [[:vi:bible:notes:psa:081:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

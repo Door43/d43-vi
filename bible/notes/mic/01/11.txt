@@ -1,0 +1,76 @@
+====== Micah 01:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 You people who live in Shaphir, \add town whose name means 'beautiful'\add*,
+\q2 naked and ashamed, you will be taken \add to another country\add*.
+\q1 You people in Beth-Ezel \add town\add* should mourn,
+\q2 because no one from Zaanan \add town whose name means 'one who goes out'\add*, will go out to help you.
+\q1
+\v 12 \add The name of\add* Maroth \add town sounds like 'bitterness'\add*,
+\q2 and everyone there is anxiously waiting for good things to happen to them,
+\q1 but good things will not happen because terrible things are about to happen to them,
+\q2 and it will soon happen at the gates of Jerusalem.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 You people who live in Shaphir,
+\q2 naked and ashamed, you will be taken to another country.
+\q1 You people in Beth Ezel should mourn,
+\q2 because no one from Zaanan will go out to help you.
+\q1
+\v 12 The people of Maroth
+\q2 are anxiously waiting for good things to happen to them.
+\q1 But I will make terrible things to happen to them,
+\q2 and they will soon happen at the gates of Jerusalem."
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Pass by, inhabitants of Shaphir,
+\q in nakedness and shame.
+\q The inhabitants of Zaanan do not come out.
+\q Beth Ezel mourns,
+\q for their protection is taken away.
+\q
+\v 12 For the inhabitants of Maroth wait anxiously for good news,
+\q because disaster has come down from Yahweh
+\q to the gates of Jerusalem.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+For the meanings of the names of villages and towns, you may want to include that information in a footnote.
+
+  * **Shaphir **- The name of this city sounds like one meaning "beautiful." It contrasts with "nakedness and shame." (See: **[[:vi:ta:vol1:translate:translate_names|Translate Names]])**
+  * **in nakedness and shame**  - Enemy armies often made their prisoners walk totally naked. And there was shame in being a conquered people.(See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **Zaanan**  - The name of this city means "go out." They are too afraid to go out and help.
+  * **Beth Ezel**  - The name of this city means "house of taking away."
+  * **for their protection is taken away**  - AT: "for I have taken away everything that might protect them" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **Maroth**  - The name of this city means "bitterness."
+  * **because disaster has come down from Yahweh ** - "Disaster" is an important word in Micah that will reoccur.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mic:01|Micah Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:mic:01:08|<<]] | [[:vi:bible:notes:mic:01:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Isaiah 66:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 You people in \f + \ft apostrophe \f* Jerusalem, rejoice!
+\q2 And all you people who love Jerusalem should also be happy.
+\q1 You people who were sad because of \add what happened to Jerusalem\add*,
+\q2 you should now be glad.
+\q1
+\v 11 \add You people in Jerusalem\add* will \add have everything that you need\add*
+\q2 like \f + \ft metaphor \f* a baby that gets all it needs from its mother's breasts.
+\q1 You will enjoy all the abundant and glorious things \f + \ft metaphor \f* in the city.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 You people in Jerusalem, rejoice!
+\q2 And all you people who love Jerusalem should also be happy.
+\q1 You people who were sad because of what happened to Jerusalem,
+\q2 you should now be glad.
+\q1
+\v 11 You people in Jerusalem will have everything that you need,
+\q2 like a baby that gets all it needs from its mother's breasts.
+\q1 You will enjoy all the abundant and glorious things in the city.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 10 Rejoice with Jerusalem and be glad for her, all you who love her; 
+\q1 rejoice with her, all you who mourned over
+her!
+\q1
+\v 11 For you will nurse and be satisfied; with her breasts you will be comforted;
+\q1 for you will drink them to the full and be delighted with the abundance of her glory.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:other:mourn]]
+  * [[:vi:obe:other:comfort]]
+  * [[:vi:obe:kt:glory]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking about Jerusalem as if it were a mother and the inhabitants of Jerusalem as newly born children. (See: [[:vi:bible:notes:isa:66:07|66:7-8]])
+
+  * **For you will nurse and be satisfied; with her breasts you will be comforted**  - This means Jerusalem will be a place of safety and comfort for God's people. AT: "For she will satisfy you with her milk; she will comfort you with her breasts." (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]] and [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:66:09|<<]] | [[:vi:bible:notes:isa:66:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Leviticus 23:19-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then you must also kill one male goat to be an offering\f + \ft Or: sacrifice \f* for your sins, and two one year-old male lambs to be an offering to enable you to continue to have fellowship with me.
+\v 20 The priest will lift up these offerings \add high to dedicate them\add* to me. He will also offer the loaves of bread that were baked from the first wheat that you harvest. Those offerings are sacred to me, but they are for the priests \add to eat\add*.
+\v 21 On that day, you must stop your regular work and gather to worship me. You must always obey those instructions\f + \ft Or: commands \f*, and you must obey them wherever you live.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then you must also kill one male goat as an offering for your sins, and two one year old male lambs to be an offering for you to promise friendship with me.
+\v 20 The priest will lift up these offerings high to dedicate them to me. He will also offer the loaves of bread that were baked from the first wheat that you harvest. Those offerings are special to me; but they are for the priest.
+\v 21 On that day, you must stop your regular work and gather to worship me. You and all your descendants must always obey these commands, wherever you live.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 You must offer one male goat for a sin offering, and two male lambs a year old for a sacrifice, as fellowship offerings.
+\v 20 The priest must raise them up before Yahweh, together with the bread of the firstfruits, and present them to him as an offering with the two lambs. They will be holy offerings to Yahweh for the priest.
+\v 21 You must make a proclamation on that same day. There will be a holy assemby, and you must do no ordinary work. This will be a permanent command throughout your people's generations in all the places where you live.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:goat|goat]]
+  * [[:vi:obe:other:sinoffering|sin offering]]
+  * [[vi:obe:other:fellowshipoffering]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:bread|bread]]
+  * [[:vi:obe:kt:holy]]
+  * [[vi:obe:other:proclaim]]
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:generation|generation]]
+  * [[:vi:obe:kt:life]]
+
+===== Translation Notes: =====
+
+There are no translation notes for these verses.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:23|Leviticus Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:23:17|<<]] | [[:vi:bible:notes:lev:23:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

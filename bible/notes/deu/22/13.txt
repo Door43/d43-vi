@@ -1,0 +1,52 @@
+====== Deuteronomy 22:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Suppose a man marries a young woman and has sex with her and later decides that he does not want her anymore,
+\v 14 and he says false things about her, and claims that she was not a virgin when he married her.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Suppose a man marries a young woman and sleeps with her and later decides that he does not want her anymore,
+\v 14 and suppose that he says false things about her, and claims that she was not a virgin when he married her.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Suppose a man takes a wife, goes into her, and then hates her,
+\v 14 and then accuses her of shameful things and puts a bad reputation on her, and says, "I took this woman, but  when I came near to her, I found no proof of virginity in her."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:accuse]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:virgin]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel. 
+ 
+  * **goes into her**  - AT: "has sexual relations with her." (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **and then accuses her of shameful things**  - AT: "and then accuses her of having sex before marriage."
+  * **and puts a bad reputation on her**  - "and gives her a bad reputation"
+  * **but when I came near to her**  - AT: "but when I had sex with her." 
+  * **I found no proof of virginity in her** - "I did not find proof that she was a virgin"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:12|<<]] | [[:vi:bible:notes:deu:22:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Deuteronomy 04:44-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 44 Moses\f + \ft Or: I \f* gave \add God's\add* laws to the Israelite people.
+\v 45 They included all the rules and instructions and commands that Moses\f + \ft Or: I \f* gave to them, after they\f + \ft Or: we \f* had come out of Egypt,
+\v 46 when they\f + \ft Or: we \f* were in the valley east of the Jordan \add River\add*. They\f + \ft Or: We \f* were across from Beth-Peor \add town\add*, in the land that \add previously\add* was ruled by Sihon, the king of the Amor people-group, who lived in Heshbon \add city\add*. Moses\f + \ft Or: I \f* and the other Israelites had defeated his \add army\add* when they\f + \ft Or: we \f* came out of Egypt.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 44 Moses gave God's laws to the Israelite people.
+\v 45 They included all the solemn commands, instructions and laws that Moses spoke to the people of Israel after they had come out of Egypt,
+\v 46 when they were in the valley east of the Jordan River. They were across from the town of Beth Peor, in the land that previously was ruled by Sihon, the king of the Amor people group, who lived in Heshbon. Moses and the other Israelites had defeated his army when they came out of Egypt.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 44 This is the law that Moses placed before the people of Israel;
+\v 45 these are the covenant decrees, laws, and other decrees that he spoke to the people of Israel when they came out of Egypt,
+\v 46 when they were east of the Jordan, in the valley opposite Beth Peor, in the land of Sihon, king of the Amorites, who had lived at Heshbon, whom Moses and the people of Israel had defeated when they came out of Egypt.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[vi:obe:other:law]]
+  * [[vi:obe:other:Egypt]]
+  * [[vi:obe:other:Jordanriver]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:amorite|Amorite]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+
+    * **This is the law** - This refers to the laws Moses will give in the following chapters.
+    * **Beth Peor** - See how you translated this in [[vi:bible:notes:deu:03:28|3:29]].
+    * **Sihon...Amorites...Heshbon** - See how you translated these in [[vi:bible:notes:deu:01:03|1:4]].
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:04|Deuteronomy Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:04:41|<<]] | [[:vi:bible:notes:deu:04:47|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~
+

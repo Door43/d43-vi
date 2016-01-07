@@ -1,0 +1,61 @@
+====== Numbers 24:17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 The things that I see \add in the vision\add* are not \add going to happen\add* \bd now\bd*;
+\q2 I see things \add that God will cause to happen\add* in the future.
+\q1 A man whom is \add a descendant of\add* Jacob will appear like a star \f + \ft metaphor \f*;
+\q2 a king who holds a scepter will be one of the Israelite people.
+\q1 He will crush the heads of you people of Moab;
+\q2 he will wipe out the descendants of Seth.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 The things that I see in the vision are not going to happen now.
+\q2 I see things that God will cause to happen in the future.
+\q1 A man whom is a descendant of Jacob will appear like a star;
+\q2 a king who holds a scepter will be one of the Israelite people.
+\q1 He will crush the heads of you people of Moab;
+\q2 he will wipe out the descendants of Seth.
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 I see him, but he is not here now.
+\q I look at him, but he is not near.
+\q A star will come out of Jacob,
+\q and a scepter will rise out of Israel.
+\q He will shatter Moab’s leaders
+\q and destroy all the descendants of Seth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Jacob]]
+  * [[:vi:obe:other:scepter|scepter]]
+  * [[:vi:obe:other:moab|Moab, Moabite, Moabitess]]
+  * [[:vi:obe:other:descendant|descendant]]
+  * [[:vi:obe:other:seth|Seth]]
+
+===== Translation Notes: =====
+
+  * **I see him, but he is not here now. I look at him, but he is not near.** - Both of these statements mean the same thing. Balaam is having a vision of a future event. The word "him" refers to a future leader of Israel. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **A star will come out of Jacob** - Here "star" refers to an Israelite king that will rise in power. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **a scepter will rise out of Israel** - This means the same thing as the first part of the sentence. A king shall rise out of Israel. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **all the descendants of Seth** - This refers to the Moabites who were descendants of Seth.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:num:24:15|<<]] | [[:vi:bible:notes:num:24:18|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

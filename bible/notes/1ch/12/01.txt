@@ -1,0 +1,58 @@
+====== 1 Chronicles 12:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 David went to Ziklag \add town\add* to escape from \add King\add* Saul. While he was there, many warriors came and joined him, and they helped him when he fought battles.
+\v 2 They carried bows \add and arrows\add*. They were able to shoot arrows and to sling stones. They could use either their right arms or their left arms to do that. They were relatives of Saul from the tribe of Benjamin.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 David went to the city of Ziklag to escape from King Saul. While he was there, many warriors came and joined him, and they helped him when he fought battles.
+\v 2 They carried bows and arrows. They were able to shoot arrows and to sling stones. They could use either their right arms or their left arms to do that. They were relatives of Saul from the tribe of Benjamin.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 12
+\p
+\v 1 These were the men who came to David to Ziklag, while he was still banished from the presence of Saul son of Kish. They
+were among the soldiers, his helpers in battle.
+\v 2 They were armed with bows and could use both the right hand and the left in slinging stones and in shooting arrows from
+the bow. They were Benjaminites, Saul’s fellow tribesmen.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:other:saul]]
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:stone]]
+  * [[:vi:obe:other:tribe]]
+
+===== Translation Notes: =====
+
+  * **Ziklag** - This is the name of a place.  (See: [[vi:ta:vol1:translate:translate_names]])
+  * **while he was still banished from the presence of**  - AT: "during the time when he could not be in the presence of" (See: [[:vi:ta:vol2:translate:figs_activepassive]]) 
+  * **Kish** - This is the name of a man.
+  * **They were armed with bows and could use both the right hand and the left** - AT: "Their weapons included bows, and they could use their right hands and left hands" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **sling** - to throw an object with a forceful swinging motion
+  * **Benjaminites** - This is the name of the tribe of Benjamin's descendants.
+
+
+
+=====Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:12|1 Chronicles Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:11:45|<<]] | [[:vi:bible:notes:1ch:12:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

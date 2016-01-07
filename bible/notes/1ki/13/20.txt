@@ -1,0 +1,56 @@
+====== 1 Kings 13:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 While they were sitting at the table, Yahweh spoke to the old man.
+\v 21 Then he cried out to the prophet from Judah, "This is what Yahweh says: 'You have disobeyed him, and you have not done what he commanded you to do.
+\v 22 Instead, you have come back here and had things to eat and drink in a place where he commanded you not to do that. As a result, you will be killed, and your body will not be buried in the grave where your ancestors are buried.'~"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 While they were sitting at the table, Yahweh spoke to the old man.
+\v 21 Then he cried out to the prophet from Judah, "This is what Yahweh says: 'You have disobeyed him, and you have not done what he commanded you to do.
+\v 22 Instead, you have come back here and had things to eat and drink in a place where he commanded you not to do that. As a result, you will be killed, and your body will not be buried in the grave where your ancestors are buried.' "
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 As they sat at the table, the word of Yahweh came to the prophet who had brought him back, 
+\v 21 and he cried to the man of God who came from Judah, saying, "Yahweh says, 'Because you have been disobedient to the word of Yahweh and have not kept the command that Yahweh your God gave you,
+\v 22 but came back and have eaten food and drunk water in the place about which Yahweh told you to eat no food and drink no 
+water, your body will not be buried in the tomb of your fathers.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:prophet]]
+  * [[vi:obe:other:kingdomofjudah]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:disobey]]
+  * [[vi:obe:other:command]]
+  * [[vi:obe:other:bury]]
+  * [[:vi:obe:other:tomb]]
+  * [[:vi:obe:other:father]]
+
+===== Translation Notes: =====
+
+  * **As they sat at the table** - AT: "As they sat at the table eating" (See [[:vi:ta:vol1:translate:figs_explicit]])
+  * **brought him back** - Here the word "him" refers to the man of God.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:13|1 Kings Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:13:18|<<]] | [[:vi:bible:notes:1ki:13:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

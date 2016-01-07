@@ -1,0 +1,57 @@
+====== 2 Samuel 02:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Then the men of Judah came to Hebron, and \add one of\add* them poured olive oil on David's head \add to show they were appointing him to be\add* \f + \ft metonymy \f* the king of the tribe \f + \ft metonymy \f* of Judah.
+\p When David found out that the people of Jabesh \add town\add* in the Gilead \add region\add* had buried Saul's body,
+\v 5 he sent messengers to the men of Jabesh to tell them this: "I desire\f + \ft Or: hope \f* that Yahweh will bless you for having shown, by burying the body of Saul your king, that you were loyal to him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Then the men of Judah came to Hebron, and one of them poured olive oil on David's head to show they were appointing him to be the king of the tribe of Judah.
+\p When David found out that the people of the city of Jabesh in the region of Gilead had buried Saul's body,
+\v 5 he sent messengers to the men of Jabesh to tell them, "I desire that Yahweh will bless you for having buried Saul. By doing this, you have shown that you were loyal to him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Then men from Judah came and anointed David king over the house of Judah.
+\p They told David, "The men of Jabesh Gilead have buried Saul."
+\v 5 So David sent messengers to the men of Jabesh Gilead and said to them, "You are blessed by Yahweh, since you have showed this loyalty to your master Saul and have buried him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:judah]]
+  * [[:vi:obe:kt:anoint]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:other:gilead]]
+  * [[:vi:obe:other:bury]]
+  * [[:vi:obe:other:saul]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:messenger]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:lord]]
+ 
+
+===== Translation Notes: =====
+
+  * **Jabesh Gilead**  - Name of a place. (See: [[vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:02|2 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:02:01|<<]] | [[:vi:bible:notes:2sa:02:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

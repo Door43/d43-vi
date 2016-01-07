@@ -1,0 +1,51 @@
+====== 1 Kings 16:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Omri became king when Asa had been king of Judah for almost 31 years. Omri ruled Israel for 12 years. For the first six years he ruled in Tirzah.
+\v 24 Then he bought a hill from \add a man named\add* Shemer and paid him about 150 pounds\f + \ft Or: 70 kg. \f* of silver for it. Then Omri ordered his men to build a city on that hill, and he called it Samaria, to honor Shemer, the man who owned it previously.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Omri became king when Asa had been king of Judah for almost thirty-one years. Omri ruled Israel for twelve years. For the first six years he ruled in Tirzah.
+\v 24 Then he bought a hill from a man named Shemer and paid him about 68 kilograms of silver for it. Then Omri ordered his men to build a city on that hill, and he called it Samaria, to honor Shemer, the man who owned it previously.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 Omri began to reign over Israel in the thirty-first year of Asa king of Judah ,
+and he reigned twelve years. He reigned from Tirzah for six years.
+\v 24 He bought the hill of Samaria from Shemer for two talents of silver. He built a city on the hill and called the name of the
+city Samaria, after the name of Shemer, the past owner of the hill.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:asa]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:samaria]]
+  * [[:vi:obe:other:silver]]
+  * [[:vi:obe:kt:name]]
+
+===== Translation Notes: =====
+
+  * **two talents of silver** - A talent is a unit of weight equal to about 34 kilograms. AT: "about 68 kilograms of silver" (UDB) (See: [[:vi:obe:other:biblicalweight]])
+  * **He built a city** - The word "He" refers to Omri. AT: "Omri's workers built a city" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:16|1 Kings Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:16:21|<<]] | [[:vi:bible:notes:1ki:16:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Psalms 018:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 When I was distressed\f + \ft Or: had troubles \f*, they attacked me,
+\q2 but Yahweh defended\f + \ft Or: protected \f* me.
+\q1
+\v 19 He led me to a place where I was safe;
+\q2 he rescued me because he was pleased with me.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 When I was distressed, they attacked me, but Yahweh defended me.
+\q1
+\v 19 He made me completely safe; he rescued me because he was pleased with me.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 They came against me on the day of my distress but Yahweh was my support!
+\q
+\v 19 He set me free in a wide open place; he saved me because he was pleased with me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:free]]
+
+===== Translation Notes: =====
+
+  * **They came against me on the day of my distress** - AT: "Strong enemies attacked me on a day when I already had many troubles" (See: [[:vi:ta:vol1:translate:figs_explicitinfo]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:016|<<]] | [[:vi:bible:notes:psa:018:020|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

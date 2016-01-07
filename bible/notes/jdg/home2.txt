@@ -1,0 +1,26 @@
+===== Judges Team 2 Links: =====
+
+  * [[:vi:ulb:ep:07-jdg.usfm|Full ULB text of Judges]]
+  * [[:vi:udb:ep:07-jdg.usfm|Full UDB text of Judges]]
+  * [[:vi:bible:admin-reports:notes-team-admin:jdg2|Notes: Judges Team 2 Admin]]
+  * [[:vi:bible:team-info:training:notes-training|Notes Training]]
+  * [[vi:bible:team-info:training:standard-book-notes:jdg]]
+
+
+<nspages vi:bible:notes:jdg:13 -title -naturalOrder -exclude:home -textPages="Judges 13" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:14 -title -naturalOrder -exclude:home -textPages="Judges 14" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:15 -title -naturalOrder -exclude:home -textPages="Judges 15" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:16 -title -naturalOrder -exclude:home -textPages="Judges 16" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:17 -title -naturalOrder -exclude:home -textPages="Judges 17" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:18 -title -naturalOrder -exclude:home -textPages="Judges 18" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:19 -title -naturalOrder -exclude:home -textPages="Judges 19" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:20 -title -naturalOrder -exclude:home -textPages="Judges 20" -nbCol=2> 
+
+<nspages vi:bible:notes:jdg:21 -title -naturalOrder -exclude:home -textPages="Judges 21" -nbCol=2> 

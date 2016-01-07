@@ -1,0 +1,54 @@
+====== Deuteronomy 11:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 It was you and your ancestors, not your children, whom he disciplined \add by causing all of you to have\f + \ft Or: experience \f* difficulties\add*. So, starting today, continue to think about his being very great and very powerful. \f + \ft doublet, metonymy \f*
+\v 3 Think about the various miracles \f + \ft doublet \f* that he performed in Egypt. Think about what he did to the king of Egypt and to all the land that he \add ruled\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 It was you and your ancestors, not your children, whom he disciplined by causing all of you to have difficulties. So starting today, continue to think about how very great and powerful he is.
+\v 3 Think about the various miracles that he performed in Egypt, things that showed how powerful he is. Think about what he did to the king of Egypt and to all the land that he ruled.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 2 Notice that I am not speaking to your children, who have not known or seen the punishment of Yahweh your God, his greatness, his mighty hand, or the display of his power,
+\v 3 the signs and deeds that he did in the midst of Egypt to Pharaoh, king of Egypt, and to all his land.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:other:punish|punish, punishment]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[vi:obe:kt:power]]
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:other:pharaoh|Pharaoh, king of Egypt]]
+
+===== Translation Notes: =====
+
+  * **Notice that I am not speaking to your children**  - The only children present are those who were born in the wilderness. All the adults now listening to Moses were children at the time their parents rebelled against God in the desert.
+  * **his mighty hand**  - AT: "his strength" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **in the midst of Egypt**  - "in Egypt"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:11|Deuteronomy Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:11:01|<<]] | [[:vi:bible:notes:deu:11:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Psalms 118:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 It is better to trust in Yahweh
+\q2 than to depend on\f + \ft Or: trust in \f* people.
+\q1
+\v 9 It is better to trust Yahweh to protect us
+\q2 than to trust that influential\f + \ft Or: important \f* people will protect us.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 It is better to trust in Yahweh
+\q2 than to depend on people.
+\q1
+\v 9 It is better to trust Yahweh to protect us
+\q2 than to trust that influential people will protect us.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 It is better to take shelter in Yahweh
+\q than to put confidence in man.
+\q
+\v 9 It is better to take refuge in Yahweh
+\q than to put one's trust in men.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:confidence|confidence, confident]]
+  * [[:vi:obe:kt:refuge|refuge]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+
+===== Translation Notes: =====
+
+  * **take shelter** - AT: "seek protection" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **confidence in man** - AT: "confidence in man's power" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:118|Psalms Chapter 118 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:118:005|<<]] | [[:vi:bible:notes:psa:118:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

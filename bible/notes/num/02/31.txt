@@ -1,0 +1,42 @@
+====== Numbers 02:31 ======
+
+===== TFT: =====
+
+<usfm>
+\v 31 So there will be 157,600 troops on the north side of the Sacred Tent. Those three tribes will be last. They must carry their own flags when the Israelites travel."
+\b
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 31 So there will be 157,600 troops on the north side of the sacred tent. Those three tribes will be last. They must carry their own flags when the Israelites travel."
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 31 The camp of Dan has 157,600 men. They must go out from the camp last with their banner."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:dan]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:02|Numbers Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:num:02:29|<<]] | [[:vi:bible:notes:num:02:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

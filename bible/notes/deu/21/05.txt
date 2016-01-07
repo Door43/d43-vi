@@ -1,0 +1,56 @@
+====== Deuteronomy 21:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 The priests must go there also, because Yahweh our God has chosen them from the tribe of Levi to serve him and to be his representatives \f + \ft metonymy \f* when they bless people. And he has also chosen them to settle disputes in which someone has been injured.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 The priests must go there also, because Yahweh our God has chosen them from the tribe of Levi to serve him and to be his representatives when they bless people. And he has also chosen them to settle disputes in which someone has been injured.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 The priests, descendants of Levi, must come near; for them Yahweh your God has chosen to serve him and to bless the people in the name of Yahweh; listen to their advice, for their word will be the verdict in every dispute and case of assault.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:levite]]
+  * [[:vi:obe:kt:elect]]
+  * [[:vi:obe:other:serve]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:word]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel.
+
+  * **must come near**  - "must come to the valley"
+  * **for them Yahweh your God has chosen to serve him**  - "because Yahweh your God has chosen the priests to serve him"
+  * **to bless the people**  - "to bless the people of Israel"
+  * **in the name of Yahweh**  - "as a representative of Yahweh"
+  * **listen to their advice**  - "listen to what the priests say"
+  * **for their word will be the verdict**  - "because whatever the priests say, that will be the decision"
+  * **in every dispute and case of assault**  - "every time people are in the court of law because they have a disagreement or somebody hurts another person" 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:21:03|<<]] | [[:vi:bible:notes:deu:21:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

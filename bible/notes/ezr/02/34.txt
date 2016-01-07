@@ -1,0 +1,49 @@
+====== Ezra 02:34-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 345 \tc2 from Jericho
+\tr \tc1
+\v 35 3,630 \tc2 from Senaah
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 345 from Jericho
+\v 35 3,630 from Senaah
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 The people of Jericho: 345.
+\v 35 The people of Senaah: 3,630.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:En:obe:other:jericho]]
+
+===== Translation Notes: =====
+
+  * **Senaah**  - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:ezr:02:31|<<]] | [[:vi:bible:notes:ezr:02:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

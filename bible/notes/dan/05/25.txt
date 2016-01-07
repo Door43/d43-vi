@@ -1,0 +1,67 @@
+====== Daniel 05:25-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 This is the message that it wrote: '
+\p
+\v 26 This is what those words mean:
+\li 
+\li
+\v 27 
+\li
+\v 28 
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 This is the message that it wrote: MENE, MENE, TEKEL, UPHARSIN.
+\p
+\v 26 This is what those words mean:
+\q MENE means 'numbered.' That means that God has been counting the days that you will rule, and he has decided that you will not rule anymore.
+\q
+\v 27 TEKEL means 'weighed.' God has weighed you on a scale, and you do not weigh what you should. 
+\q
+\v 28 PERES means 'divided.' God has divided your kingdom. It will be ruled by people from Media and by people from Persia."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 This is the writing that was done: MENE, MENE, TEKEL, UPHARSIN.
+\v 26 This is its meaning: MENE, God has 'numbered' your kingdom and brought it to an end.
+\v 27 TEKEL, you are 'weighed' in the scales and are found lacking.
+\v 28 PERES, your kingdom is 'divided' and is given to the Medes and Persians."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:other:kingdom]]
+  * [[:vi:obe:other:mede]]
+  * [[:En:obe:other:persia]]
+===== Translation Notes: =====
+
+
+    * **MENE, MENE, TEKEL, UPHARSIN** - Spell these words as much like this as will fit with the sounds of your language. They are the Aramaic words that were written on the wall.
+    * **you are weighed in the scales and found lacking** - Judging the king and his worthiness to rule is spoken of as weighing him. AT: "God has weighed your worthiness to rule, and he has found that it is not enough." This means that the king is not worthy to rule. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:05|Daniel Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:05:22|<<]] | [[:vi:bible:notes:dan:05:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

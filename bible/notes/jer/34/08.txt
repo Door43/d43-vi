@@ -1,0 +1,49 @@
+====== Jeremiah 34:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 King Zedekiah had decreed that the people must free their slaves.
+\v 9 He decreed that the people must free their Hebrew slaves, both the men slaves and the women slaves. No one would be allowed to force a fellow Jew to continue to be his slave.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 King Zedekiah had decreed that the people must free their slaves.
+\v 9 He decreed that the people must free their Hebrew slaves, both the men slaves and the women slaves. No one would be allowed to force a fellow Jew to continue to be his slave.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 This is the word that came to Jeremiah from Yahweh after King Zedekiah established an agreement with all the people in Jerusalem to proclaim freedom—
+\v 9 that each man should free his Israelite servants, both male and female. No one should enslave a fellow Israelite in Judah any longer.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:free]]
+  * [[:vi:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+  * **word**  - "message"
+  * **agreement **- "covenant"
+  * **Israelite servants **- "Hebrew slaves" (UDB)
+  * **No one should enslave a fellow Israelite in Judah any longer **  - AT: "No one should enslave a fellow Jew anymore "
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:34|Jeremiah Chapter 34 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:34:06|<<]] | [[:vi:bible:notes:jer:34:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

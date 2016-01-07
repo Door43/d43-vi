@@ -1,0 +1,97 @@
+====== Psalms 019:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 But what they declare \add about God\add* goes throughout the world,
+\q2 and even people who live in the most distant\f + \ft Or: remote \f* places on earth can know it.
+\b
+\q1 The sun is in the skies where God placed it \f + \ft metaphor \f*;
+\q1
+\v 5 it rises each morning like a bridegroom \add who is happy\add* as he comes out of his bedroom after his wedding.
+\q2 It is like a strong athlete who is very eager to start running in a race.
+\q1
+\v 6 The sun rises at one side of the sky and goes across \add the sky and sets on\add* the other side,
+\q2 and nothing can hide from its heat.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 But what they declare about God goes throughout the world,
+\q2 and even people who live in the most distant places on earth can know it.
+\b
+\q1 The sun is in the skies where God placed it;
+\q1
+\v 5 it rises each morning like a bridegroom who is happy as he comes out of his bedroom after his wedding.
+\q2 It is like a strong athlete who is very eager to start running in a race.
+\q1
+\v 6 The sun rises at one side of the sky and goes across the sky and sets on the other side;
+\q2 nothing can hide from its heat.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Yet their words go out over all the earth,
+\q and their speech to the end of the world.
+\q He has pitched a tent for the sun among them.
+\q
+\v 5 The sun is like a bridegroom coming out of his chamber
+\q and like a strong man who rejoices when he runs his race.
+\q
+\v 6 The sun rises from the one horizon
+\q and crosses the sky to the other;
+\q nothing escapes its heat.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:tent]]
+  * [[:vi:obe:other:bridegroom]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:heaven]]
+ 
+===== Translation Notes: =====
+
+David has just said that creation shows God's glory.
+
+  * **their words ... their speech** - This refers to the unspoken "words" of creation that show God's glory.
+  * **their words go out** - The metaphorical words are described as if they were people who go out with a message. AT: "the words that creation speaks are like people who go out" (See: [[:vi:ta:vol2:translate:figs_personification|Personification]])
+  * **their speech to the end of the world** - AT: "their speech goes out to the end of the world" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **He has pitched a tent for the sun** - AT: "God has set up a tent for the sun." Pitching a tent is creating a place where the sun can live and rest. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **among them** - "in them." The word "them" probably refers to the heavens. AT: "in the heavens"
+  * **The sun is like a bridegroom coming out of his chamber** - This describes a part of the wedding ceremony in ancient Israel. AT: "walking joyfully toward his bride" (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **like a strong man who rejoices when he runs his race** - This compares the sun to an athlete to emphasize the strength of the sun. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **a strong man** - AT: "a fast runner"
+  * **horizon** - the line where the earth and the sky meet
+  * **to the other** - AT: "to the other horizon" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **nothing escapes its heat** - AT: "everything feels its heat" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:019|Psalms Chapter 019 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/019/001|<<]] | [[en/bible/notes/psa/019/007|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

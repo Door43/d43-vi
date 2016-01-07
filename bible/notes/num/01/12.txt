@@ -1,0 +1,54 @@
+====== Numbers 01:12-15 ======
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12-15 Ahiezer son of Ammishaddai, from the tribe of Dan;
+\li1 Pagiel son of Ocran, from the tribe of Asher;
+\li1 Eliasaph son of Deuel, from the tribe of Gad;
+\li1 Ahira son of Enan, from the tribe of Naphtali."
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 from the tribe of Dan, Ahiezer son of Ammishaddai;
+\q1
+\v 13 from the tribe of Asher, Pagiel son of Ochran;
+\q1
+\v 14 from the tribe of Gad, Eliasaph son of Deuel;
+\q1
+\v 15 and from the tribe of Naphtali, Ahira son of Enan.
+\m
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:dan]]
+  * [[:vi:obe:other:asher]]
+  * [[:vi:obe:other:gad]]
+  * [[:vi:obe:other:naphtali]]
+
+===== Translation Notes: =====
+
+Yahweh continues to list the leaders of the tribes to Moses.
+There are no notes for this chunk.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:01|Numbers Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:num:01:10|<<]] | [[:vi:bible:notes:num:01:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

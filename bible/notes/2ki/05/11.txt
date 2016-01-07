@@ -1,0 +1,55 @@
+====== 2 Kings 05:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 But Naaman became very angry. He said, "I thought that surely he would wave his hand over the leprosy, and pray to Yahweh his god, and heal me!
+\v 12 Surely the Abana River and the Pharpar River in Damascus \add in my own country of Syria\add* are \f + \ft rhetorical question \f* better than any of the rivers in Israel! Why can I not wash in those rivers and be healed?" \f + \ft rhetorical question \f* So he turned and walked away with great anger\f + \ft Or: disgust \f*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 But Naaman became very angry. He said, "I thought that surely he would wave his hand over the leprosy, and pray to Yahweh, and heal me!
+\v 12 Surely the Abana River and the Pharpar River in Damascus in my own country of Aram have better water than any in Israel! Can I not go into my rivers at home and be healed and cleansed?"  So he turned and walked away in great disgust.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 But Naaman was angry and went away and said, "Look, I thought he will surely come out to me and stand and call on the name of Yahweh his God, and wave his hand over the place and heal my leprosy.
+\v 12 Are not Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Can I not bathe in them and be clean?" So he turned and went away in a rage.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:damascus]]
+  * [[:vi:obe:other:water]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:turn]]
+
+
+===== Translation Notes: =====
+
+  * **wave his hand over the place** - "wave his hand over the diseased area of skin" 
+  * **Are not Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel?** - AT: "The Abanah and the Pharpar Rivers, in my home country of Damascus, are much better than any of the rivers of Israel! (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **Abanah and Pharpar** - (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Can I not bathe in them and be clean?** - AT: "I should have just bathed in them and been healed!" Or, AT: "I could have bathed in them and been healed!" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **went away in a rage** - "was very angry as he walked away."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:05|2 Kings Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:05:08|<<]] | [[:vi:bible:notes:2ki:05:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

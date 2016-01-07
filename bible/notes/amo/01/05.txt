@@ -1,0 +1,65 @@
+====== Amos 01:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 I will cause the gates of Damascus to be broken down;
+\q2 I will get rid of the king who rules in Aven Valley
+\q1 and the one who rules in Beth Eden.
+\q2 And the people of Syria will be captured and taken to the Kir \add region where they originally lived\add*."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 I will cause the gates of Damascus to be broken down;
+\q2 I will get rid of the man who lives in Biqat Aven
+\q1 and the man who rules in Beth Eden.
+\q2 The people of Aram will be captured and taken to the region of Kir."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 I will break the gate bars of Damascus
+\q and defeat the man who lives in Biqat Aven,
+\q and also the man who holds the scepter from Beth Eden;
+\q the people of Aram will go in captivity to Kir,"
+\q says Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:gate]]
+  * [[:vi:obe:other:damascus]]
+  * [[:vi:obe:other:scepter]]
+  * [[:vi:obe:other:aram]]
+  * [[:vi:obe:other:captive]]
+  * [[:En:obe:kt:yahweh]]
+
+
+===== Translation Notes: =====
+
+  * **Biqat Aven … Beth Eden … Kir**  - names of cities (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Eden** - different from the Garden of Eden
+  * **the man who holds the scepter** - the king or chief (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:01|Amos Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:01:03|<<]] | [[:vi:bible:notes:amo:01:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

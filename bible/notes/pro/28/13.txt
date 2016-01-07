@@ -1,0 +1,69 @@
+====== Proverbs 28:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Those who refuse to confess\f + \ft Or: admit \f* their sins will not prosper,
+\q2 but \add God\add* acts mercifully\f + \ft Or: kindly \f* toward those who confess their sins and turn away from their sinful behavior.
+\b
+\q1
+\v 14 \add God\add* is pleased with those who always have an awesome respect for him,
+\q2 but those who are stubborn [IDI] will experience disasters.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 The one who tries to cover up his sins will be found out, 
+\q2 but God will forgive those who tell their sins to God, and they turn away from doing them. 
+\q1
+\v 14 How fortunate are those who always honor God; 
+\q2 but those who refuse to listen to him, who do not want to learn from him, will fall into trouble.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 The one who hides his sins will not prosper,
+\q but the one who confesses them and forsakes them will be shown mercy.
+\q
+\v 14 Happy is the one who always lives with reverence,
+\q but whoever hardens his heart will fall into trouble.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sin]]
+  * [[:En:obe:kt:confess]]
+  * [[:vi:obe:kt:forsaken]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:kt:life]]
+  * [[:En:obe:other:reverence]]
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:other:trouble]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **prosper**  - become very successful
+    * **will be shown mercy**  - AT: "God will show him mercy" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:28|Proverbs Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:28:11|<<]] | [[:vi:bible:notes:pro:28:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

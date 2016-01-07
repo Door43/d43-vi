@@ -1,0 +1,65 @@
+====== Psalms 119:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add I know\add* \f + \ft rhetorical question \f* how a youth can keep his life pure\f + \ft Or: avoid sinning \f*;
+\q2 it is by obeying your words\f + \ft Or: what you have told us to do \f*.
+\q1
+\v 10 I try to serve you with my entire inner being;
+\q2 do not allow me to wander away from\f + \ft Or: disobey \f* your commands\f + \ft Or: what you have commanded \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 I know how a young person can live in a pure way;
+\q2 it is by obeying your commands.
+\q1
+\v 10 I try to serve you with my entire inner being;
+\q2 do not allow me to wander away from what you have commanded.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\d BETH.
+\q
+\v 9 How can a young person keep his path pure?
+\q By obeying your word.
+\q
+\v 10 With my whole heart I seek you;
+\q  Do not let me stray from your commandments.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:purify]]
+  * [[:vi:obe:other:obey]]
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+
+  * **BETH**  - This is the second letter of the Hebrew alphabet. In the Hebrew language, each line of verses 9-16 begins with this letter.
+  * **How can a young person keep his path pure?** - This question is used to introduce a new value to the word of God. AT: "This is how a young person can keep his path pure" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **I seek you**  - Here this means "I try to serve you."
+  * **stray from your commandments**  - AT: “disobey your commandments.” (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:007|<<]] | [[:vi:bible:notes:psa:119:011|>>]]**
+
+~~DISCUSSION~~ {{tag>publish book5}}
+
+~~NOCACHE~~

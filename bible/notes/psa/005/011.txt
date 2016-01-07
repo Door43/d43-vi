@@ -1,0 +1,65 @@
+====== Psalms 005:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 But cause that all those who go to you to be protected will rejoice;
+\q2 cause them to sing joyfully to you forever.
+\q1 Protect those who love you \f + \ft metonymy \f*;
+\q2 they are truly happy because of what you \add do for them\f + \ft Or: they belong to\add* you \f*.
+\q1
+\v 12 Yahweh, you always bless those who act righteously;
+\q2 you protect them like a \add soldier is protected by his\add* shield \f + \ft simile \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 But cause that all those who go to you to be protected will rejoice;
+\q2 cause them to sing joyfully to you forever.
+\q1 Protect those who love you;
+\q2 they are truly happy because of what you do for them.
+\q1
+\v 12 Yahweh, you always bless those who act righteously;
+\q2 you protect them as a soldier protects himself with his shield.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 But may all those who take refuge in you rejoice;
+\q let them always shout for joy because you defend them;
+\q let them be joyful in you, those who love your name.
+\q
+\v 12 For you will bless the righteous, Yahweh;
+\q you will surround them with favor as with a shield.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:refuge]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:other:shield]]
+
+===== Translation Notes: =====
+
+  * **may all those who take refuge in you rejoice** - AT: "Cause everyone who comes to you for protection to be very glad;" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **those who take refuge in you rejoice ... shout for joy because you defend them** - These two clauses express similar thoughts. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **those who love your name** - AT: "those who love you." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **you will surround them with favor as with a shield** - "you protect them as a soldier protects himself with his shield." (UDB) (See: [[:vi:ta:vol1:translate:figs_simile]])
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:005|Psalms Chapter 005 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:005:009|<<]] | [[:vi:bible:notes:psa:006:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

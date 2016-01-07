@@ -1,0 +1,55 @@
+====== Hosea 04:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add The priests\add* will eat, but they will still be hungry;
+\q2 they will have sex with prostitutes, but they will not have any children,
+\q1 because they have abandoned me, Yahweh,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 You all will eat, but you will never get enough. You will always be hungry.
+\q2 They will continue to sleep with other women, but the women will not conceive,
+\q1 because you have all abandoned me, whose name is Yahweh.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 They will eat but not have enough;
+\q they will commit prostitution but not increase,
+\q because they have gone far away from me, Yahweh, and left me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:prostitute]]
+  * [[:En:obe:kt:Yahweh]]
+
+===== Translation Notes: =====
+
+Yahweh is talking about Israel.
+
+  * **They will eat but not have enough**  - The pronoun "they" could refer to the priests, or to the people of Israel, or to the nation, or to all of these. The point is that they will never be satisfied or have enough because they do not follow Yahweh. (see: metaphor)
+  * **but not increase **- "will not conceive and bear children"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:04|Hosea Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:04:08|<<]] | [[:vi:bible:notes:hos:04:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

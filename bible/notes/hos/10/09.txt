@@ -1,0 +1,58 @@
+====== Hosea 10:9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 You people of Israel, \add ever since your ancestors did evil things\add* at Gibeah,
+\q2 you have continued to sin.
+\q1 \add When the people at\add* \f + \ft personification \f* Gibeah \add did evil things\add*,
+\q2 the result was a war \add in which thousands of people died\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 People of Israel, since the days of Gibeah you have been sinning;
+\q2 it is as if you have been living there ever since. 
+\q1 Enemies attacked your ancestors at Gibeah.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 "Israel,
+\q you have sinned since the days of Gibeah;
+\q there you have remained.
+\q Did not war overtake the evildoers in Gibeah?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:israel]]
+  * [[vi:obe:kt:sin]]
+  * [[vi:obe:other:evildoer]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **days of Gibeah** - See how you translated this in [[:vi:bible:notes:hos:09:08|9:9]].
+  * **Did not war overtake the evildoers in Gibeah?** - The result of the evil done in Gibeah was a war that killed many people. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:10|Hosea Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:10:07|<<]] | [[:vi:bible:notes:hos:10:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

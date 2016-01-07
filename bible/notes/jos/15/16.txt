@@ -1,0 +1,56 @@
+====== Joshua 15:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Caleb said, "If someone attacks \add the people in\add* Kiriath-Sepher and captures their city, I will give my daughter Acsah to him to be his wife."
+\v 17 Othniel, the son of Caleb's brother Kenaz, captured the city. So Caleb gave his daughter to him.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Caleb said, "If someone attacks the people in Kiriath Sepher and captures their city, I will give my daughter Achsah for him to marry."
+\v 17 Othniel son of Caleb's brother Kenaz, captured the city. So Caleb gave his daughter, Achsah, for him to marry.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Caleb said, "The man who attacks Kiriath Sepher and captures it, to him I will I give Achsah my daughter as a wife."
+\v 17 Othniel son of Kenaz, Caleb’s brother, captured it. So Caleb gave him Achsah his daughter as a wife.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:caleb]]
+ 
+
+===== Translation Notes: =====
+ 
+    * **Kiriath Sepher** - place name (See: [[vi:ta:vol1:translate:translate_names]])
+    * **Achsah ... Othniel ... Kenaz**  - names of people (See: [[vi:ta:vol1:translate:translate_names]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/15/13|<<]] | [[en/bible/notes/jos/15/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

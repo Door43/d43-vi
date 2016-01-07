@@ -1,0 +1,56 @@
+====== Jeremiah 51:29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 \add When they attack Babylon, it will be as though\add* the earth will shake and writhe \add in pain\add*,
+\q2 because those armies will accomplish everything that Yahweh has planned to do to Babylon—
+\q1 to destroy it completely,
+\q2 with the result that no one will live there again.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 When they attack Babylon, it will be as though the earth will shake and writhe in pain,
+\q2 because those armies will accomplish everything that Yahweh has planned to do to Babylon—
+\q1 to destroy it completely,
+\q2 with the result that no one will live there again.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 For the land will shake and be in anguish, since Yahweh's plans continue against Babylon,
+\q to make the land of Babylon a wasteland where there is no inhabitant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * Yahweh
+  * Babylon
+  * [[:vi:obe:other:waste|waste, wasteland]]
+
+===== Translation Notes: =====
+
+  * **anguish **- Babylon will be in great pain.
+  * **For the land will shake and be in anguish - **  This phrase compares how the land will shake like an earthquake during the enemy attack. (See: Metaphor)
+  * **where there is no inhabitant **- There will be no one left living in Babylon after the attack.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:51|Jeremiah Chapter 51 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:51:27|<<]] | [[:vi:bible:notes:jer:51:30|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

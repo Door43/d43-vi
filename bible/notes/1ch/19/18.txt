@@ -1,0 +1,51 @@
+====== 1 Chronicles 19:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 But the army of Syria ran away from the soldiers of Israel. However, David's soldiers killed 7,000 of their chariot-drivers and 40,000 other soldiers. They also killed Shophach, their army commander.
+\p
+\v 19 When the kings who had been ruled by Hadadezer realized that they had been defeated by the Israelite army, they made peace with David, and agreed to allow him to rule them.
+\p So the rulers of Syria did not want to help the rulers of the Ammon people-group anymore.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 But the army of Aram ran away from the soldiers of Israel. However, David's soldiers killed 7,000 of their chariot drivers and 40,000 other soldiers. They also killed Shophach, their army commander.
+\p
+\v 19 When the kings who had been ruled by Hadadezer realized that they had been defeated by the Israelite army, they made peace with David, and agreed to allow him to rule them.
+\p So the rulers of Aram did not want to help the rulers of the Ammon people group anymore.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 The Arameans fled from Israel, and David killed seven thousand Aramean charioteers, forty thousand foot soldiers. He also killed Shophach, the commander of the army.
+\v 19 When all the kings who were servants of Hadarezer saw that they were defeated by Israel, they made peace with David and served them. So the Arameans were afraid to help the people of Ammon anymore. So the people of Aram were no longer willing to help the Ammonites.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:aram|Aram, Aramean]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[:vi:obe:other:serve|serve, service]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh, dread]]
+  * [[:vi:obe:other:ammon|Ammon, Ammonites, Ammonitess]]
+
+===== Translation Notes: =====
+
+  * **killed seven thousand**  - " killed 7000" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **forty thousand foot soldiers**  - "40,000 foot soldiers" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **Shophach, Hadadezer**  - The names of men. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **served them**  - served Israel
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:19|1 Chronicles Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:19:16|<<]] | [[:vi:bible:notes:1ch:20:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

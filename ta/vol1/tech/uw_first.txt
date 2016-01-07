@@ -1,0 +1,29 @@
+===== Use unfoldingWord for the First Time =====
+
+This module answers the question: How do I use unfoldingWord for the first time?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
+  * [[vi:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
+
+==== First-Time Use ====
+
+The first time the unfoldingWord app opens on a device, it will open to the language selection page. Tap on the language you wish to view. The stories will open in that language. There are no other settings to change in this app.
+
+==== Checking Levels ====
+
+Below the list of languages, there is an explanation of the three-level checking system. Each level is described in detail.
+
+==== Language Information ====
+
+To view the checking status of each language translation, tap the <font inherit/georgia,serif;;inherit;;inherit>**  // i  //  **</font>    icon to the right of the language. The screen will open to show the translators for that language, the checking level, version and publish date.
+
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:uw_checking|About Checking Levels]]
+  * [[vi:ta:vol1:tech:uw_language|Language Information]]
+  * [[vi:ta:vol1:tech:uw_select|Select a Language]]
+  * [[vi:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]
+  * [[vi:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+

@@ -1,0 +1,54 @@
+====== Deuteronomy 11:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Faithfully continue to obey what I am commanding you to do—to love Yahweh our God, and to conduct your lives as he wants you to do, and to be faithful to\f + \ft Or: have a close relationship with \f* him.
+\v 23 If you do that, Yahweh will expel all the people-groups in that land as you advance, people-groups that are more numerous and more powerful than you are.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Faithfully continue to obey what I am commanding you to do—to love Yahweh our God, and to conduct your lives as he wants you to do, and to be faithful to him.
+\v 23 If you do that, Yahweh will drive out all the people groups in that land as you advance, people groups that are more numerous and more powerful than you are.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 For if you diligently keep all these commandments that I am commanding you, so as to do them, to love Yahweh your God, to walk in all his ways, and to cling to him,
+\v 23 then Yahweh will drive out all these nations from before you, and you will dispossess nations larger and mightier than yourselves.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:command]]
+  * [[vi:obe:kt:love]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[vi:obe:other:castout]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel. 
+  * **For if you diligently keep all these commandments that I am commanding you, so as to do them** - "For if you are careful to do everything that I have commanded you"
+  * **walk in all his ways** - This is another way of stating "to obey His commands. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **to cling to him** - "to rely on him" or "to have a good relationship with him"
+  * **all these nations** - This refers to the people already living in Canaan.
+  * **you will dispossess nations** - "you will take the land from nations"
+  * ** larger and mightier than yourselves** - Though Israel's army is smaller and weaker than the nations living in Canaan. God will enable Israel to defeat them.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:11|Deuteronomy Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:11:20|<<]] | [[:vi:bible:notes:deu:11:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

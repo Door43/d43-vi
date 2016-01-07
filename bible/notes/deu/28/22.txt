@@ -1,0 +1,49 @@
+====== Deuteronomy 28:22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 Yahweh will strike\f + \ft Or: afflict \f* you with diseases that shrivel your bodies, with fever, with inflammation\f + \ft Or: swelling \f*.
+\pi It will be extremely hot, and it will not rain.
+\pi There will be scorching winds, and \add he will cause\add* your crops to rot.
+\pi All these things will strike you until you die.
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 Yahweh will strike/afflict you with diseases that shrivel your bodies, with fever, with inflammation. 
+\pi It will be extremely hot, and it will not rain.
+\pi There will be scorching winds, and he will cause your crops to rot.
+\pi All these things will strike you until you die.
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 Yahweh will attack you with infectious diseases, with fever, with inflammation, and with drought and blistering heat, and with scorching winds and mildew. These will pursue you until you perish.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:kt:perish]]
+===== Translation Notes: =====
+
+  * **infectious diseases, with fever, with inflammation** - These all refer to diseases that cause people to grow weak and die. AT: "diseases and burning fevers that will make you weak"
+  * **with drought** - "with lack of rain"
+  * **mildew** - mold that grows on crops and causes them to rot
+  * **These will pursue you** - AT: "Yahweh will cause these things"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:20|<<]] | [[:vi:bible:notes:deu:28:23|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

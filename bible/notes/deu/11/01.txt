@@ -1,0 +1,47 @@
+====== Deuteronomy 11:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "\add Because of all that\add* Yahweh your God \add has done for you\add*, you must love and continually obey all his rules and regulations and commandments.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Because of all that Yahweh your God has done for you, you must love and continually obey all his rules and decrees and commandments.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 Therefore you will love Yahweh your God and always keep his instructions, his statutes, his decrees, and his commandments.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:11|Deuteronomy Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:22|<<]] | [[:vi:bible:notes:deu:11:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

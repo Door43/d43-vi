@@ -1,0 +1,47 @@
+====== Jeremiah 44:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 Then I said to all the men and women who had answered me,
+\v 21 "Do not think \f + \ft rhetorical question \f* that Yahweh did not know that you and your ancestors and your kings and their officials and all the other people in Judah were burning incense to \add worship\f + \ft Or: honor \f*\add* idols in the streets of Jerusalem and in the other towns in Judah!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 Then I said to all the men and women who had answered me,
+\v 21 "Do not think that Yahweh did not know that you and your ancestors and your kings and their officials and all the other people in Judah were burning incense to worship idols in the streets of Jerusalem and in the other towns in Judah! He knew about it!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Then Jeremiah said to all the people—to the men and women, and all the people who answered him—he proclaimed and said,
+\v 21 “Did not Yahweh remember the incense that you burned in the cities of Judah and the streets of Jerusalem—you and your ancestors, your kings and leaders, and the people of the land? For Yahweh calls this to mind; it cames to his thoughts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:proclaim|proclaim, proclamation]]
+  * [[vi:obe:other:judah]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:mind|mind]]
+
+===== Translation Notes: =====
+
+  * **Then Jeremiah said to all the people—to the men and women, and all the people who answered him—he proclaimed and said** - AT:  "Then Jeremiah said to all the people, both men and women, and all who answered him, saying"
+  * **Did not Yahweh remember ... ?** - This is the beginning of a rhetorical question, where Jeremiah is asking the people to remember how good it is to burn incense to honor Yahweh. AT: "Yahweh remembered ... " (See: [[vi:ta:vol1:translate:figs_rquestion]])
+  * **Did not Yahweh remember the incense that you burned in the cities of Judah and the streets of Jerusalem—you and your ancestors, your kings and leaders, and the people of the land?** - Jeremiah agrees that they did as they said but in retort Jeremiah asks, 'Did God not repay their idolatry?' (See: [[vi:ta:vol1:translate:figs_rquestion]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:44|Jeremiah Chapter 44 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:44:18|<<]] | [[:vi:bible:notes:jer:44:22|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

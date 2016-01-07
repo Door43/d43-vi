@@ -1,0 +1,69 @@
+====== Job 27:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I will say that I am innocent, and never say anything different\f + \ft Or: change what I say \f*;
+\q2 my inner being will never reproach me as long as I live.
+\b
+\q1
+\v 7 I want my enemies to be \add punished\add* like all the wicked people are punished;
+\q2 I want\f + \ft Or: hope \f* that \add God will punish\add* those who oppose me like \add he punishes all\add* unrighteous people.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I will say that I am innocent, and I will never say anything different;
+\q2 my inner being will never reproach me as long as I live.
+\b
+\q1
+\v 7 I want God to punish my enemies like he will punish all wicked people;
+\q2 I want him to punish those who oppose me like he punishes all unrighteous people.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 I hold fast to my righteousness and will not let it go;
+\q my thoughts will not reproach me so long as I live.
+\q
+\v 7 Let my enemy be like the wicked;
+\q let him who rises up against me be like the unrighteous.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:raise]]
+  * [[vi:obe:kt:unrighteous]]
+ 
+
+===== Translation Notes: =====
+
+  * **like the wicked, like the unrighteous- Job is comparing his enemies to the wicked or unrighteous and asking God to treat his enemies like these.(See: Simile)**
+  * **my thoughts will not reproach me - The meaning of reproach is to shame or disgrace. He says his thoughts will not disgrace him.**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:27|Job Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:job:27:04|<<]] | [[:vi:bible:notes:job:27:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

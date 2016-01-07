@@ -1,0 +1,31 @@
+===== Training Before Translation Begins =====
+
+This module answers the question: What should I know about translation before I start?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[vi:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+
+==== What to Know Before Translation ====
+
+It is recommended that you consult the [[vi:ta:vol1:translate:toc_transvol1_2|Translation Manual]] frequently as you translate this content. Before you start translating, we recommend that you start working your way through the Translation Manual at least until you know the difference between a literal translation and a meaning-based translation. Much of the rest of the Translation Manual can be used as a "just-in-time" learning resource.
+
+Some important subjects that must be learned before starting a translation project:
+  * [[vi:ta:vol1:translate:guidelines_intro]] - The definition of a good translation
+  * [[vi:ta:vol1:translate:translate_process]] - How a good translation is made
+    * [[vi:ta:vol1:translate:translate_fandm]] - The difference between form and meaning
+    * [[vi:ta:vol1:translate:translate_dynamic]] - How to make a meaning-based translation
+
+Some other important topics as you get started include:
+  * [[vi:ta:vol1:translate:translate_what]] - Suggestions for where to start translating
+  * [[vi:ta:vol1:translate:first_draft]] - How to make a first draft
+  * [[vi:ta:vol1:translate:translate_help]] - Using translation helps
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * [[vi:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * [[vi:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
+  * [[vi:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * [[vi:ta:vol1:translate:translate_what|What to Start Translating]]
+

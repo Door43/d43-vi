@@ -1,0 +1,40 @@
+====== 2 Samuel 03:8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Abner became very angry about what Ishbosheth said to him. He said to Ishbosheth, "Do you think that I am a \add worthless\add* dog \f + \ft metaphor \f* from Judah?\f + \ft Or: You are treating me as though I am a \add worthless\add* dog \f + \ft metaphor \f* from Judah. \f* \f + \ft rhetorical question \f* From the beginning, I have been loyal to Saul your father, to his brothers, and to his friends. And I have prevented you from being defeated by David's army. So now why are you criticizing me about \add what I have done with\add* some woman?\f + \ft Or: you should not be criticizing me about \add what I have done with\add* some woman. \f* \f + \ft rhetorical question \f*
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Abner became very angry about what Ishbosheth said to him. He said to Ishbosheth, "Do you think that I am a worthless dog from Judah? From the beginning I have been loyal to Saul your father, to his brothers, and to his friends. And I have kept David's army from defeating you. So now why are you criticizing me about what I have done with some woman?
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Then Abner was very angry at the words of Ishbosheth and said, "Am I a dog’s head that belongs to Judah? Today I am showing faithfulness to the house of Saul, your father, to his brothers, and to his friends, by not handing you over into the hand of David. And yet you accuse me about this woman today?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:kt:faithful|faithful, faithfulness]]
+
+===== Translation Notes: =====
+
+  * **"Am I a dog’s head that belongs to Judah?" **- This is an insult.  The dog is a foul creature which wanders masterless eating garbage and offal. AT: "Am I like a worthless person wandering Judah?" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **And yet you accuse me about this woman today? **- Abner asks this question to rebuke Ishbosheth. AT: " And you find wrong in me what I have done with this woman?" or "And yet you blame me along with this woman today?" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:03|2 Samuel Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:03:06|<<]] | [[:vi:bible:notes:2sa:03:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

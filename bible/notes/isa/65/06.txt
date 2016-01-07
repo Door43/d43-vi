@@ -1,0 +1,68 @@
+====== Isaiah 65:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I have written \add a record of all the evil things that they have done\add*.
+\q2 And I will not do nothing about all those things;
+\q1 I will certainly punish them
+\q2
+\v 7 for the sins that they and their ancestors have committed.
+\q1 They have mocked\f + \ft Or: insulted \f* me by burning incense \add to their idols\add* on the hilltops.
+\q2 So I will punish them like they deserve for doing those things."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I have written a record of all the evil things that they have done.
+\q2 And I will not remain silent about all those things;
+\q1 I will certainly punish these people
+\q2
+\v 7 for the sins that they and their ancestors have committed.
+\q1 They have mocked me by burning incense to their idols on the hilltops.
+\q2 So I will punish them like they deserve for doing those things."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 6 Look, it is written before me: 
+\q1 I will not keep quiet, for I will pay them back; I will repay them into their laps,
+\q1
+\v 7 for their sins and the sins of their fathers together," says Yahweh. 
+\q1 "I will repay them for burning incense on the mountains and for mocking me on the hills. 
+\q1 I will therefore measure out their past deeds into their laps."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:incense]]
+  * [[:vi:obe:kt:works]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking about the people of Israel.
+
+  * **into their laps **- This means God will punish them to the fullest extent. (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:65|Isaiah Chapter 65 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:65:05|<<]] | [[:vi:bible:notes:isa:65:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

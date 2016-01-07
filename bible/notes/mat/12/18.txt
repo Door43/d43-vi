@@ -1,0 +1,50 @@
+====== Matthew 12:18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Take note of my servant whom I have chosen, the one whom I love and with whom I am pleased. I will put my Spirit in him, and he will proclaim that \add God\add* will judge the non-Jews justly.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 "Here is my servant whom I have chosen,
+\q the one whom I love and who pleases me.
+\q I will put my Spirit in him,
+\q and he will bring justice and salvation to the non-Jews."
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 "See, my servant whom I have chosen;
+\q My beloved one, in whom my soul is well pleased.
+\q I will put my Spirit upon him,
+\q And he will announce judgment to the Gentiles.
+\q
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:elect]]
+  * [[:vi:obe:kt:beloved]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:holyspirit]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:other:gentile]]
+
+===== Translation Notes: =====
+
+This account continues to explain how the actions of Jesus fulfilled one of the prophecies of Isaiah. These words are God's words that Isaiah wrote down.
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:mat:12|Matthew Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:12:15|<<]] | [[:vi:bible:notes:mat:12:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish elect }}
+
+~~NOCACHE~~

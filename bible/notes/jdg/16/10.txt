@@ -1,0 +1,56 @@
+====== Judges 16:10-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Then Delilah said to Samson, "You have deceived me and lied to me! Now tell me \add the truth\add*, how someone can tie you up securely."
+\p
+\v 11 Samson replied, "If someone ties me with new ropes, ones that have never been used, I will be as weak as other men."
+\p
+\v 12 So again, \add she told the Philistine leaders, and then came and\add* hid in the room as they did before. And again, while Samson was sleeping, she called out, "Samson! The Philistines have come to capture you!" But Samson snapped the ropes on his arms as easily as if they were threads.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then Delilah said to Samson, "You have deceived me and lied to me! Now tell me the truth, how someone can tie you up securely."
+\p
+\v 11 Samson replied, "If someone ties me with new ropes, ones that have never been used, I will be as weak as other men."
+\p
+\v 12 So again, she told the Philistine leaders, and then came and hid in the room as they did before. And again, while Samson was sleeping, she called out, "Samson! The Philistines have come to capture you!" But Samson snapped the ropes on his arms as easily as if they had been threads.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Then Delilah said to Samson, “This is how you have deceived me and told me lies. Please, tell me how can you be overpowered.”
+\v 11 He said to her, “If they tie me up with new ropes which have never been used for work, I will become weak and like any other man.”
+\v 12 So Delilah took new ropes and tied him up with them, and said to him, “The Philistines are upon you, Samson!” The men lying in wait were in the inner room. But Samson tore off the ropes from his arms like they were a piece of thread.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Delilah]]
+  * [[:vi:obe:other:samson|Samson]]
+  * [[:vi:obe:kt:deceive|deceived]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:Philistines]]
+
+===== Translation Notes: =====
+
+  * **have deceived me...told me lies**  - Both of these phrases have similar meanings. It is said in different ways to add emphasis to the statement. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **lying in wait** - This phrase refers to people who are ready to attack but silently wait for the right moment. AT: "ready to attack" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **Samson tore off the ropes from his arms like they were a piece of thread**  -  This phrase compares the ropes to thread because thread is thin and easy to break. AT: "Samson easily tore the ropes off of his arms" (See: [[:vi:ta:vol1:translate:figs_simile]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:16|Judges Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:16:08|<<]] | [[:vi:bible:notes:jdg:16:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

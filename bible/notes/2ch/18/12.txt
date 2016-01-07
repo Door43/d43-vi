@@ -1,0 +1,66 @@
+====== 2 Chronicles 18:12-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 The messenger who went to summon Micaiah said to him, "Listen to me! All the other prophets are unitedly predicting\f + \ft Or: prophesying \f* that the king will be successful \add in the battle\add*. So be sure to agree with them, and say what is favorable\f + \ft Or: that the king's army will be successful \f*!"
+\p
+\v 13 But Micaiah said, "As surely as Yahweh lives, I will tell him only what he tells me to say."
+\p
+\v 14 When Micaiah arrived, the king \add of Israel\add* asked him, "Should we go to attack Ramoth, or not?"
+\p Micaiah replied, "Sure, go! Yahweh will enable your army to defeat them [IDI]!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 The messenger who went to summon Micaiah said to him, "Listen to me! All the other prophets are predicting the same thing. You had better do as they are doing!"
+\p
+\v 13 But Micaiah said, "As surely as Yahweh lives, I will tell him only what he tells me to say."
+\p
+\v 14 When Micaiah arrived, the king of Israel asked him, "Should we go to attack Ramoth, or not?"
+\p Micaiah replied, "Sure, go! Yahweh will enable your army to defeat them!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 The messenger who went to call Micaiah spoke to him, saying, "Now look, the words of the prophets declare good things to the king with one mouth. Please let your word be like the word of one of them and say good things."
+\v 13 Micaiah replied, "As Yahweh lives, it is what God says that I will say.”
+\v 14 When he came to the king, the king said to him, "Micaiah, should we go to Ramoth Gilead for battle, or not?” Micaiah answered him, "Attack and be victorious! For it will a great victory."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:messenger]]
+  * [[:En:obe:kt:prophet]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:kt:god]]
+  * [[:En:obe:other:ramoth]]
+  * [[:En:obe:other:gilead]]
+ 
+
+===== Translation Notes: =====
+
+  * **Micaiah** - See how you translated this in [[:vi:bible:notes:2ch:17:07|17:7]]
+  * **let your word** - This is a reference to the whole of the prophets message.
+  * **with one mouth- ** - AT: "with one opinion" or "and they all agreed" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **As Yahweh lives** - AT: "I assure you" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:18|2 Chronicles Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:18:09|<<]] | [[:vi:bible:notes:2ch:18:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

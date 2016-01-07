@@ -1,0 +1,73 @@
+====== Proverbs 20:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Drinking a lot of wine or other strong drinks causes people to start fighting;
+\q2 it is foolish to become drunk\f + \ft Or: intoxicated \f*.
+\b
+\q1
+\v 2 Being afraid of a king when he is angry is like \f + \ft simile \f* being afraid of a lion when it growls\f + \ft Or: roars \f*;
+\q2 if you cause the king to become angry, he will execute you.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Wine makes you loud, and strong drink makes you foolish;
+\q2 whoever lets alcohol lead them to where they get lost, are not wise.
+\b
+\q1
+\v 2 The king's wrath makes people as afraid as if they were facing a young lion roaring at them;
+\q2 the person who makes a king angry is giving up his own life.
+
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 20
+\q
+\v 1 Wine is a mocker and strong drink is a brawler;
+\q whoever is led astray by drink is not wise.
+\q
+\v 2 The fear of a king is like the fear of a young lion that is roaring;
+\q the one who makes him angry forfeits his life.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:mock|mock, ridicule]]
+  * [[:vi:obe:other:strongdrink|strong drink]]
+  * [[:vi:obe:kt:astray|astray, go astray, led astray, stray]]
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:kt:wrath|wrath]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:lion|lion]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **Wine is a mocker and strong drink is a brawler**  - These two phrases mean basically the same thing and are combined to emphasize the danger of too much alcohol. (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **wine is a mocker**  - AT: "a person who is drunk with wine mocks" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **strong drink is a brawler**  - AT: "a person who is drunk with strong drink starts fights" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **brawler**  - a person who fights noisily, usually in a public place
+  * **whoever is led astray by drink is not wise**  - AT: "whoever drink leads astray is not wise" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **drink**  - This refers to alcoholic drinks.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:20|Proverbs Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:19:28|<<]] | [[:vi:bible:notes:pro:20:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== 2 Samuel 22:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 After Yahweh had rescued David from Saul and his other enemies, David sang a song to Yahweh.
+\v 2 \add This is what\add* he sang:
+\q1 Yahweh, you are like a huge rock \add under which I can hide\add* \f + \ft metaphor \f*;
+\q2 you are like my fortress, and you rescue me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After Yahweh had rescued David from Saul and his other enemies, David sang a song to Yahweh.
+\v 2 This is what he sang:
+\q1 "Yahweh, you are like a huge rock on top of which I can hide.
+\q2 You are like a fortress, and you rescue me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 22
+\p
+\v 1 David sang to Yahweh the words of this song on the day that Yahweh rescued him out of the hand of all his enemies, and out of the hand of Saul.
+\v 2 He prayed,
+\q "Yahweh is my rock, my fortress, the one who rescues me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:saul]]
+
+===== Translation Notes: =====
+
+
+This song continuing through verse 51 is full of figurative and colorful language in the poetic style. 
+
+    * **Yahweh is my rock, my fortress**  - A figure of speech describing God's protection (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:22|2 Samuel Chapter 22 Comprehension Questions]]**
+
+ 
+**[[en/bible/notes/2sa/21/20|<<]] | [[en/bible/notes/2sa/22/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

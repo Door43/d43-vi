@@ -1,0 +1,81 @@
+====== Job 10:4-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Do you understand things the way that we humans do?
+\q1
+\v 5 Do you live for only a few years, like we do?\f + \ft Or: You certainly do not live for only a few years, like we do. \f* \f + \ft rhetorical question \f*
+\q1
+\v 6 So, why do you \f + \ft rhetorical question \f* continue to search for my faults
+\q2 and to hunt for my sins?
+\q1
+\v 7 You know that I am not guilty,
+\q2 and that no one can rescue me from your power \f + \ft metonymy \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Do you understand things the way that we humans do?
+\q1
+\v 5 Do you live for only a few years, like [as] we do?
+\q1
+\v 6 So why do you continue to search for my faults
+\q2 and to hunt for my sins?
+\q1
+\v 7 You know that I am not guilty,
+\q2 and that no one can rescue me from your power.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Do you have eyes of flesh?
+\q Do you see like a man sees?
+\q
+\v 5 Are your days like the days of mankind
+\q or your years like the years of people,
+\q
+\v 6 that you inquire after my iniquity
+\q and search after my sin,
+\q
+\v 7 although you know I am not guilty
+\q and there is no one who can rescue me from of your hand?
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:flesh]]
+  * [[:vi:obe:other:inquire]]
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:guilt]]
+  * [[:vi:obe:kt:deliverer]]
+  * [[:vi:obe:other:hand]]
+
+===== Translation Notes: =====
+
+  * **Do you have eyes of flesh? Do you see like a man sees?**- Job says the same thing twice for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **Do you have eyes of flesh?** - AT: "You do not have eyes like a man." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **Do you see like a man sees?** - AT: "Your understanding is greater than our own."  (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **Are your days like the days of mankind ... your years like the years of people** - Both of these lines have the same meaning.  (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **that you inquire after my iniquity ... search after my sin** - Both of these lines have the same meaning. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **from your hand** - AT: "from your power." (UDB) (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:10|Job Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:job:10:01|<<]] | [[:vi:bible:notes:job:10:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

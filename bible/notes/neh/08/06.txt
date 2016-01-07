@@ -1,0 +1,68 @@
+====== Nehemiah 08:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Then Ezra praised Yahweh, the great God, and all the people lifted up their hands and said, "Amen! Amen!" Then they all bowed down with their foreheads touching the ground, and they worshiped Yahweh.
+\p
+\v 7 Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah, were all Levites\f + \ft Or: men who worked in the temple \f*. They explained the meaning of the laws of Moses to the people who were standing there.
+\v 8 They also read from scrolls that contained the laws that God \add gave to Moses\add*, and they interpreted \add into the Aramaic language\add* what they read, making the meaning clear so that the people could understand the meaning.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Then Ezra praised Yahweh, the great God, and all the people lifted up their hands and said, "Amen! Amen!" Then they all bowed down with their faces to the ground, and they worshiped Yahweh.
+\p
+\v 7 Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah, were all Levites. They explained the meaning of the laws of Moses to the people who were standing there.
+\v 8 They also read from scrolls the law that God gave to Moses, and they translated it into the Aramaic language, making the meaning clear for those who could understand it.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 Ezra gave thanks to Yahweh, the great God, and all the people lifted up their hands and answered, "Amen!, Amen!" Then they bowed their heads and worshiped Yahweh with their faces to the ground.
+\v 7 Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites helped the people understand the law, while the people remained in their place.
+\v 8 And they read in the book, in the law of God, making it clear with interpretation and giving the meaning so they understood the reading.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:ezra]]
+  * [[ vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:amen]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:kt:worship]]
+  * [[vi:obe:kt:face]]
+  * [[vi:obe:other:levite]]
+  * [[vi:obe:kt:lawofmoses]]
+ 
+===== Translation Notes: =====
+
+    * **Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah** - These are all male names. (See: [[vi:ta:vol1:translate:translate_names]])
+    * **And they read in the book, in the law of God, making it clear with interpretation and giving the meaning so they understood the reading.** - The sole purpose of the people was met in a very personal way. Levites answered questions and gave clarifying comments. 
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:neh:08|Nehemiah Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/08/04|<<]] | [[en/bible/notes/neh/08/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

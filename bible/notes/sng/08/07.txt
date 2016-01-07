@@ -1,0 +1,55 @@
+====== Song of Solomon 08:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Nothing can extinguish our love \add for each other\add*,
+\q2 not even a flood.
+\q1 If a man tried to cause a woman to love him by saying he would give her everything that is in his house,
+\q2 she would refuse.
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Nothing can stop us from loving each other,
+\q2 not even a flood.
+\q1 If a man tried to cause a woman to love him by saying he would give her everything that is in his house,
+\q2 she would refuse.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Surging waters cannot quench love,
+\q nor can floods sweep it away.
+\q If a man gave all the possessions in his house for love,
+\q the offer would utterly be despised.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:other:possess|possess, possession]]
+
+===== Translation Notes: =====
+
+  * **Surging waters cannot quench love nor can floods sweep it away**- Not even a flood can stop the fire of their great love. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **If a man gave all his possessions...the offer would utterly be despised. **- AT: "The man who thinks he can buy love by offering wealth to a woman will be disappointed because love can only be freely given."
+  * **utterly be despised** - "completely hated" 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:08|Song of Solomon Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:08:06|<<]] | [[:vi:bible:notes:sng:08:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

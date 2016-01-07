@@ -1,0 +1,61 @@
+====== Psalms 119:141-142 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 141 I am not important and people despise me,
+\q2 but I do not forget your principles of behavior\f + \ft Or: what you have declared that we should do \f*.
+\q1
+\v 142 You are righteous and you will be righteous forever,
+\q2 and your laws will never be changed.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 141 I am not important, and people despise me,
+\q2 but I do not forget your principles of behavior.
+\q1
+\v 142 You are righteous and you will be righteous forever,
+\q2 and your laws will never be changed.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 141 I am insignificant and despised,
+\q yet I do not forget your instructions.
+\q
+\v 142 Your justice is forever right,
+\q and your law is trustworthy.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:trust]]
+ 
+
+===== Translation Notes: =====
+
+There are no notes for this passage.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:139|<<]] | [[:vi:bible:notes:psa:119:143|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

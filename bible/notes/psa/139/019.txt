@@ -1,0 +1,57 @@
+====== Psalms 139:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 God, I wish\f + \ft Or: desire \f* that you would kill the wicked people!
+\q2 And I wish that violent \f + \ft metonymy \f* men would leave\f + \ft Or: go away from \f* me.
+\q1
+\v 20 They say wicked\f + \ft Or: malicious \f* things about you;
+\q2 they slander your name.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 God, I wish that you would kill the wicked people!
+\q2 I wish that violent men would all leave me.
+\q1
+\v 20 They say wicked things about you;
+\q2 they slander your name.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 If only you would kill the wicked, God;
+\q get away from me, you violent men.
+\q
+\v 20 They rebel against you and act deceitfully;
+\q your enemies lie.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:rebel|rebel, rebellious]]
+  * [[:vi:obe:kt:deceive|deceive, deceived, deceiver, deception, deceptive, deceitful]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+  * **they rebel against you** - AT: "they rebel against your authority, God"
+  * **your enemies lie** - AT: "your enemies lie about you" 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:139:017|<<]] | [[:vi:bible:notes:psa:139:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

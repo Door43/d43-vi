@@ -1,0 +1,64 @@
+====== Lamentations 05:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add Our enemies\add* have raped the women in Jerusalem,
+\q2 and they have done that to the young women in all the towns of Judea.
+\q1
+\v 12 \add Our enemies\add* have hanged our leaders,
+\q2 and they do not respect our elders.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Our enemies have raped the women in Jerusalem,
+\q2 and they have done that to the young women in all the towns of Judea.
+\q1
+\v 12 Our enemies have hanged our leaders,
+\q2 and they have not respected our elders.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 They have raped the women in Zion,
+\q the virgins in the cities of Judah.
+\q
+\v 12 They hung princes by their own hands,
+\q and they have not honored the elders.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:other:virgin]]
+  * [[vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:prince]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:other:elder]]
+ 
+
+===== Translation Notes: =====
+
+    * **the women in Zion, the virgins in the cities of Judah** - AT; "all the women, young and old, in Jerusalem and in the cities of Judah" (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+    * **They hung princes by their own hands** - Possible meanings are 1) "With their own hands, they hung princes" or 2) they tied each prince's hands together with one end of a rope and tied the other end so the prince's feet could not touch the ground.
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:05:08|<<]] | [[:vi:bible:notes:lam:05:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

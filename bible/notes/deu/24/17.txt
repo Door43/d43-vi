@@ -1,0 +1,66 @@
+====== Deuteronomy 24:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 You must \f + \ft litotes \f* do for foreigners \add who live\add* among you and for orphans the things that the laws state that must be done for them. And \add if you lend something to\add* a widow, do not take her coat from her as a guarantee \add that she will return it\add*.
+\v 18 Do not forget that you \add had great troubles\add* when you were slaves in Egypt, and Yahweh our God rescued you from there. That is why I am commanding you \add to help others who have troubles\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 You must do for foreigners who live among you and for orphans the things that the laws state that must be done for them. And if you lend something to a widow, do not take her coat from her as a guarantee that she will return it.
+\v 18 Do not forget that you had great troubles when you were slaves in Egypt, and that Yahweh our God rescued you from there. That is why I am commanding you to help others who have troubles.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 You must not force away the justice that is due the foreigner or the fatherless, nor take the widow’s cloak as a pledge.
+\v 18 Instead, you must call to mind that you were a slave in Egypt, and that Yahweh your God rescued you from there. Therefore I instruct you to obey this command.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:pledge]]
+  * [[:vi:obe:other:mind]]
+  * [[:vi:obe:other:servant|servant, slave]]
+  * [[:vi:obe:other:Egypt]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+
+
+    * **You must not force away the justice that is due the foreigner...**  - AT: "You must see to it that foreigners receive just treatment." (See: [[:vi:ta:vol2:translate:figs_litotes]])
+    * **cloak**  - This is a large rectangular piece of cloth, which the person can wrap around himself to keep warm at night. See [[vi:bible:notes:deu:24:12]].
+    * **call to mind** - "remember".
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/16|<<]] | [[en/bible/notes/deu/24/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

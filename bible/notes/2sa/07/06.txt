@@ -1,0 +1,52 @@
+====== 2 Samuel 07:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I have not lived in any building from the day that I brought the Israelite people up from Egypt until now. Instead, I have been living in a tent, moving from one place to another \add when the Israelites\add* moved to other places.
+\v 7 Wherever I went with all the Israelites \add as they traveled\add*, I never said \f + \ft rhetorical question \f* to any of their leaders whom I appointed to lead them, "Why have you not built me a temple made of cedar \add wood\add*?"~'
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I have not lived in any building from the day that I brought the Israelites up from Egypt until now. Instead, I have been living in my sacred tent, moving from one place to another with the people.
+\v 7 Wherever I went with the Israelites as they traveled, I never said to any of the leaders whom I appointed to lead them, 'Why have you not built me a temple made of cedar wood?'
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 For I have not lived in a house from the day that I brought up the people of Israel out of Egypt until this present day; instead, I have been moving about in a tent, a tabernacle.
+\v 7 In all places where I have moved among all the people of Israel, did I ever say anything to any of Israel's leaders whom I appointed to shepherd my people Israel, saying, "Why have you not built me a house of cedar?" ' "
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:kt:tabernacle]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:other:shepherd]]
+  * [[:vi:obe:kt:peopleofgod]]
+ 
+
+===== Translation Notes: =====
+Yahweh continues to rebuke David through Nathan. 
+  * **did I ever say anything to any of Israel's leaders whom I appointed to shepherd my people Israel, saying, "Why have you not built me a house of cedar?** - Yahweh is rebuking David for wanting to build a house for him. AT: "I never asked Israel's leaders to build me a permanent house. (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:07|2 Samuel Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:07:03|<<]] | [[:vi:bible:notes:2sa:07:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Isaiah 66:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 When you see \add those things happen\add*,
+\q2 you \f + \ft synecdoche \f* will rejoice.
+\q1 Your old bones will become strong again
+\q2 like \f + \ft simile \f* grass that grows quickly\f + \ft Or: well \f* in the springtime.
+\q1 \add When that happens\add*, everyone will know that Yahweh has power \f + \ft metonymy \f* to help those who worship and obey him,
+\q2 but that he is angry with his enemies.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 When you see those things happen,
+\q2 you will rejoice.
+\q1 Your old bones will become strong again
+\q2 like in the springtime, when the grass grows.
+\q1 When that happens, everyone will know that Yahweh has power to help those who worship and obey him,
+\q2 but that he is angry with his enemies.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 14 You will see this, and your heart will rejoice, and your bones will sprout like the tender grass.
+\q1 Yahweh's hand will be revealed to his servants, but he will be angry with his enemies.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:reveal]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+Isaiah is speaking to God's faithful people.
+  * **Yahweh's hand will be revealed to his servants** - AT: "Yahweh will reveal his power to his servants" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:66:12|<<]] | [[:vi:bible:notes:isa:66:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

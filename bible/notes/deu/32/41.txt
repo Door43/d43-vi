@@ -1,0 +1,56 @@
+====== Deuteronomy 32:41 ======
+
+===== TFT: =====
+
+<usfm>
+\v 41 that if I sharpen my sword,
+\q2 and I \f + \ft synecdoche \f* prepare to punish people,
+\q1 I will get revenge on my enemies,
+\q2 and I will pay back those who hate me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 41 When I sharpen my sword
+\q and prepare to punish people,
+\q I will get revenge on my enemies,
+\q and I will pay back those who hate me.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 41 When I sharpen my glittering sword,
+\q and when my hand begins to bring justice,
+\q I will render vengeance on my enemies,
+\q and will I pay back those who hate me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **When I sharpen my glittering sword** - "When I sharpen my shining sword." This means God is preparing to judge and punish his enemies. AT: "When I am ready to judge my enemies" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **when my hand begins to bring justice** - AT: "when I begin to carry out justice" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:39|<<]] | [[:vi:bible:notes:deu:32:42|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

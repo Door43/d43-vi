@@ -1,0 +1,65 @@
+====== 1 Samuel 21:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 David heard what those men were saying, so he was afraid of what King Achish \add might do to him\add*.
+\v 13 So he pretended that he was insane. He started scratching on the gates \add of the city\add* and allowing his saliva to run down his beard.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 David heard what those men were saying, so he was afraid of what King Achish might do to him.
+\v 13 So he pretended that he was insane. He started scratching on the gates of the city and allowing his saliva to run down his beard.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 David took these words to heart and was very afraid of Achish, the king of Gath.
+\v 13 He changed his behavior before them and pretended to be insane in their hands; he made marks on the doors of the gate and let his saliva run down his beard.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:david]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:heart]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:kt:gate]]
+ 
+
+===== Translation Notes: =====
+
+
+
+    * **David took these words to heart** - AT: "David thought seriously about what the servants said" (See: [[vi:ta:vol2:translate:figs_metonymy]])
+    * **in their hands**  - "in their presence" (See: [[vi:ta:vol2:translate:figs_metonymy]])
+    * **let his saliva run down his beard** - "let the bodily fluids in his mouth run down the growth of hair on his lower face"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:21|1 Samuel Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/21/10|<<]] | [[en/bible/notes/1sa/21/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,94 @@
+====== Jeremiah 05:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to \add the people of Jerusalem\add*, "Go up and down every street.
+\q2 Search in the marketplaces to find people who do what is fair\f + \ft Or: right \f*,
+\q2 who try to be faithful to me.
+\q1 \add If you find even one person like that\add*,
+\q2 I will forgive \add the people of Jerusalem and not destroy\add* their city.
+\q1
+\v 2 But when people there say, 'I solemnly declare that as surely as Yahweh lives, \add I will do what he says\add*,'
+\q2 they are lying."
+\b
+\q1
+\v 3 Yahweh, you are certainly \f + \ft rhetorical question \f* searching for \add people who tell the\add* truth.
+\q2 You struck\f + \ft Or: punished \f* your people, but they did not pay any attention.
+\q1 You crushed them, but they ignored what you were telling them to do.
+\q1 They were extremely stubborn [IDI]
+\q2 and refused to return to you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to the people of Jerusalem, "Go up and down every street. Search in the marketplaces to find people who do what is fair,
+\q Who try to be faithful to me. If you find even one person like that, I will forgive the people of Jerusalem and not destroy their city.
+\q
+\v 2 But when people there say, 'I solemnly declare that as surely as Yahweh lives, I will do what he says,' they are lying."
+\q
+\v 3 Yahweh, you are certainly  searching for people who tell the truth. You struck your people, but they did not pay any attention.
+\q You crushed them, but they ignored what you were telling them to do. They were extremely stubborn and refused to return to you.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 5
+\q
+\v 1 “Rush about through the streets of Jerusalem, then look and think about this. Search in her city squares, too.
+\q If you can find a man or anyone who is acting justly and seeking the truth,
+\q then I will forgive Jerusalem.
+\q
+\v 2 Even if they are saying, ‘Yahweh lives,’ they are making false oaths.
+\q
+\v 3 Yahweh, do your eyes not look for truth? You strike the people, but they do not feel pain.
+\q You have completely defeated them, but they still refuse to receive discipline. They make their faces harder than cliff sides, for they refuse to repent.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:kt:forgive]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:oath]]
+  * [[vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:kt:receive]]
+  * [[:vi:obe:kt:discipline]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:repent]]
+
+===== Translation Notes: =====
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]\\
+Jeremiah is speaking to the people of Jerusalem.
+  * **Rush about through** - "Hurry around in"
+  * **then look and think about this** - "look and find out"
+  * **city squares** - broad and open places in a city where people can gather
+  * **If you can find** - "whether you can find one person"
+  * **or anyone** - "whether there is one person who"
+  * **is acting justly** - "does what is just"
+  * **seeking the truth** - "seeks to be faithful" or "seeks to be honest"
+  * **Even if they** - The word "they" refers to the people of Jerusalem.
+  * **Yahweh lives** - People used this phrase when making an solemn oath in order to ask Yahweh to punish them if they broke the oath. See how you translated this in [[vi:bible:notes:jer:04:01|4:2]]. 
+  * **do your eyes not look for truth** - Jeremiah uses this question to emphasize that what Yahweh really wants is faithfulness. AT: "you want people to be faithful." (See: [[:vi:ta:vol1:translate:figs_rquestion]] and [[:vi:ta:vol1:translate:figs_idiom]])
+  * **You strike the people, but they do not feel pain.** - AT: "You punish the people, but they do not pay attention." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **have completely defeated** - "have completely destroyed"
+  * **to receive discipline** - "to learn their lesson"
+  * **They make their faces harder than cliff sides** - AT: "They became very stubborn."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:05|Jeremiah Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:04:30|<<]] | [[:vi:bible:notes:jer:05:04|>>]]**
+
+~~DISCUSSION~~{{tag>review text }}
+
+~~NOCACHE~~

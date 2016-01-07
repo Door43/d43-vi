@@ -1,0 +1,59 @@
+====== Isaiah 50:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 But, because the Lord our God helps me,
+\q2 I will never be humiliated.
+\q1 Therefore, I am strongly determined [IDI] to face\f + \ft Or: endure \f* difficulties,
+\q2 and I know that nothing will cause me to be ashamed.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 But because the Lord Yahweh helps me,
+\q2 I will never be humiliated.
+\q1 Therefore I am determined to face difficulties,
+\q2 and I know that nothing will cause me to be ashamed.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 7 For the Lord Yahweh will help me; therefore I am not disgraced; 
+\q1 so I have made my face like flint, for I know that I will not be put to shame.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[vi:obe:kt:face]]
+  * [[vi:obe:other:shame]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh's servant continues speaking.
+
+  * **therefore I am not disgraced**  - Even though the servant has been mistreated, he is in the will of Yahweh and so does not lose face. AT: "therefore I am not humiliated" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **so I have made my face like flint**  - Here "my face" refers to the servant. Also "flint" is a hard rock. This means he will resist any attempt to humiliate him; he is ready to endure anything. (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]] and [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **for I know that I will not be put to shame**  - The servant looks to the future with confidence, secure in Yahweh's calling. AT: "for I know that my enemies will not be able to make me feel shame"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:50|Isaiah Chapter 50 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:50:05|<<]] | [[:vi:bible:notes:isa:50:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

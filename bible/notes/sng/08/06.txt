@@ -1,0 +1,67 @@
+====== Song of Solomon 08:6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Keep me close to you\add*,
+\q2 like \f + \ft simile \f* a seal on your heart,
+\q1 or like \f + \ft simile \f* a bracelet on your arm.
+\q1 Our love \add for each other\add* is as powerful as death,
+\q2 it is as strong as the grave.
+\q1 \add It is as though\add* our love \add for each other\add* bursts into flames
+\q2 and burns like a hot fire.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Keep me close to you,
+\q2 like a seal on your heart,
+\q1 or like a bracelet on your arm.
+\q1 Our love for each other is as powerful as death;
+\q2 it is as strong as the grave.
+\q1 It is as though our love for each other bursts into flames
+\q2 and burns like a hot fire.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Set me as a seal over your heart,
+\q like a seal on your arm,
+\q for love is as strong as death.
+\q Passionate devotion is as unrelenting as Sheol;
+\q its flames burst out; it is a blazing flame,
+\q a flame hotter than any other fire.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:seal]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:other:hades]]
+
+===== Translation Notes: =====
+
+  * **Set me as a seal over your heart **- The woman is asking the man to use her as a seal over his heart for two reasons--to preserve their love and prevent another person from entering the man's love. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **like a seal on your arm**  - A seal would normally have the special symbol of the person who used the seal. The seal has the identification of the man and woman's love in plain sight where all can see. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **for love is as strong as death** - AT "Our love for each other is as powerful as death; it is as strong as the grave" - This is repeated to show how strong their love is. (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+  * **unrelenting** - "unceasing" or "endless"
+  * **for love is as strong** - AT: "Our love for each other is as powerful" 
+  * **our love for each other bursts into flames
+and burns like a hot fire** This is repeated for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:08|Song of Solomon Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:08:05|<<]] | [[:vi:bible:notes:sng:08:07|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

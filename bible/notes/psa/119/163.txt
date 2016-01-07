@@ -1,0 +1,57 @@
+====== Psalms 119:163-164 ======
+
+===== TFT: =====
+
+<usfm>
+\v 163 I thoroughly hate \f + \ft doublet \f* all lies
+\q2 but I love your laws.
+\q1
+\v 164 Seven\f + \ft Or: Many \f* times each day I thank you for your regulations\f + \ft Or: the rules that you have given to us \f*,
+\q2 and they are all just\f + \ft Or: fair \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 163 I thoroughly hate all lies
+\q2 but I love your laws.
+\q1
+\v 164 I praise you seven times a day
+\q2 for your commandments because they are all just.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 163 I hate and despise falsehood,
+\q but I love your law.
+\q
+\v 164 Seven times a day I praise you
+\q because of your righteous decrees.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+
+There are no notes for this passage.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:161|<<]] | [[:vi:bible:notes:psa:119:165|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

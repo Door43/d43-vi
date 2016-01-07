@@ -1,0 +1,72 @@
+====== Hosea 02:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 I will cause them to be \add as though they are\add* \f + \ft metaphor \f* my bride forever.
+\q2 I will be righteous and fair\f + \ft Or: just \f*;
+\q2 I will faithfully love them and act kindly toward them.
+\q1
+\v 20 I will not abandon them,
+\q2 and they will realize \add that I am\add* Yahweh.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 You will be like my wife forever, Israel.
+\q2 I will promise myself to you, by doing what is right, and by loving what is just.
+\q2 I promise to love you and to show you kindness even when you do not deserve it. 
+\q1
+\v 20 I will keep my promise to you, Israel. I will never lie to you;
+\q2 and you will come to know me—my name is Yahweh.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 I will promise to be your husband forever.
+\q I will promise to be your husband in righteousness, justice, covenant faithfulness, and mercy.
+\q
+\v 20 I will promise to be your husband in faithfulness.
+\q And you will know me, Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:promise|promise]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:mercy|mercy, merciful]]
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+God is speaking to Hosea about what he will do for Israel.
+
+  * **I will promise to be your husband forever** - Yahweh will be like the husband, and Israel will be like Yahweh's wife. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **I will promise to be your husband in faithfulness** - Yahweh will be faithful to his covenant with Israel; because of this, Israel will hopefully remain faithful to Yahweh.
+  * **And you will know me, Yahweh. **- "Know" means to recognize Yahweh as their God. 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:02:18|<<]] | [[:vi:bible:notes:hos:02:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

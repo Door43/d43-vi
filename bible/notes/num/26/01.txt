@@ -1,0 +1,51 @@
+====== Numbers 26:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 After the plague \add ended\add*, Yahweh said to Eleazar and Moses\f + \ft Or: me \f*,
+\v 2 "Count all the people of Israel \add again\add*. Write down the names of all the men who are at least 20 years old who are able to fight \add in battles\add*, along with their family names."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After the plague ended, Yahweh said to Eleazar and Moses,
+\v 2 "Count all the people of Israel again. Write down the names of all the men who are at least 20 years old who are able to fight in battles, along with their family names."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 26
+\p
+\v 1 It came about after the plague that Yahweh spoke to Moses and Eleazar son of Aaron the priest. He said,
+\v 2 "Count all the community of the people of Israel, from twenty years old and up, by their ancestor's families, all who are able to go to war for Israel."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:plague|plague]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:moses|Moses]]
+  * Eleazar
+  * son
+  * [[:vi:obe:other:aaron|Aaron]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * year
+  * [[:vi:obe:other:family|family]]
+
+===== Translation Notes: =====
+
+  * **twenty **- AT: "20" (See: Translate Numbers)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:26|Numbers Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:num:25:16|<<]] | [[:vi:bible:notes:num:26:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

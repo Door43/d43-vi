@@ -1,0 +1,51 @@
+====== Numbers 32:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 So Yahweh became very angry with them, and he solemnly declared this:
+\v 11-12 'From all the people who came out of Egypt, the only ones who are at least twenty years old who will see the land that I promised to give to Abraham, Isaac, and Jacob, are Jephunneh's son Caleb and Nun's son Joshua, because they trusted me completely. None of the other people who came out of Egypt will even see that land, because they have not completely believed in my \add power\add*.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 So Yahweh became very angry with them, and he solemnly declared this,
+\v 11-12 'From all the people who came out of Egypt, the only ones who are at least twenty years old who will see the land that I promised to give to Abraham, Isaac, and Jacob, are Jephunneh's son Caleb and Nun's son Joshua, because they trusted me completely. None of the other people who came out of Egypt will even see that land, because they have not completely believed in my power.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Yahweh’s anger was kindled on that day. He took an oath and said,
+\v 11 ‘Surely none of the men who came up out of Egypt, from twenty years old and up, will see the land about which I swore to Abraham, to Isaac, and to Jacob, because they have not completely followed me, except for
+\v 12 Caleb son of Jephunneh the Kenizzite, and Joshua son of Nun. Only Caleb and Joshua have completely followed me.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:oath]]
+  * [[:En:obe:other:egypt]]
+  * [[:En:obe:other;abraham]]
+  * [[:En:obe:other:isaac]]
+  * [[:En:obe:other:jacob]]
+  * [[:En:obe:other:caleb]]
+  * [[:En:obe:other:joshua]]
+ 
+
+===== Translation Notes: =====
+
+  * **Yahweh's anger was kindled on that day. **- The word kindled means to cause the start of something. AT: "Yahweh was angry." or "Yahweh became angry." (See Passive)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:32|Numbers Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:num:32:08|<<]] | [[:vi:bible:notes:num:32:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

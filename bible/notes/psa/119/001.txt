@@ -1,0 +1,71 @@
+====== Psalms 119:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh is pleased with\f + \ft Or: Happy are \f* those about whom no one can say truthfully that they have done things that are wrong,
+\q1 those who always obey the laws of Yahweh.
+\q1
+\v 2 Yahweh is pleased with those who obey his requirements\f + \ft Or: do what he has instructed them to do \f*,
+\q1 those who request him with their entire inner beings to help them \add to do that\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 How fortunate are those about whom no one can say truthfully that they have done things that are wrong,
+\q1 those who always obey the laws of Yahweh.
+\q1
+\v 2 How fortunate are those who obey his weighty commands,
+\q1 those who request him with their entire inner beings to help them to do that.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 119
+\d ALEPH.
+\p
+\q
+\v 1 Blessed are those whose ways are blameless,
+\q who walk in the law of Yahweh.
+\q
+\v 2 Blessed are they who keep his solemn commands,
+\q who seek him with all their heart.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:blameless|blameless]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:heart|heart]]
+
+===== Translation Notes: =====
+
+This psalm is meant to teach people to obey God's word.\\
+See: talink Translating Poetry and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **ALEPH**  - This is the first letter of the Hebrew alphabet. In the Hebrew language, each line of verses 1-8 begins with this letter.
+  * **Blessed are those whose ways are blameless**  - AT: "How good it is for those whom no one can blame for doing wrong."
+  * **ways**  - How a person behaves is spoken of as "ways" or "paths." AT: "behaviors" or "actions" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **who walk in the law of Yahweh**  - The way a person lives or behaves is spoken of as walking. AT: "who live according to the law of Yahweh" or "who obey the law of Yahweh." This phrase clarifies the meaning of "whose ways are blameless." (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **who seek him with all their heart** - To: "seek God" means wanting to know him and "with all of their heart means wanting intensely. AT: "who really want to know/obey him" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+
+
+===== Links:=====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:118:029|<<]] | [[:vi:bible:notes:psa:119:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

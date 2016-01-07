@@ -1,0 +1,57 @@
+====== Psalms 087:4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Some of those who know about God are the people of Egypt and Babylonia,
+\q2 and also the people of Philistia and Tyre and Ethiopia;
+\q2 \add some day they all\add* will say,
+\q2 "\add Although I was not born in Jerusalem\add*,
+\q2 \add because I belong to Yahweh, it is as though\add* I was born there."
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Some of those who know our God are the people of Egypt and Babylonia,
+\q2 and also the people of Philistia and Tyre and Ethiopia;
+\q2 someday they all will say,
+\q2 "Although I was not born in Jerusalem,
+\q2 it is as though I was born there because I belong to Yahweh."
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 I mention Rahab and Babylon to my followers.
+\q See, there are Philistia, and Tyre, along with Ethiopia.
+\q This one was born there.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:philistines]]
+  * [[:vi:obe:other:tyre]]
+  * [[:vi:obe:other:ethiopia]]
+
+===== Translation Notes: =====
+
+  * **I mention** - "I tell about"
+  * **to my followers.** - "to those who worship God."
+  * **Rahab** - This is a name that is sometimes used to refer to Egypt. (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol1:translate:translate_names]])
+  * **This one was born there.** - "This one" refers to the nations the writer mentions. Although they were not physically born in Zion, those who follow God are natives of Jerusalem spiritually.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:087|Psalms Chapter 087 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:087:001|<<]] | [[:vi:bible:notes:psa:087:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

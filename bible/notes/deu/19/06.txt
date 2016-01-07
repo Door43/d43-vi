@@ -1,0 +1,54 @@
+====== Deuteronomy 19:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Because he accidentally killed someone, and because the man was not his enemy, he can try to run to one of those cities. If there were only one city, it may be a long distance to that city. Then if the relative of the man who was killed \f + \ft metonymy \f*, the man who is supposed\f + \ft Or: expected \f* to get revenge, is very angry, he may be able to catch the other person before he arrives at that city.
+\v 7 \add To prevent that from happening\add*, you must choose three cities, not only one, \add in order that someone can get to one of those cities quickly\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Because he accidentally killed someone, and because the man was not his enemy, he can try to run to one of those cities. If there were only one city, it may be a long distance to that city. Then if the relative of the man who was killed to get revenge, is very angry, he may be able to catch the other person before he arrives at that city.
+\v 7 Therefore, I give you this command, that you select three cities for this purpose. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 He should do this so that the deceased’s relative responsible does not pursue him out of anger, catch him because the journey is too long, and kill him. This could happen, even though the man does not deserve to die, because he did not previously hate the deceased.
+\v 7 Therefore I command you to select three cities for yourself.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:angry]]
+  * [[vi:obe:kt:death]]
+  * [[:vi:obe:other:command]]
+
+===== Translation Notes: =====
+
+Moses is still speaking to the people of Israel.
+
+  * **He should do this**  - he person who accidentally killed someone should run to one of these cities.
+  * **so that the deceased’s relative responsible**  - If somebody killed a person, it was the responsibility of the dead person's closest relative to kill the person who killed his family member.
+  * **does not pursue him out of anger** - "does not get angry and run after him"  
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:19|Deuteronomy Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:19:04|<<]] | [[:vi:bible:notes:deu:19:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

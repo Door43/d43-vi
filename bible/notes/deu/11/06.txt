@@ -1,0 +1,56 @@
+====== Deuteronomy 11:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Think about what he did to Dathan and Abiram, the two sons of Eliab from the tribe of Reuben. While all of your ancestors were watching, the earth split open, and they fell into the opening \add and disappeared\add*, along with their families and their tents, their servants, and their animals.
+\v 7 You \f + \ft synecdoche \f* and your ancestors have seen all these miracles that Yahweh performed.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Think about what he did to Dathan and Abiram, the two sons of Eliab from the tribe of Reuben. While all of your ancestors were watching, the earth split open, and they fell into the opening and disappeared, along with their families and their tents, their servants, and their animals.
+\v 7 You and your ancestors have seen all these miracles that Yahweh performed.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 Neither did they did see what Yahweh did to Dathan and Abiram, the sons of Eliab, the son of Reuben; how the earth opened its mouth and swallowed them up, their households, their tents, and every living thing that followed them, in the middle of all Israel.
+\v 7 But your eyes have seen all the great works of Yahweh that he did.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:reuben|Reuben]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:other:household|household]]
+  * [[:vi:obe:other:tent|tent]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+
+===== Translation Notes: =====
+Moses continues to remind the adults to teach their children God's mighty deeds.
+
+  * **Dathan and Abiram, the sons of Eliab** - Moses is referring to an event in the past when Dathan and Abiram rebelled against Moses and Aaron. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **earth opened its mouth and swallowed them up** - This means the land split open and the people fell in. (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **But your eyes have seen** - AT: "But you have seen" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:11|Deuteronomy Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:11:04|<<]] | [[:vi:bible:notes:deu:11:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

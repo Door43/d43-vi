@@ -1,0 +1,54 @@
+====== Lamentations 04:16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 It is Yahweh himself who has scattered them;
+\q2 he no longer is concerned about them.
+\q1 People do not respect our priests or leaders.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 It is Yahweh himself who has scattered them;
+\q2 he no longer is concerned about them.
+\q1 People do not welcome our priests any longer, and they care nothing for the elders.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 Yahweh has scattered them from his presence; he does not look on them with favor any longer.
+\q No one receives the priests with any respect any more, and they show no concern for the elders.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:favor]]
+  * [[vi:obe:kt:receive]]
+  * [[:vi:obe:other:elder]]
+
+===== Translation Notes: =====
+
+  * **scattered them** - scattered the prophets and priests
+  * **look on them with favor** - AT: "accept them" or "approve of them" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **No one receives ... they show no concern** - AT: "No one receives ... no one shows concern" or "People do not receive ... people do not show concern"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:04|Lamentations Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:04:14|<<]] | [[:vi:bible:notes:lam:04:17|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

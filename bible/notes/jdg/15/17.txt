@@ -1,0 +1,50 @@
+====== Judges 15:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 When he finished, he threw the jawbone away, but later that place was called Jawbone Hill.
+\p
+\v 18 Then Samson was very thirsty, so he called out to Yahweh, "You have given me strength to win a great victory. So now must I die because of being thirsty, with the result that those heathen Philistines will take away my body \add and mutilate it\add*?"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 When he finished, he threw the jawbone away, but later that place was called Ramath Lehi (or Jawbone Hill).
+\p
+\v 18 Then Samson was very thirsty, so he called out to Yahweh, "You have given me strength to win a great victory. So now must I die because of being thirsty, with the result that those heathen, uncircumcised Philistines will capture me?"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 When Samson finished speaking, he  threw away the jawbone, and the place was called Ramath Lehi.
+\v 18 Samson was very thirsty and called on Yahweh and said, “You have given this great victory to your servant, but now I will die of thirst, and I will fall into the hands of those who are uncircumcised.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Samson]]
+  * [[:vi:obe:other:servant|Yahweh]]
+  * [[:en/obe/kt/call]]
+  * [[:vi:obe:other:servant|servant]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:justice|just, justice]]
+  * [[:vi:obe:kt:uncircumcised|uncircumcised]]
+===== Translation Notes: =====
+
+  * **Ramath Lehi**  - This is the name of a place. It's name means "Jawbone Hill" (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **the place was called**  - AT: "he called the place" (See: [[:vi:bible:team-info:training:quick-reference:grammar:active|Passive Verbs]])
+  * **very thirsty**  - AT: "had great need for water to drink"
+  * **I will fall into the hands of those who are uncircumcised**  - The idea of "fall" is to lose in a conflict. AT: "Those uncircumcised men will take revenge on me and defeat me"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:15|Judges Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:15:15|<<]] | [[:vi:bible:notes:jdg:15:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

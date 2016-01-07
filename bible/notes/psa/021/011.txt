@@ -1,0 +1,60 @@
+====== Psalms 021:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 They planned to harm you,
+\q2 but what they plan will never succeed.
+\q1
+\v 12 You will cause them to run away [IDI]
+\q2 by shooting arrows at them.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 They wanted to harm you,
+\q2 but what they plan will never succeed.
+\q1
+\v 12 You will cause them to run away
+\q2 by shooting arrows at them.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 For they intended evil against you;
+\q they conceived a plot with which they will not succeed!
+\q
+\v 12 For you will turn them back;
+\q you will draw your bow before them.
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:other:bowweapon|bow and arrow]]
+
+===== Translation Notes: =====
+
+  * **they intended** - "they planned"
+  * **they conceived a plot** - “they made a plan” or “they created a scheme”
+  * **you will draw your bow before them** - This describes Yahweh as a warrior with a bow and arrows. AT: "you will act like a man with a bow, who makes his bow ready to shoot them" (See: [[:vi:ta:vol1:translate:figs_metaphor]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:021|Psalms Chapter 021 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:021:009|<<]] | [[:vi:bible:notes:psa:021:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

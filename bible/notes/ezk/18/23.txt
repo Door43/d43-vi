@@ -1,0 +1,47 @@
+====== Ezekiel 18:23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 I, Yahweh the Lord, declare that I certainly am not \f + \ft rhetorical question \f* happy about wicked people dying. Instead, I am happy when they turn away from their wicked behavior, and \add because of that, they\add* remain alive.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 I, Yahweh the Lord, declare that I certainly am not happy about wicked people dying. Instead, I am happy when they stop doing wicked things and remain alive as a result.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 "Do I greatly rejoice over the death of the wicked"—this is the Lord Yahweh’s declaration—"and not in his turning away from his way so that he may live?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rejoice]]
+  * [[vi:obe:kt:death]]
+  * [[vi:obe:kt:evil]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:other:declare]]
+  * [[vi:obe:kt:turn]]
+  * [[vi:obe:kt:life]]
+===== Translation Notes: =====
+Yahweh speaking about his desire for wicked people.
+
+  * **Do I greatly rejoice in the death of the wicked, . . . and not in his turning away from his way so he will live?**  - AT: "I do not greatly rejoice in the death of the wicked, but I do rejoice if he turns away from his evil actions and lives" (See: [[vi:ta:vol1:translate:figs_rquestion]])
+  * **This is the Lord Yahweh's declaration** - See how you translated this in [[:vi:bible:notes:ezk:05:11|5:11]].
+  * **not in his turning away from his way​** - AT: "not changing from his sinful actions to do what is right. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:18|Ezekiel Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:18:21|<<]] | [[:vi:bible:notes:ezk:18:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

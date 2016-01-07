@@ -1,0 +1,58 @@
+====== Psalms 119:117-118 ======
+  * 
+
+===== TFT: =====
+
+<usfm>
+\v 117 Hold me up in order that I will be safe
+\q2 and always pay attention to\f + \ft Or: heed \f* your statutes\f + \ft Or: what you have decreed that we should do \f*.
+\q1
+\v 118 You reject all those who disobey your statutes\f + \ft Or: what you have decreed that we should do \f*;
+\q2 but what they deceitfully plan to do will be useless\f + \ft Or: in vain \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 117 Hold me up so that I may be safe
+\q2 and always pay attention to your commands.
+\q1
+\v 118 You reject all those who disobey your statutes;
+\q2 what they deceitfully plan to do is useless.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 117 Support me, and I will be safe;
+\q I will always meditate on your statutes.
+\q
+\v 118 You reject all those who stray from your statutes,
+\q for those people are deceptive and unreliable.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:meditate|meditate]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+  * [[:vi:obe:other:reject|reject, push away]]
+  * [[:vi:obe:other:peoplegroup|people group, people, poor (the poor)]]
+  * [[:vi:obe:kt:deceive]]
+
+===== Translation Notes: =====
+
+  * **deceptive and unreliable **  - AT: "misleading and not able to be trusted" or "dishonest and not able to be trusted"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:115|<<]] | [[:vi:bible:notes:psa:119:119|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

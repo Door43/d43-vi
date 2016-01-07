@@ -1,0 +1,51 @@
+====== 1 Kings 14:27-28 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 King Rehoboam's \add workers\add* made bronze shields to replace them and put them into the hands of officers who guarded the entrance to the king's palace.
+\v 28 Every time that the king went into the temple, those guards carried those shields; and \add when he left the temple\add* they returned the shields to the storeroom.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 King Rehoboam's workers made bronze shields to replace them and put them into the hands of officers who guarded the entrance to the king's palace.
+\v 28 Every time that the king went into the temple, those guards carried those shields, and when he left the temple they returned the shields to the storeroom.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 27 King Rehoboam made shields of bronze in their place and entrusted them into
+the hands of the commanders of the guard, who guarded the doors to the king’s house.
+\v 28 It happened that whenever the king entered the house of Yahweh, the
+guards would carry them; then they would bring them back into the guardhouse.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:other:bronze]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:commander]]
+
+===== Translation Notes: =====
+
+  * **King Rehoboam made shields** - AT: "King Rehoboam's workers made shields" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **in their place** - AT: "in place of the shields of gold" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **entrusted them into the hands of the commanders** - AT: "made them the responsibility of the commanders" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:14|1 Kings Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:14:25|<<]] | [[:vi:bible:notes:1ki:14:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

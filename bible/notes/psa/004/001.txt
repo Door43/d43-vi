@@ -1,0 +1,69 @@
+====== Psalms 004:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, answer me when I pray to you.
+\q2 You are the one who vindicates me;
+\q1 Rescue me from things that distress me.
+\q2 Act mercifully toward me, and listen to me while I pray.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, answer me when I pray to you.
+\q2 You are the one who shows people that I am right to trust in you.
+\q1 You rescued me when I was in great trouble.
+\q2 Act mercifully toward me and listen to me while I pray.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\d For the chief musician; on stringed instruments. A psalm of David.
+\b
+\q
+\v 1 Answer me when I call, God of my righteousness;
+\q give me room when I am hemmed in.
+\q Have mercy on me and listen to my prayer.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chief]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:other:pray]]
+ 
+
+===== Translation Notes: =====
+
+(See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+  * **On string instruments**  - People should play stringed instruments with this song.
+  * **A psalm of David**  - AT: “This is a psalm that David wrote.”
+  * **God of my righteousness**  - AT: "God, you enable us do good things"
+  * **give me room**  - AT: "set me free" or "make space for me" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **when I am hemmed in**  - AT: " in a time of trouble." or "when I get trapped." (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:004|Psalms Chapter 004 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:003:007|<<]] | [[:vi:bible:notes:psa:004:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

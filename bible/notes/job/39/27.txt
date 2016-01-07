@@ -1,0 +1,65 @@
+====== Job 39:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Do eagles fly high up \add into the cliffs\add* to make their nests
+\q2 because you commanded them to do that?
+\q1
+\v 28 They live in \add holes in\add* those cliffs.
+\q2 They are safe in those high pointed rocks \add because no animals can reach them there\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Do eagles fly high up into the cliffs to make their nests
+\q2 because you commanded them to do that?
+\q1
+\v 28 They live in holes in those cliffs.
+\q2 They are safe in those high pointed rocks because no animals can reach them there.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 Is it at your orders that the eagle mounts up
+\q and makes his nest in high places?
+\q
+\v 28 He lives on cliffs and makes his home
+\q on the peaks of cliffs, a stronghold.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:highplaces]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:stronghold]]
+ 
+
+===== Translation Notes: =====
+
+  * **Is it at your command – - "It is not at your order that the eagle mounts –" (See: Rhetorical Question)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:39|Job Chapter 39 Comprehension Questions]]**
+**[[:vi:bible:notes:job:39:26|<<]] | [[:vi:bible:notes:job:39:29|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,71 @@
+====== Jeremiah 31:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 \add You Israelite people\add*, set up road signs;
+\q2 put up posts along the roads
+\q2 to mark the road on which you walked \add when you were taken from Jerusalem\add*.
+\q1 My precious\f + \ft Or: beloved \f* Israelite people,
+\q2 come back to your towns here.
+\q1
+\v 22 You people who have been like \f + \ft metaphor \f* daughters who have forsaken their parents,
+\q2 how long will you continue to wander \add away from me\add* \f + \ft rhetorical question \f*?
+\q1 I, Yahweh, will cause something to happen on the earth that is new\f + \ft Or: has not happened before \f*:
+\q2 the women of Israel will be protecting their husbands as they travel \add back here\add*!"
+\b
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 You Israelite people, set up road signs;
+\q2 put up posts along the roads
+\q2 to mark the road on which you walked when you were taken from Jerusalem.
+\q1 My precious Israelite people,
+\q2 come back to your towns here.
+\q1
+\v 22 You people who have been like  daughters who have forsaken their parents,
+\q2 how long will you continue to wander away from me ?
+\q1 I, Yahweh, will cause something to happen on the earth that is new:
+\q2 the women of Israel will be protecting their husbands as they travel back here!"
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Place road signs for yourself. Set up guideposts for yourself. Set your mind on the right path,
+\q the way you should take. Come back, virgin Israel! Come back to these cities of yours.
+\q
+\v 22 How long will you continue to waver, faithless daughter?
+\q For Yahweh has created something new on earth: women are surrounding strong men to protect them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:virgin|virgin]]
+  * [[:vi:obe:other:israel|Israel]]
+  * [[:vi:obe:kt:faithless|faithless, faithlessness]]
+  * [[:vi:obe:other:creation|create, creation, Creator]]
+
+===== Translation Notes: =====
+God continues to speak from verse 7.
+
+  * **Set your mind on the right path, the way you should take.** -  AT: "Try hard to remember the way you came when you were taken into captivity."(See [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **Come back, virgin Israel!**  - God is referring to a changed Israel. (See [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **How long will you continue to waver, faithless daughter?** - God is asking how long His people will disobey Him.  (See: [[vi:ta:vol1:translate:figs_rquestion]]) AT: "Do not hesitate to start obeying me"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:31|Jeremiah Chapter 31 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:31:18|<<]] | [[:vi:bible:notes:jer:31:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

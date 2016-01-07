@@ -1,0 +1,51 @@
+====== Deuteronomy 10:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 (Then, from the wells that belonged to the people of Jaakan, the Israelite people traveled to Moserah. There Aaron died and was buried, and his son Eleazar took his place and became the supreme priest.
+\v 7 From there, the Israelites traveled to Gudgodah, and from there to Jotbathah, which was a place that had many streams.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 (Then, from the wells that belonged to the people of Jaakan, the Israelite people traveled to Moserah. There Aaron died and was buried, and his son Eleazar took his place and became the high priest.
+\v 7 From there, the Israelites traveled to Gudgodah, and from there to Jotbathah, which was a place that had many streams.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 (The people of Israel journeyed from Beeroth Bene Jaakan to Moserah. There Aaron died, and there he was buried; Eleazar, his son, served in the priest’s office in his place.
+\v 7 From there they journeyed to Gudgodah,  and from Gudgodah to Jotbathah, a land of streams of water.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:aaron|Aaron]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[vi:obe:other:bury]]
+  * [[:vi:obe:other:serve|serve]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+
+===== Translation Notes: =====
+
+  * **The people of Israel…a land of streams of water** - This gives background information about where the people of Israel traveled. It also covers Aaron's natural death in Moserah. (See: [[vi:ta:vol2:translate:writing_background]])
+  * **Beeroth Bene Jaakan to Moserah...Gudgodah...Jotbathah** - These are names of different places the people of Israel went through while in the wilderness. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Beeroth Bene Jaakan** - Translator may add a footnote: "The name 'Beeroth Bene Jaakan' means 'the wells that belonged to the people of Jaakan.'"
+  * **Eleazar** - This is the name of Aaron's son.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:10|Deuteronomy Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:05|<<]] | [[:vi:bible:notes:deu:10:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

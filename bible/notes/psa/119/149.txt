@@ -1,0 +1,63 @@
+====== Psalms 119:149-150 ======
+
+===== TFT: =====
+
+<usfm>
+\v 149 Yahweh, because you faithfully love me,
+\q2 listen to me \add while I pray\add*
+\q2 and keep me safe because of \add my obeying\add* your regulations\f + \ft Or: what you have told us to do \f*.
+\q1
+\v 150 Those evil people who oppress\f + \ft Or: persecute \f* me are coming closer to me;
+\q2 they do not pay any attention to your laws.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 149 Yahweh, because you faithfully love me,
+\q2 listen to me while I pray;
+\q2 keep me safe because I keep your regulations.
+\q1
+\v 150 Those evil people who oppress me are coming closer to me;
+\q2 they do not pay any attention to your laws.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 149 Hear my voice in your covenant faithfulness;
+\q keep me alive, Yahweh, as you have promised in your righteous decrees.
+\q
+\v 150 Those who are persecuting me are coming closer to me,
+\q but they are far from your law.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:promise|promise]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:other:persecute|persecute, persecution]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+
+===== Translation Notes: =====
+
+  * **Hear my voice in your covenant faithfulness** - AT: "hear my prayers because of your covenant faithfulness"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:147|<<]] | [[:vi:bible:notes:psa:119:151|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

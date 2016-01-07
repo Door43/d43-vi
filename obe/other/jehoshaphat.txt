@@ -8,7 +8,7 @@ Jehoshaphat is the name of at least two men in the Old Testament.
   * He restored peace between Judah and Israel, and destroyed the altars of false gods.
   * Another Jehoshaphat was an administrative assistant for King David and King Solomon.
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:kt:priest]] [[:vi:obe:other:altar]], [[:vi:obe:other:David]], [[:vi:obe:other:Solomon]], [[:vi:obe:other:Judah]], [[:vi:obe:other:Israel]], [[:vi:obe:kt:falsegod]])
 

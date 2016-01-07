@@ -1,0 +1,55 @@
+====== Deuteronomy 22:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 If you happen to find a bird's nest in a tree or on the ground, and the mother bird is sitting in the nest on its eggs or with the baby birds, do not take the mother bird \add and kill it\add*.
+\v 7 You are permitted to take the baby birds, but you must allow the mother bird to fly away. Do this in order that things will go well for you and that you will live for a long time.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 If you happen to find a bird's nest in a tree or on the ground, and the mother bird is sitting in the nest on its eggs or with the baby birds, do not take the mother bird and kill it.
+\v 7 You are permitted to take the baby birds, but you must allow the mother bird to fly away. Do this in order that things will go well for you and that you will live for a long time.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 If a bird’s nest happens to be in front of you on the road, in any tree or on the ground, with young ones or eggs in it, and the mother sitting on the young or on the eggs, you must not take the mother along with the young.
+\v 7 You must surely let the mother go, but the young you may take for yourself. Obey this command so that it may go well with you, and that you may prolong your days.
+</usfm>
+
+
+===== Important Terms: =====
+
+ 
+  * [[:vi:obe:other:obey]]
+  * [[:vi:obe:other:command]]
+
+===== Translation Notes: =====
+
+Moses is still speaking to the people of Israel.
+
+  * **bird’s nest**  - a home that birds make for themselves out of sticks, grass, plants and mud
+  * **with young ones or eggs in it** -  "with baby birds or eggs in the nest"
+  * **and the mother sitting on the young**  - "and the mother bird is sitting on the baby birds"
+  * **and that you may prolong your days**  - "and that you will continue to live for a long time." AT: "and that you will continue to live in the Promised Land for a long time." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:05|<<]] | [[:vi:bible:notes:deu:22:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,69 @@
+====== Psalms 022:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 But you are holy.
+\q2 You sit on your throne as king, and we the people of Israel praise you \f + \ft personification \f*.
+\q1
+\v 4 Our ancestors trusted in you.
+\q1 \add Because\add* they trusted in you, you rescued them.
+\q1
+\v 5 When they cried out to you, you saved them.
+\q2 They trusted in you, and they were not disappointed\f + \ft Or: you \add saved them\add* as you said that you would \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 But you are holy.
+\q2 You sit on your throne as king, and we the people of Israel praise you.
+\q1
+\v 4 Our ancestors trusted in you.
+\q1 Because they trusted in you, you rescued them.
+\q1
+\v 5 When they called out to you for help, you saved them.
+\q2 They trusted in you, and they were not disappointed.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Yet you are holy;
+\q  you sit as king with the praises of Israel.
+\q
+\v 4 Our ancestors trusted in you;
+\q they trusted in you, and you rescued them.
+\q
+\v 5 They cried to you and they were rescued.
+\q They trusted in you and were not disappointed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:other:cry]]
+===== Translation Notes: =====
+
+  * **you sit as king with the praises of Israel** - The praises of Israel are described as if they are a throne upon which God can sit and rule, or as a house in which God can live. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **were not disappointed** - AT: "were saved" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:001|<<]] | [[:vi:bible:notes:psa:022:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

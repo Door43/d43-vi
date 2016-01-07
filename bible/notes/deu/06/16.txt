@@ -1,0 +1,49 @@
+====== Deuteronomy 06:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Do not do sinful things to find out if you can do them without Yahweh our God punishing you, like your ancestors did at Massah.
+\v 17 Be sure that you always obey all the laws, the commandments, the rules, and the regulations that he has given to you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Do not do sinful things to find out whether Yahweh will punish you or not, like your ancestors did at Massah.
+\v 17 Be sure that you always obey all the laws, the weighty instructions, and the regulations that he has given to you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 You will not test Yahweh your God as you tested him at Massah.
+\v 17 You will diligently keep the commandments of Yahweh your God, his solemn commands, and his statutes, that he has commanded you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:test|test]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+
+===== Translation Notes: =====
+
+  * **You will not test Yahweh**  - "test" here is to provoke or to anger God.
+  * **Massah**  - A place in the desert whose name means "testing." (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:06|Deuteronomy Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:06:13|<<]] | [[:vi:bible:notes:deu:06:18|>>]]**
+
+~~DISCUSSION~~{{tag>Publish}}
+
+~~NOCACHE~~

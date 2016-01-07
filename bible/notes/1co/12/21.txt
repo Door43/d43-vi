@@ -1,0 +1,52 @@
+====== 1 Corinthians 12:21-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 That is why if our eye \add could talk\add*, it should never say to our hand, "I do not need you!" And if our head \add could talk\add*, it should not say to our feet, "I do not need you!"
+\v 22 Instead, the parts of our body that seem to be weaker are the ones that are absolutely necessary.
+\v 23 And the parts that we do not think highly of are the parts that we clothe carefully. And we protect carefully those parts that we do not show to people.
+\v 24 The parts that are \add all right to\add* show people, we do not need to protect. Instead, God, who has put all the parts of our bodies together, causes us to care for in a special way the parts that we think are less important.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 In your body, the eye cannot say to the hand, "I don't need you," it surely does need the hand. Nor would the head say to the feet, "I don't need you."
+\v 22 Even the parts that are less capable or those that do necessary and mundane tasks, are all still essential to the body as a whole.
+\v 23 The parts that we would be ashamed for others to see, we take more care to cover them. In this way we show more respect for them.
+\v 24 but God has joined the distinguished parts with the less important ones. And God gives honor to those less presentable parts, because they are part of the body.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 The eye cannot say to the hand, "I have no need of you." Nor does the head say to the feet, "I have no need of you."
+\v 22 But the members of the body that appear to be less honorable are essential.
+\v 23 And the parts of the body that we think are less honorable, we give them greater honor, and our unpresentable members have more dignity.
+\v 24 Now our presentable members have no need to be treated with dignity, for they already have it, but God has joined all the members together, and he gave more honor to those that lacked it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:member]] 
+  * [[:vi:obe:kt:body]]
+  * [[:vi:obe:other:honor]]
+
+===== Translation Notes: =====
+
+    * **appear to be less honorable** - "appear to be inferior"
+    * **unpresentable** - This probably refers to the genitals, which people keep covered up. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:12|1 Corinthians Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:12:18|<<]] | [[:vi:bible:notes:1co:12:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

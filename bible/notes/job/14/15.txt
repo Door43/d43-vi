@@ -1,0 +1,81 @@
+====== Job 14:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 You would call me, and I would answer.
+\q2 You would be eager to see me, one of the creatures that you had made.
+\q1
+\v 16 You would take care of \f + \ft metaphor \f* me,
+\q2 instead of watching me to see if I would sin.
+\q1
+\v 17 \add The record of\add* my sins would be sealed in a small bag,
+\q2 and you would cover them up.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 You would call me, and I would answer.
+\q2 You would be eager to see me, one of the creatures that you had made.
+\q1
+\v 16 You would carefully see where I went,
+\q2 and you would not be interested in seeing whether I sinned or not.
+\q1
+\v 17 The record of my sins would be sealed in a small bag,
+\q2 and you would cover them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 You would call, and I would answer you.
+\q You would have a desire for the work of your hands.
+\q
+\v 16 You would number and care for my footsteps;
+\q you would not keep track of my sin.
+\q
+\v 17 My transgression would be sealed up in a bag;
+\q you would cover up my iniquity.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:transgression]]
+  * [[:vi:obe:other:seal]]
+  * [[:vi:obe:kt:iniquity]]
+ 
+
+===== Translation Notes: =====
+
+  * care for my footsteps  - This expression means to be concerned about my life, its direction and future.
+  * **hidden in a small bag - The expression means that his sins "would not be exposed, gone, forgotten".**
+  * **cover up my iniquities - This expression means to remove from any further notice or remembering.**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:14|Job Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:job:14:13|<<]] | [[:vi:bible:notes:job:14:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

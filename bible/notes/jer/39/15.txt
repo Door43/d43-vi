@@ -1,0 +1,53 @@
+====== Jeremiah 39:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 While I was still being guarded in the palace courtyard, Yahweh gave me this message:
+\v 16 "Say this to Ebed-Melech, the official from Ethiopia: 'This is what the Almighty Commander of the armies of angels, the God whom we Israelites \add worship\add*, says: I will do to this city everything that I said that I would do. I will not enable the people to prosper; I will cause them to experience disasters. You will see Jerusalem being destroyed,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 But while I was still being guarded in the palace courtyard, Yahweh gave me this message:
+\v 16 "Say this to Ebed Melech, the official from Ethiopia: 'This is what Yahweh, Commander of the angel armies, the God whom Israel worships, says: I will do to this city everything that I said that I would do. I will not enable the people to prosper; I will cause them to experience disasters. You will see Jerusalem being destroyed,
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Now the word of Yahweh had come to Jeremiah while he was under arrest in the courtyard of the guard. It said,
+\v 16 “Speak to Ebed Melech the Cushite and say, ‘Yahweh of hosts, God of Israel, says this: See, I am about to carry out my words against this city for diasaster and not for good. 
+For they will all come true before you on that day.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+  * [[:vi:obe:other:cush|Cush]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:kt:good|good, goodness]]
+  * [[:vi:obe:kt:true|true, truth]]
+
+===== Translation Notes: =====
+This story happened before the events in the first part of the chapter,
+
+  * **Now** - This marks a new section of the story. 
+  * **the word of Yahweh had come to Jeremiah...It said** - "Yahweh spoke to Jeremiah...He said"
+  * **Ebed Melech the Cushite** - See how you translated this name in [[vi:bible:notes:jer:38:07|38:7]].
+  * **I am about to carry out my words against this city for diasaster and not for good** - "I am bringing disaster against this city just as I said I would"
+  * **For they will all come true before you on that day** - "For you will see it all happen on that day"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:39|Jeremiah Chapter 39 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:39:11|<<]] | [[:vi:bible:notes:jer:39:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

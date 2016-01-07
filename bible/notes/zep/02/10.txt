@@ -1,0 +1,63 @@
+====== Zephaniah 02:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 The people of Moab and Ammon will get what the deserve for being proud,
+\q2 because they made fun of the people who belong to the Almighty Commander of the armies of angels.
+\q1
+\v 11 Yahweh will cause them to be terrified
+\q2 when he destroys all the gods of their countries.
+\q1 Then \add even the people who live on\add* islands throughout the world will worship Yahweh,
+\q2 each in their own countries.
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 The people of Moab and Ammon will get what they deserve for being proud,
+\q2 because they made fun of the people who belong to Yahweh, Commander of the angel armies.
+\q1
+\v 11 Yahweh will cause them to be terrified
+\q2 when he destroys all the gods of their countries.
+\q1 Then people from every nation will worship Yahweh,
+\q2 each in his own country.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 This will happen to Moab and Ammon because of their pride, since they taunted and mocked the people of Yahweh of hosts!  
+\v 11 Then they will fear Yahweh, for he will taunt all the gods of the earth. Everyone will worship him, everyone
+from his own place, from every seashore!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:proud]]
+  * [[:vi:obe:other:mock]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:worship]]
+
+===== Translation Notes: =====
+
+   There are no translation notes.  
+
+=====   =====
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:zep:02|Zephaniah Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:zep:02:08|<<]] | [[:vi:bible:notes:zep:02:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

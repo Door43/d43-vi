@@ -1,0 +1,46 @@
+====== Daniel 11:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 When it is the time that God has decided, the king of Syria \add and his army\add* will invade Egypt again. But this time he will not be successful like he was before.
+\v 30 The army of Rome will come in ships and oppose his army and cause him to be afraid. So he will be very angry, and \add with his army\add* he will return \add to Israel\add* and try to get rid of the Supreme Priest. The king of Syria will do what those who have abandoned the Jewish religion advise\f + \ft Or: want \f* him to do for them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 When it is the time that God has decided, the king of the North will invade the South again. But this time he will not be successful as he was before.
+\v 30 Ships will come from Kittim and oppose his army and cause him to be afraid. So he will be very angry, and with his army he will return to Israel and seek to destroy the worship and the law. The king will show preference and favor to those who have abandoned God's holy covenant with Israel.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 At the appointed time he will return and invade the South again. But this time it will not be as it was before. 
+\v 30 For ships of Kittim will come against him, and he will be disheartened and will turn back. He will be enraged against the holy covenant, and he will show favor to those who forsake the holy covenant.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:appoint]]
+  * [[vi:obe:kt:turn]]
+  * [[vi:obe:kt:holy]]
+  * [[vi:obe:kt:covenant]]
+  * [[:vi:obe:kt:favor]] 
+  * [[:vi:obe:kt:forsaken]]
+
+===== Translation Notes: =====
+
+  * **Kittim** - This may refer to a settlement on the island of Cyprus in the Mediterranean Sea.  (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **he will be disheartened** - AT: "he will become discouraged" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **He will be enraged** - AT: "He will become very angry" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **will show favor** - AT: "will give special attention to" 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:11|Daniel Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:11:28|<<]] | [[:vi:bible:notes:dan:11:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

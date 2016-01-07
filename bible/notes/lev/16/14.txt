@@ -1,0 +1,44 @@
+====== Leviticus 16:14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then he must dip his finger into \add the basin\add* and sprinkle some blood on the lid of the sacred chest, and also sprinkle some blood seven times against the front of the chest.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Aaron must dip his finger into the basin and sprinkle some blood on the lid of the sacred chest, and also sprinkle some blood seven times against the front of the chest.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 Then he must take some of the blood of the bull and sprinkle it with his finger on the front of the  atonement lid. He must sprinkle some of the blood with his finger seven times before the atonement lid.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:blood|blood]]
+
+===== Translation Notes: =====
+
+  * **the blood of the bull** - This is the blood Aaron caught with a bowl in 16:11.
+  * **sprinkle it with his finger** - He used his finger to splash the blood.
+  * **on the front of the  atonement lid** - He did put the blood on the top part of the lid. He put it on the side of the lid which faced him as he entered the most holy place.
+  * **seven times before the atonement lid** - "seven times below the atonement lid onto the chest"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:16|Leviticus Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:16:12|<<]] | [[:vi:bible:notes:lev:16:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+
+
+~~NOCACHE~~

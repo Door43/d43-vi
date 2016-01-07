@@ -1,0 +1,62 @@
+====== Deuteronomy 13:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 You must conduct your lives as Yahweh our God wants you to, and you must have an awesome respect for him, and do what he tells you to do \f + \ft metonymy \f*, and worship only him, and be faithful to\f + \ft Or: have a close relationship with \f* him.
+\p
+\v 5 But you must execute anyone who \add falsely says that he is\add* a prophet, or someone who \add falsely\add* says that he can interpret dreams, or who tells you to rebel against Yahweh our God, who rescued your ancestors from being slaves in Egypt. People like that are only wanting to cause you to stop conducting your lives as Yahweh has commanded you to do. Execute them, to get rid of this evil among you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 You must conduct your lives as Yahweh our God wants you to, and you must honor him, do what he tells you to do, and trust in him.
+\p
+\v 5 But you must execute anyone who falsely says that he is a prophet, or someone who falsely says that he can interpret dreams, or who tells you to rebel against Yahweh our God, who rescued your ancestors from being slaves in Egypt. People like that are only wanting to cause you to stop living as Yahweh has commanded you to do. Execute them to get rid of this evil among you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 You will walk after Yahweh your God, honor him, keep his commandments, and obey his voice, and you will worship him and cling to him.
+\v 5 That prophet or that dreamer of dreams will be put to death, because he has spoken rebellion against Yahweh your God, who brought you out of the land of Egypt, and who redeemed you out of the house of bondage. That prophet wants to draw you out of the way that Yahweh your God commanded you to walk in. So put away the evil from among you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:other:honor|honor, to honor]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[vi:obe:other:obey]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[vi:obe:kt:worship]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:other:rebel|rebel, rebellious]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:kt:redeem|redeem, redemption]]
+  * [[:vi:obe:other:house|house]]
+  * [[vi:obe:kt:enslave]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+
+===== Translation Notes: =====
+
+  * **obey his voice** - AT: “obey what he says” (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **cling to him** - "rely on him"
+  * **will be put to death**  -  AT: "you must kill" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **he has spoken rebellion**  - "he has tried to make you rebel"
+  * **who redeemed you out of the house of bondage** - AT: “who rescued you out of the place where you were slaves”
+  * **draw you out of the way that Yahweh your God commanded you to walk in** - "to make you disobey what Yahweh your God commanded"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:13|Deuteronomy Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:13:01|<<]] | [[:vi:bible:notes:deu:13:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

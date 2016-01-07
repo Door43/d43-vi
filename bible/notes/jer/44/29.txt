@@ -1,0 +1,53 @@
+====== Jeremiah 44:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 And Yahweh also says, 'I will do something that will prove to you that everything that I have said will happen, and that I will punish you here in this place.
+\v 30 I will cause Hophra, the king of Egypt, to be captured by his enemies who want to kill him, just like I caused King Zedekiah of Judah to be captured by \add the soldiers of\add* King Nebuchadnezzar of Babylon.'~" \add And that is what happened several years later\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 And Yahweh also says, 'I will do something that will prove to you that everything that I have said will happen, and that I will punish you here in this place.
+\v 30 I will cause Hophra, the king of Egypt, to be captured by his enemies who want to kill him, just like I caused King Zedekiah of Judah to be captured by the soldiers of King Nebuchadnezzar of Babylon.'" And that is what happened several years later.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 This will be the sign for you'—this is Yahweh’s declaration—'that I am setting against you in this place, so that you will know that my words will certainly attack you with disaster.'
+\v 30 Yahweh says this: 'Look, I am about to give over Pharaoh Hophra, king of Egypt, into the hand of his enemies and the ones seeking his life. It will be just as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, his enemy who sought his life.'”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sign|sign (proof, reminder)]]
+  * [[:vi:obe:other:declare|declare, declaration]]
+  * [[:vi:obe:other:pharaoh|Pharaoh, king of Egypt]]
+  * [[vi:obe:other:hand]]
+  * [[:vi:obe:other:adversary|adversary, enemy]]
+  * [[:vi:obe:other:zedekiah|Zedekiah]]
+  * [[vi:obe:other:king]]
+  * [[vi:obe:other:judah]]
+  * [[:vi:obe:other:nebuchadnezzar|Nebuchadnezzar]]
+  * [[:vi:obe:other:babylon|Babylon, Babylonian]]
+
+===== Translation Notes: =====
+
+  * **This will be the sign for you'—this is Yahweh’s declaration**  - AT: "Yahweh declares, 'This will be proof'"
+  * **my words will certainly attack you with disaster**  - AT: "what I said will happen and you will have disaster"
+  * **I am about to give over Pharaoh Hophra, king of Egypt, into the hand of his enemies** - AT: "I will allow Pharaoh Hophra's enemies to capture him" or "I will let the enemies of Pharaoh Hophra, king of Egypt, conquer him." (See: Metonymy)
+  * **Hophra** - This is the name of a man. (See: Translate Names)
+  * **and the ones seeking his life**  - AT: "and the the people who want to kill him" (See: Euphemism)
+  * **who sought his life**  - AT: "who wanted to kill him"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:44|Jeremiah Chapter 44 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:44:26|<<]] | [[:vi:bible:notes:jer:45:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

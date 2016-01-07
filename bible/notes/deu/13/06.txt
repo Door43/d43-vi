@@ -1,0 +1,51 @@
+====== Deuteronomy 13:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 It does not matter if even your brother or your daughter or your wife or some close\f + \ft Or: dear \f* friend secretly urges you, saying 'Let's worship other gods,' gods which you or your ancestors have never known about.
+\v 7 Some of them may encourage you to worship gods that people-groups that live near you worship, or gods that groups who live far away worship.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 It does not matter if even your brother or your daughter or your wife or some close friend secretly urges you and says 'Let's worship other gods,' gods which you or your ancestors have never known about.
+\v 7 Some of them may encourage you to worship gods that people groups that live near you worship, or gods that groups who live far away worship.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 Suppose that your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is to you like your own soul, secretly entices you and says, “Let us go and worship other gods that you have not known, neither you nor your ancestors—
+\v 7 any of the gods of the peoples that are round about you, near to you, or far off from you, from the one end of the earth to the other end of the earth."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:soul]]
+  * [[vi:obe:kt:worship]]
+  * [[vi:obe:kt:falsegod]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[vi:obe:other:earth]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+  * **wife of your bosom** - AT: "wife you love" or "wife you dearly embrace" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **friend who is to you like your own soul** - AT: "your dearest friend" or "a friend you love as much as you love yourself"
+  * **secretly entices you and says, "Let us go and worship...other end of the earth"** - This could be translated as an indirect quote. AT: "secretly tries to convince you to go and worship...other end of the earth" (See: [[:vi:ta:vol2:translate:figs_quotations]])
+  * **that are round about you** - "that are around you"
+  * **from one end of the earth to the other end of the earth** -  AT: "throughout the entire earth" (See: [[:vi:ta:vol2:translate:figs_merism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:13|Deuteronomy Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:13:04|<<]] | [[:vi:bible:notes:deu:13:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

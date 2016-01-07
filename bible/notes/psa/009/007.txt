@@ -1,0 +1,54 @@
+====== Psalms 009:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 But Yahweh rules forever.
+\q2 He judges \add people while he sits\add* on his throne to judge people,
+\q1
+\v 8 and he will judge all the people in \f + \ft synecdoche \f* the world justly;
+\q2 he will judge the people \add of all nations\add* fairly \f + \ft doublet \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 But Yahweh rules forever.
+\q2 He judges people while he sits on his throne.
+\q1
+\v 8 He will judge all the people in the world justly;
+\q2 he will judge the people of all nations fairly.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 But Yahweh remains forever;
+\q he establishes his throne for justice.
+\q
+\v 8 He judges the world fairly.
+\q He makes just decisions for the nations.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nation]]
+
+===== Translation Notes: =====
+
+  * **he establishes his throne for justice** - The words "his throne" represent God's rule. AT: "He rules justly." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **He judges the world fairly ... He makes just decisions for the nations** - These two sentences express the same meaning. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **He judges the world fairly** - Here "the world" means all of the people. AT: "He judges everyone fairly." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:009|Psalms Chapter 009 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:009:005|<<]] | [[:vi:bible:notes:psa:009:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

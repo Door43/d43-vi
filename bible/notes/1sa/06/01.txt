@@ -1,0 +1,64 @@
+====== 1 Samuel 06:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 The people of Philistia kept the God's sacred chest in their area for seven months.
+\v 2 Then they summoned their priests and their diviners\f + \ft Or: men who practice rituals to find out what would happen in the future \f*. They asked them, "What should we do with the sacred chest of Yahweh? Tell us how we should send it back to its own land."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 The people of Philistia kept the God's sacred chest in their area for seven months.
+\v 2 Then they summoned their priests and their diviners. They asked them, "What should we do with the sacred chest of Yahweh? Tell us how we should send it back to its own land."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\p
+\v 1 Now the ark of Yahweh was in the country of the Philistines for seven months.
+\v 2 Then the Philistine people called for the priests and the diviners; they said to them, "What should we do with the ark of Yahweh? Tell us how we should send it to its own country."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:arkofthecovenant]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:philistines]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:divination]]
+  * [[:vi:obe:other:send]]
+ 
+
+===== Translation Notes: =====
+
+  * **country of the Philistines for seven months** - The Philistines maintained possession of the Ark for 7 months.
+  * **Then they summoned their priests and their diviners** - These would have been Dagon priests and diviners.
+  * **Tell us how we should send it** - The Philistines sought to rid themselves of the Ark without angering Yahweh any further.
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:06|1 Samuel Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/05/11|<<]] | [[en/bible/notes/1sa/06/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,54 @@
+====== Ezra 10:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 So now you must confess to Yahweh, the God whom your ancestors \add worshiped\f + \ft Or: belonged \f* to\add*, the sin which you have committed, and you must do what he wants. Separate yourselves from the people of other nations and from the women from those nations whom you have married."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 So now you must worship Yahweh, the God whom your ancestors worshiped, and you must do what he wants. Separate yourselves from the people of other nations and from the women 
+from those nations whom you have married."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 But now give praise to Yahweh, your ancestors' God, and do his will. Separate from the people of the land and from the foreign women.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:willofgod]]
+  * [[:En:obe:kt:yahweh]]
+  * [[vi:obe:kt:god]]
+===== Translation Notes: =====
+
+    * **his will**  - The will of God.
+    * **separate**  - to move away from, have no part of 
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezr:10|Ezra Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/10/09|<<]] | [[en/bible/notes/ezr/10/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,74 @@
+====== Lamentations 04:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 None of the kings on the earth or anyone else
+\q2 believed that any of our enemies could enter the gates of Jerusalem.
+\q1
+\v 13 But \add that is what happened\add*;
+\q2 it happened because the prophets sinned;
+\q1 and the priests also sinned
+\q2 by causing innocent people to be executed \f + \ft metonymy \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 None of the kings on the earth or anyone else
+\q2 believed that any of our enemies could enter the gates of Jerusalem.
+\q1
+\v 13 But that is what happened;
+\q2 it happened because the prophets sinned;
+\q1 the priests also sinned
+\q2 by causing innocent people to die.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Neither the kings of the earth nor any of the world's inhabitants would believe
+\q that an adversary and enemy could enter the gates of Jerusalem.
+\q
+\v 13 But they did, because of the sins of her prophets, and the iniquities of her priests
+\q who have shed the blood of the righteous in her midst.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:believe]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:gate]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:iniquity]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:bloodshed]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[:vi:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+  * **Neither the kings of the earth nor any of the world's inhabitants** - "Nobody anywhere* (See: [[:vi:ta:vol2:translate:figs_merism]])
+  * **adversary and enemy** - "any kind of enemy" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **the sins of her prophets, and the iniquities of her priests** - "the terrible sins of her prophets and priests" (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **who have shed the blood of the righteous** - Both the priests and the prophets were guilty of murder. AT: "who have murdered the righteous." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:04|Lamentations Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:04:11|<<]] | [[:vi:bible:notes:lam:04:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

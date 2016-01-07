@@ -1,0 +1,69 @@
+====== Psalms 093:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, you have become the King!
+\q2 The majesty and the power that you have are like \f + \ft metaphor \f* robes that a king wears.
+\q1 You put the world firmly in place, and it will never be moved\f + \ft Or: shaken \f*.
+\q1
+\v 2 You started to rule as king a very long time ago;
+\q2 you have always existed.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, you have become the King!
+\q2 The majesty and the power that you have are like robes that a king wears.
+\q1 You put the world firmly in place, and it will never be moved out of its place.
+\q1
+\v 2 You started to rule as king a very long time ago;
+\q2 you have always existed.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 93
+\p
+\q
+\v 1 Yahweh reigns; he is robed in majesty;
+\q Yahweh is clothed with strength; he wears strength like a belt.
+\q The world is firmly established; it cannot be moved.
+\q
+\v 2 Your throne is established from ancient times;
+\q you are from everlasting.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:reign]]
+  * [[:vi:obe:kt:majesty]]
+  * [[:vi:obe:kt:clothed]]
+  * [[:vi:obe:kt:world]]
+  * [[:vi:obe:other:throne]]
+  * [[:vi:obe:other:time]]
+  * [[:vi:obe:kt:eternity]]
+
+===== Translation Notes: =====
+See: talink Translating Poetry and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **he is robed in majesty; Yahweh is clothed with strength; he wears strength like a belt**- in these phrases Yahweh's majesty and power are being represented as articles of clothing (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol1:translate:figs_simile]])
+  * **strength** - power and might
+  * **belt** - a band of leather or another material that a person wears around his waist
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:093|Psalms Chapter 093 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:092:014|<<]] | [[:vi:bible:notes:psa:093:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

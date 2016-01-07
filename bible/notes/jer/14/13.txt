@@ -1,0 +1,58 @@
+====== Jeremiah 14:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then I replied to him, "Yahweh my God, their prophets are telling the people that they will not experience wars \f + \ft metonymy \f* or famines. They are telling the people that you will surely allow us to have peace in our land for many years."
+\p
+\v 14 Yahweh replied to me, "Those prophets say that they are speaking what I tell them to say \f + \ft metonymy \f*, but they are telling lies. I did not send them, so what they are saying is false. They say that they have received visions from me, and that they are telling things that I have revealed to them, but that is not true. They are saying foolish things that they have only thought of themselves.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then I replied to him, "Yahweh my God, their prophets are telling the people that they will not experience wars or famines. They are telling the people that you will surely allow us to have peace in our land for many years."
+\p
+\v 14 Yahweh replied to me, "Those prophets say that they are speaking what I tell them to say, but they are telling lies. I did not send them, so what they are saying is false. They say that they have received visions from me, and that they are telling things that I have revealed to them, but that is not true. They are saying foolish things that they have only thought of themselves.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Then I said, "Oh, Lord Yahweh! See! The prophets are saying to the people, “You will not see sword; there will be no famine for you, for I will give you true security in this place.”’
+\v 14 Yahweh said to me, ‘The prophets prophesy deceit in my name. I did not send them out, nor did I give them any command or speak to them. But deceitful visions and useless and deceitful divination coming from their own hearts—these are what they are prophesying to you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:kt:prophet]]
+  * [[vi:obe:other:falseprophet]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:vision]]
+  * [[:vi:obe:other:divination]]
+  * [[:vi:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh has just told Jeremiah not to pray for the people of Judah.
+
+  * **true security** - "real safety" or "certain safety"
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:14|Jeremiah Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:14:10|<<]] | [[:vi:bible:notes:jer:14:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

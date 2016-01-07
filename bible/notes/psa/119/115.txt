@@ -1,0 +1,67 @@
+====== Psalms 119:115-116 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 115 You evil people, go away from me
+\q2 in order than I may obey my God's commands\f + \ft Or: what my God has commanded \f*!
+\q1
+\v 116 Enable me to be strong, as you promised\f + \ft Or: said \f* that you would do,
+\q2 in order that I may \add continue to\add* live.
+\q1 I am confidently expecting \add that you will restore me\add*;
+\q2 do not disappoint me\f + \ft Or: do not allow me to be disappointed \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 115 You evil people, go away from me
+\q2 so than I may obey my God's commands!
+\q1
+\v 116 Enable me to be strong as you promised that you would do,
+\q2 so that I may continue to live.
+\q1 I am confidently expecting that you will restore me;
+\q2 do not disappoint me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 115 Get away from me, you evil doers,
+\q so that I may observe the commandments of my God.
+\q
+\v 116 Sustain me by your word so that I may live
+\q and not be ashamed of my hope.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:kt:hope]]
+ 
+
+===== Translation Notes: =====
+
+  * **Sustain me by your word**  - AT: "Give me strength through your word" or "Enable me to be strong as you promised in your word"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:113|<<]] | [[:vi:bible:notes:psa:119:117|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

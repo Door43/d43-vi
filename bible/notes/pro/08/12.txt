@@ -1,0 +1,69 @@
+====== Proverbs 08:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 I, wisdom, and understanding of what is smart to do, cannot be separated.
+\q2 We are like two people who live in the same house.
+\q1 I know how to be wise and how to make smart decisions.
+\q1
+\v 13 All the people who revere Yahweh hate evil.
+\q2 I, wisdom, hate people who are proud and people who think they are more important than others.
+\q2 I hate people who have evil behavior and those who say things to deceive others.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 I, Wisdom, live with Common Sense; we are like two people living in the same house.
+\q1 I know many things, and I act carefully.
+\q1
+\v 13 Everyone who honors Yahweh hates what is evil.
+\q2 I am Wisdom, and I hate it when people are proud, when they think they are more important than others.
+\q2 I hate it when people act in evil ways, and when they tell lies.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 I, Wisdom, live with Prudence,
+\q and I possess knowledge and discretion.
+\q
+\v 13 The fear of Yahweh is to hate evil—
+\q I hate pride and arrogance, the evil way, 
+\q and perverted speech—I hate them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:other:possess|possess, possession]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:proud|proud, pride, prideful]]
+  * [[:vi:obe:other:arrogant|arrogant]]
+
+===== Translation Notes: =====
+
+  * **I, Wisdom, live with Prudence**  - Prudence is also represented here as a person.
+  * **Prudence**  - "caution" or "good judgment"
+  * **I possess knowledge and discretion**  - "I am knowledgeable and discreet"
+  * **discretion**  - being careful about what we say and do; being cautious not to cause hurt or harm to others
+  * **perverted speech**  - "wicked talk"
+  * **perverted**  - turned from what is right; distorted
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:08|Proverbs Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:08:10|<<]] | [[:vi:bible:notes:pro:08:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

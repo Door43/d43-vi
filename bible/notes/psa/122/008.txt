@@ -1,0 +1,55 @@
+====== Psalms 122:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 For the sake of my relatives and friends I say,
+\q2 "I wish\f + \ft Or: hope \f* that inside Jerusalem people will live peacefully."
+\q1
+\v 9 And because I love the temple of Yahweh our God,
+\q2 I pray that things will go well for the people who live \add in Jerusalem\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 For the sake of my relatives and friends I say,
+\q2 "I wish that people will live peacefully inside Jerusalem ."
+\q1
+\v 9 Because I love the temple of Yahweh our God,
+\q2 I pray that things will go well for the people who live in Jerusalem.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 For my brothers' and companions’ sakes
+\q I will now say, "May there be peace in you."
+\q
+\v 9 For the sake of the house of Yahweh our God,
+\q I will pray for your good.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:brother|brother]]
+  * [[:vi:obe:other:companion]]
+  * [[vi:obe:other:peace]]
+  * [[vi:obe:kt:houseofgod]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:pray|pray, prayer]]
+  * [[:vi:obe:kt:good]]
+===== Translation Notes: =====
+
+  * **sakes** - "well-being"
+  * **for your good** - AT: "for good things to happen to you"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:122|Psalms Chapter 122 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:122:006|<<]] | [[:vi:bible:notes:psa:123:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

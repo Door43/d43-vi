@@ -1,0 +1,59 @@
+====== Psalms 078:62-63 ======
+
+===== TFT: =====
+
+<usfm>
+\v 62 Because he was angry with his people,
+\q2 he allowed them to be killed \f + \ft metonymy \f* \add by their enemies\add*.
+\q1
+\v 63 Young men were killed in battles,
+\q2 with the result that the young women had no one to marry.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 62 Because he was angry with his people,
+\q2 he allowed their enemies to kill them.
+\q1
+\v 63 Young men were killed in battles,
+\q2 with the result that the young women had no one to marry.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 62 He handed his people over to the sword,
+\q and he was angry with his heritage.
+\q
+\v 63 Fire devoured their young men,
+\q and their young women had no wedding songs.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:kt:inherit]]
+  * [[:vi:obe:other:fire|fire]]
+  * [[:vi:obe:other:devour]]
+
+===== Translation Notes: =====
+
+The writer continues to describe what God did for the people of Israel.
+
+  * **Fire devoured their young men** - AT: "The fire of battle devoured their young men" or "Their young men died quickly in battle like a fire burns dry grass." (See: [[vi:ta:vol1:translate:figs_metaphor]]) Do not communicate that these people used guns and cannons.
+  * **wedding** - the celebration of people becoming married
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:060|<<]] | [[:vi:bible:notes:psa:078:064|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

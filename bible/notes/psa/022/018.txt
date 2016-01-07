@@ -1,0 +1,59 @@
+====== Psalms 022:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 They looked at the clothes that I \add was wearing\add*
+\q2 and gambled to determine which piece each of them would get.
+\b
+\q1
+\v 19 O Yahweh, do not stay far away from me!
+\q2 You who are my \add source of\add* strength,
+\q1 come quickly and help me!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 They looked at the clothes that I was wearing
+\q2 and gambled to determine which piece each of them would get.
+\b
+\q1
+\v 19 Yahweh, be concerned for me!
+\q2 You who are my source of strength,
+\q1 come quickly and help me!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 They divide my garments among themselves,
+\q they cast lots for my clothes.
+\q
+\v 19 Do not be far away, Yahweh;
+\q please hurry to help me, my strength!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lots]]
+  * [[:vi:obe:other:strength]]
+===== Translation Notes: =====
+
+  * **my garments** - "my clothes" 
+  * **Do not be far away** - AT: "Be very close" (See: [[:vi:ta:vol2:translate:figs_litotes|Litotes]])
+  * **my Strength** - "my Power" or "my Help"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:016|<<]] | [[:vi:bible:notes:psa:022:020|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

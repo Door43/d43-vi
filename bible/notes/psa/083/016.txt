@@ -1,0 +1,72 @@
+====== Psalms 083:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Cause them \f + \ft synecdoche \f* to be very ashamed
+\q2 in order that they will admit that you are very powerful.
+\q1
+\v 17 Cause them to be forever disgraced \add because of being defeated\add*,
+\q1 and cause them to die while they are still disgraced.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Cause them  to be very ashamed
+\q2 so that they will admit that you are very powerful.
+\q1
+\v 17 Cause them to be forever disgraced because of being defeated,
+\q1 and cause them to die while they are still disgraced.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 Fill their faces with shame
+\q so that they might seek your name, Yahweh.
+\q
+\v 17 May they be put to shame and be terrified forever;
+\q may they perish in disgrace.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:terror]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:kt:perish]]
+ 
+===== Translation Notes: =====
+
+
+    * **Fill their faces with shame**  - AT: "Make them very ashamed" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+    * **may they perish in disgrace.** - "may they die in their shame."
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:083|Psalms Chapter 083 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/083/013|<<]] | [[en/bible/notes/psa/083/018|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book3}}
+
+~~NOCACHE~~

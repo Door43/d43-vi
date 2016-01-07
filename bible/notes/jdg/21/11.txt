@@ -1,0 +1,46 @@
+====== Judges 21:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add They told this to those men\add*: "This is what you must do: You must kill every man in Jabesh-Gilead. You must also kill every married woman. \add But do not kill the unmarried women\add*."
+\v 12 So those soldiers \add went to Jabesh-Gilead and killed all the men, married women, and children\add*. But they found 400 unmarried young women there. So they brought them to their camp at Shiloh, in Canaan, \add across the river from the Gilead area that belonged to the tribe of Benjamin\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 They told this to those men: "This is what you must do: You must kill every man in Jabesh Gilead. You must also kill every married woman. But do not kill the unmarried women."
+\v 12 So those soldiers went to Jabesh Gilead and killed all the men, married women, and the children. But they found four hundred virgin young women there. So they brought them to their camp at Shiloh in Canaan, across the river from the region of Gilead that belonged to the tribe of Benjamin.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 "Do this: you must kill every male and every woman who has sexual relations with a man.”
+\v 12 The men found among those living in  Jabesh Gilead four hundred young women who had never slept with a man, and they took them to the camp at Shiloh, in Canaan.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:shiloh]]
+  * [[:vi:obe:other:canaan]]
+
+===== Translation Notes: =====
+
+  * **Jabesh Gilead**  - See how you translated this in [[vi:bible:notes:jdg:21:08|Judges 21:8]].
+  * **four hundred young women** - "400 young women" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **never slept with a man** - "never had sexual relations with a man"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:21|Judges Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:21:08|<<]] | [[:vi:bible:notes:jdg:21:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

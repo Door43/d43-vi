@@ -1,0 +1,44 @@
+====== Deuteronomy 15:22-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 You may \add kill and\add* eat \add the meat of those animals\add* at your homes. Those who have done things that cause them to become unacceptable to God and those who have not done such things are permitted to eat that meat, just like anyone is permitted to eat the meat of a deer or an antelope.
+\v 23 But you must not eat any of the blood; you must drain all the blood on the ground \add when you kill those animals\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 You may kill and eat the meat of those animals in your towns. Those who have done things that cause them to become unacceptable to God and those who have not done such things are permitted to eat that meat, just like anyone is permitted to eat the meat of a gazelle or a deer.
+\v 23 But you must not eat any of the blood; you must drain all the blood on the ground when you kill those animals.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 You will eat it within your gates; the unclean and the clean persons alike must eat it, as you would eat a gazelle or a deer.
+\v 23 Only you must not eat its blood; you must pour its blood out on the ground like water.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:kt:unclean|unclean, uncleanness]]
+  * [[:vi:obe:kt:clean|clean, cleanse]]
+  * [[:vi:obe:kt:blood|blood]]
+
+===== Translation Notes: =====
+
+  * **within your gates - **  “within your community” or “inside your city” (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **a gazelle or a deer** - A "deer" is the same as a "hart." See how you translated these in [[vi:bible:notes:deu:12:15|12:15]].
+  * **you must not eat its blood** - "you must not eat the meat with blood in it" or "you must not consume its blood"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:15|Deuteronomy Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:15:19|<<]] | [[:vi:bible:notes:deu:16:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

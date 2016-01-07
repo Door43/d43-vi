@@ -1,0 +1,69 @@
+====== Hosea 07:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 They do not cry out to me sincerely [IDI];
+\q2 they \add only\add* lie on their beds and wail.
+\q1 They gather together and request \add me to give them\add* grain and wine,
+\q2 but they turn away from me.
+\q1
+\v 15 I trained\f + \ft Or: taught \f* them and enabled them to become strong,
+\q2 but now they plan \add to do\add* evil things to me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 They do not cry out to me; they do not call to me from their hearts;
+\q2 they only lie on their beds and howl and cry out.
+\q1 They cut themselves to try to get the attention of their idols, so they may receive grain and new wine from their gods. 
+\q2 They have rebelled against me. 
+\q1
+\v 15 Even though I trained them and helped them become strong,
+\q2 even now they are planning to do evil against me. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 They have not cried to me with all their heart,
+\q but they wail on their beds.
+\q They cut themselves to obtain grain and new wine,
+\q and they turn away from me.
+\q
+\v 15 Though I trained them and strengthened their arms,
+\q they are now plotting evil against me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:grain]]
+  * [[:en;obe:other:wine]]
+  * [[:En:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **They cut themselves to obtain grain and new wine **- This refers to idol worship. (UDB) (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **and they turn away from me** - AT:"They no longer worship me". 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:07|Hosea Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:07:12|<<]] | [[:vi:bible:notes:hos:07:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

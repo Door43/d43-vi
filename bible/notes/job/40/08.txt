@@ -1,0 +1,68 @@
+====== Job 40:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Are you going to accuse me and say that I am unjust?
+\q2 Are you going to say that what I have done is wrong, in order that you can say that what you have done is right?
+\q1
+\v 9 Do you have the same amount of power \f + \ft metonymy \f* as I do?
+\q2 Can your voice sound as loud as thunder, as mine can?
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Are you going to accuse me and say that I am unjust?
+\q2 Are you going to say that what I have done is wrong, in order that you can say that what you have done is right?
+\q1
+\v 9 Do you have the same amount of power as I do?
+\q2 Can your voice sound as loud as thunder, as mine can?
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Will you actually say that I am unjust?
+\q Will you condemn me so that you may claim that you are right?
+\q
+\v 9 Do you have an arm like God’s?
+\q Can you thunder with a voice like him?
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:unjust]]
+  * [[:vi:obe:kt:condemn]]
+  * [[:vi:obe:other:voice]]
+ 
+
+===== Translation Notes: =====
+
+  * Will you actually say I am unjust - This means, "You are saying I am unjust." (See: Rhetorical Question)
+  * will you condemn me —. - This means, " You are condemning me do so you can claim that you are innocent."(see:Rhetorical Question)
+  * **arm like God's - This expression means, "strength like God's strength"(See:Simile)**
+  * **can you thunder with a voice like him - Do you have a powerful voice like God when he causes thunder.(See:Simile)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:40|Job Chapter 40 Comprehension Questions]]**
+**[[:vi:bible:notes:job:40:06|<<]] | [[:vi:bible:notes:job:40:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

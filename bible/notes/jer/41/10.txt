@@ -1,0 +1,59 @@
+====== Jeremiah 41:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Then Ishmael \add and his men\add* captured the king's daughters and some of the other people who had been left in Mizpah by Nebuzaradan in order that Gedaliah would take care of them. Ishmael and his men took those people and started back toward the Ammon area.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then Ishmael and his men captured the king's daughters and some of the other people who had been left in Mizpah by the chief Babylonian guard Nebuzaradan so that Gedaliah would take care of them. Ishmael and his men took those people and started back toward the Ammon area.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Next Ishmael captured all the other people who were in MItzpah, the king's daughters and all the people who were left in Mitzpah whom Nebuzaradan the chief guard had assigned to Gedaliah son of Ahikam. So Ishamael son of Nethaniah captured them and went to cross over to the people of Ammon.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:mizpah]]
+  * [[:vi:obe:other:chief]]
+  * [[vi:obe:other:assign]]
+  * [[:vi:obe:other:ammon]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **who were left**  - "who stayed" or "who remained"
+    * **Nebuzaradan ... Gedaliah ... Ahikam ... Ishmael ... Nethaniah**  - These are the names of men. (See: Translate Names)
+    * **captured them and went to cross over to the people of Ammon**  - AT: "took the people and went to Ammon"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:41|Jeremiah Chapter 41 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/41/08|<<]] | [[en/bible/notes/jer/41/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

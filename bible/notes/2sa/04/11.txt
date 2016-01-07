@@ -1,0 +1,50 @@
+====== 2 Samuel 04:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 So because you two evil men murdered a man who is innocent\f + \ft Or: has done nothing wrong \f* when he was sleeping on his bed in his own house, I will do something worse to you. I will surely \f + \ft rhetorical question \f* get revenge on you two for murdering \f + \ft metonymy \f* him, and wipe you\f + \ft Or: cause you to disappear \f* from the earth!"
+\p
+\v 12 Then David gave a command to his soldiers, and they killed the two men, and cut off their hands and their feet, and hung their bodies \f + \ft Or: their hands and feet \f* \add on a pole\add* near the pool at Hebron. But they took the head of Ishbosheth and buried it \add respectfully\add* in the tomb of Abner, there at Hebron.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 So because you two evil men have murdered a man who did nothing wrong—and you killed him when he was sleeping on his bed in his own house, I will do something worse to you. I will surely get revenge on you two for murdering him, and wipe you off from the earth!"
+\p
+\v 12 Then David gave a command to his soldiers, and they killed the two men, and cut off their hands and their feet, and hung their bodies on a pole near the pool at Hebron. But they took the head of Ishbosheth and buried it respectfully in the tomb of Abner, there at Hebron.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 How much more, when wicked men have killed an  innocent person in his own house on his bed, should I not now require his blood from your hand, and remove you from the earth?"
+\v 12 Then David gave orders to the young men, and they killed them and cut off their hands and feet and hung them up beside the pool at Hebron. But they took the head of Ish Bosheth and buried it in the grave of Abner in Hebron.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:innocent|innocent]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:other:bury|bury, buried]]
+  * [[vi:obe:other:tomb]]
+  * [[:vi:obe:other:abner|Abner]]
+
+===== Translation Notes: =====
+
+  * **require his blood from your hand, and remove you from the earth?" **  - These two phrase have similar meaning and are combined for emphasis. Both these phrases are polite ways to say "I will kill you." (See: [[:vi:ta:vol2:translate:figs_doublet]] and [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **his blood from your hand** - In this phrase "his blood" represents the life of Ishbosheth and "from your hand" represents Rehab and Baanah, the sons of Rimmon the Beerothite from [[vi:bible:notes:2sa:04:05|2 Samuel 4:5]]. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:04|2 Samuel Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:04:08|<<]] | [[:vi:bible:notes:2sa:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

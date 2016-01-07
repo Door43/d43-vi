@@ -1,0 +1,73 @@
+====== Hosea 09:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 When I first started \add to do things to help\add* Israel,
+\q2 it seemed to me as though \f + \ft simile \f* I had found grapes in the desert.
+\q1 Your ancestors were \add delightful\add*,
+\q2 like \f + \ft simile \f* the first figs that grow on fig trees \add each year\add*.
+\q1 But when they came to Peor \add Mountain\add*,
+\q2 they worshiped that disgusting idol Baal,
+\q2 and they became as disgusting as the idol that they loved.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh says, "When I found Israel, it was like someone finding grapes growing in the wilderness.
+\q1 When I saw your ancestors, they were like the very first figs that appear in the year, figs growing on a young fig tree.  
+\q1 But when they came to Mount Peor,
+\q2 they gave themselves completely to that disgusting idol Baal,
+\q2 and they became as detestable as the idol they loved.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 10 Yahweh says, "When I found Israel, it was like finding grapes in the wilderness.
+\q Like the first fruit of the season on the fig tree, I found your fathers.
+\q But they went to Baal Peor,
+\q and they gave themselves to that shameful idol.
+\q They became as detestable as the idol they loved.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:grape]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[:vi:obe:kt:firstfruit|first fruits]]
+  * [[:vi:obe:other:fig]]
+  * [[:vi:obe:other:father|father, forefather]]
+  * [[:vi:obe:other:baal|Baal]]
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:En:obe:other:detestable]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **it was like finding grapes in the wilderness...Like the first fruit of the season on the fig tree** - God is using parallel expressions to show the initial spiritual state of the nation of Israel. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **it was like finding grapes in the wilderness**  - God first compares the people of Israel to grapes. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **Like the first fruit of the season on the fig tree** - And again God compares the nation of Israel to new fresh figs. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **But they went to Baal Peor**  - Baal Peor was a mountain in the land of Moab on which Baal was worshiped.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:09|Hosea Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:09:08|<<]] | [[:vi:bible:notes:hos:09:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -9,7 +9,7 @@ Ezra was an Israelite priest and expert in Jewish law who recorded the history o
   * Ezra also helped rebuild the temple which had been destroyed by the Babylonians when they captured Jerusalem.
   * There are two other men named Ezra mentioned in the Old Testament.
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:other:nehemiah]], [[:vi:obe:other:jerusalem]], [[:vi:obe:kt:temple]], [[:vi:obe:kt:lawofmoses]])
 

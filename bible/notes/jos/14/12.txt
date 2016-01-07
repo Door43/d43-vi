@@ -1,0 +1,47 @@
+====== Joshua 14:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 So please give me the hilly area that Yahweh promised to give to me on that day long ago. At that time, you heard \add me say\add* that the Amalek people-group lived there. You heard me say that their cities were large, and they had walls around them \add to protect them from their enemies\add*. But now, Yahweh will help me, and as a result I will force them to leave, just like Yahweh said would happen."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 So please give me the hill country that Yahweh promised to give to me on that day long ago. At that time, you heard me say that the Anakim lived there. You heard me say that their cities were large and that they had walls around them to protect them. But now, perhaps Yahweh will help me to drive them away with our army, just as Yahweh promised."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 Now therefore give me this hill country, which Yahweh promised me on that day. For you heard on that day that the Anakim were there with great fortified cities. It may be that Yahweh will be with me and that I will drive them out, just as Yahweh said."
+</usfm>
+
+
+===== Important Terms: =====
+
+    * [[vi:obe:kt:promise]]
+    * [[vi:obe:other:castout]]
+ 
+
+===== Translation Notes: =====
+
+    * **hill country** - Possible meanings are 1) many large hills or small mountains (see UDB) or 2) one mountain.
+    * **Anakim**  - a people group (See: [[vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:14|Joshua Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:14:10|<<]] | [[:vi:bible:notes:jos:14:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

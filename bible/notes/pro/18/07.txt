@@ -1,0 +1,64 @@
+====== Proverbs 18:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 What foolish people \f + \ft metonymy \f* say causes them to be ruined;
+\q2 their own words are like a trap \f + \ft metaphor \f* \add that catches\f + \ft Or: seizes \f*\add* them.
+\b
+\q1
+\v 8 \add People enjoy listening to\add* what gossips say like \f + \ft simile \f* \add they enjoy\add* tasty food;
+\q2 they \add accept what gossips tell them like\add* \f + \ft metaphor \f* they swallow tasty food.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 A foolish person brings himself to ruin by the things he says;
+\q2 his very words set a trap in which he will be caught. 
+\q1
+\v 8 When a person gossips, his words are as sweet to other people as candy is in their mouths,
+\q2 and they love to listen to them.
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 A fool’s mouth is his ruin,
+\q and he ensnares himself with his lips.
+\q
+\v 8 The words of a gossip are like delicious morsels,
+\q and they go down into the inner parts of the body.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:foolish]]
+  * [[:En:obe:other:ruin]]
+  * [[:En:obe:kt:word]]
+  * [[:En:obe:other:gossip]]
+===== Translation Notes: =====
+
+  * **A fool’s mouth ... his lips** - Both of these phrases refer to what a fool says. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **is his ruin** - AT: "will ruin him"
+  * **he ensnares himself** - AT: "he will cause problems for himself" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **The words of a gossip ... of the body** - Gossip is compared to tasty food to show how willingly people believe it. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **morsel** - "bite of food"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:18|Proverbs Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:18:05|<<]] | [[:vi:bible:notes:pro:18:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

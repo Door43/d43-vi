@@ -1,0 +1,45 @@
+====== Daniel 11:10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 However, the sons of the king of Syria will prepare to start a war, and they will gather a large army. That army will march \add south\add* and spread all over \add Israel\add* like a huge flood. They will attack a strong fortress \add in the south of Israel\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 However, his sons will prepare to start a war, and they will gather a large army. That army will march south and spread all over Israel like a huge flood. They will attack a strong fortress in the south of Israel.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 His sons will wage war and assemble a great army, which will keep coming and will overflow like a flood, pass through, and repeat the assault all the way to his fortress.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:flood]]
+  * [[vi:obe:other:stronghold]]
+===== Translation Notes: =====
+
+The angel continues speaking to Daniel.
+
+  * **His sons** - "The sons of the king of the North"
+  * **will wage war** - AT: "will fight against their enemies" 
+  * **assemble a great army** - AT: "gather together many men who can fight in battles"
+  * **will overflow like a flood** - The way the large army covers the land will be like a flood of water.  AT: "will be so great in number that they will cover all the land" (See: [[:vi:ta:vol1:translate:figs_simile]]) 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:11|Daniel Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:11:07|<<]] | [[:vi:bible:notes:dan:11:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

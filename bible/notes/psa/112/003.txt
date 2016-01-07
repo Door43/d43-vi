@@ -1,0 +1,74 @@
+====== Psalms 112:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Their family \f + \ft metonymy \f* will be very wealthy \f + \ft doublet \f*,
+\q2 and their righteous deeds will endure forever.
+\q1
+\v 4 Godly\f + \ft Or: Righteous \f* people are like lights \f + \ft simile \f* that shine in the darkness
+\q2 on those who are kind, merciful and righteous.
+\q1
+\v 5 Things will go well for those who generously lend money to others
+\q2 and who conduct their businesses honestly.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Their families will be wealthy,
+\q2 and their righteous deeds will endure forever.
+\q1
+\v 4 For those who honor God, it is as if a light were shining on them in the darkness,
+\q2 on those who are kind, merciful and righteous.
+\q1
+\v 5 Things will go well for those who generously lend money to others
+\q2 and who conduct their businesses honestly.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Wealth and riches are in his house;
+\q his righteousness will endure forever.
+\q
+\v 4 Light shines in the darkness for the godly person;
+\q he is gracious, merciful, and just.
+\q
+\v 5 It goes well for the man who deals graciously and lends money,
+\q who conducts his affairs with honesty.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:endure]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:kt:light]]
+  * [[:vi:obe:kt:darkness]]
+  * [[:vi:obe:kt:godly]]
+  * [[:vi:obe:kt:grace]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:kt:justice]]
+
+===== Translation Notes: =====
+
+The person who sings this song continues to describe a person who reveres Yahweh.
+  * **Light shines in the darkness for the godly person** - "When bad things happen, righteous people have hope and a way to escape." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **lends money** - The man lends money in order to help people who are having a hard time and not in order to take advantage of other people.
+  * **who conducts his affairs with honesty** - "he is just when taking care of his own business"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:112|Psalms Chapter 112 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:112:001|<<]] | [[:vi:bible:notes:psa:112:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5 kt team}}
+
+~~NOCACHE~~

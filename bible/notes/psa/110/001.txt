@@ -1,0 +1,64 @@
+====== Psalms 110:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to my lord \add the king\add*,
+\q1 "Sit here, close to me, in the place of highest honor \f + \ft metonymy \f*
+\q2 until I completely defeat your enemies \f + \ft metaphor \f*
+\q2 and make them like a stool for your feet!"
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to my lord the king,
+\q1 "Sit here, close to me, in the place of highest honor 
+\q2 until I completely defeat your enemies 
+\q2 and make them like a stool for your feet!"
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 110
+\d A psalm of David.
+\b
+\q
+\v 1 Yahweh says to my lord, "Sit at my right hand
+\q until I make your enemies your footstool."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:lord]]
+  * [[:vi:obe:kt:righthand]]
+  * [[vi:obe:other:adversary]]
+  * [[:vi:obe:other:footstool]]
+
+===== Translation Notes: =====
+
+This psalm is a song of praise to the king of Israel.\\ 
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of David**  - This can also be written as a sentence. AT: “This is a psalm of David or “This is a psalm that David wrote.”
+  * **Sit at my right hand **- AT: "Sit at the place of honor which I have for you." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **make your enemies your footstool **- AT: "put your enemies under your power." (See:[[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:110|Psalms Chapter 110 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:109:030|<<]] | [[:vi:bible:notes:psa:110:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

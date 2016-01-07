@@ -1,19 +1,19 @@
-====== false witness ======
+====== false witness, corrupt witness, false testimony, false report ======
 
 ===== Definition: =====
 
-A false witness is someone who does not tell the truth when giving a report about something that happened.
-
-  * To "bear false witness" means to give a false report about something.
-  * The ninth commandment says to not bear false witness, that is, to not lie.
-  * False witnesses were brought in to testify against Jesus. There were also false witnesses who told lies about Stephen, which led to his death.
+The terms "false witness" and "corrupt witness" refer to a person who says untrue things about a person or an event, usually in a formal setting such as a court.
+ 
+  * A "false testimony" or "false report" is the actual lie that is told.
+  * To "bear false witness" means to lie or give a false report about something.
+  * The Bible gives several accounts in which false witnesses were hired to lie about someone in order to have that person punished or killed.
 
 ===== Translation Suggestions: =====
 
-
-  * To "bear false witness" could be translated as, "testify falsely" or "give a false report" or "speak a false testimony."
+  * To "bear false witness" or "give a false testimony" could be translated as, "testify falsely" or "give a false report about someone" or "speak falsely against someone" or "lie."
   * When "false witness" refers to a person, it could be translated as "person who lies" or "one who testifies falsely" or "someone who says things that are not true."
 
+(See also:  [[witness]], [[true]] other)
 
 ===== Bible References: =====
 

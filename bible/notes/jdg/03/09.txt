@@ -1,0 +1,63 @@
+====== Judges 03:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 But when they pleaded to Yahweh \add to help them\add*, he brought a leader to rescue them. He was Othniel, the son of Caleb's younger brother Kenaz.
+\v 10 Yahweh's Spirit came upon him, and he became their leader. He \add led an army that\add* fought against \add the army of\add* Cushan, and defeated them.
+\v 11 After that, there was peace in the land for forty years, until Othniel died.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 But when they pleaded to Yahweh to help them, he brought a leader to rescue them. He was Othniel (the son of Caleb's younger brother, Kenaz).
+\v 10 Yahweh's Spirit gave him power and insight, and he became their leader. He led an army that fought against the army of Cushan Rishathaim, and Othiel defeated them.
+\v 11 After that, for forty years there was peace in the land, until Othniel died.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 When the people of Israel called out to Yahweh, Yahweh raised up someone who would come to help the people of Israel, and who would rescue them: Othniel (the son of Kenaz), Caleb’s younger brother.
+\v 10 Yahweh's Spirit empowered him, and he judged Israel and he went out to war. Yahweh gave him victory over Cushan Rishathaim, king of Aram. It was the power of Othniel that defeated Cushan Rishathaim.
+\v 11 The land had peace for forty years. Then Othniel (the son of Kenaz) died.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:caleb]]
+  * [[:vi:obe:kt:holyspirit]]
+  * [[:vi:obe:other:judgeposition]]
+  * [[:vi:obe:other:aram]]
+  * [[:vi:obe:kt:power]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Othniel...Kenaz** - See how you translated these names in [[vi:bible:notes:jdg:01:11|Judges 1:13]].   
+    * **empowered him** - This phrase means that Yahweh helped Othniel to have and develop the qualities he needed to be a great leader.
+    * **Cushan Rishathaim** - See how you translated this king's name in [[vi:bible:notes:jdg:03:07|3:8]].
+    * **the power of Othniel** - Othniel's name is used to refer to his army. AT: "the army of Othniel" (See: [[en/bible/team-info/training/quick-reference/figures/metonymy]])
+    * **The land had peace** - "The land" is used to refer to the people who lived in the land. AT: "The people had peace"
+    * **forty years** - "40 years" (See: [[vi:ta:vol2:translate:translate_numbers]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:03|Judges Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:03:07|<<]] | [[:vi:bible:notes:jdg:03:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

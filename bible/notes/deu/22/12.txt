@@ -1,0 +1,49 @@
+====== Deuteronomy 22:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add Twist threads together to\add* make tassels and sew\f + \ft Or: fasten \f* them on the four bottom corners of your cloak.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Twist threads together to make tassels and sew them on the four bottom corners of your cloak.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 You must make yourself fringes on the four corners of the cloak with which you clothe yourself.
+</usfm>
+
+
+===== Important Terms: =====
+ 
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel.
+
+  * **fringes**  - see how you translated "tassels" in [[vi:bible:notes:num:15:37|Numbers 15:38]].
+  * **of the cloak with which you clothe yourself**  - "of the outer-cloth which you wear"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:09|<<]] | [[:vi:bible:notes:deu:22:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

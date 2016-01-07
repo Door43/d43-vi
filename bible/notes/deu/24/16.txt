@@ -1,0 +1,56 @@
+====== Deuteronomy 24:16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Parents must not be executed for crimes that their children have committed, and children must not be executed for crimes that their parents have committed. People should be executed only for the crimes that they themselves have committed.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Parents must not be executed for crimes that their children have committed, and children must not be executed for crimes that their parents have committed. People should be executed only for the crimes that they themselves have committed.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 The parents must not be put to death for their children, neither must the children be put to death for their parents. Instead, everyone must be put to death for his own sin.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:children]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+
+===== Translation Notes: =====
+
+
+    * **be put to death (3x)**  - This refers to capital punishment. (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **children**  - This refers to any offspring, not just children of minor age.
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/14|<<]] | [[en/bible/notes/deu/24/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

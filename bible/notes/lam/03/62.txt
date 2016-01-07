@@ -1,0 +1,59 @@
+====== Lamentations 03:62-63 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 62 Every day they whisper and mutter things about me,
+\q2 all during the day.
+\q1
+\v 63 Look at them! Whether they are standing or sitting
+\q2 they make fun of me by the songs that they sing.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 62 Every day they whisper and mutter things about me,
+\q2 all during the day.
+\q1
+\v 63 Look at them! Whatever they are doing at the moment,
+\q2 they make fun of me by the songs that they sing.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 62 The lips of those that rose up against me, and their deep thoughts that are against me all the day.
+\q
+\v 63 Whether in their sitting or their rising up, look, Yahweh! I am the object of their mocking song.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mock]] 
+
+===== Translation Notes: =====
+
+  * **the lips of those that rose up against me** - AT: "the words that those who rose up against me spoke" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **those that rose up against me** - AT: "those who attack me" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **their sitting or their rising up** - AT: "When they sit down and when they get up" or "Whenever they do anything" (See: [[:vi:ta:vol2:translate:figs_merism]] and [[:vi:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:03:58|<<]] | [[:vi:bible:notes:lam:03:64|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

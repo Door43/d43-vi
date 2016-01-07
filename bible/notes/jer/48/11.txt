@@ -1,0 +1,71 @@
+====== Jeremiah 48:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 The people of Moab have always felt secure;
+\q2 they have never been exiled\f + \ft Or: forced \add by their enemies\add* to go to other countries \f*.
+\q1 They are like \f + \ft metaphor \f* wine that has been left undisturbed \add in a container for many days to give it good flavor\add*,
+\q1 so now it is smells good,
+\q2 and it tastes good.
+\q1
+\v 12 But Yahweh says that there will be a time when he will send \add enemies to attack them\add*;
+\q1 they will get rid of the people of Moab like people pour out wine \add on the ground\add*
+\q2 and then smash the wine jar.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 The people of Moab have always felt secure;
+\q2 they have never been exiled.
+\q1 They are like  wine that has been left undisturbed in a container for many days to give it good flavor,
+\q1 so now it is smells good,
+\q2 and it tastes good.
+\q1
+\v 12 But Yahweh says that there will be a time when he will send enemies to attack them;
+\q1 they will get rid of the people of Moab like people pour out wine on the ground
+\q2 and then smash the wine jar.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Moab has felt secure since he was young. He is like his wine
+\q that has never been poured from pot to pot. He has never gone into captivity.
+\q Therefore he tastes as good as ever; his flavor remains unchanged.
+\v 12 So see, the days are coming"—this is Yahweh’s declaration—when I will send him those who will tip him over and pour out all his pots and shatter his jars.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:captive]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:declare|declare, declaration]]
+  * [[:vi:obe:other:send|send, send out]]
+===== Translation Notes: =====
+
+  * **Moab has felt secure since he was young**  - Here "he" refers to  the entire nation of Moab. (See: [[:vi:ta:vol2:translate:figs_personification]])   * **He is like his wine that has never been poured from pot to pot**- The word "he" is the nation of Moab. The nation of Moab is being compared to wine that has not been exiled from its land. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **Therefore he tastes as good as ever; his flavor remains unchanged **- These two phrases mean the same thing. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **So see, the days are coming** - "Listen carefully because soon"
+  * **this is Yahweh’s declaration **- See how you translated this in [[vi:bible:notes:jer:01:07|1:8]].
+  * ** tip him over and pour out all his pots and shatter his jars** - These two phrase are saying similar things and are combined for emphasis. Both of them refer to the oncoming destruction of the nation of Moab. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:48|Jeremiah Chapter 48 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:48:08|<<]] | [[:vi:bible:notes:jer:48:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Hosea 04:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 It is because of their doing those things that there is no rain \f + \ft metonymy \f*, the land has become dry,
+\q2 the people are mourning,
+\q1 and the people are dying \add from hunger\add*.
+\q2 Even the wild animals and the birds and the fish in the sea are dying.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Because of what the people are doing, the land is now a wilderness. 
+\q2 Every creature that lives here is dying, 
+\q1 from the animals that live in the fields, 
+\q2 to the birds that fly in the sky;
+\q1 even the fish in the sea, they are also dying.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 So the land is drying up,
+\q and every one who is living in it is wasting away:
+\q the beasts in the fields and the birds in the sky;
+\q even the fish in the sea are taken away.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:beast|beast]]
+
+===== Translation Notes: =====
+
+  * **wasting away **- "wasting away" means to become weaker and probably die because of lack of food or illness
+  * **even the fish in the sea are taken away**  - This means either that the fish are dying or they are disappearing for some reason.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:04|Hosea Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:04:01|<<]] | [[:vi:bible:notes:hos:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

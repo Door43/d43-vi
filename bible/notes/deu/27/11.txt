@@ -1,0 +1,61 @@
+====== Deuteronomy 27:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 On that same day Moses\f + \ft Or: I \f* said to the Israelite people,
+\v 12 "After you have crossed over the Jordan \add River\add*, the tribes of Simeon, Levi, Judah, Issachar, Joseph, and Benjamin must stand on Gerizim Mountain and \add request Yahweh to\add* bless the people.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 On that same day Moses said to the Israelite people,
+\v 12 "After you have crossed over the Jordan River, the tribes of Simeon, Levi, Judah, Issachar, Joseph, and Benjamin must stand on Mount Gerizim and request Yahweh to bless the people.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Moses commanded the people the same day and said,
+\v 12 “These tribes must stand on Mount Gerizim to bless the people, after you have passed over the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tribe|tribe]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:other:jordanriver]]
+  * [[:vi:obe:other:simeon|Simeon]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:other:issachar|Issachar]]
+  * [[:vi:obe:other:josephot|Joseph (OT)]]
+  * [[:vi:obe:other:benjamin|Benjamin]]
+
+===== Translation Notes: =====
+
+
+    * **These tribes** - AT: "the people from these tribes" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **Mount Gerizim** - This was a small mountain north of Mount Ebal. See how you translated it in [[vi:bible:notes:deu:11:29|11:29]].
+    * **Joseph** - This combines the tribes of Ephraim and Manasseh who were descendants of Joseph.
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:27|Deuteronomy Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/27/09|<<]] | [[en/bible/notes/deu/27/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

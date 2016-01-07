@@ -1,0 +1,50 @@
+====== Deuteronomy 21:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 The elders from the closest town must wash their hands over the young cow whose neck was broken,
+\v 7 and they must say, 'We did not murder this person \f + \ft metonymy \f*, and we did not see who did it.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 The elders from the closest town must wash their hands over the young cow whose neck was broken, there in the valley,
+\v 7 and they must say, 'We did not murder this person, and we did not see who did it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 All the elders of the city that is the nearest to the killed man must wash their hands over the heifer whose neck was broken in the valley;
+\v 7 and they must answer to the case and say, "Our hands have not shed this blood, neither have our eyes seen it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:elder]]
+  * [[vi:obe:other:heifer]]
+  * [[:vi:obe:kt:blood]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel.
+
+  * **the heifer whose neck was broken in the valley**  - AT: "the heifer with the broken neck." (See: [[:vi:ta:vol2:translate:figs_activepassive]]) 
+  * **and they must answer to the case**  - "and they must testify about this case"
+  * **Our hands have not shed this blood** - The priests refer to their hands because the hands are the part of a person that is often used to kill. AT: "We did not kill this person." (See: [[:vi:ta:vol2:translate:figs_synecdoche]]) 
+  * **neither have our eyes seen it**  - The priests refer to their eyes because the eyes are the part of a person that sees. AT: "and we did not see the murder happen."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:21:05|<<]] | [[:vi:bible:notes:deu:21:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

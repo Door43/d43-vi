@@ -1,0 +1,65 @@
+====== Psalms 017:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Protect me as carefully as people protect their own eyes;
+\q2 protect me like \add birds\add* protect \add their babies\add* under their wings \f + \ft metaphor \f*.
+\q1
+\v 9 Do not allow wicked people to attack me;
+\q2 my enemies surround me, wanting to kill me.
+\b
+\q1
+\v 10 They never pity [IDI] anyone,
+\q2 and they are always boasting.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Protect me as carefully as people protect their own eyes;
+\q2 protect me like birds protect their babies under their wings.
+\q1
+\v 9 Do not allow wicked people to attack me,
+\q2 those enemies of mine who surround, wanting to kill me.
+\b
+\q1
+\v 10 They are proud of their riches and success,
+\q2 but they have no mercy on anyone.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Protect me like the apple of your eye; hide me under the shadow of your wings
+\q
+\v 9 from the presence of the wicked ones who assault me, my enemies who surround me.
+\q
+\v 10 They have no mercy on anyone; their mouths speak with pride.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:shadow]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:other:proud]]
+
+===== Translation Notes: =====
+
+  * **Protect me like the apple of your eye** - "Protect me as you would something most valuable and precious;" (See:[[:vi:ta:vol1:translate:figs_simile]])
+  * **hide me under the shadow of your wings** - "Keep me safe as a mother bird protects her babies by gathering them under her wing" (See:[[:vi:ta:vol1:translate:figs_metaphor]])
+  * **their mouths speak with pride** - AT: "they are always boasting." (See: [[:vi:ta:vol2:translate:figs_personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:017|Psalms Chapter 017 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:017:006|<<]] | [[:vi:bible:notes:psa:017:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

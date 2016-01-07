@@ -1,0 +1,31 @@
+===== Install unfoldingWord on an Android Device =====
+
+This module answers the question: How do I install unfoldingWord on an Android device?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
+
+==== How to Install uW app ====
+
+The instructions for installing unfoldingWord are below. You can also watch the __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]] (https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4)__ video to understand the process of selecting and installing an app on your device.
+
+**Note:** Installing requires an Internet connection.
+
+   * Tap on the **Google Play Store **  icon on the Android device. Google Play Store opens.
+   * To search for the app, tap the magnifying glass at the top right of the window.
+   * Tap **Search Google Play**  and type unfoldingWord (do not use spaces).
+   * Tap the magnifying glass or close the keyboard.
+   * When the Play Store has found the program, tap on the **uW**  icon.
+   * Tap **Install**.
+   * Tap **Accept**  to use the default settings of the app.
+   * The app will download and then install. Once the program is installed, tap **Open**.
+
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
+  * [[vi:ta:vol1:tech:uw_checking|About Checking Levels]]
+  * [[vi:ta:vol1:tech:uw_language|Language Information]]
+  * [[vi:ta:vol1:tech:uw_select|Select a Language]]
+  * [[vi:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+

@@ -1,0 +1,69 @@
+====== Psalms 006:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, do not punish me when you are angry \add with me\add*;
+\q2 Do not even rebuke\f + \ft Or: scold \f* me \add when you are angry\add*.
+\q1
+\v 2 Yahweh, act kindly toward me and heal me because I have become weak.
+\q2 My body \f + \ft synecdoche \f* shakes because I am experiencing much pain.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, do not correct me when you are angry with me;
+\q2 do not punish me when you are upset.
+\q1
+\v 2 Yahweh, act kindly toward me and heal me because I have become weak.
+\q2 My body shakes because I am experiencing so much sorrow.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\d For the chief musician; on stringed instruments, set to the Sheminith style. A psalm of David.
+\b
+\q
+\v 1 Yahweh, do not rebuke me in your anger
+\q or discipline me in your wrath.
+\q
+\v 2 Have mercy on me, Yahweh, for I am frail;
+\q heal me, Yahweh, for my bones are shaking.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:rebuke]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:discipline]]
+  * [[:vi:obe:kt:wrath]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:other:heal]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]].
+
+  * **on stringed instruments** - AT: This psalm should be played on stringed instruments"
+  * **set to the Sheminith style** - AT: "in low musical notes for male voices."
+  * **a psalm of David** - AT: "David wrote this psalm."
+  * **my bones are shaking**  - AT: "my whole body is shaking from fear." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:006|Psalms Chapter 006 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:005:011|<<]] | [[:vi:bible:notes:psa:006:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

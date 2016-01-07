@@ -1,0 +1,57 @@
+====== Psalms 010:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Wicked people revile you \f + \ft rhetorical question \f* continually.
+\q2 They think, "God will never punish us!"
+\q1
+\v 14 But you see the trouble and the distress \add that they cause\add*.
+\q2 People who are suffering expect that you will help them;
+\q2 and you help orphans, also.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Wicked people are always insulting you.
+\q2 They think, "God will never punish us!"
+\q1
+\v 14 But you see the trouble and the distress that they cause.
+\q2 People who are suffering expect that you will help them,
+\q2 and you help orphans, also.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Why does the wicked man reject God
+\q and say in his heart, "You will not hold me accountable"?
+\q
+\v 14 You have taken notice, for you always see the one who inflicts the misery and sorrow.
+\q The helpless entrusts himself to you;
+\q you rescue the fatherless.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reject]]
+  * [[:vi:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **Why does the wicked man** - The words "wicked man" represent "wicked people." AT: "Wicked people are always rejecting God!" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **his heart**  - AT: "their hearts," (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:010|Psalms Chapter 010 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:010:011|<<]] | [[:vi:bible:notes:psa:010:015|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

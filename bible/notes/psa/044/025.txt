@@ -1,0 +1,62 @@
+====== Psalms 044:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 We are pushed down to the ground
+\q2 and we cannot get up.
+\q1
+\v 26 Arise, and come and help us!
+\q2 Rescue us because you faithfully love us.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 We are in complete panic;
+\q2 we cannot do anything; we are as good as dead.
+\q1
+\v 26 Do something! Come and help us!
+\q2 Rescue us because you love us as you promised to do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 For our souls have melted away into the dust;
+\q our bodies cling to the earth.
+\q
+\v 26 Rise up for our help
+\q and redeem us for the sake of your covenant faithfulness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:kt:bow|bow, bow down]]
+  * [[:vi:obe:kt:body|body]]
+  * [[vi:obe:other:earth]]
+  * [[vi:obe:kt:raise]]
+  * [[:vi:obe:kt:redeem|redeem, redemption]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+
+===== Translation Notes: =====
+
+  * **For our souls**  - The people of Israel refer to themselves by the invisible part of person that gives life to the body. (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **For our souls have melted away into the dust**  - When something melts it becomes smaller until it disappears. If what gives them life has become small and weak then they cannot take action to help themselves. Both fear and sadness can cause this feeling. AT: "We are so afraid it is like the part of us that helps us fight has melted away" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **bodies cling to the earth**  - This is another way to say they have no energy to fight any longer. Like they are so weak they have fallen and lift themselves off the ground.
+  * **Rise up**- This is a command to stand. This phrase is used to refer to beginning to act on something.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:044:023|<<]] | [[:vi:bible:notes:psa:045:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Psalms 091:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 nothing evil will happen to you;
+\q2 no plague will come near your house,
+\q1
+\v 11 because Yahweh will command his angels
+\q2 to protect you wherever you go.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 If you do, nothing evil will happen to you;
+\q2 no plague will come near your house
+\q1
+\v 11 because Yahweh will command his angels
+\q2 to protect you in whatever you are doing.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 No evil will overtake you;
+\q no affliction will come near your home.
+\q
+\v 11 For he will direct his angels to protect you,
+\q to guard you in all your ways.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:evil]]
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:kt:angel]]
+
+===== Translation Notes: =====
+
+  * **overtake** - come upon suddenly
+  * **For he will direct** - AT: "Yahweh will direct"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:091|Psalms Chapter 091 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:091:008|<<]] | [[:vi:bible:notes:psa:091:012|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

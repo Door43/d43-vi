@@ -1,0 +1,57 @@
+====== Psalms 018:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then Yahweh \add spoke in a loud voice\add* from the sky,
+\q2 and \add his enemies\add* heard his voice that sounded like thunder.
+\q1
+\v 14 He shot his arrows at them and caused them to scatter;
+\q2 His flashes of lightning caused them to become very confused \f + \ft Or: to run away \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then Yahweh shouted loudly from the sky, and to his enemies, it sounded like thunder.
+\q1
+\v 14 He shot his arrows at them and caused them to scatter; his flashes of lightning caused them to become very confused.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Yahweh thundered in the heavens! The Most High shouted and sent hailstones and lightning.
+\q
+\v 14 He shot his arrows and scattered his enemies; many lightning bolts dispersed them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:mosthigh]]
+  * [[:vi:obe:other:send]]
+  * scatter
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:disperse]]
+
+===== Translation Notes: =====
+
+  * **Yahweh thundered in the heavens** - "Yahweh's voice sounded similar to thunder." (See:[[:vi:ta:vol2:translate:figs_metonymy]]) 
+  * **Yahweh ... The Most High** - "Yahweh" and "the Most High" are both referring to God.  
+  * **and sent hailstones** - The word "hailstone" refers to chunks of ice similar to small or large rocks falling from the sky. This is a picture of God's great power.
+  * **He shot his arrows and scattered his enemies** - God's lighting strikes are being compared to arrows because they both destroy his enemies. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **and dispersed them** - "and sent them in different directions."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:011|<<]] | [[:vi:bible:notes:psa:018:015|>>]]**
+
+~~DISCUSSION~~{{tag>Publish book1}}
+
+~~NOCACHE~~

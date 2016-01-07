@@ -1,0 +1,53 @@
+====== Leviticus 12:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 The priest will offer them to Yahweh in order that she may be forgiven for any sins she has committed. Then she will be purified from her flow of blood \add when the baby was born\add*.
+\p Those are the regulations for women who give birth to a son or daughter.
+\v 8 If a woman who gives birth to a child cannot afford a lamb, she must bring two doves or two young pigeons. One will be burned completely \add on the altar\add*, and one will be an offering to enable her to become acceptable to God again. By doing that, the priest will cause that she will be forgiven for any sins she has committed, and she no longer will need to be avoided."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 The priest will offer these animals to Yahweh in order that she may be forgiven for any sins she has committed. Then she will be purified from her flow of blood when the baby was born.
+\p Those are the regulations for women who give birth to a baby boy or girl.
+\v 8 If a woman who gives birth to a child cannot afford a lamb, she must bring two doves or two young pigeons. One will be burned completely on the altar, and one will be an offering to enable her to become acceptable to God again. By doing that, the priest will cause her to be forgiven for any sins she has committed, and she no longer will need to be avoided."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 Then he will offer it before Yahweh and make atonement for her, and she will be cleansed from the flow of her blood. This is the law regarding a woman who gives birth to either a male or a female child.
+\v 8 If she is not able to afford a lamb, then she must take two doves or two young pigeons,  one as a burnt offering and the other as a sin offering, and the priest will make atonement for her; then she will be clean.' "
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:kt:atonement|atonement, atone]]
+  * [[:vi:obe:kt:clean|clean, cleanse]]
+  * [[vi:obe:other:law]]
+  * [[vi:obe:kt:children]]
+  * [[vi:obe:kt:lamb]]
+  * [[vi:obe:other:dove]]
+  * [[vi:obe:other:burntoffering]]
+  * [[vi:obe:other:sinoffering]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:kt:clean]]
+
+===== Translation Notes: =====
+
+  * **and she will be cleansed from the flow of her blood** - AT: and this will cleanse her from her bleeding which occurred during childbirth" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **If she is not able to afford a lamb**  - "If she does not have enough money to buy a lamb"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:12|Leviticus Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:12:06|<<]] | [[:vi:bible:notes:lev:13:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

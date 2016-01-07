@@ -1,0 +1,78 @@
+====== 2 Samuel 01:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Saul and Jonathan were loved and they pleased many people.
+\q2 They were together \f + \ft litotes \f* while they lived and when they died.
+\q1 \add In battles\add* they were swifter than eagles and they were stronger than lions.
+\b
+\q1
+\v 24 You Israelite women, cry about Saul;
+\q1 He provided beautiful scarlet\f + \ft Or: red \f* clothes for you
+\q2 and he gave you gold ornaments\f + \ft Or: jewelry \f* to fasten on those clothes.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Saul and Jonathan were loved; they pleased many people.
+\q2 They were together while they lived and when they died.
+\q1 In battle they were swifter than eagles and stronger than lions.
+\b
+\q1
+\v 24 You women in Israel, weep about Saul.
+\q1 He provided beautiful scarlet clothes for you
+\q2 and gave you gold ornaments to put on.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Saul and Jonathan were loved and gracious in life,
+\q And in their death they were not separated.
+\q They were swifter than eagles,
+\q They were stronger than lions.
+\q
+\v 24 You daughters of Israel, weep over Saul,
+\q Who clothed you in scarlet delicately,
+\q Who put ornaments of gold on your garments.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:saul]]
+  * [[:vi:obe:other:jonathan|Jonathan]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:grace|grace, gracious]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:other:eagle|eagle]]
+  * [[:vi:obe:other:lion|lion]]
+  * [[:vi:obe:kt:clothed|clothe, clothed]]
+  * [[:vi:obe:other:gold|gold]]
+
+===== Translation Notes: =====
+
+  * **they were not separated** - AT: "they were together" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  * **They were swifter than eagles, They were stronger than lions. ** - Saul and Jonathan were powerful warriors. ( See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **Who clothed you in scarlet delicately, Who put ornaments of gold on your garments.** - “Who made it so you could have nicer clothes and wear jewelry.” These two phrases share similar meanings that focus on making a woman look pretty. This is how David describes King Saul's achievements for Israel. AT: "Who made your lives better." (See:[[:vi:ta:vol1:translate:figs_simile]]) 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:01|2 Samuel Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:01:21|<<]] | [[:vi:bible:notes:2sa:01:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

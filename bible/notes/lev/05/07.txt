@@ -1,0 +1,53 @@
+====== Leviticus 05:7-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 If you \add are poor and\add* cannot afford to bring a lamb, you must bring to Yahweh two doves or two young pigeons. One will be an offering for your sin and one will be an offering that will be completely burned \add on the altar\add*.
+\v 8 You must bring them to the priest. First he will offer one of them to be an offering for your sin. He will wring\f + \ft Or: twist \f* its neck \add to kill it\add*, but he must not pull off its head completely.
+\v 9 Then he must sprinkle some of the blood against the side of the altar. The remaining blood must be drained out at the base of the altar. That will be an offering for your sin.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 If you are poor and cannot afford to bring a lamb, you must bring to Yahweh two doves or two young pigeons. One will be an offering for your sin, and the other will be an offering that will be completely burned on the altar.
+\v 8 You must bring them to the priest. First he will offer one of them to be an offering for your sin. He will wring its neck to kill it, but he must not pull off its head completely.
+\v 9 Then he must sprinkle some of the blood against the side of the altar. The remaining blood must be drained out at the base of the altar. That will be an offering for your sin.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 If he cannot afford to buy a lamb, then he can bring as his guilt offering for his sin two doves or two young pigeons to Yahweh, one for a sin offering and the other for a burnt offering.
+\v 8 He must bring them to the priest, who will offer one for the sin offering first—he will wring off its head from its neck but will not remove it completely from the body.
+\v 9 Then he will splash some of the blood of the sin offering on the side of the altar, and he will drain the rest of the blood out at the base of the altar. This is a sin offering.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:lamb]]
+  * [[vi:obe:other:guiltoffering]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:vi:obe:other:dove|dove, pigeon]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:sinoffering|sin offering]]
+  * [[vi:obe:other:burntoffering]]
+  * [[vi:obe:kt:priest]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[:vi:obe:other:altar|altar]]
+
+===== Translation Notes: =====
+
+  * **If he cannot afford to buy a lamb** - "If he does not have enough money to buy a lamb"
+  * **he will wring off its head** - See how this was translated in [[vi:bible:notes:lev:01:14|1:15]].
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:05|Leviticus Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:05:05|<<]] | [[:vi:bible:notes:lev:05:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

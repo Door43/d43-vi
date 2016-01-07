@@ -1,0 +1,77 @@
+====== Psalms 082:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 God gathers all the \add rulers and judges who think they are\add* gods for a meeting in heaven;
+\q2 and he tells them that he has decided this:
+\q1
+\v 2 "You must \f + \ft rhetorical question \f* stop judging people unfairly;
+\q1 you must no longer make decisions that favor wicked people!
+\qr (Think about that!)
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 God stands in heaven in a meeting of all the spirits whom he has placed in charge of what he created.
+\q2 He tells them that he has decided this:
+\q1
+\v 2 "You must  stop judging people unfairly;
+\q1 you must no longer make decisions that favor wicked people!
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 82
+\d A psalm of Asaph.
+\b
+\q
+\v 1 God stands in the divine assembly;
+\q in the midst of the gods he renders judgment.
+\q
+\v 2 How long will you judge unjustly
+\q and show favoritism to the wicked? 
+\qs Selah\qs*
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:asaph|Asaph]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:divine|divine]]
+  * [[:vi:obe:kt:assembly|assembly]]
+  * [[:vi:obe:kt:falsegod|false god, god, goddess]]
+  * [[:vi:obe:kt:judge|judge, judgment]]
+  * [[:vi:obe:kt:unjust|unjust, unjustly, injustice]]
+  * [[:vi:obe:kt:favor|favor, favorable, favoritism]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:selah|selah]]
+
+===== Translation Notes: =====
+
+“This is a psalm that Asaph wrote.” 
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **renders** - "gives"
+  * **gods** - Possible translations are: 1) human judges who use their power for their own interests; 2) spiritual principalities and powers such as those that many people are afraid of every day; and 3) the group of gods or elevated beings that many cultures believe.
+  * **Selah** - See how you translated this in [[vi:bible:notes:psa:003:001|3:2]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:082|Psalms Chapter 082 Comprehension Questions]]**
+
+**[[:vi:bible:notes:psa:081:015|<<]] | [[:vi:bible:notes:psa:082:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

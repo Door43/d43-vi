@@ -1,0 +1,59 @@
+====== Deuteronomy 30:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Yahweh our God will change \f + \ft metaphor \f* your inner beings, with the result that you will love him with all that you desire and with all that you feel. And then you will continue to live in that land.
+\v 7 Yahweh our God will send all the disasters that I have told you about on your enemies and on those who oppressed\f + \ft Or: persecuted \f* you,
+\v 8 and as you did before, you will do what Yahweh wants you to do, and you will obey all the commands that I have given to you today.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Yahweh our God will change your inner beings, with the result that you will love him with all that you desire and with all that you feel. And then you will continue to live in that land.
+\v 7 Yahweh our God will send all the disasters that I have told you about on your enemies and on those who oppressed you.
+\v 8 As you did before, you will do what Yahweh wants you to do, and you will obey all the commands that I have given to you today.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 Yahweh your God will circumcise your heart and the heart of your descendants, so you will love Yahweh your God with all your heart and with all your soul, so that you may live.
+\v 7 Yahweh your God will put all these curses on your enemies and on those who hate you, those who persecuted you.
+\v 8 You will return and obey the voice of Yahweh, and you will do all his commandments that I am commanding you today.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:circumcise|circumcise, circumcision]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:descendant|descendant]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:curse]]
+  * [[:vi:obe:other:adversary|enemy, adversary]]
+  * [[:vi:obe:other:persecute|persecute, persecution]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+
+  * **circumcise your heart** - This is not a literal removal of flesh. It means God will remove their sin and enable them to love and obey him. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **with all your heart and with all your soul** - These basically mean the same thing and are combined for emphasis. AT: "with complete commitment" or "completely" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **obey the voice of Yahweh** - AT: "obey what Yahweh says" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:30|Deuteronomy Chapter 30 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:30:04|<<]] | [[:vi:bible:notes:deu:30:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

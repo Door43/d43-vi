@@ -1,0 +1,64 @@
+====== 2 Samuel 12:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 Then David comforted his wife, Bathsheba. Then he slept\f + \ft Or: had sex \f* with her, and she \add became pregnant\add*, and gave birth to another son. David named that son Solomon. Yahweh loved this little boy.
+\v 25 He told the prophet Nathan to tell David to name the baby boy Jedediah \add which means 'loved by Yahweh'\add*, because Yahweh loved him.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Then David comforted his wife, Bathsheba. Then he slept with her, and she became pregnant again and gave birth to another son. David named that boy Solomon. Yahweh loved this little boy.
+\v 25 He told the prophet Nathan to tell David to name the baby boy Jedediah, because Yahweh loved him.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 24 David comforted Bathsheba his wife, and went in to her, and had sexual relations with her. So she bare a son, and the child was named  Solomon. Yahweh loved him, 
+\v 25 so he sent word through Nathan the prophet to name him Jedidiah, because Yahweh loved him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:comfort]]
+  * [[vi:obe:other:bathsheba]]
+  * [[:vi:obe:other:sex]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:solomon]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:prophet]]
+ 
+===== Translation Notes: =====
+
+    * **Jedidiah**  -alternate name of David's son that Yahweh chose for him (See: [[vi:ta:vol1:translate:translate_names]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:12|2 Samuel Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/12/21|<<]] | [[en/bible/notes/2sa/12/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Deuteronomy 28:60-62 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 60 He will bring on you the plagues that he sent on the people of Egypt, and you will never be healed.
+\v 61 He will also send on you many other sicknesses and diseases that I have not talked about in these laws, until you all will die.
+\v 62 You became as numerous as the stars in the sky, but only a few of you will remain alive, if you do not obey Yahweh your God.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 60 He will bring on you the plagues that he sent on the people of Egypt, and you will never be healed.
+\v 61 He will also send on you many other sicknesses and diseases that I have not talked about in these laws, until you all will die.
+\v 62 You became as numerous as the stars in the sky, but only a few of you will remain alive, if you do not obey Yahweh your God.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 60 He will bring on you again all the diseases of Egypt that you was afraid of; they will cling to you.
+\v 61 Also every sickness and plague that is not written in the book of this law, those also Yahweh will bring on you until you are destroyed.
+\v 62 You will be left few in number, although you were like the stars of the heavens in number, because you did not listen to the voice of Yahweh your God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:other:plague]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:kt:god]]
+  * 
+
+===== Translation Notes: =====
+
+  * **they will cling to you** - This means the diseases will not stop and no one will be able to heal them.
+  * **that is not written** - AT: "that I have not even written" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **until you are destroyed** - AT: "until he has destroyed you"
+  * **you were like the stars of the heavens in number** - This means that in the past there were many Israelites. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **to the voice of Yahweh**- AT: "to what Yahweh says" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:58|<<]] | [[:vi:bible:notes:deu:28:63|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,57 @@
+====== Revelation 11:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 I will appoint my two witnesses\f + \ft Or: men who will tell others about me \f*. They will proclaim what I reveal to them for one thousand two hundred and sixty days. They will wear  \add rough\add* clothes made from goat's hair  \add to show that they are sad about people's sin\add*.'"
+\v 4 Those  \add witnesses are the ones\add* that are represented by the two olive trees and the two lampstands that are in the presence of the Lord  \add who rules\add* the earth \f + \ft symbol \f*.
+\v 5 If enemies try to harm those  \add witnesses\add*, fire will come from the mouths of the witnesses and destroy them. If people want to harm them, \add the two witnesses\add* will certainly kill them similarly.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 I will send two witnesses to announce what I reveal to them for 1,260 days. They will show they are sad about the people's sin by wearing rough clothes made from goat's hair."
+\v 4 Those witnesses are the ones that are represented by the two olive trees and the two lampstands that are in the presence of the Lord, who rules the earth.
+\v 5 If anyone tries to harm those witnesses, fire comes from the witnesses' mouths and destroys them. If people want to harm them, the two witnesses certainly kill them in the same way.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 I will give my two witnesses authority to prophesy for 1,260 days, clothed in sackcloth."
+\v 4 These witnesses are the two olive trees and the two lampstands that have stood before the Lord of the earth.
+\v 5 If anyone chooses to harm them, fire comes out of their mouth and devours their enemies. Anyone who wishes to harm must be killed in this way.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:witness|witness, eyewitness]]
+  * [[:vi:obe:kt:authority]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:kt:clothed|clothe, clothed]]
+  * [[:vi:obe:other:sackcloth|sackcloth and ashes]]
+  * [[:vi:obe:other:olive|olive]]
+  * [[:vi:obe:other:lampstand|lampstand]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:fire|fire]]
+  * [[:vi:obe:other:devour|devour]]
+  * [[vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+  * **These witnesses are the two olive trees and the two lampstands**  - These two witnesses have previously been referred to as olive trees and lampstands. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:11|Revelation Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:11:01|<<]] | [[:vi:bible:notes:rev:11:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

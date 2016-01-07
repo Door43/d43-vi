@@ -1,0 +1,58 @@
+====== Numbers 10:11-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 In the second year \add after the Israelites left Egypt\add*, on the twentieth day of the second month\f + \ft Or: in May \f*, the cloud rose up from above the Sacred Tent.
+\v 12 So the Israelites moved from the Sinai Desert, and they continued traveling \add north\add* until the cloud stopped in the Paran Desert.
+\v 13 That was the first time they\f + \ft Or: we \f* moved, obeying the instructions that Yahweh had given to Moses\f + \ft Or: me \f* to tell them.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 In the second year after the Israelites left Egypt, on the twentieth day of the second month, the cloud rose up from above the sacred tent.
+\v 12 So the Israelites moved from the wilderness of Sinai, and they continued traveling north until the cloud stopped in the wilderness of Paran.
+\v 13 That was the first time they moved, obeying the instructions that Yahweh had given to Moses to tell them.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 In the second year, in the second month, on the twentieth day of the month, the cloud was lifted from the tabernacle of the covenant decrees.
+\v 12 The people of Israel then went on their journey from the wilderness of Sinai. The cloud stopped in the wilderness of Paran.
+\v 13 They made their first journey, following Yahweh's command given through Moses.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:biblicaltimeyear]]
+  * [[vi:obe:other:biblicaltimeday]]
+  * [[:vi:obe:kt:tabernacle]]
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:other:decree]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:israel]]
+  * [[:vi:obe:other:desert]]
+  * [[:vi:obe:other:sinai]]
+  * [[:vi:obe:other:paran]]
+  * [[:vi:obe:other:command]]
+  * [[vi:obe:other:moses]]
+
+===== Translation Notes: =====
+
+  * **the cloud was lifted **- "Yahweh lifted the cloud" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **cloud stopped**  - This means the cloud settled down at a place.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:10|Numbers Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:num:10:10|<<]] | [[:vi:bible:notes:num:10:14|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

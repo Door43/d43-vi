@@ -1,0 +1,45 @@
+====== 1 Chronicles 02:13-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Jesse's oldest son was Eliab. His other sons were Abinadab, Shimea,
+\v 14 Nethanel, Raddai,
+\v 15 Ozem, and the youngest was David.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Jesse's oldest son was Eliab. His other sons were Abinadab, Shimea,
+\v 14 Nethanel, Raddai,
+\v 15 Ozem.  The youngest was David.
+
+
+\li2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 Jesse became the father of his firstborn Eliab, Abinadab the second, Shimea the third,
+\v 14 Nethanel the fourth, Raddai the fifth,
+\v 15 Ozem the sixth, and David the seventh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:david]]
+
+===== Translation Notes: =====
+
+  * **Jesse, Eliab, Abinadab, Shimea, Nethanel, Raddai, Ozem, David**  - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:02|1 Chronicles Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:02:09|<<]] | [[:vi:bible:notes:1ch:02:16|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

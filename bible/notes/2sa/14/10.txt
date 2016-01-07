@@ -1,0 +1,61 @@
+====== 2 Samuel 14:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 The king said to her, "If anyone says anything \add to threaten you\f + \ft Or: cause \f* you trouble\add* you, bring that person to me, and \add I will make sure that\add* he will never cause you trouble again."
+\p
+\v 11 Then the woman said, "Your Majesty, please pray that Yahweh your God will not allow my relative, who \add wants to get\add* revenge on my son for killing \f + \ft metonymy \f* his brother, to be able to do that."
+\p David replied, "As surely as Yahweh lives, your son will not be harmed at all. [IDI]"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 The king said to her, "If anyone says anything to threaten you, bring that person to me, and I will make sure that he will never cause you trouble again."
+\p
+\v 11 Then the woman said, "Your Majesty, please pray that Yahweh your God will not allow my relative, who wants to get revenge on my son for killing his brother, to be able to do that."
+\p David replied, "As surely as Yahweh lives, your son will not be harmed at all."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 The king replied, "Whoever says anything to you, bring him to me, and he will not touch you anymore."
+\v 11 Then she said, "Please, may the king call to mind Yahweh your God, so that the avenger of blood will not destroy anyone further, so that they will not destroy my son." The king replied, "As Yahweh lives, not one hair of your son will fall to the ground."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:other:mind]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:kt:blood]]
+
+===== Translation Notes: =====
+
+    * **you, your**  - Here the king is addressing only the widow woman so these are singular.   See: [[:vi:ta:vol1:translate:figs_you]]
+    * **may the king call to mind Yahweh your God**  - Here the widow woman in addressing only the king so this is also singular.   See: [[:vi:ta:vol1:translate:figs_you]]
+    * **that they will not destroy my son**  - or "that they will not kill my son" or "that they will not execute my son"
+    * **not one hair of your son will fall to the ground** - Here "one hair of your son" is [[:vi:ta:vol2:translate:figs_synecdoche]].  The idea is that not only will the son not be put to death but also that he will not even be hurt or physically punished.   The negative is used to greatly emphasize the kings authority on the matter (see: [[:vi:ta:vol2:translate:figs_litotes]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:14|2 Samuel Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/14/08|<<]] | [[en/bible/notes/2sa/14/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

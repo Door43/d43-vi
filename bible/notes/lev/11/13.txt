@@ -1,0 +1,47 @@
+====== Leviticus 11:13-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 There are some birds that you must detest \add and not eat\add*. They include eagles, bearded vultures, black vultures,
+\v 14 kites, any kind of falcon\f + \ft Or: buzzard \f*,
+\v 15 any kind of raven,
+\v 16 horned owls, screech owls, seagulls, any kind of hawk,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 There are some birds that you must detest and not eat. They include eagles, vultures,
+\v 14 kites, any kind of falcon,
+\v 15 any kind of raven,
+\v 16 horned owls, screech owls, seagulls, and any kind of hawk.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 The birds you must detest and that you must not eat are these:  the eagle, the vulture, 
+\v 14 the kite, any kind of falcon,
+\v 15 every kind of raven,
+\v 16 the horned owl and the screech owl, the seagull, and any kind of hawk.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:eagle|eagle]]
+
+===== Translation Notes: =====
+
+Yahweh continues telling Moses and Aaron what the people can eat and must avoid eating.
+
+  * **vulture...kite...falcon...raven...screech owl...horned owl...seagull...hawk** - These are birds that are either awake at night or feed on rodents and dead animals (See:[[vi:ta:vol1:translate:translate_unknown]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:11|Leviticus Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:11:11|<<]] | [[:vi:bible:notes:lev:11:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

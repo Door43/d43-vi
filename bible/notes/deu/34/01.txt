@@ -1,0 +1,70 @@
+====== Deuteronomy 34:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Moses climbed up from the plains in the Moab \add region\add* to the top of Pisgah Peak on Nebo Mountain, across \add the Jordan River\add* from Jericho. There Yahweh showed him all the land \add that the Israelites would occupy\add*. He showed him the Gilead \add region\add* as far north as Dan \add city\add*;
+\v 2 all \add the land that the tribe of\add* Naphtali would occupy; all the land \add that the tribes of\add* Ephraim and Manasseh \add had occupied\add*; all the land \add that the tribe of\add* Judah would occupy as far west as the Mediterranean sea;
+\v 3 the desert \add area in the south part of Judah\add*; and the Jordan Valley that extends from Jericho \add in the north\add* to Zoar \add city in the south\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Moses climbed up from the plains in the region of Moab to Mount Nebo, to the highest point on Mount Pisgah, which is across the Jordan River from Jericho. There Yahweh showed him all the land that the Israelites would occupy. He showed him the region of Gilead as far north as the city of Dan;
+\v 2 all the land that the tribe of Naphtali would occupy; all the land that the tribes of Ephraim and Manasseh had occupied; all the land that the tribe of Judah would occupy as far west as the Mediterranean Sea;
+\v 3 the desert area in the south part of Judah; and the Valley of the Jordan that extends from Jericho in the north to the city of Zoar in the south.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 34
+\p
+\v 1 Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposed Jericho. And Yahweh showed him all the land of Gilead as far as Dan,
+\v 2 and all Naphtali, and the land of Ephraim and Manasseh, and all the land of Judah, to the western sea,
+\v 3 and the Negev, and the plain of the valley of Jericho, the City of Palms, as far as Zoar.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:moses]]
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:jericho]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:gilead]]
+  * [[:vi:obe:other:dan]]
+  * [[:vi:obe:other:naphtali]]
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:other:manasseh]]
+  * [[:vi:obe:other:judah]]
+  * [[vi:obe:other:mediterranean]]
+  * [[:vi:obe:other:negev]]
+  * [[:vi:obe:other:zoar]] 
+
+===== Translation Notes: =====
+
+
+    * **Mount Nebo** - This is the name of a mountain in Moab. See how you translated this in [[vi:bible:notes:deu:32:48|32:49]].
+    * **Pisgah** - Pisgah appears to be the highest peak of Mount Nebo. See how you translated this in [[vi:bible:notes:deu:03:17|3:17]].
+    * **the City of Palms** - This is another name for Jericho.
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:34|Deuteronomy Chapter 34 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/29|<<]] | [[en/bible/notes/deu/34/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

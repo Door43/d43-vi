@@ -1,0 +1,72 @@
+====== Deuteronomy 26:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add I declare that\add* I have not eaten any food from the tithe while I was mourning \add for someone who died\add*. And I have not taken any of it \add out of my house\add* while I was unacceptable to you; I have not offered any of it to \add spirits of\add* dead people. Yahweh, I have obeyed you and done everything that you have commanded us \add concerning the tithe\add*.
+\v 15 So \add please\add* look down from your holy place in heaven, and bless us, your Israelite people. Also bless this very fertile [IDI] land which you have given to us, which is what you promised our ancestors that you would do.'
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 I declare that I have not eaten any food from the tenth portion while I was mourning for someone who died. And I have not taken any of it out of my house while I was in any condition unacceptable to you; I have not offered any of it to spirits of dead people. Yahweh, I have obeyed you and done everything that you have commanded us concerning the tenth portion.
+\v 15 So please look down from your holy place in heaven, and bless us, your Israelite people. Also bless this very fertile land which you have given to us, which is what you promised our ancestors that you would do.'
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 I have not eaten any of it in my mourning, nor have I put it somewhere else when I was impure, not have I given any of it in honor of the dead. I have listened to the voice of Yahweh my God; I have obeyed everything you have commanded me to do.
+\v 15 Look down from the holy place where you live, from heaven, and bless your people Israel, and the land that you have given us, as you had sworn to our fathers, a land flowing with milk and honey."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mourn|mourn, mourning]]
+  * [[:vi:obe:other:honor|honor]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:holyplace]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:other:oath|oath, swear]]
+  * [[:vi:obe:other:father|father, forefather]]
+  * [[:vi:obe:other:honey]]
+
+===== Translation Notes: =====
+This continues what the Israelite must say when he gives his tithe to the poor.
+
+  * **I have not eaten any of it in my mourning** - "I have not eaten of the tithe while I was mourning"
+  * **when I was impure**  - "when I was ritually unclean"
+  * **I have listened...you have commanded me to do** - Both clauses mean the same thing. They emphasize that the person has obeyed all of God's commands. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **from the holy place where you live, from heaven** - Both of these mean the same thing. AT: "from heaven, your holy dwelling place" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **a land flowing with milk and honey** - See how you translated this in [[vi:bible:notes:deu:06:03|6:3]].
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:26|Deuteronomy Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/26/12|<<]] | [[en/bible/notes/deu/26/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

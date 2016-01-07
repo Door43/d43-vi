@@ -1,0 +1,64 @@
+====== Matthew 26:62-64 ======
+
+===== TFT: =====
+
+<usfm>
+\v 62 Then the high priest stood up and said to Jesus, "Are you not going to reply? What \add do you say about\add* these things that they are saying \add to accuse\add* you?"
+\v 63 But Jesus remained silent. Then the high priest said to him, "I command you to tell us \add the truth\add*, knowing that the all-powerful God \add is listening to you\add*: Are you the Messiah, the Son of God\f + \ft Or: the man who is also God \f*?"
+\v 64 Jesus replied, "Yes, \add it is as\add* you say. But I will also say this to all of you: Some day you will see \add me\add*, the one who came from heaven, sitting beside \f + \ft metonymy \f* Almighty \add God\add*, and ruling. You will also see me coming on the clouds \add from\add* heaven!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 62 Then the high priest stood up and said to Jesus, "Are you not going to reply? What do you say about these things that they are saying to accuse you?"
+\v 63 But Jesus remained silent. Then the high priest said to him, "I command you to tell us the truth; you know that the all-powerful God is listening to you: Are you the Christ, the Son of God?"
+\v 64 Jesus replied, "Yes, it is as you say. But I will also say this to all of you: Some day you will see me, the Son of Man, sitting beside Almighty God and ruling. You will also see me coming on the clouds from heaven!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 62 The high priest stood up and said to him, "Do you have no answer? What is it that they are testifying against you?"
+\v 63 But Jesus was silent. The high priest said to him, "I command you by the living God, tell us whether
+you are the Christ, the Son of God."
+\v 64 Jesus replied to him, "You have said it yourself; but I tell you, from now on you will see the Son of Man sitting at the
+right hand of Power, and coming on the clouds of heaven."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:highpriest]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:christ]]
+  * [[:vi:obe:kt:sonofgod]]
+  * [[:vi:obe:kt:sonofman]]
+  * [[:vi:obe:kt:righthand]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus being questioned by the high priest.
+
+  * **they are testifying against you **- "these witnesses are testifying against you"
+  * **tell us whether you are the Christ **- "tell us if you are the Christ"
+  * **You have said it yourself** - "As you have said, I am" or "You have just admitted it" (See: [[vi:ta:vol1:translate:figs_idiom]])
+  * **but I tell you, from now on you **  - Jesus is speaking to the high priest and to the other persons there.
+  * **from now on you will see the Son of Man**- Possible meanings: 1) they will see the Son of Man at some time in the future (see UDB) or 2) by "now" Jesus means the time of his death, his coming back from the dead, and his going up to heaven.
+  * **at the right hand of Power**  - "at the right hand of Almighty God"
+  * **coming on the clouds of heaven**  - "riding to earth on the clouds of heaven"
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:26:59|<<]] | [[:vi:bible:notes:mat:26:65|>>]]**
+
+~~DISCUSSION~~{{tag>publish righthand power}}
+
+~~NOCACHE~~

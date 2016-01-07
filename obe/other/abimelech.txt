@@ -10,7 +10,7 @@ Abimelech was a Philistine king in the region of Gerar during the time when Abra
   * Many years later, Abraham's son Isaac and his family settled in the region ruled by Abimelech.
   * Another man by the name of Abimelech was a son of Gideon and a brother of Jotham. Some translations may use a slightly different spelling of his name to make it clear that he is a different person from King Abimelech.
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:other:philistines]], [[:vi:obe:other:gerar]], [[:vi:obe:other:beersheba]], [[:vi:obe:other:jotham]], [[:vi:obe:other:gideon]])
 

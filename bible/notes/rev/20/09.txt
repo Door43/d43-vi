@@ -1,0 +1,53 @@
+====== Revelation 20:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 They will march over the whole earth and will surround the camp of God's people \add in Jerusalem\add*, the city that \add God\add* loves. Then \add God will send\add* fire down from heaven, and it will burn them up.
+\v 10 The devil, who had deceived those people, will be thrown \f + \ft Or:\add God's angel\add* will throw the devil, who had deceived those people \f* into the lake of burning sulfur. \add This is the same lake\add* into which both the beast and the false prophet had been \add thrown\add* \f + \ft Or:\add he\add* had \add thrown\add* both the beast and the false prophet \f*. \add As a result\add*, they will continually suffer severely forever.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 They will march over the whole earth and will surround the camp of God's people in Jerusalem, the city that God loves. Then God will send fire down from heaven, and it will burn them up.
+\v 10 God will throw the devil, who had deceived those people, into the lake of burning sulfur. This is also where God had thrown the beast and the false prophet. As a result, they will continually suffer severely forever.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 They went up over the broad plain of the earth and surrounded the camp of the saints, the beloved city. But fire came down from heaven and devoured them.
+\v 10 The devil, who deceived them, was thrown into the lake of burning sulfur, where the beast and the false prophet had been thrown. They will be tormented day and night forever and ever.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:saint]]
+  * [[:vi:obe:kt:beloved]]
+  * [[:vi:obe:other:fire]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:kt:satan]]
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:kt:hell]]
+  * [[vi:obe:other:sulfur]]
+  * [[:vi:obe:other:beast]]
+  * [[:vi:obe:other:falseprophet]]
+  * [[:vi:obe:kt:forever]]
+
+===== Translation Notes: =====
+  * **They went** - "Satan's army went"
+  * **lake of burning sulfur** - See how you translated this in [[vi:bible:notes:rev:19:19|19:20]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:20|Revelation Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:20:07|<<]] | [[:vi:bible:notes:rev:20:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

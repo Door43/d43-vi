@@ -1,0 +1,61 @@
+====== Psalms 016:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Therefore I am glad and I \f + \ft metonymy, doublet \f* rejoice;
+\q2 and I can rest securely
+\q1
+\v 10 because you, Yahweh, will not allow my soul\f + \ft Or: spirit \f* to remain in the place where the dead people are,
+\q2 and you will not allow me, your godly one, to stay there.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Therefore I am glad; I am honored to praise him,
+\q and I can rest securely
+\q1
+\v 10 because you, Yahweh, will not allow me to remain in the place where the dead people are,
+\q and you will not allow me, someone who has been faithful to the covenant, to stay there.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Therefore my heart is glad; my honored heart exalts him; surely I will live in security.
+\q
+\v 10 For you will not abandon my soul to sheol; you will not let the one who has covenant faithfulness see the pit.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:exalt]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:other:hades]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:other:pit]]
+
+===== Translation Notes: =====
+
+David continues to speak to God.
+
+  * **Therefore my heart is glad … my honored heart exalts him**  - The speaker is saying that it brings him honor to be able to praise God. Both of these clauses express very similar meanings. AT: "Therefore I am glad; I am honored to praise him," (UDB) (See: [[:vi:ta:vol2:translate:figs_doublet|Doublet]])
+  * **my heart … my honored heart**  - Here the "heart" represents the speaker's thoughts and emotions. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:016|Psalms Chapter 016 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:016:007|<<]] | [[:vi:bible:notes:psa:016:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

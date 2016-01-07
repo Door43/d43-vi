@@ -6,9 +6,9 @@
 
   * The name "Carmel" literally means, "God's vineyard."
   * This 12-mile long mountain range and its valleys had soil that was very fertile.
-  * On Mount Carmel, Elijah challenged the prophets of Baal to a contest on in order to prove that Yahweh is the only true God.
+  * On Mount Carmel, Elijah challenged the prophets of Baal to a contest in order to prove that Yahweh is the only true God.
 
-(Translation suggestions: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:other:Elijah]], [[:vi:obe:other:Baal]])
 

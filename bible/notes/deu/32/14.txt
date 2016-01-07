@@ -1,0 +1,65 @@
+====== Deuteronomy 32:14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 The cows gave them plenty of curds\f + \ft Or: yogurt \f*, the goats gave them plenty of milk,
+\q2 they had well-fed sheep and cattle,
+\q1 they had very good wheat,
+\q2 and they made delicious wine from their grapes.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 The cows gave them plenty of curds; the goats gave them plenty of milk,
+\q they had well fed sheep and cattle,
+\q they had very good wheat,
+\q and they made delicious wine from their grapes.
+\b
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 He ate butter from the herd and drank milk from the flock,
+\q with fat of lambs,
+\q rams of Bashan and goats,
+\q with the finest of the wheat—
+\q and you drank foaming wine made from the juice of grapes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:flock|flock, herd]]
+  * [[:vi:obe:kt:lamb|lamb, Lamb of God]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:other:bashan|Bashan]]
+  * [[:vi:obe:other:goat|goat]]
+  * [[:vi:obe:other:wheat|wheat]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:grape|grape]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+
+  * **He ate** - The word "he" refers to the people of Israel.
+  * **fat of lambs, rams of Basham and goats** - This means that the people of Israel had plenty of healthy herd animals.
+  * **you drank** - The word "you" still refers to the people of Israel. (See: [[:vi:ta:vol1:translate:figs_you]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:13|<<]] | [[:vi:bible:notes:deu:32:15|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

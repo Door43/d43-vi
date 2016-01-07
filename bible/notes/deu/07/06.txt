@@ -1,0 +1,51 @@
+====== Deuteronomy 07:6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 You must do that because you are a group of people who belong to Yahweh our God. He has chosen you from all the people-groups in the world to be his own special people.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 You must do that because you are a group of people who belong only to Yahweh our God. He has chosen you from all the people groups in the world to be his own special people.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 For you are a people holy to Yahweh your God. He has chosen you to be a people for him to possess, more than all the other peoples that are on the face of the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:holy]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:elect|chosen one, chosen people, Chosen One, the elect]]
+  * [[vi:obe:other:possess]]
+  * [[vi:obe:other:earth]]
+
+===== Translation Notes: =====
+
+  * **that are on the face of the earth** - "that live on the earth"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:07|Deuteronomy Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:07:04|<<]] | [[:vi:bible:notes:deu:07:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

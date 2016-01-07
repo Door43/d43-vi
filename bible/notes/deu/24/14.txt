@@ -1,0 +1,64 @@
+====== Deuteronomy 24:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Do not mistreat any servants whom you have hired who are poor and needy \f + \ft doublet \f*, whether they are Israelites or foreigners who are living in your town.
+\v 15 Every day, before sunset, you must pay\f + \ft Or: give \f* them the money that they have earned. They are poor and they need to get their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish \f + \ft metonymy \f* you for having sinned like that.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Do not mistreat any servants whom you have hired who are poor and needy, whether they are Israelites or foreigners who are living in your town.
+\v 15 Every day, before sunset, you must pay/give them the money that they have earned. They are poor and they need to get their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish you for having sinned like that.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 You must not oppress a hired servant who is poor and needy, whether he is of your fellow Israelites, or of the  foreigners who are in your land within your city gates;
+\v 15 Each day you must give him his wage; the sun must not go down on this unsettled matter, for he is poor and is counting on it. Do this so that he does not cry out against you to Yahweh, and so that it not be a sin that you have committed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:oppress|oppress, oppression]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+
+    * **poor and needy**  - These two words mean basically the same thing. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+    * **within your city gates**  - This means that they live in your town, which is protected by gates.
+    * **each day you must give him his wage**  - This means that they should pay their workers at the end of every single day; if not, the workers would not have money to buy food for that day.
+    * **the sun must not go down on this unsettled matter**  - AT: "You must pay a man his wages before sundown each day." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **cry out against you to Yahweh**  - AT: "pray to Yahweh with emotion and ask him to punish you for what you have done."
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/12|<<]] | [[en/bible/notes/deu/24/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

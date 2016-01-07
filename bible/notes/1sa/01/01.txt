@@ -1,0 +1,55 @@
+====== 1 Samuel 01:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 There was a man named Elkanah who lived in Ramah \add town\add* in the hilly area where \add the members of the tribe of\add* Ephraim lived. His father was Jeroham, his grandfather was Elihu, and his great-grandfather was Tohu. He belonged to the Zuph clan.
+\v 2 He had two wives: Hannah and Peninnah. Peninnah had several children, but Hannah had no children.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 There was a man named Elkanah who lived in the city of Ramah in the hill country, where the people of the tribe of Ephraim lived. His father was Jeroham, his grandfather was Elihu, and his great-grandfather was Tohu. He belonged to the clan of Zuph.
+\v 2 He had two wives: Hannah and Peninnah. Now Peninnah had several children, but Hannah had no children.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 There was a certain man of Ramathaim Zophim, of the hill country of Ephraim; his name was Elkanah, the son of
+Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
+\v 2 He had two wives; the name of the first was Hannah, and the name of the second was Peninnah. Peninnah had children, but Hannah had none.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:other:hannah]]
+ 
+
+===== Translation Notes: =====
+
+  * **Ramathaim Zophim**  - This is the name of a small village possibly located 8 km north-west of Jerusalem.  (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Elkanah...Jeroham...Elihu...Tohu...Zuph**  - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Peninnah**  - This is the name of a woman. (See: [[:vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:01|1 Samuel Chapter 01 Comprehension Questions]]**
+**| [[:vi:bible:notes:1sa:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+
+~~NOCACHE~~

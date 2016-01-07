@@ -1,0 +1,69 @@
+====== Deuteronomy 33:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Yahweh, bless their work
+\q2 and accept\f + \ft Or: be pleased with \f* all that they do.
+\q1 Crush\f + \ft Or: Destroy \f* all their enemies;
+\q2 do not enable their enemies to be able to fight against them again.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Yahweh, bless their work
+\q and accept all that they do.
+\q Crush all their enemies;
+\q do not enable their enemies to be able to fight against them again.
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Bless, Yahweh, his possessions,
+\q and accept the work of his hands.
+\q Shatter the loins of those who rise up against him,
+\q and those of the people who hate him, so that they do not rise up again.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:possess]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:raise]]
+ 
+
+===== Translation Notes: =====
+Moses continues blessing the tribe of Levi.
+
+    * **Shatter the loins of those** - The loins were considered the center of strength. AT: "Destroy those" or "Strike those" (See:[[:vi:ta:vol2:translate:figs_synecdoche]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/10|<<]] | [[en/bible/notes/deu/33/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

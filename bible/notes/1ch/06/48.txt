@@ -1,0 +1,46 @@
+====== 1 Chronicles 06:48 ======
+
+===== TFT: =====
+
+<usfm>
+\v 48 The other descendants of Levi were appointed to do other work in the sacred tent, the place \add where the people worshiped\add* Yahweh.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 48 The other descendants of Levi were appointed to do other work in the sacred tent, the place where the people worshiped God.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 48 Their associates, the Levites, were assigned to do all the work for the tabernacle, the house of God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:assign]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:kt:tabernacle]]
+  * [[:vi:obe:kt:houseofgod]]
+
+===== Translation Notes: =====
+
+  * **Their associates, the Levites, were assigned to do** - AT: "It was the duty of their fellow workers, the Levites, to do" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:06|1 Chronicles Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:06:44|<<]] | [[:vi:bible:notes:1ch:06:49|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

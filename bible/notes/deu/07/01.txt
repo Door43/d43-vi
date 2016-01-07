@@ -1,0 +1,54 @@
+====== Deuteronomy 07:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Yahweh our God will bring you to the land that you will soon enter and occupy. As you advance, he will expel from that land seven people-groups that are more powerful and more numerous than you are. He will expel the Heth people-group, the Girgash people-group, the Amor people-group, the Canaan people-group, the Periz people-group, the Hiv people-group, and the Jebus people-group.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Yahweh our God will bring you to the land that you will soon enter and occupy. As you advance, he will drive out from that land seven people groups that are more powerful and more numerous than you are. These are the Heth people group, the Girgash people group, the Amor people group, the Canaan people group, the Periz people group, the Hiv people group, and the Jebus people group.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 7
+\p
+\v 1 When Yahweh your God brings you into the land that you go to possess, and drives out many nations before you—the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusite—seven nations greater and mightier than you;
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:possess|possess, possession]]
+  * [[vi:obe:other:castout]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:hittite|Hittite]]
+  * [[vi:obe:other:Girgashites]]
+  * [[:vi:obe:other:amorite|Amorite]]
+  * [[:vi:obe:other:canaan|Canaan, Canaanite]]
+  * [[:vi:obe:other:perizzite|Perizzite]]
+  * [[vi:obe:other:Hivite]]
+  * [[:vi:obe:other:jebusites|Jebusite]]
+  * [[vi:obe:other:mighty]]
+
+===== Translation Notes: =====
+Moses continues telling the people of Israel what Yahweh wants them to do.
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:07|Deuteronomy Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:06:24|<<]] | [[:vi:bible:notes:deu:07:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

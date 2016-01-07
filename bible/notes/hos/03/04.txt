@@ -1,0 +1,59 @@
+====== Hosea 03:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add Our doing that will show that\add* in the same way, the people of Israel will not have a king and other leaders for many years. They will not offer sacrifices or \add have sacred stone\add* pillars, no sacred vest \add for the Supreme Priest\add*, and no idols!
+\v 5 But later, the people of Israel will return to Yahweh their God and \add be guided by him and\add* a king who is a descendant of \add King\add* David. In the last\f + \ft Or: future \f* days they will come to Yahweh, revering him and trembling in his presence, and he will bless them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 When I do these things, this is to show that the people of Israel will live for a long time and not have any king ruling over them. They will have no prince, no sacrifices or sacred pillars set up for worship, ephods or idols in their houses.
+\v 5 After some time, the people of Israel will return to Yahweh; they will hope that he will receive them back. They will hope to have a descendant of David for their king again. In the later time, they will come to Yahweh to honor him and tremble before him because of his goodness to them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 For the people of Israel will live for many days without a king, prince, sacrifice, stone pillar, ephod or household idols.
+\v 5 Afterward the people of Israel will return and seek Yahweh their God and David their king. And in the last days, they will come trembling before Yahweh and his goodness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:prince|prince]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:other:pillar|pillar, column]]
+  * [[:vi:obe:other:ephod|ephod]]
+  * [[:vi:obe:other:household|household]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:kt:lastday]]
+  * [[:vi:obe:kt:good|good, goodness]]
+
+===== Translation Notes: =====
+
+  * **For the people of Israel will live for many days**** without a king, prince, sacrifice, stone pillar, ephod or household idols**. - This is a word picture showing that just as Hosea had to live for quite a bit of time without his adulterous wife, Israel would live for a lengthy period of time ("many days") without their own king and religious worship. (see: synecdoche and metaphor)
+  * **David their king**  - David is symbolic of the lineage of David; in other words, they would seek a descendant of David as their king (see: Metonymy)
+  * **in the last days**  - in the future (see: synecdoche)
+  * **they will come trembling before Yahweh and his goodness - **  AT: "They will come back to Yahweh with an attitude of awe, and will seek his blessings."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:03|Hosea Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:03:01|<<]] | [[:vi:bible:notes:hos:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,77 @@
+====== Hosea 14:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add You people of\add* Israel, return to Yahweh our God.
+\q2 You are being punished because of the sins which you have committed.
+\q1
+\v 2 So now return to Yahweh
+\q2 and say \f + \ft metonymy \f* this to him:
+\q1 "Forgive us for all the sins that we have committed,
+\q2 and kindly accept us\f + \ft Or: our sacrifices \f*
+\q1 in order that we may thank\f + \ft Or: praise \f* you [IDI].
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Israel, return to Yahweh your God!
+\q2 You have sinned because you have done wicked things.
+\q1
+\v 2 So now, return to Yahweh, and think about how you will confess your sins to him.
+\q2 Say this to him:
+\q1 "Take away all our sins, 
+\q2 and accept us; please be kind to us. 
+\q1 Please accept us back, so that we may praise you in our words and song.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 14
+\p
+\q
+\v 1 Israel, return to Yahweh your God,
+\q for you have fallen because of your iniquity.
+\q
+\v 2 Take with you words of confession and return to Yahweh.
+\q Say to him, "Take away all our iniquity
+\q and accept us with favor,
+\q so that we may offer to you our praise, the fruit of our lips.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:iniquity|iniquity]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:confess|confess]]
+  * [[:vi:obe:kt:favor|favor, favorable, favoritism]]
+  * [[:vi:obe:other:praise|praise]]
+
+===== Translation Notes: =====
+
+Hosea the prophet is speaking.
+
+  * **for you have fallen because of your iniquity** - This means that the nation of Israel chose to sin against Yahweh and turn away from following him; their sins caused them to fall (or stumble). (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **Take with you words of confession ** - In other words, approach God and ask forgiveness. (UDB)(See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **the fruit of our lips ** - AT:"our words and songs of praise" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:14|Hosea Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:13:16|<<]] | [[:vi:bible:notes:hos:14:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,12 @@
+===== Nahum Links: =====
+
+  * [[:vi:ulb:ep:34-nam.usfm|Full ULB text of Nahum]]
+  * [[:vi:udb:ep:34-nam.usfm|Full UDB text of Nahum]]
+  * [[:vi:bible:admin-reports:notes-team-admin:nam|Notes: Nahum Team Admin]]
+  * [[:vi:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages vi:bible:notes:nam:01 -title -naturalOrder -exclude:home -textPages="Nahum 1" -nbCol=2> 
+
+<nspages vi:bible:notes:nam:02 -title -naturalOrder -exclude:home -textPages="Nahum 2" -nbCol=2> 
+
+<nspages vi:bible:notes:nam:03 -title -naturalOrder -exclude:home -textPages="Nahum 3" -nbCol=2> 

@@ -1,0 +1,53 @@
+====== Exodus 22:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 You \add must offer sacrifices\add* only to Yahweh. You must execute anyone who offers a sacrifice to any \add other\add* god.
+\p
+\v 21 You must not mistreat a foreigner \add who comes to live among you\add*. Do not forget that you were previously foreigners in Egypt.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 You must offer sacrifices only to Yahweh. You must kill anyone who offers a sacrifice to any other god.
+\p
+\v 21 You must not mistreat a foreigner who comes to live among you. Do not forget that you were previously foreigners in Egypt.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Whoever sacrifices to any god except to Yahweh must be utterly destroyed.
+\v 21 You must not wrong a foreigner or oppress him, for you were foreigners in the land of Egypt.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sacrifice]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:wrong]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:kt:oppress]]
+  * [[:vi:obe:other:egypt]]
+
+===== Translation Notes: =====
+
+  * **must be utterly destroyed** - AT: "you must completely destroy" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **wrong a foreigner** - "mistreat a foreigner" or "cheat a foreigner"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:22|Exodus Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:22:18|<<]] | [[:vi:bible:notes:exo:22:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

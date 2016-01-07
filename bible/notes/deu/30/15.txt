@@ -1,0 +1,61 @@
+====== Deuteronomy 30:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 So listen! Today I am allowing you to choose between \add doing what is\add* evil and \add doing what is\add* good, between what will enable you to live \add for a long time\add* and \add what will cause you\add* to die \add while you are still young\add*.
+\v 16 \add I say again\add*, if you obey the commands of Yahweh our God that I am giving to you today, and if you love him and conduct your lives as he wants you to do, and if you obey all his rules and regulations, you will prosper and become very numerous, and Yahweh our God will bless you in the land that you are about to enter and possess.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 So listen! Today I am allowing you to choose between doing what is evil and doing what is good, between what will enable you to live for a long time and what will cause you to die while you are still young.
+\v 16 I say again, if you obey the decrees of Yahweh our God that I am giving to you today, and if you love him and conduct your lives as he wants you to do, and if you obey all his rules and regulations, you will prosper and become very numerous, and Yahweh our God will bless you in the land that you are about to enter and possess.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 See, today I have placed before you life and good, death and evil.
+\v 16 If you obey the decrees of Yahweh your God, in which I am commanding you today to love Yahweh your God, to walk in his ways, and to keep his commandments, his statutes, and his ordinances, you will live and multiply, and Yahweh your God will bless you in the land that you are going into in order to possess.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:obey|obey, obedient, obedience]]
+  * [[:vi:obe:other:decree|decree]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[vi:obe:other:command]]
+  * [[:vi:obe:other:ordinance|ordinance]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:possess|possess, possession]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+    * **I have placed before you** - "I have told you about"
+    * **life and good, death and evil** - AT: "what is good and will cause you to live, and what is evil and will cause you to die" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+    * **and multiply**  - "and have many descendants"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:30|Deuteronomy Chapter 30 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:30:13|<<]] | [[:vi:bible:notes:deu:30:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

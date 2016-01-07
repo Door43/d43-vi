@@ -1,0 +1,72 @@
+====== Hosea 02:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 At that time, \add when they request me to do things for them\add*,
+\q2 I will do them.
+\q1 When they request clouds and rain to cover their land,
+\q2 I will speak to the clouds, and rain will fall on the earth,
+\q1
+\v 22 and grain will grow, and the vineyards and the olive trees will grow in Jezreel \add Valley\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 At that time,
+\q2 I will help you," says Yahweh.
+\q1 "I will give a command to the sky,
+\q2 and the sky will pour out rain onto the ground.
+\q1
+\v 22 And the ground will provide grain, new wine and olive trees, and they will grow in the Valley of Jezreel.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 21 And on that day,
+\q I will answer"—this is the declaration of Yahweh.
+\q "I will answer the heavens,
+\q and they will answer the earth.
+\q
+\v 22 The earth will answer the grain, the new wine and the oil,
+\q and they will answer Jezreel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:declare]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:vi:obe:other:earth|earth]]
+  * [[:vi:obe:other:grain|grain]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:oil|oil]]
+  * [[:vi:obe:other:jezreel|Jezreel]]
+
+===== Translation Notes: =====
+
+God is speaking to Hosea about what he will do for Israel.
+
+  * **And on that day** - This phrase is used to refer to the future day of judgment and restoration.
+  * **The earth will answer the grain, the new wine and the oil, and they will answer Jezreel. **- This means that Yahweh will respond to the needs of Israel (referred to as Jezreel in this verse) through the provision of grain, wine, and olive oil. (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:02:19|<<]] | [[:vi:bible:notes:hos:02:23|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Song of Solomon 08:5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 Who is that \add woman\add* who is coming up from the desert,
+\q2 leaning on\f + \ft Or: clinging close to \f* the man who loves her?
+
+\q1 I woke you up \add when you were\add* under the apple tree
+\q2 at the place where your mother conceived you,
+\q2 which is the same place where she gave birth to you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 [PART SIX—CONCLUSION]  [The women of Jerusalem speaking] Who is that woman who is coming up from the wilderness,
+\q2 the woman who is leaning on the man who loves her?
+
+\q1 [The young woman speaking to her lover] I woke you up when you were under the apricot tree
+\q2 at the place where your mother conceived you,
+\q2 the place where she gave birth to you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 [PART SIX—CONCLUSION] [The women of Jerusalem speaking] Who is this who is coming up from the wilderness,
+\q leaning on her beloved?
+\b
+\q [The young woman speaking to her lover] I awakened you under the apricot tree;
+\q there your mother conceived you;
+\q there she gave birth to you, she delivered you.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:desert]]
+  * [[vi:obe:kt:beloved]]
+
+===== Translation Notes: =====
+
+  * **​Who is this who is coming…leaning on her beloved?** - The women who are attending the bride are remembering the time when she was a child. Since the time from childhood to adulthood seems to pass quickly, the women are asking who this grown up person is.  (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **I awakened you under the apricot tree.**  - The woman is saying to the man that she remembers when they began to love each other. She aroused his feelings for her, and she responded to his love. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **​there your mother conceived you** - This was the same place her mother had made love. It seems the man has begun to speak part way through this verse.
+  * **there she gave birth to you, she delivered you - **  The woman is emphasizing the wonderful result of beginning new life. (See: [[:vi:ta:vol2:translate:figs_doublet]])​
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:08|Song of Solomon Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:08:04|<<]] | [[:vi:bible:notes:sng:08:06|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

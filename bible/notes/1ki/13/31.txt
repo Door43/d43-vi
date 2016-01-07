@@ -1,0 +1,49 @@
+====== 1 Kings 13:31-32 ======
+
+===== TFT: =====
+
+<usfm>
+\v 31 After they had buried him, the old man said to his sons, "When I die, bury my corpse in the grave where we buried the prophet from Judah. Lay my corpse next to his corpse.
+\v 32 And do not forget that what he said, things that Yahweh told him to say about the altar in Bethel, and that what Yahweh told him to say about the shrines on the hills in the towns in Samaria, will surely happen."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 31 After they had buried him, the old man said to his sons, "When I die, bury my corpse in the grave where we buried the prophet from Judah. Lay my corpse next to his corpse.
+\v 32 And do not forget what he said, things that Yahweh told him to say about the altar in Bethel, and what Yahweh told him to say about the shrines at the towns in Samaria. Those things will surely happen."
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 31 Then after he had buried him, the old prophet spoke to his sons, saying, "When I am dead, bury me in the tomb in which the man of God is buried. Lay my bones beside his bones.
+\v 32 For what he said when he cried out by the word of Yahweh against the altar in Bethel, and against all the temples at the shrines in the cities of Samaria, will surely come about."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:bethel]]
+  * [[:vi:obe:kt:temple]]
+  * [[:vi:obe:other:shrine]]
+  * [[:vi:obe:other:samaria]]
+
+===== Translation Notes: =====
+
+  * **he had buried him** - Here the word "he" refers to the old prophet and the word "him" refers to the man of God.
+  * **when he cried out** - AT: "when he prophesied loudly" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:13|1 Kings Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:13:29|<<]] | [[:vi:bible:notes:1ki:13:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== 1 Kings 20:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 They started to attack at noon, while Ben-Hadad and the other rulers were getting drunk in their temporary shelters.
+\v 17 The young soldiers advanced first. Some scouts who had been sent out by Ben-Hadad reported to him, "There are men coming out of Samaria \add city\add*"!
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 They started to attack at noon, while Ben Hadad and the other rulers were getting drunk in their temporary shelters.
+\v 17 The young soldiers advanced first. Some scouts who had been sent out by Ben Hadad reported to him, "There are men coming out of Samaria"!
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 They went out at noon. Benhadad had been drinking himself drunk in his tent, he and the thirty-two lesser kings who were supporting him.
+\v 17 The young officers who served the governors of the districts went forward first. Then Benhadad was informed by scouts that he had sent out, "Men are coming out from Samaria."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:drunk]]
+  * [[vi:obe:other:king]]
+  * [[vi:obe:other:send]]
+  * [[vi:obe:other:samaria]]
+
+===== Translation Notes: =====
+
+  * **They went out** - Here the word "They" refers to the Israelite army.
+  * **thirty-two lesser kings** - See how you translated this in [[vi:bible:notes:1ki:20:01|20:1]].
+  * ** Benhadad was informed by scouts that he had sent out** - AT: "Scouts that Benhadad had sent out informed him" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **scouts** - A "scout" is a soldier sent to gather information about the enemy.
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:20|1 Kings Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:20:13|<<]] | [[:vi:bible:notes:1ki:20:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

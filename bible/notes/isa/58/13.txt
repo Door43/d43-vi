@@ -1,0 +1,65 @@
+====== Isaiah 58:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Do not travel \f + \ft metonymy \f* long distances on Sabbath\f + \ft Or: rest \f* days,
+\q2 and on Sabbath days do not do only the things that you delight to do.
+\q1 Enjoy the Sabbath days, and consider them to be delightful.
+\q2 The Sabbath days are my holy days.
+\q2 Honor me, Yahweh, in everything that you do \add on the Sabbath days\add*.
+\q1 Do not talk about and do things only to please yourselves.
+\q2 If you do all the things that I have just now told you to do,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Do not travel on the Sabbath days,
+\q2 and on Sabbath days do not do only the things that you delight to do.
+\q1 Enjoy the Sabbath days, and consider them to be delightful.
+\q2 The Sabbath days are my holy days.
+\q2 Honor me, Yahweh, in everything that you do on the Sabbath days.
+\q1 Do not talk about and do things to please yourselves.
+\q2 If you do all the things that I have just now told you to do,
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 13 Suppose that you turn back your feet from traveling on the Sabbath day, and from doing your own pleasure on my holy day.
+\q1 Suppose that you call the Sabbath a delight, and that you call the matters of Yahweh holy and honored.
+\q1 Suppose that you honor the Sabbath by leaving your own business, and by not finding your own pleasure and by not speaking your own words.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sabbath]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Israel.
+
+  * **turn back your feet from traveling on the Sabbath day, and from doing your own pleasure on my holy day**  - AT: "If you traveling and doing what you want to do on the Sabbath, my holy day." Here "feet" refers to the kinds of work and traveling that the people did on all other days. God did not allow work on the Sabbath day. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:58|Isaiah Chapter 58 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:58:12|<<]] | [[:vi:bible:notes:isa:58:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

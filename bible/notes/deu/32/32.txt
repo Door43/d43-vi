@@ -1,0 +1,49 @@
+====== Deuteronomy 32:32 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 Your enemies are like \f + \ft metaphor \f* grapevines planted near \add the ruins of\add* Sodom and Gomorrah \add cities\add*;
+\q2 the grapes from those vines are bitter and poisonous;
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 Your enemies are like grapevines planted near the ruins of the cities of Sodom and Gomorrah;
+\q the grapes from those vines are bitter and poisonous.
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 32 For their vine comes from the vine of Sodom,
+\q and from the fields of Gomorrah;
+\q their grapes are grapes of poison;
+\q their clusters are bitter.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:vine|vine]]
+  * [[:vi:obe:other:sodom|Sodom]]
+  * [[:vi:obe:other:gomorrah|Gomorrah]]
+  * [[:vi:obe:other:grape|grape]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **For their vine comes from the vine of Sodom...clusters are bitter** - Moses compares enemies who worship false gods to the wicked people who lived in Sodom and Gomorrah and to grapevines that produce poisonous fruit. This means their enemies are wicked and will cause the Israelites to die if they start to act like the people around them. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **their clusters** - "their clusters of grapes" or "their grapes"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:30|<<]] | [[:vi:bible:notes:deu:32:33|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

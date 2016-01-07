@@ -1,0 +1,57 @@
+====== Psalms 068:28-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 God, show people that you are very powerful;
+\q2 show people the power with which you have helped us previously.
+\q1
+\v 29 Show that power from your temple in Jerusalem,
+\q2 where kings bring gifts to you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 God, show people that you are very powerful;
+\q2 show people the power with which you have helped us previously.
+\q1
+\v 29 Show that power from your temple in Jerusalem,
+\q2 where kings bring gifts to you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 28 Your God has created your strength;
+\q reveal to us your power, God, as you have revealed it in times past.
+\q
+\v 29 Because of your temple at Jerusalem,
+\q kings will bring gifts to you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:reveal]]
+  * [[vi:obe:kt:power]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:kt:temple|temple]]
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[:vi:obe:kt:gift|gift]]
+
+===== Translation Notes: =====
+
+  * **vs 28 Your, us**  - Refers to David's people
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:068|Psalms Chapter 068 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:068:026|<<]] | [[:vi:bible:notes:psa:068:030|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

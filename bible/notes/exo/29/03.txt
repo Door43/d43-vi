@@ -1,0 +1,43 @@
+====== Exodus 29:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Put them in a basket and offer them \add to me\add* when you sacrifice the young bull and the two rams.
+\v 4 Take Aaron and his sons to the entrance of the Sacred Tent, and wash them \add ritually\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Put them in a basket and offer them to me when you sacrifice the young bull and the two rams.
+\v 4 Take Aaron and his sons to the entrance of the sacred tent, and wash them with water.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 You must put them into a single basket, bring them in the basket, and present them with the bull and the two rams.
+\v 4 You must present Aaron and his sons at the entrance to the tent of meeting. You must wash Aaron and his sons in water.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:basket]]
+  * [[vi:obe:other:cow]]
+  * [[vi:obe:other:sheep]]
+  * [[:vi:obe:other:aaron]]
+  * [[:vi:obe:other:tentofmeeting]]
+
+===== Translation Notes: =====
+Yahweh continues to speak to Moses
+  * **You must put them** - "You must put the bread, cake, and wafer"
+  * **tent of meeting** - See how you translated this in [[vi:bible:notes:exo:27:20|27:21]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:29|Exodus Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:29:01|<<]] | [[:vi:bible:notes:exo:29:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

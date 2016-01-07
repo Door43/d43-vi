@@ -1,0 +1,59 @@
+====== Psalms 026:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 I do not spend my time with liars
+\q2 and I stay away from hypocrites.
+\q1
+\v 5 I do not like to be with evil people,
+\q2 and I avoid wicked people
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 I do not spend my time with liars,
+\q2 and I stay away from hypocrites.
+\q1
+\v 5 I do not like to be with evil people,
+\q2 and I avoid wicked people.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 I do not associate  with deceitful people,
+\q nor do I mingle with dishonest people.
+\q
+\v 5 I hate the assembly of evildoers,
+\q and I do not live with the wicked.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:evil]]
+
+===== Translation Notes: =====
+
+  * **I do not associate with** - "I do not keep company with" or "I do not sit with"
+  * **nor do I mingle with** - "and I do not join with" 
+  * **dishonest people** - "people who lie"
+  * **evildoers** - "people who do what is evil"
+ 
+=====Links:=====
+
+  * **[[:vi:bible:questions:comprehension:psa:026|Psalms Chapter 026 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:026:001|<<]] | [[:vi:bible:notes:psa:026:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

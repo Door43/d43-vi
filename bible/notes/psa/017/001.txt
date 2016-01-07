@@ -1,0 +1,69 @@
+====== Psalms 017:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, listen to me while I plead with you to act justly toward me.
+\q2 Hear me while I call out to you to help me.
+\q1 Pay attention to what I say while I pray
+\q2 because I am speaking \f + \ft metonymy \f* honestly\f + \ft Or: truthfully \f*.
+\q1
+\v 2 You are the one who is able to declare that I am innocent\f + \ft Or: have not done anything that was wrong \f*
+\q2 because you see\f + \ft Or: know \f* that I am telling the truth.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, listen to me while I plead with you to act justly toward me.
+\q2 Hear me while I call out to you to help me.
+\q1 Pay attention to what I say while I pray
+\q2 because I am speaking honestly.
+\q1
+\v 2 You are the one who is able to declare that I am innocent;
+\q2 please agree to do what is right for me.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\d A prayer of David.
+\b
+\q
+\v 1 Listen to my plea for justice, Yahweh; pay attention to my call for help!
+\q Give ear to my prayer from lips without deceit.
+\q
+\v 2 Let my vindication come from your presence; let your eyes see what is right!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pray]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:deceive]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **Give ear to my prayer from lips without deceit.** - "Listen to my prayer which does not come from lying lips." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Let my vindication come from your presence;** - AT "In your presence I will be declared innocent;"
+  * **let your eyes see what is right!** - "you know what is true and right!" (See:   [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:017|Psalms Chapter 017 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:016:011|<<]] | [[:vi:bible:notes:psa:017:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

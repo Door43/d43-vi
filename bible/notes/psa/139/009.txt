@@ -1,0 +1,60 @@
+====== Psalms 139:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 If I had wings and flew very far east \f + \ft metonymy \f*,
+\q1 or if I flew west and made a place to live \add on an island\add* in the ocean,
+\q1
+\v 10 you would be there also, to lead me by your hand,
+\q2 and you would help me.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 If the sun could carry me across the sky,
+\q1 if I flew west and made a place to live on an island in the ocean,
+\q1
+\v 10 you would be there also to lead me by your hand,
+\q2 and you would help me.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 If I fly away on the wings of the morning
+\q and go to live in the uttermost parts across the sea,
+\q
+\v 10 even there your hand will lead me,
+\q and your right hand will hold onto me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:righthand|right hand]]
+  * [[:vi:obe:other:hand]]
+
+===== Translation Notes: =====
+
+  * **If I fly away on the wings of the morning and go to live in the uttermost parts across the sea**  - The author is explaining that wherever he is, God is there too. (See: [[:vi:ta:vol2:translate:figs_hyperbole|Hyperbole]] and [[:vi:ta:vol1:translate:figs_hypo|Hypothetical Situations]])
+  * **If I fly away on the wings of the morning**  - AT: "If the sun could carry me with itself across the sky" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **in the uttermost parts across the sea**  - AT: "very far away to the west"
+  * **will hold onto me**  - AT: "will guide me"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:139:007|<<]] | [[:vi:bible:notes:psa:139:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

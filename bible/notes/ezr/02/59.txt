@@ -1,0 +1,60 @@
+====== Ezra 02:59-60 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 59 There was another group who returned \add to Judah\add* from Tel-Melah, Tel-Harsha, Kerub, Addan, and Immer \add towns in Babylonia\add*. But they could not prove that they were descendants of \add people who previously lived in\add* Israel.
+\b
+\p
+\v 60 This group included 652 people who were descendants of Delaiah, Tobiah, and Nekoda.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 59 There was another group who returned to Judah from Tel Melach, Tel Charsha, Cerub, Addan, and Immer in Babylonia. But they could not prove that they were descendants of 
+people who had previously lived in Jerusalem.
+\v 60 This group included 652 people who were descendants of Delaiah, Tobiah, and Nekoda.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 59 Those who left Tel Melach, Tel Charsha, Kerub, Addan, and Immer—but were not able to prove their ancestry in Jerusalelm—included
+\v 60 652 descendants of Delaiah, Tobiah, and Nekoda.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jerusalem]]
+  * [[vi:obe:other:descendant]]
+
+===== Translation Notes: =====
+
+The number of people listed  - ( See: [[vi:ta:vol2:translate:translate_numbers]] and See: [[vi:ta:vol1:translate:translate_names]])
+
+  * **Tel Melach, Tel Charsha, Kerub, Addan, and Immer** - These were places in Babylon that no longer exist.
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/02/55|<<]] | [[en/bible/notes/ezr/02/61|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

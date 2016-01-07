@@ -1,0 +1,63 @@
+====== 2 Samuel 01:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then David and all the men who were with him tore their clothes \add to show that they were very sad\add*.
+\v 12 They mourned for Saul and his son Jonathan, and they cried and fasted\f + \ft Or: abstained from eating food \f* until it was evening. They also mourned for all the army of Yahweh, and for all the Israelite people, because many of their soldiers had been killed in the battle \f + \ft metonymy \f*.
+\p
+\v 13 Then David asked the young man who had told him \add about the battle\add*, "Where are you from?" He replied, "My father is a descendant of Amalek, but we live in Israel."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then David and all the men who were with him tore their clothes to show that they were very sad.
+\v 12 They mourned for Saul and his son Jonathan, and they cried and fasted; they would continue to do that until evening.
+\p
+\v 13 But David asked the young man who had told him about the battle, "Where are you from?" He replied, "My father is a descendant of Amalek, but we live in Israel."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Then David tore his clothes, and all the men with him did the same.
+\v 12 They mourned, wept, and fasted until evening for Saul, for Jonathan his son, for the people of Yahweh, and
+for the house of Israel because they had fallen by the sword.
+\v 13 David said to the young man, "Where are you from?" He answered, "I am the son of a foreigner in the land, an Amalekite."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mourn|mourn, mourning]]
+  * [[:vi:obe:other:fast|fast]]
+  * [[:vi:obe:other:saul|Saul (OT)]]
+  * [[:vi:obe:other:jonathan|Jonathan]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:house]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:other:foreigner|foreigner, foreign]]
+===== Translation Notes: =====
+
+  * **David tore his clothes** - David tore his clothes as a sign of mourning the death of King Saul.
+  * **the people of Yahweh, and for the house of Israel ** - These two phrases are very similar. They are emphasizing that all of Israel was being mourned.  
+  * **fallen by the sword ** - This is a more polite way to say that many people died in battle. The phrase "by the sword" here means "combat." The word "fallen" means "died."  AT: "died in combat"  (See: [[:vi:ta:vol2:translate:figs_euphemism]] and [[vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:01|2 Samuel Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:01:08|<<]] | [[:vi:bible:notes:2sa:01:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

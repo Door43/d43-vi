@@ -1,0 +1,58 @@
+====== Leviticus 16:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 When Aaron has finished purifying the Very Holy Place \add inside the Sacred Tent\add* and all of the Sacred Tent and the altar, he must bring the goat that was chosen to be set free.
+\v 21 He must put both of his hands on the head of the goat and confess all the sins \f + \ft doublet \f* of the Israelite people. By doing that, he will put \add the guilt of\add* their sins on the head of the goat. Then he must give the goat to a man who is chosen, and that man will send the goat out into the desert.
+\v 22 \add It is as though\add* the goat will carry away into the desert \add the guilt for\add* the sins of all the people.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 When Aaron has finished purifying the very holy place inside the sacred tent and all of the sacred tent and the altar, he must bring the goat that was chosen to be set free.
+\v 21 He must put both of his hands on the goat's head and confess all the sins of the Israelite people. By doing that, he will put the guilt of their sins on the goat's head. Then he must give the goat to a man who is chosen, and that man will send the goat out into the wilderness.
+\v 22 I will view the goat as carrying away into the wilderness the guilt for all the sins that the people have committed.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 When he has finished atoning for the most holy place, the tent of meeting, the altar, he must present the live goat.
+\v 21 Aaron must lay both his hands on the head of the live goat and confess over him all the wickedness of the people of Israel, all their rebellion, and all their sins. Then he must put that sinfulness on the head of the goat and send the goat away in the care of a man who is ready to lead the goat into the wilderness.
+\v 22 The goat must carry on himself all the people's wickedness to a solitary place. There in the wilderness, the man must let the goat go free.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:atonement]]
+  * [[:vi:obe:kt:holyplace|holy place, most holy place]]
+  * [[:vi:obe:other:tentofmeeting|tent of meeting]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[vi:obe:other:goat]]
+  * [[:vi:obe:kt:confess|confess]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[vi:obe:other:Israel]]
+
+===== Translation Notes: =====
+
+  * **he must present the live goat** - This is the same as the scapegoat mentioned in 16:10.
+  * **Aaron must lay both of his hands on the head of the live goat** - This shows that Aaron is placing sins of the people from the past year on the goat who will take them away.
+  * **wickedness...rebellion...sins** - These all mean basically the same thing. Aaron is confessing every kind of sin that the people committed.
+  * **the wilderness** - A place where no one could live for long. Many people thought of such a place as belonging to evil spirits.
+  * **Then he must put that sinfulness on the head of the goat...let the goat go free** - The goat now represents all the sins of the people. By setting it free into the wilderness, it represents God removing the guilt of the people.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:16|Leviticus Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:16:17|<<]] | [[:vi:bible:notes:lev:16:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

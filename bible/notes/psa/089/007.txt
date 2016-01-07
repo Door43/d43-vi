@@ -1,0 +1,64 @@
+====== Psalms 089:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 When your holy angels gather together,
+\q2 they declare that you must be revered;
+\q1 they say that you are more awesome than all the angels that surround your throne!
+\q1
+\v 8 O Yahweh, God Almighty, there is no one \f + \ft rhetorical question \f* who is powerful like you are;
+\q2 your faithfully doing \add all that you promise\add* is \add like a cloak that\add* \f + \ft metaphor \f* \add always\add* surrounds you.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 When your holy angels gather together,
+\q2 they declare that you must be revered;
+\q1 they say that you are more awesome than all the angels that surround your throne!
+\q1
+\v 8 O Yahweh God, Commander of the angel armies, there is no one who is as powerful as you are;
+\q2 your faithfully doing all that you promise is like a cloak that  always surrounds you.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 He is a God who is honored in the council of the holy ones
+\q and is more awesome than all who surround him.
+\q
+\v 8 Yahweh, God of hosts,
+\q who is strong like you, Yahweh?
+\q Your truthfulness surrounds you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:honor|honor]]
+  * [[:vi:obe:other:council|council]]
+  * [[:vi:obe:other:awe|awe, awesome]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+
+===== Translation Notes: =====
+
+  * **the council of the holy ones** - AT: "the gathering of heavenly beings"
+  * **who is strong like you, Yahweh?** - The writer asks the question to emphasize there is no one like Yahweh. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **Your truthfulness surrounds you.** - AT: "Your faithfulness surrounds you." (See: [[vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:089|Psalms Chapter 089 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:089:005|<<]] | [[:vi:bible:notes:psa:089:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,84 @@
+====== Jeremiah 15:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then I said, "Yahweh, you know \add what is happening to me\add*.
+\q2 Please come and help me\f + \ft Or: take care of me \f*.
+\q2 Punish those who are persecuting me\f + \ft Or: causing me to suffer \f*.
+\q1 Please do not continue to be patient with them
+\q2 and do not allow me to die now.
+\q1 It is for your sake\f + \ft Or: because I serve you \f* that I am suffering.
+\q1
+\v 16 Yahweh my God, you are the Almighty Commander of the armies of angels;
+\q1 and when you spoke to me,
+\q2 I was delighted with your message; it caused me to be joyful,
+\q1 and I eagerly accepted \f + \ft metaphor \f* what you said
+\q2 because I belong to you. [IDI, MTY]
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then I said, "Yahweh, you know what is happening to me.
+\q2 Please come and help me.
+\q2 Punish those who are persecuting me.
+\q1 Please do not continue to be patient with them
+\q2 and do not allow me to die now.
+\q1 It is for your sake that I am suffering.
+\q1
+\v 16 Yahweh my God, you are the Commander of the angel armies;
+\q1 when you spoke to me,
+\q2 I was delighted with your message; it caused me to be joyful,
+\q1 and I eagerly accepted what you said
+\q2 because I belong to you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 "You yourself know, Yahweh! Call me to mind  and help me. Bring vengeance for me against my pursuers.
+\q In your patience do not take me away. Acknowledge that I have suffered reproach for you.
+\q
+\v 16 Your words have been found, and I consumed them. Your words were a joy to me,
+\q a joy to my heart, for your name is proclaimed on me, Yahweh God of hosts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:avenge|avenge, revenge, vengeance]]
+  * [[:vi:obe:other:patient]]
+  * [[:vi:obe:other:acknowledge]]
+  * [[:vi:obe:kt:suffer]]
+  * [[:vi:obe:other:reproach]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:kt:joy|joy, joyful]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:other:proclaim|proclaim, proclamation]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+===== Translation Notes: =====
+
+Jeremiah speaks to Yahweh.
+
+  * **Call me to mind**  - AT: "Remember me" or "Consider me and my situation" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **my pursuers**  - "Those who search after me to harm me.".
+  * **In your patience do not take me away.**  - AT: "Please do not continue to be patient with them and do not allow me to die now."
+  * **Your words have been found**  - AT: "I have heard your message." (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **and I consumed them**  - "and I understood your message"
+  * **your name is proclaimed on me**  - "people identified me as one who belongs to you" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:15|Jeremiah Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:15:13|<<]] | [[:vi:bible:notes:jer:15:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

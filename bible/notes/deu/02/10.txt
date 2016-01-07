@@ -1,0 +1,52 @@
+====== Deuteronomy 02:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 A large group of giants called Emim formerly lived there. They were as tall as the giants who were descendants of Anak.
+\v 11 They and the descendants of Anak are also called the Repha giants, but the people of Moab call them Emim.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 A large group of giants called Emim formerly lived there. They were as tall as the giants who were descendants of Anak.
+\v 11 They and the descendants of Anak are also called the Repha giants, but the people of Moab call them Emim.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 (The Emim lived there previously, a people as great, as many, and as tall as the Anakim;
+\v 11 these also are considered to be the Rephaim, like the Anakim; but the Moabites call them the Emim.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:Moab]]
+
+===== Translation Notes: =====
+
+
+    * **The Emim lived...call them the Emim** - Here 2:10-11 gives background information about the Emim people who had lived in the land before the Moabites. Your language may have a special way to mark background information. (See: [[vi:ta:vol2:translate:writing_background]])
+    * **Emim...Rephaim** - These are the names of people groups that were considered giants. (See: [[:vi:ta:vol1:translate:translate_names]])
+    * **Anakim** - See how you translated this in [[vi:bible:notes:deu:01:26|1:28]].
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:02|Deuteronomy Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/02/09|<<]] | [[en/bible/notes/deu/02/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

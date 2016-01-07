@@ -1,0 +1,65 @@
+====== Song of Solomon 06:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Your teeth are \add very white\add*
+\q2 like \f + \ft simile \f* a flock of sheep \add whose wool\add* has just been shorn
+\q1 and have come up from being washed \add in a stream\add*.
+\q1 You have all of your teeth on both sides;
+\q2 none of them is missing.
+\q1
+\v 7 Beneath your veil,
+\q2 your cheeks are like \f + \ft simile \f* the halves of a pomegranate.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Your teeth are very white
+\q2 like a flock of sheep whose wool has just been shorn
+\q1 and have come up from being washed in a stream.
+\q1 You have all of your teeth on both sides;
+\q2 none of them is missing.
+\q1
+\v 7 Beneath your veil,
+\q2 your cheeks are like the halves of a pomegranate.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Your teeth are like a flock of ewes
+\q coming up from the washing place.
+\q Each one has a twin,
+\q and none among them is bereaved.
+\q
+
+\v 7 Your cheeks are like pomegranate halves
+\q behind your veil.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sheep]]
+  * [[vi:obe:other:pomegranate]]
+  * [[vi:obe:kt:veil]]
+
+===== Translation Notes: =====
+
+  * **like a flock of ewes coming up from the washing place** - AT: "like a flock of washed sheep with their wool  freshly cut"  (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **ewes** - "female sheep"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:06|Song of Solomon Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:06:05|<<]] | [[:vi:bible:notes:sng:06:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

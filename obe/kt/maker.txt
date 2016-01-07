@@ -1,0 +1,25 @@
+====== Maker ======
+
+===== Facts: =====
+In general a "maker" is someone who creates or makes things. 
+
+  * This is a name given to Yahweh because He create everything. 
+
+===== Translation Suggestions: =====
+
+  * This term can be translated "God who creates."
+  * Also "The One who makes things."
+
+(See: [[vi:ta:vol1:translate:translate_names]])
+
+(See also: [[:En:obe:other:creation]], [[:En:obe:kt:yahweh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?maker&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>review hos08 ktlink}}

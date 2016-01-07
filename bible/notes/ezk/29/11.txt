@@ -1,0 +1,48 @@
+====== Ezekiel 29:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 For forty years no one will walk through that area, and no one will live there.
+\v 12 Egypt will be barren\f + \ft Or: empty \f*, and it will be surrounded by other desolate nations. The cities of Egypt will be empty and deserted for forty years, surrounded by nations in which there are other ruined cities. I will cause the people of Egypt to be scattered to countries far away.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 For forty years no one will walk through that area, and no one will live there.
+\v 12 Egypt will be barren, and it will be surrounded by other abandoned nations. The cities of Egypt will be empty and without people for forty years, and the surrounding lands will be the same. Yahweh will scatter the people of Egypt to countries far away.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 No man’s foot will pass through it! No beast’s foot will pass through it! And it will not be inhabited for forty years!
+\v 12 For I will make the land of Egypt a desolation in the midst of uninhabited lands, and its cities in the midst of wasted cities will become a desolation for forty years; then I will scatter Egypt among the nations, and I will disperse them though the lands.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:desolate]]
+  * [[vi:obe:other:waste]]
+  * [[vi:obe:other:egypt]]
+  * [[vi:obe:other:nation]]
+  * [[vi:obe:other:disperse]]
+
+===== Translation Notes: =====
+
+Yahweh continues giving Ezekiel his message to Pharaoh.
+*
+  * **No beast’s foot will pass through it** - "No animal will walk through it."(See: [[vi:bible:team-info:training:quick-reference:figures:synecdoche]]) 
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:29|Ezekiel Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:29:08|<<]] | [[:vi:bible:notes:ezk:29:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,85 @@
+====== Lamentations 03:40-43 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 40 Instead, we should examine\f + \ft Or: think carefully about \f* our behavior;
+\q2 we should turn back to Yahweh.
+\q1
+\v 41 We should pray with [IDI] all our inner beings and lift up our arms
+\q2 toward God in heaven, and say,
+\q1
+\v 42 "We have sinned and rebelled against you,
+\q2 and you have not forgiven us.
+\q1
+\v 43 You have surrounded us with your anger and pursued us;
+\q2 you have slaughtered us without pitying us.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 40 Instead, we should think carefully about how we behave;
+\q2 we should turn back to Yahweh.
+\q1
+\v 41 We should pray with all our inner beings and lift up our arms
+\q2 toward God in heaven, and say,
+\q1
+\v 42 "We have sinned and rebelled against you,
+\q2 and you have not forgiven us.
+\q1
+\v 43 You have been very angry and chased after us;
+\q2 you have slaughtered us without pitying us.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 40 Let us test and examine our ways, and turn again to Yahweh.
+\q
+\v 41 Let us lift up our heart with our hands to God in the heavens and pray:
+\q
+\v 42 "We have transgressed and have rebelled against you, so you have not pardoned us.
+\q
+\v 43 You have covered yourself with anger and pursued us. You have slaughtered and you have not pitied us.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:test]]
+  * [[vi:obe:kt:turn]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:pray]]
+  * [[:vi:obe:kt:transgression]]
+  * [[:vi:obe:other:rebel]]
+  * [[:vi:obe:other:pardon]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:slaughter]]
+ 
+===== Translation Notes: =====
+
+    * **Let us lift up our heart with our hands...and pray** - AT: "Let us pray sincerely with lifted hands" (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **We have transgressed and have rebelled** - The words "transgressed" and "rebelled" share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+    * **against you** - Here the word "you" refers to God.
+    * **You have covered yourself with anger** - Possible meanings are 1) "You have hidden yourself from us because you were angry" or 2) "You have surrounded us with your anger." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:03:37|<<]] | [[:vi:bible:notes:lam:03:44|>>]]**
+
+~~DISCUSSION~~{{tag>text review}}
+
+~~NOCACHE~~

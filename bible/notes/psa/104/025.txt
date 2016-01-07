@@ -1,0 +1,63 @@
+====== Psalms 104:25-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 \add We see\add* the ocean which is very large \f + \ft doublet \f*!
+\q2 It is full of many kinds of living creatures,
+\q2 big ones and little ones.
+\q1
+\v 26 We see the ships which sail\f + \ft Or: travel \f* along!
+\q2 We see the huge sea monster, which you made to splash around\f + \ft Or: play \f* in the sea.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 We see the ocean which is very vast!
+\q2 It is full of many kinds of living creatures,
+\q2 big ones and little ones.
+\q1
+\v 26 We see the ships which sail along!
+\q2 We see the huge sea monster which you made to splash around in the sea.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 Over there is the sea, deep and wide,
+\q teeming with innumerable creatures,
+\q both small and great.
+\q
+\v 26 The ships travel there,
+\q and Leviathan is also there, which you formed to play in the sea.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:creature]]
+  * [[vi:obe:other:leviathan]]
+
+===== Translation Notes: =====
+
+  * **deep and wide** - "it is deep and wide" This means that the sea is great in both directions, depth and width. (See: [[vi:ta:vol2:translate:figs_merism]])
+  * **teeming** - "overflowing"
+  * **innumerable** - "uncountable"
+  * **both small and great** - This refers to all creatures. (See: [[vi:ta:vol2:translate:figs_merism]])
+  * **The ships travel there** - "The ships travel on the sea"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:104|Psalms Chapter 104 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:104:023|<<]] | [[:vi:bible:notes:psa:104:027|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

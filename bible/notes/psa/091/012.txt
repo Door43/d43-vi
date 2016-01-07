@@ -1,0 +1,60 @@
+====== Psalms 091:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 They will hold you up with their hands,
+\q2 with the result that you will not hurt your foot on a big stone.
+\q1
+\v 13 You will be \add kept safe from being harmed by your enemies\add* \f + \ft metaphor \f*;
+\q2 \add it will be as though\add* you are stepping on lions and poisonous snakes \add without them harming you\add*!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 They will hold you up with their hands
+\q2 so that you will not hurt your foot on a big stone.
+\q1
+\v 13 You will be kept safe from being harmed by your enemies;
+\q2 it will be as though you were killing strong lions and poisonous snakes by stepping on them!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 They will lift you up with their hand
+\q so that you will not slip and fall on a stone.
+\q
+\v 13 You will crush lions and adders under your feet;
+\q you will trample on young lions and serpents.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:stone]]
+  * [[:vi:obe:other:lion]]
+  * [[:vi:obe:other:serpent]]
+
+===== Translation Notes: =====
+
+  * **They will lift you** - AT: "Yahweh's angels will lift you"
+  * **You will crush lions and adders under your feet; you will trample young lions and serpents**. - The thought is repeated in slightly different words for emphasis. Lions and snake are examples of great dangers. AT: "You will be able to overcome great dangers." (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol2:translate:figs_parallelism]]) 
+  * **adders** - types of poisonous snake.
+  * **trample** - crush by walking heavily on
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:091|Psalms Chapter 091 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:091:010|<<]] | [[:vi:bible:notes:psa:091:014|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

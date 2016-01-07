@@ -3,7 +3,7 @@
 Link to [[:vi:obe:other:home]] \\ 
 Link to [[:vi:obe:home]]
 
-<nspages vi:obe:kt -title -exclude:home -textPages="">
 
+<nspages vi:obe:kt -title -exclude:home -textPages="">
 
 ~~NOCACHE~~

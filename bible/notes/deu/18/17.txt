@@ -1,0 +1,53 @@
+====== Deuteronomy 18:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Then Yahweh said to me, 'What they have said is true\f + \ft Or: wise \f*.
+\v 18 So I will send from among them a prophet like you. I will tell him what to say, and then he will tell people everything that I tell him to say.
+\v 19 He will speak for me. And I will punish anyone who does not heed what he says.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Then Yahweh said to me, 'What they have said is true.
+\v 18 So I will send from among them a prophet like you. I will tell him what to say, and then he will tell people everything that I tell him to say.
+\v 19 He will speak for me. And I will punish anyone who does not heed what he says.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Yahweh said to me, "What they have said is good.
+\v 18 I will raise them up a prophet from among their brothers like you; I will put my words in his mouth, and he will speak to them all that I command him.
+\v 19 It will happen that if anyone does not listen to the words of mine that he speaks in my name, I will require it of him.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:name|name]]
+
+===== Translation Notes: =====
+
+  * **from among their brothers** - "from among their fellow Israelites"
+  * **put my words in his mouth** - AT: "tell him the message I want him to speak" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **speak to them** - "speak to the people of Israel"
+  * **he speaks in my name** - AT: "he speaks with my authority"
+  * **require it of him** - "I will hold him accountable" or "I will punish him." Here "him" refers to the person who does not listen to the prophet.
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:18|Deuteronomy Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:18:15|<<]] | [[:vi:bible:notes:deu:18:20|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~ 

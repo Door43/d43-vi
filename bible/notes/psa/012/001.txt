@@ -1,0 +1,56 @@
+====== Psalms 012:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, help us!
+\q2 \add It seems that\add* people who are loyal to you have all vanished.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, help us! It seems like people who honor you are no more,
+\q2 that those who are loyal to you have all vanished.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 12
+\d For the chief musician; set to the Sheminith. A psalm of David.
+\b
+\q
+\v 1 Help, Yahweh, for the godly have disappeared;
+\q the faithful have vanished.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:godly|godly, godliness]]
+  * [[:vi:obe:kt:faithful|faithful, faithfulness]]
+
+===== Translation Notes: =====
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]] 
+
+  * **chief musician** - This could be the leader of the music for worship.
+  * **set to the Sheminith** - See how you translated this in [[:vi:bible:notes:psa:006:001|6:1]].
+  * **A psalm of David** - This can also be written as a sentence. AT: “This is a psalm of David." or “This is a psalm that David wrote.”
+  * **Help, Yahweh** - AT: "Yahweh, come to my aid,"
+  * **faithful have vanished** - "faithful people have all vanished."
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:012|Psalms Chapter 012 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:011:005|<<]] | [[:vi:bible:notes:psa:012:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 037:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Be quiet in Yahweh's presence, and wait patiently for him \add to do what you want him to do\add*.
+\q2 Do not be bothered\f + \ft Or: upset \f* when what evil men do is successful,
+\q2 when they are able to do the wicked things that they plan.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Be quiet in Yahweh's presence and wait patiently for him to do what you want him to do.
+\q2 Do not be bothered when what evil men do is successful,
+\q2 when they are able to do the wicked things that they plan.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Be still before Yahweh and wait patiently for him.
+\q Do  not be worry if someone makes his evil ways succeed, 
+\q if a man makes evil plots.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:patient]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **makes his evil ways succeed...makes evil plots**  - AT: "what evil men do is successful... wicked things that they plan" This emphasizes that the peace the righteous have is not effected by works of evil men. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:037|Psalms Chapter 037 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/037/005|<<]] | [[en/bible/notes/psa/037/008|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

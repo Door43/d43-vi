@@ -1,0 +1,50 @@
+====== Nehemiah 02:3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 I replied, "Your majesty, I hope you will live a very long time! But how can I prevent myself from being sad, because the city where my ancestors are buried \add has been destroyed\add* and is in ruins?\f + \ft Or: I cannot keep myself from looking sad, because the city where my ancestors are buried \add has been destroyed\add* and is in ruins. \f* \f + \ft rhetorical question \f* Even the city gates have been completely burned."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 I replied, "O King, may you rule for many, many years! I am sad for a reason, because the city in which my ancestors are buried has been turned to rubble, and all the gates around the city have been burned to ashes."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 I said to the king, "May the king live forever! Why should not my face be sad? The city, the place of my fathers’ tombs, lies in ruins, and its gates have been destroyed by fire.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:kt:face|face]]
+  * [[:vi:obe:other:father|father, forefather]]
+  * [[:vi:obe:other:tomb|tomb, grave, burial place]]
+  * [[:vi:obe:other:ruin|ruin, ruins]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:other:fire|fire]]
+
+===== Translation Notes: =====
+
+  * **May the king live forever!** - "Long live the king!" or "May the king have a long life!" Nehemiah is showing honor to King Artaxerxes. 
+  * **Why should not my face be sad?** - "I am very sad." (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  * **the place of my father's tombs** - AT: "the place of my ancestors"
+  * **lies in ruins** - "is destroyed"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:02|Nehemiah Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:02:01|<<]] | [[:vi:bible:notes:neh:02:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

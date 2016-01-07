@@ -1,0 +1,72 @@
+====== Psalms 032:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Do not be stupid like horses and mules that do not have understanding;
+\q2 they need bits\f + \ft Or: pieces of metal put in their mouths \f* and bridles\f + \ft Or: ropes fastened to their head \f*
+\q2 so they will go in the direction you want them to go."
+\q1
+\v 10 Wicked people will have many \add troubles that will make them\add* sad,
+\q2 but those who trust in Yahweh will experience him faithfully loving them all the time.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Do not be stupid like horses and mules that do not understand anything;
+\q2 they need bits
+\q2 so they will go in the direction you want them to go."
+\q1
+\v 10 Wicked people will have many troubles that will make them sad,
+\q2 but those who trust in Yahweh will experience him faithfully loving them all the time.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Do not be like a horse or like a mule, which have no understanding;
+\q with bridle and bit to control them, 
+\q they will not go where you want them to.
+\q
+\v 10 The wicked have many sorrows,
+\q but Yahweh's covenant faithfulness will surround the one who trusts in him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:horse]]
+  * [[:vi:obe:other:donkey]]
+  * [[:vi:obe:other:understand]]
+  * [[:vi:obe:kt:evil]]
+  * [[:En:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:trust]]
+ 
+===== Translation Notes: =====
+
+  * **Do not be like a horse or like a mule, which have no understanding** - A person whith no understanding is compared to farm animals, and David is told not to be like them. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **Do not be like** - The implied audience is plural. AT: "You all must not be like"
+  * **bridle and bit** - Two tools that are used by people to make horses and mules do their work.
+  * **they will not go where you want them to** - AT: "or else they will not go where you want them to" or "because if not, they will not come to you" or "so that they will come to you"
+  * **where you want them to** - The "you" here is singular.
+  * **will surround** - AT: "will always be near to" or "will guide" or "will protect"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:032|Psalms Chapter 032 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:032:007|<<]] | [[:vi:bible:notes:psa:032:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish text book1}}
+
+~~NOCACHE~~

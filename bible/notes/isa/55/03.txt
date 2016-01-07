@@ -1,0 +1,67 @@
+====== Isaiah 55:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Listen to me and come to me;
+\q2 pay attention to me, and if you do that, you will have new life in your soul.
+\q1 I will make an agreement with you that will last forever
+\q2 to faithfully love you like I loved \add King\add* David.
+\q1
+\v 4 By what he did, I showed \add my power to many\add* people-groups;
+\q2 I caused him to be a leader and commander \f + \ft doublet \f* over \add the people of many nations\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Listen to me and come to me;
+\q2 pay attention to me, and if you do that, you will have new life in your soul.
+\q1 I will make a covenant with you that will last forever
+\q2 to faithfully love you like I loved King David.
+\q1
+\v 4 By what he did, I showed my power to many people groups;
+\q2 I caused him to be a leader and commander  over the people of many nations.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 Turn your ears and come to me! Listen, that your life may live! 
+\q1 I will certainly make an everlasting covenant with you, the acts of covenant faithfulness given to David.
+\q1
+\v 4 Look, I have placed him as a witness to the nations, as a leader and commander to the peoples."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:witness]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:commander]]
+  * [[:vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+  * **covenant faithfulness** - See how you translated this in [[vi:bible:notes:isa:16:05|16:5]].
+  * **given to David** - AT: "that I gave to David" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **I have placed him** - Possible meanings are 1) this refers to what King David did in the past, or 2) it refers to what God will do through one of David's descendants.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:55|Isaiah Chapter 55 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:55:02|<<]] | [[:vi:bible:notes:isa:55:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

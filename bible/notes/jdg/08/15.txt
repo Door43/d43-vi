@@ -1,0 +1,53 @@
+====== Judges 08:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then Gideon and his men returned to Succoth and said to those leaders, "Here are Zebah and Zalmunna. When we were here before, you made fun of me and said 'You have not \f + \ft rhetorical question \f* caught Zebah and Zalmunna yet! After you catch them, we will give your exhausted men some food.'~"
+\v 16 Then Gideon's men took the town leaders and whipped them with whips made from briers from the desert, to teach them \add that they deserved to be punished for doing things like that\add*.
+\v 17 Then \add they went to\add* Peniel and tore down the tower, and killed all the men in the town.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then Gideon and his men returned to Succoth and said to those leaders, "Here are Zebah and Zalmunna. When we were here before, you made fun of me and said 'You have not caught Zebah and Zalmunna yet! After you catch them, we will give your exhausted men some food.'~"
+\v 16 Then Gideon's men took the town leaders and whipped them with whips made from briers from the desert, to teach them that they deserved to be punished for doing things like that.
+\v 17 Then they went to Peniel and tore down the tower, and killed all the men in the town.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Gideon came to the men of Succoth and said, “Look at Zebah and Zalmunna, about whom you mocked me and said, ‘Have you already conquered Zebah and Zalmunna? We do not know that we should give bread to your army.’”
+\v 16 Gideon took the elders of the city, and he punished the men of Succoth with the desert thorns and briers.
+\v 17 And he pulled down the tower of Penuel and killed the men of that city.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:other:succoth]]
+  * [[:vi:obe:other:mock]]
+  * [[vi:obe:other:elder]]
+
+
+===== Translation Notes: =====
+
+  * **Zebah and Zalmunna**  - See how you translated this men's names in [[:vi:bible:notes:jdg:08:04|8:5]].
+  * **Have you already conquered Zebah and Zalmunna? We do not know that we should give bread to your army**  - AT: 'You have not caught Zebah and Zalmunna yet! After you catch them, we will give your exhausted men some food.'~" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **thorns and briers**  - sharp, pointed pieces of vines or limbs that stick out and can cut people and animals.
+  * **Penuel**  - See how you translated this in [[:vi:bible:notes:jdg:08:08|8:8]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:13|<<]] | [[:vi:bible:notes:jdg:08:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

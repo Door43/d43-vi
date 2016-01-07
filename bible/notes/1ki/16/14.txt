@@ -1,0 +1,42 @@
+====== 1 Kings 16:14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Everything else that Elah did is written in the book named 'The History of the Kings of Israel.'
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Everything else that Elah did is written in Book of the Events of the Kings of Israel.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 As for the other matters concerning Elah, all that he did, are they not written in The Book of the Events of the Kings of Israel?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:written]]
+
+===== Translation Notes: =====
+
+**all that he did, are they not written...Kings of Israel?** - See how you translated this in [[vi:bible:notes:1ki:15:31|15:31]]. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:16|1 Kings Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:16:11|<<]] | [[:vi:bible:notes:1ki:16:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

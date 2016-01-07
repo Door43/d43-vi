@@ -1,0 +1,78 @@
+====== Psalms 035:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then I will rejoice in what you, Yahweh, have done for me,
+\q2 I will be glad that you have rescued me.
+\q1
+\v 10 With my whole inner being \f + \ft synecdoche \f* I will say,
+\q2 "There is no one like Yahweh \f + \ft rhetorical question \f*!
+\q1 No one else can rescue helpless people from powerful people \f + \ft rhetorical question \f*.
+\q2 No one else can rescue weak and needy people from those who want to rob them."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then I will rejoice in what you, Yahweh, have done for me;
+\q2 I will be glad that you have rescued me.
+\q1
+\v 10 With my whole inner being  I will say,
+\q2 "There is no one like Yahweh!
+\q1 No one else can rescue helpless people from powerful people.
+\q2 No one else can rescue weak and needy people from those who want to rob them."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 But I will be joyful in Yahweh
+\q and rejoice in his salvation.
+\q
+\v 10 With all my strength I will say, "Yahweh, who is like You,
+\q who rescues the oppressed  from those who are too strong for them
+\q  and the poor and needy from those who try to rob them?"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:kt:oppress]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **joyful in Yahweh**  - Meaning: faith in Yahweh makes me joyful.
+    * **With all my strength**  - AT: "With my whole heart..."
+    * **"Yahweh, who is like You,...**  - All of verse 10 is a rhetorical question.
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:035|Psalms Chapter 035 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/035/007|<<]] | [[en/bible/notes/psa/035/011|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

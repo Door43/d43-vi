@@ -1,0 +1,67 @@
+====== Joel 02:17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Tell the priests who serve Yahweh to cry between the altar and the entrance to the temple
+\q2 and to pray this:
+\q1 "Yahweh, rescue\f + \ft Or: save \f* us your people;
+\q2 do not allow people from other nations to despise us;
+\q1 do not allow them to ridicule us and say,
+\q2 'Why has \f + \ft rhetorical question \f* their God \add abandoned them\add*?'~"
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Tell the priests who serve Yahweh to cry between the altar and the entrance to the temple
+\q2 and to pray this:
+\q1 "Yahweh, rescue us, your people;
+\q2 do not allow people from other nations to despise us;
+\q1 do not allow them to ridicule us and say,
+\q2 'Why has  their God abandoned them?'~"
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Let the priests, the servants of Yahweh,
+\q weep between the porch and the altar.
+\q Let them say, "Have pity on your people, Yahweh,
+\q and do not bring your inheritance to shame,
+\q so that the nations may rule over them.
+\q Why should they say among the nations, 
+\q where is their God?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:inherit]]
+  * [[vi:obe:other:shame]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:god]]
+===== Translation Notes: =====
+
+  * **your inheritance**  - the people of Israel, who are God's special people (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Why should they say among the nations, where is their God?**  - AT: "Other nations should not say the God of Israel has abandoned his people." (See: [[vi:ta:vol1:translate:figs_rquestion]]).
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jol:02|Joel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:jol:02:15|<<]] | [[:vi:bible:notes:jol:02:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

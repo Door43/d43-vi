@@ -1,0 +1,64 @@
+====== Nehemiah 08:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 So the people went out \add of the city\add* and cut branches and used them to build shelters. They built shelters on the \add flat\add* roofs \add of their houses\add*, in their courtyards, in the courtyards of the temple, in the plazas\f + \ft Or: squares \f* close to the Water Gate and the Ephraim Gate.
+\v 17 All of the Israelite people who had returned from Babylon built shelters and lived in them \add for one week\add*. The Israelite people had not celebrated that festival like that since the time that Joshua lived. And they were very joyful.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 So the people went out of the city and cut branches and used them to build shelters. They built shelters on the flat roofs of their houses, in their courtyards, in the courtyards of the temple, and in the plazas close to the Water Gate and the Ephraim Gate.
+\v 17 All of the Israelite people who had returned from Babylon built shelters and lived in them for one week. The Israelite people had not celebrated that festival like that since the time that Joshua lived. And the people had very great joy.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 So the people went out and brought the branches back and made themselves tents, each on their own roofs, in their courtyards, in the courts of the house of God, in the open place by the Water Gate, and in the square at the Gate of Ephraim.
+\v 17 And all the assembly of those who had returned from captivity made tents and lived in them. For since the days of Jeshua the son of Nun to that day, the people of Israel had not celebrated this festival. And the joy was very great.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tent|tent]]
+  * [[:vi:obe:other:courtyard|courtyard]]
+  * [[:vi:obe:other:house|house]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:water|water, waters]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:kt:assembly|assembly]]
+  * [[:vi:obe:other:captive|captive, captivity]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:festival]]
+  * [[:vi:obe:kt:joy|joy, joyful]]
+
+===== Translation Notes: =====
+
+    * **in the open place by the Water Gate** - "in the square by the Water Gate"
+    * **in the square at the Gate of Ephraim** - "in the open place at the Gate of Ephraim"
+    * **Water Gate, Gate of Ephraim**  - These are the names of entranceways in the wall (See: [[vi:ta:vol1:translate:translate_names]])
+    * **Jeshua...Nun** - These are names of males. "Jeshua" can be translated as "Joshua." (See: [[vi:ta:vol1:translate:translate_names]])    
+    * **And the joy was very great** - "And the people were very happy"
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:08|Nehemiah Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:08:13|<<]] | [[:vi:bible:notes:neh:08:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

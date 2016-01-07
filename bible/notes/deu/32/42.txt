@@ -1,0 +1,61 @@
+====== Deuteronomy 32:42 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 I will kill all \add of my enemies\add* with a sword;
+\q2 it will be as though I had arrows that will be covered with their blood.
+\q1 I will kill \f + \ft metonymy \f* all those whom I capture
+\q2 and cut off their long-haired heads.'
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 I will kill all of my enemies with a sword;
+\q it will be as though I had arrows that were covered with their blood.
+\q I will kill all those whom I capture
+\q and cut off their heads.'
+\b
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 42 I will make my arrows drunk with blood,
+\q and my sword will devour flesh
+\q with the blood of the killed and the captives,
+\q and from the heads of the leaders of the enemy.’”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:drunk|drunk]]
+  * [[:vi:obe:kt:blood|blood]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:other:devour|devour]]
+  * [[:vi:obe:kt:flesh|flesh]]
+  * [[:vi:obe:other:captive|captive, captivity]]
+  * [[:vi:obe:other:head|head]]
+  * [[:vi:obe:other:adversary]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **I will make my arrows drunk with blood and my sword will devour flesh with the blood** - Yahweh compares himself punishing his enemies to a soldier killing people with his weapons. AT: "I will completely destroy my enemies as if I had arrows and a sword that pierce the flesh and drip with the blood" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:41|<<]] | [[:vi:bible:notes:deu:32:43|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

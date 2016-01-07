@@ -1,0 +1,81 @@
+====== Lamentations 03:44-47 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 44 You have hidden yourself in a cloud,
+\q2 with the result that you do not hear us when we pray.
+\q1
+\v 45 You have caused \add the people of other\add* nations to consider us
+\q2 to be only garbage \f + \ft doublet \f*.
+\b
+\q1
+\v 46 All our enemies have spoken things to insult us.
+\q1
+\v 47 We are constantly afraid \f + \ft doublet \f*,
+\q2 because we have experienced disasters and ruin \f + \ft doublet \f*."
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 44 You have hidden yourself away, as if you were in a cloud,
+\q2 so that you will not hear us when we pray.
+\q1
+\v 45 You have made us go among the foreign peoples,
+\q2 and they think we are only garbage.
+\b
+\q1
+\v 46 All our enemies have spoken things to insult us.
+\q1
+\v 47 We are constantly afraid that people will trap us,
+\q2 because we have experienced so many disasters and so much ruin."
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 44 You have covered yourself with a cloud, so that no prayer can pass through.
+\q
+\v 45 You have made us castoffs and refuse among the peoples.
+\q
+\v 46 All our enemies have opened their mouth mockingly against us.
+\q
+\v 47 Fear of the pit has come upon us, desolation and crushing."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pray]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:mock]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:other:pit]]
+  * [[:vi:obe:other:desolate]]
+
+===== Translation Notes: =====
+
+The prayer that began in [[:vi:bible:notes:lam:03:40|3:42]] continues.
+
+    * **You have covered yourself with a cloud, so that no prayer can pass through** - AT: "You use the clouds as a shield to keep our prayers away" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **castoffs and refuse** - AT: "You have thrown us away as if we were just trash." (See: [[:vi:ta:vol2:translate:figs_doublet]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **desolation and crushing** - "total destruction" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:03:40|<<]] | [[:vi:bible:notes:lam:03:48|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

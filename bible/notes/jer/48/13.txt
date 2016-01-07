@@ -1,0 +1,56 @@
+====== Jeremiah 48:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then the people of Moab will be ashamed of their god\f + \ft Or: idol \f* Chemosh \add because it did not help them\add*,
+\q2 like the Israelite people were ashamed because their gold statue of a calf \add was smashed\add* at Bethel.
+\b
+\q1
+\v 14 The soldiers of Moab previously said, "We are warriors;
+\q2 we have fought bravely in battles!"
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then the people of Moab will be ashamed of their god Chemosh that they had trusted in, because it did not help them,
+\q2 like the Israelite people were ashamed because their gold statue of a calf was smashed at Bethel.
+\b
+\q1
+\v 14 The soldiers of Moab previously said, "We are warriors;
+\q2 we have fought bravely in battles!"
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 Then Moab will be ashamed of Chemosh just as the house of Israel was ashamed of Bethel, their object of trust.
+\q
+\v 14 How can you say, ‘We are soldiers, powerful fighting men’?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:vi:obe:other:house|house]]
+  * [[:vi:obe:other:bethel]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:kt:power|power]]
+===== Translation Notes: =====
+
+  * **How can you say **- The word "you" means the Moabite soldiers.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:48|Jeremiah Chapter 48 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:48:11|<<]] | [[:vi:bible:notes:jer:48:15|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

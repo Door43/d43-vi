@@ -1,0 +1,56 @@
+====== Ezra 02:19-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 223 \tc2 descendants of Hashum
+\tr \tc1
+\v 20 95 \tc2 descendants of Gibbar
+\b
+\p \add People whose ancestors had lived in these towns in Judah:\add*
+\tr \tc1
+\v 21 123 \tc2 from Bethlehem
+\tr \tc1
+\v 22 56 \tc2 from Netophah
+\tr \tc1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 223 descendants of Hashum
+\v 20 Ninty-five descendants of Gibbar
+
+\p People whose ancestors had lived in these towns in Judah:
+\v 21 123 from Bethlehem
+\v 22 Fifty-six from Netophah
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 The people of Hashum: 223.
+\v 20 The people of Gibbar: ninety-five.
+\v 21 The people of Bethlehem: 123.
+\v 22 The people of Netophah: fifty-six.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:judah]]
+  * [[vi:obe:other:bethlehem]]
+
+===== Translation Notes: =====
+
+  * **Hashum**  - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Gibbar** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Netophah**  - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:ezr:02:15|<<]] | [[:vi:bible:notes:ezr:02:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

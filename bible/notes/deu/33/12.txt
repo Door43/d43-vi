@@ -1,0 +1,70 @@
+====== Deuteronomy 33:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 I say this about \add the tribe of\add* Benjamin:
+\q1 They are the tribe that Yahweh loves;
+\q2 he keeps them safe.
+\q1 He protects them continually,
+\q2 and he lives among their hills \f + \ft metaphor \f*.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 I say this about the tribe of Benjamin:
+\q They are the tribe that Yahweh loves;
+\q he keeps them safe.
+\q He protects them continually,
+\q and he lives among their hills .
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 About Benjamin, Moses said,
+\q “The one loved by Yahweh lives in security beside him;
+\q Yahweh shields him all the day long,
+\q and he lives between Yahweh’s arms.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:benjamin]]
+  * [[:vi:obe:other:Moses]]
+  * [[:vi:obe:kt:love]]
+
+ 
+===== Translation Notes: =====
+Moses continues blessing each tribe of Israel.
+
+    * **The one loved by Yahweh lives** - AT: "The ones Yahweh loves live" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **he lives between Yahweh’s arms** - Possible meanings are 1) Yahweh protects the tribe of Benjamin with his power, or 2) Yahweh lives in the hill region of the tribe of Benjamin. Either way it means Yahweh takes care of them.
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/11|<<]] | [[en/bible/notes/deu/33/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

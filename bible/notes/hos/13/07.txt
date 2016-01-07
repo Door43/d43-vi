@@ -1,0 +1,71 @@
+====== Hosea 13:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 So I will attack you like \f + \ft simile \f* a lion \add attacks other animals\add*;
+\q2 I will be like \f + \ft simile \f* a leopard that waits beside the road \add to attack another animal\add*.
+\q1
+\v 8 Like \f + \ft simile \f* a female bear attacks anyone that steals her cubs,
+\q2 I will attack you Israelites and rip you open.
+\q1 I will completely get rid of you
+\q2 like \f + \ft simile \f* lions or other wild animals tear apart the animals that they catch and devour them.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 So I will attack you like a lion;
+\q2 I will attack you like a leopard that waits beside the road to suddenly jump on a traveler.
+\q1
+\v 8 I will come against you like a female bear when someone steals her cubs,
+\q2 and I will rip open your chests.
+\q1 Like a female lion that attacks, 
+\q2 l will devour you and tear you apart.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 So I will act like a lion toward you;
+\q like a leopard, I will I wait by the path for you.
+\q
+\v 8 I will attack you like a bear that is robbed of her cubs;
+\q I will rip open your chests,
+\q and there I will devour you  like a lioness;
+\q as a wild beast would tear you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:lion|lion]]
+  * [[:vi:obe:other:leopard|leopard]]
+  * [[:vi:obe:other:bear]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:other:beast|beast]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **like a lion...like a leopard...like a bear...like a lioness** - Each of these wild animals are predators and will attack and kill. In the case of a bear, they will protect their young. Yahweh continues to emphasize how he will deal with his people when they turn away from him. (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **as a wild beast would tear you** - A lioness is a wild beast and tears apart her prey. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:13|Hosea Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:13:04|<<]] | [[:vi:bible:notes:hos:13:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

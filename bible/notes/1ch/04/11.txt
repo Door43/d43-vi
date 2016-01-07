@@ -1,0 +1,44 @@
+====== 1 Chronicles 04:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add Another descendant of Judah was\add* Shuhah. His \add younger\add* brother Kelub was the father of Mehir. Mehir was the father of Eshton.
+\v 12 Eshton was the father of Beth-Rapha, Paseah, and Tehinnah. Tehinnah started Nahash \add town\add*, but their families lived in Recah \add town\add*.
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Another descendant of Judah was Shuhah. His younger brother Kelub was the father of Mehir. Mehir was the father of Eshton.
+\v 12 Eshton was the father of Beth Rapha, Paseah, and Tehinnah. Tehinnah started the city of Nahas, but their families lived in the city of Recah.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 Kelub brother of Shuhah became the father of Mehir, who was the father of Eshton.
+\v 12 Eshton became the father of Beth Rapha, Paseah, and Tehinnah, the originator of the city of Nahash. These were the men who originated the town of Recah.
+</usfm>
+
+===== Important Terms: =====
+
+
+===== Translation Notes: =====
+
+  * **Kelub...Shuhah...Mehir...Eshton...Beth Rapha...Paseah...Tehinnah**  - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **originator**  -  a person who began something.
+  * **Nahash**  - This is the name of a city.  (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **Recah** - This is the name of a town.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:04|1 Chronicles Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:04:09|<<]] | [[:vi:bible:notes:1ch:04:13|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

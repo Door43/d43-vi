@@ -1,0 +1,76 @@
+====== Jeremiah 06:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Yahweh, the commander of the armies of angels in heaven, says this:
+\q2 "I will tell \add your enemies\add* to cause your country to become as desolate \f + \ft simile \f* as a vineyard from which all the grapes have been completely stripped from the vines.
+\q1 \add Their soldiers will seize the possessions of\add* those who remain in Israel \add after the others have been exiled\add*
+\q2 like \f + \ft simile \f* farmers go to the vines again to pick any grapes \add that were left\f + \ft Or: not picked \f*\add*."
+\b
+\q1
+\v 10 \add Then I said, "If I speak to the Israelite people\add* to warn them,
+\q2 who will listen to me?\f + \ft Or: No one will listen to me. \f* \f + \ft rhetorical question \f*
+\q1 \add It is as though\add* their ears are closed,
+\q2 and as a result they cannot hear \add what I say\add*.
+\q1 They scorn Yahweh's messages;
+\q2 they do not want to listen to them at all.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Yahweh, the commander of the angel armies, says this:
+\q "I will tell your enemies to cause your country to become as desolate as a vineyard from which all the grapes have been completely stripped from the vines.
+\q I will tell their soldiers to seize the possessions of those who remain in Israel after the others have been exiled like farmers go to the vines again to pick any grapes that were left."
+\q
+\v 10 Then I said, "If I speak to the Israelite people to warn them, who will listen to me? It is as though their ears are closed, and as a result they cannot hear what I say.
+\q They scorn Yahweh's messages; they do not want to listen to them at all.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q 
+\v 9 Yahweh of hosts says this: They will certainly glean those who are left in Israel like a vineyard.
+\q  Reach out again with your hand to pick grapes from the vines.
+\q
+\v 10 To whom should I declare and warn so they will listen? See, their ears are uncircumcised; they are not able
+\q to pay attention!" See! The word of Yahweh has come to them to correct them, but they do not want it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahwehofhosts]]
+  * [[:vi:obe:other:glean]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:vine]]
+  * [[:vi:obe:other:grape]]
+  * [[vi:obe:other:declare]]
+  * [[:vi:obe:kt:uncircumcised]]
+  * [[:vi:obe:kt:wordofgod]]
+
+===== Translation Notes: =====
+
+  * **They will certainly glean those who are left in Israel like a vineyard** - Yahweh compares the people who remain after the enemy has already destroyed Israel to grapes that are left in a vineyard that people have already harvested. AT: "They will certainly come back to attack the people who remain in Israel after they have already destroyed it." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **They will certainly ** - The word "They" refers to the enemy that Yahweh sends to destroy Israel.
+  * **Reach out again** - Yahweh is speaking to the enemies who attack Israel.
+  * **Reach out again with your hand to pick grapes from the vines** - AT: "Come and attack the people of Israel who remain."
+  * **To whom should I** - Jeremiah is speaking.
+  * **To whom should I declare and warn so they will listen** - Yahweh uses this question to emphasize that none of the people of Israel would listen to him even after they survived the attack of their enemies. AT: "There is no one left for me to speak to and warn who might listen." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **See** - Yahweh uses the word "See" to emphasize what he is saying.
+  * **their ears are uncircumcised** - AT: "they refuse to listen/obey." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **their ears** - The word "their" refer to the people of Israel.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:06|Jeremiah Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:06:06|<<]] | [[:vi:bible:notes:jer:06:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

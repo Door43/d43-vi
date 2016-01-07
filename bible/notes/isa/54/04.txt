@@ -1,0 +1,57 @@
+====== Isaiah 54:4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Do not be afraid; you will no longer be ashamed.
+\q1 Previously you were ashamed \add because your enemies conquered you\add*
+\q2 and caused many of your women to become widows,
+\q1 but soon you will not even remember that.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Do not be afraid; you will no longer be ashamed.
+\q1 Previously you were ashamed because your enemies conquered you
+\q2 and caused your nation to be like a widow,
+\q1 but soon you will not even remember that.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 4 Do not fear for you will not be ashamed, nor be discouraged for you will not be disgraced; 
+\q1 you will forget the shame of your youth and the disgrace of your abandonment.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:other:shame]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Jerusalem.
+
+  * **you will forget the shame of your youth and the disgrace of your abandonment**  - Yahweh is speaking to the people of Jerusalem as if they were a woman whose husband had left them and is addressing the shame they felt when the army of Babylon defeated them and took them into exile. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:54|Isaiah Chapter 54 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:54:02|<<]] | [[:vi:bible:notes:isa:54:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

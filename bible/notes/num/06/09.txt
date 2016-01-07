@@ -1,0 +1,38 @@
+====== Numbers 06:9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 If anyone dies very suddenly when he is near you, then your hair that you have dedicated to me is no longer sacred. So you must wait seven days and then shave it all off. Then you must perform a special ritual to cause yourself to become acceptable to me again.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 If anyone dies very suddenly when he is near you, then your hair that you have dedicated to me is no longer sacred. So you must wait seven days and then shave it all off. Then you must perform a special ritual to cause yourself to become acceptable to me again.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 If someone very suddenly dies beside him and defiles his separated person, then he must shave his head on the day of his cleansing, which must be after seven days. That is when he must shave his head.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:defile]]
+  * [[:vi:obe:kt:clean]]
+
+===== Translation Notes: =====
+
+  * **on the day of his cleansing** - AT: "on the day when he purifies himself" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:06|Numbers Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:num:06:06|<<]] | [[:vi:bible:notes:num:06:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

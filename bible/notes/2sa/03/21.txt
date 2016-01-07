@@ -1,0 +1,47 @@
+====== 2 Samuel 03:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Afterwards, Abner said to David, "Sir\f + \ft Or: Your \f* majesty, I will now go and encourage all the people of Israel to accept you to be their king, as you have desired." Then Abner left, peacefully.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Afterwards, Abner said to David, "Sir, I will now go and encourage all the people of Israel to accept you to be their king, as you have desired." Then Abner left, peacefully.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 21 Abner explained to David, "I will arise and gather all Israel to you, my master the king, so that they may make a covenant with you, so that you may reign over all that your heart  desires." So David sent Abner away,  and Abner left in peace.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise|raise, rise, risen]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:other:reign|reign]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+
+===== Translation Notes: =====
+
+  * **all Israel** - This phrase means "all of the nation of Israel." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **all that your heart desires** - The word "heart" represents David. AT: "All that you, David, desire." (See: [[:vi:ta:vol2:translate:figs_synecdoche]]) 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:03|2 Samuel Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:03:19|<<]] | [[:vi:bible:notes:2sa:03:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

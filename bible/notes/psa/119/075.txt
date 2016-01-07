@@ -1,0 +1,66 @@
+====== Psalms 119:75-76 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 75 Yahweh, I know that your regulations\f + \ft Or: the rules that you have given to us \f* are right, Or: fair
+\q2 and that you have afflicted\f + \ft Or: punished \f* me because you faithfully do what you have promised.
+\q1
+\v 76 Cause me to be comforted\f + \ft Or: encouraged \f* by \add knowing that\add* you faithfully love me,
+\q2 like you said to me that you would do.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 75 Yahweh, I know that your regulations are right
+\q2 and that you have made me suffer because you love me without end.
+\q1
+\v 76 Comfort me by showing that you faithfully love me
+\q2 as you said to me that you would do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 75 I know, Yahweh, that your decrees are just,
+\q and that in faithfulness you afflicted me.
+\q
+\v 76 Let your covenant faithfulness comfort me,
+\q as you promised your servant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:other:comfort]]
+  * [[:vi:obe:kt:promise]]
+  * [[:vi:obe:other:servant]]
+
+===== Translation Notes: =====
+
+  * **in faithfulness you afflicted me**  - God promises to reward the righteous and punish wrongdoers, so he is faithful to do what he says he will. AT: "you remain faithful even when you disciplined me"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:073|<<]] | [[:vi:bible:notes:psa:119:077|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Psalms 110:2-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 Yahweh \add said to him\add*, "I will extend your power as king
+\q2 from Jerusalem \add to other lands\add*;
+\q2 you will rule over all your enemies.
+\q1
+\v 3 On the day that you lead your armies into battle,
+\q2 many of your people will volunteer \add to join your army\add*.
+\q1 Like the dew refreshes the earth early in the morning,
+\q2 young men will \add encourage you by\add* coming to help you."
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 Yahweh will extend your power as king
+\q2 from Jerusalem to other lands;
+\q2 you will rule over all your enemies.
+\q1
+\v 3 On the day that you lead your armies into battle,
+\q2 many of your people will volunteer to join your army.
+\q1 Your youthful strength will act for you like the dew that waters the earth early in the morning."
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 2 Yahweh will hold out the scepter of your strength from Zion;
+\q rule among your enemies.
+\q
+\v 3 Your people will follow you in sacred garments 
+\q of their own free will on the day of your power;
+\q from the womb of the dawn your youth will be to you like the dew.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:scepter]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:majesty]]
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:other:womb]]
+  * [[vi:obe:other:like]]
+
+===== Translation Notes: =====
+
+Yahweh continues to speak to the lord.
+ 
+  * **on the day of your power ** - or "when you gather your army"
+  * **from the womb of the dawn** - Yahweh describes the dew as a baby to whom the dawn gives birth. (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **from the womb of the dawn your youth will be to you like the dew.**- AT: "Your youthful strength will act for you like the dew that waters the earth early in the morning." 
+
+===== Link: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:110|Psalms Chapter 110 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:110:001|<<]] | [[:vi:bible:notes:psa:110:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

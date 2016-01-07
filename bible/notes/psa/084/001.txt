@@ -1,0 +1,72 @@
+====== Psalms 084:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Lord, you who are the Almighty Commander of the armies of angels,
+\q2 your temple is very beautiful!
+\q1
+\v 2 I \f + \ft synecdoche \f* would like to be there;
+\q2 Yahweh, I desire that very much \f + \ft doublet \f*.
+\q2 With all my inner being I sing joyfully to you, the all-powerful God.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, Commander of the angel armies,
+\q2 your temple is very beautiful!
+\q1
+\v 2 I  would like to be there;
+\q2 Yahweh, I desire that very much.
+\q2 With all my inner being I sing joyfully to you, the all-powerful God.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 84
+\d For the chief musician; set to the gittith style. A psalm of the sons of Korah.
+\b
+\q
+\v 1 How lovely is the place where you live,
+\q Yahweh of hosts!
+\q
+\v 2 My soul yearns, even pines, for the courts of Yahweh;
+\q my heart and my whole being call out to the living God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:kt:son]]
+  * [[:vi:obe:other:korah]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:yahwehofhosts]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:other:courtyard]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:heart]]
+
+===== Translation Notes: =====
+
+This is a psalm, which is a song, by the sons of Korah.  See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **Gittith**  - See how you translated this in [[vi:bible:notes:psa:008:001|8:1]].
+  * **lovely **  - "beautiful"
+  * **My soul yearns, even pines, for the courts of Yahweh;**  - "I really want to be in the courts of Yahweh;"
+  * **whole being** - "flesh" or "whole body"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:084|Psalms Chapter 084 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:083:018|<<]] | [[:vi:bible:notes:psa:084:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

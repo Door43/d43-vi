@@ -1,0 +1,51 @@
+====== Nehemiah 09:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 You sent your good Spirit to instruct them. You continued to provide water when they were thirsty.
+\v 21 For forty years you took care of them in the desert. During all that time, they did not lack anything \add that they needed\add*. Their clothes did not wear out, and their feet did not swell up \add even though they were continually walking\add*.
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 You sent your good Spirit to instruct them. You did not withhold the manna from them when they were hungry and you provided water when they were thirsty.
+\v 21 For forty years you took care of them in the desert. During all that time, they did not have need of anything. Their clothes did not wear out, and their feet did not swell up.
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 You gave your good Spirit to instruct them, and  your manna you did not withhold from their mouths, and you gave them water for their thirst.
+\v 21 For forty years you provided for them in the wilderness, and they lacked nothing. Their clothes did not wear out and their feet did not swell.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:good|good, goodness]]
+  * [[:vi:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]
+  * [[:vi:obe:other:manna|manna]]
+  * [[:vi:obe:other:water|water, waters]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[:vi:obe:kt:clothed|clothe, clothed]]
+
+===== Translation Notes: =====
+
+In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+
+  * **You gave your good Spirit to instruct them** - Here "you" and "your" refer to Yahweh, and "them" refers to the Israelites at the time of Moses.
+  * **and your manna you did not withhold from their mouths** - "and you did not withhold your manna from their mouths" (See: [[vi:ta:vol1:translate:figs_order]])
+  * **instruct** - "teach"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:09|Nehemiah Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:09:18|<<]] | [[:vi:bible:notes:neh:09:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Deuteronomy 03:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 (Og was the last king who was a descendant of the Repha giants. His bed was made of iron. It was almost 14 ft.\f + \ft Or: 4 meters \f* long and 6 ft.\f + \ft Or: 2 meters \f* wide. It is still \f + \ft rhetorical question \f* in Rabbah \add city\add* in the Ammon area.)
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 (Og was the last king who was a descendant of the Repha giants. His bed was made of iron. It was almost four meters long and two meters wide. It was in the city of  Rabbah in the region of Ammon.)
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 (For of the remnant of the Rephaim, only Og king of Bashan had remained; look, his bed was a bed of iron; was it not in Rabbah, where the descendants of Ammon live? It was nine cubits long, four cubits wide, the way people measure.)
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:king]]
+  * [[vi:obe:other:bashan]]
+  * [[:vi:obe:other:rabbah|Rabbah]]
+  * [[vi:obe:other:descendant]]
+  * [[:vi:obe:other:ammon|Ammon, Ammonites]]
+
+===== Translation Notes: =====
+
+  * **For of the remnant...the way people measure** - This is background information about King Og. (See: [[vi:ta:vol2:translate:writing_background]])
+  * **Rephaim** - See how you translated this in [[vi:bible:notes:deu:02:10|2:11]].
+  * **was it not in Rabbah, where the descendants of Ammon live?** - The speaker use a question to remind the people of Israel that they could go to Rabbah and see how large Og must have been. AT: "it was in Rabbah, where the descendants of Ammon live" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **cubit** - A cubit is 46 centimeters. (See: [[:vi:obe:other:biblicaldistance|Biblical distance]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:03|Deuteronomy Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/03/08|<<]] | [[en/bible/notes/deu/03/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

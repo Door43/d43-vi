@@ -1,0 +1,61 @@
+====== 1 Chronicles 08:38-40 ======
+
+===== TFT: =====
+
+<usfm>
+\v 38 Azel had six sons: Azrikam, Bokeru, Ishmael, Sheariah, Obadiah, and Hanan.
+\li1
+\v 39 Azel's \add younger\add* brother was Eshek.
+\li1 Eshek's oldest son was Ulam. His other sons were Jeush and Eliphelet.
+\li2
+\v 40 Ulam's sons were brave warriors and good archers\f + \ft Or: able to shoot arrows well \f*. Altogether they had 150 sons and grandsons.
+\b
+\m Those were the descendants of Benjamin.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 38 Azel had six sons: Azrikam, Bokeru, Ishmael, Sheariah, Obadiah, and Hanan.
+\li1
+\v 39 Azel's younger brother was Eshek.
+\li1 Eshek's oldest son was Ulam. His other sons were Jeush and Eliphelet.
+\li2
+\v 40 Ulam's sons were brave warriors and good archers. Altogether they had 150 sons and grandsons.
+\b
+\m Those were the descendants of Benjamin.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 38 Azel had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All
+these were sons of Azel.
+\v 39 The sons of Eshek, his brother, were Ulam his firstborn, Jeush the second, and Eliphelet the third.
+\v 40 Ulam's sons were fighting men and  archers. They had many sons and grandsons, a total of 150. All these
+belonged to the descendants of Benjamin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:obadiah]]
+  * [[:vi:obe:other:archer]]
+  * [[vi:obe:kt:son]]
+  * [[vi:obe:other:descendant]]
+  * [[:vi:obe:other:benjamin]]
+
+===== Translation Notes: =====
+
+  * **Azel ... Azrikam, Bocheru, Ishmael ... Epiphelet** - These are names of men.  (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **six sons**  - "6 sons" (See: [[:vi:ta:vol2:translate:translate_numbers]]) 
+  * **Jeush the second, and Eliphelet the third** - AT: "Jeush the 2nd son, and Eliphelet the 3rd son" (See: Ordinal Numbers)
+  * **They had many sons and grandsons, a total of 150** - AT: "They had a total of one hundred fifty sons and grandsons"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:08|1 Chronicles Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:08:35|<<]] | [[:vi:bible:notes:1ch:09:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

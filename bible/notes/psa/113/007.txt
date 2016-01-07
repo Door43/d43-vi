@@ -1,0 +1,57 @@
+====== Psalms 113:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add Sometimes\add* he lifts poor people up \add so that they no longer sit in\add* the dirt;
+\q1 he lifts needy people up \add so that they no longer sit on\add* heaps of ashes
+\q1
+\v 8 and causes them to \add be honored\add* by sitting next to princes,
+\q2 the sons of the kings \add who rule\add* their people.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 He lifts poor people up so that they no longer sit in the dirt;
+\q1 he lifts needy people up so that they no longer sit on heaps of ashes
+\q1
+\v 8 and causes them to be honored by sitting next to leaders,
+\q2 leaders who rule his own people.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 He raises up the poor out of the dirt
+\q and lifts up the needy from the ash heap,
+\q
+\v 8 so that he may seat him with princes,
+\q with the princes of his people.
+</usfm>
+
+===== I-mportant Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[:En:obe:other:ash]]
+  * [[:vi:obe:other:prince]]
+  * [[:vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * **He raises up the poor ... and lifts up the needy ...** - These two phrases have similar meaning and are used together to emphasize how poor people sit in lowly and dirty places. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **so that he may seat him with princes, with the princes ...** - Here the second phrase is used to describe the "princes" from the first phrase.
+  * **his people** - The word "his" refers to Yahweh.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:113|Psalms Chapter 113 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:113:005|<<]] | [[:vi:bible:notes:psa:113:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5 ash}}
+
+~~NOCACHE~~

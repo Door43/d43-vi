@@ -1,0 +1,64 @@
+====== Nehemiah 07:23-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 324 men from the clan of Bezai;
+\li2
+\v 24 112 men from the clan of Hariph, \add whose other name is Jorah\add*;
+\li2
+\v 25 95 men from the clan of Gibeon, \add whose other name is Gibbar\add*.
+\b
+\pi
+\v 26 Men whose ancestors had lived in these towns also returned:
+\li2 188 men from Bethlehem and Netophah
+\li2
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 From the descendants of Bezai, 324,
+\li2
+\v 24 from the descendants of Hariph, whose other name is Jorah, 112,
+\li2
+\v 25 from the descendants of Gibeon, whose other name is Gibbar, 95.
+\b
+\pi
+\v 26 Men whose ancestors had lived in these towns also returned:
+\li2 Men from Bethlehem and Netophah, 188.
+
+
+\li2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 The descendants of Bezai, 324.
+\v 24 The descendants of Hariph, 112.
+\v 25 The descendants of Gibeon, 95.
+\v 26 The men from Bethlehem and Netophah, 188.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:descendant]]
+  * [[:vi:obe:other:gibeon|Gibeon, Gibeonite]]
+  * [[:vi:obe:other:bethlehem|Bethlehem]]
+===== Translation Notes: =====
+
+Nehemiah is continuing to recount the number of people who returned from exile. The people were grouped by family according to the name of their patriarch. With Bethlehem the list goes according to the ancestors from that location. The number represents the number of males in each family. (See how you translated numbers in [[vi:bible:notes:neh:07:11|07:11-14]].)
+
+  * **Bezai...Hariph...Gibeon** - These are the names of the patriarchs of each family group. (See: [[vi:ta:vol1:translate:translate_names]])
+  * **the men from** - AT: "the people from"
+  * **Bethlehem and Netophah** - These are the names of two villages in Judah. (See: [[vi:ta:vol1:translate:translate_names]])
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:07|Nehemiah Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:07:19|<<]] | [[:vi:bible:notes:neh:07:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

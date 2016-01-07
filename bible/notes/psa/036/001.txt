@@ -1,0 +1,82 @@
+====== Psalms 036:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add A continual desire to\add* sin is in the inner beings of wicked people.
+\q1 They consider [IDI] that they have do not need to have an awesome respect for God.
+\q1
+\v 2 Because they are very proud,
+\q2 they do not think that God will discover their sins and condemn them \f + \ft Or: they do not think about their sins and hate themselves for it \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 A continual desire to sin is in the inner beings of wicked people.
+\q1 They consider that they do not need to have an awesome respect for God.
+\q1
+\v 2 Because they are very proud,
+\q2 they do not think that God will discover their sins and condemn them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 36
+\d For the chief musician. A psalm of David the servant of Yahweh.
+\b
+\q
+\v 1 Sin speaks as an oracle in the heart of the wicked man; 
+\q there is no fear of God in his eyes.
+\q
+\v 2 For he lives in the delusion
+\q that his sin will not be discovered and be hated.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:kt:life]]
+ 
+===== Translation Notes: =====
+See: talink [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+
+    * **For the chief musician**  - "This psalm is sent to the leader of the king's musicians."
+
+    * **A psalm of David the servant of Yahweh**  - "This psalm was written by David, God's servant."
+    * **Sin speaks as an oracle in the heart**  - AT:"A continual desire to sin is in the inner beings" (UDB) (See:[[:vi:ta:vol2:translate:figs_personification]]) (See:[[:vi:ta:vol1:translate:figs_simile]])
+    * **in his eyes**  - AT:"in all that he seeks or desires"  (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **he lives in the delusion**  - AT: "his life is based on the false belief" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:036|Psalms Chapter 036 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/035/027|<<]] | [[en/bible/notes/psa/036/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

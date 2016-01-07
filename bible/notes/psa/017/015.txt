@@ -1,0 +1,41 @@
+====== Psalms 017:15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Yahweh, because I act righteously, I will \add some day\add* see you \f + \ft synecdoche \f*.
+\q2 When I awake, I will see you face-to-face, and then I will be happy.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Yahweh, because I act in the right way, I will be with you one day.
+\q2 When I awake after I die, I will see you face to face, and then I will be happy.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 As for me, I will see your face in righteousness; I will be satisfied, when I awake, with a sight of you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+  * **I will see your face** - David is confident he will see Yahweh. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **I will be satisfied, when I awake**  - AT: "I will be happy to wake up in your presence,"  Possible meanings: 1) "when I wake up each day" or 2) "when I wake up after death"
+  * **with a sight of you.**  - AT: "when I see you are still with me."
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:017|Psalms Chapter 017 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:017:013|<<]] | [[:vi:bible:notes:psa:018:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

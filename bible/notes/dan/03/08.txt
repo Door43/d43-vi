@@ -1,0 +1,56 @@
+====== Daniel 03:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 But some of the men who studied the stars went to the king.
+\v 9 They reported to him, "We hope that you, O king, will live a long time!
+\v 10 You decreed that all the officials \add whom you had gathered\add* should bow down and worship the gold statue when they heard the sounds made by the musical instruments.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 But some Chaldeans went to the king.
+\v 9 They reported to him, "O king, may you never die!
+\v 10 You decreed that every person who hears the sound of those instruments should lie down on the ground and honor the golden statue.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 Now at this time certain Chaldeans came and brought accusations against the Jews.
+\v 9 They said to Nebuchadnezzar the king, "King, live forever!
+\v 10 You, king, have made a decree that every person who hears the sounds of the horns, flutes, zithers, lyres, harps, and pipes, and all kinds of music, must fall down and prostrate himself to the golden statue.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chaldeans]]
+  * [[:vi:obe:other:accuse]]
+  * [[:vi:obe:other:jew]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:king]]
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:other:trumpet]]
+  * [[:vi:obe:other:flute]]
+  * [[:vi:obe:other:lute]]
+  * [[:vi:obe:other:harp]]
+  * [[:vi:obe:other:gold]]
+===== Translation Notes: =====
+
+  * **Now** - This word is used here to mark a break in the main storyline. Here the writer tells about some new people in the story.
+  * **King live forever!** - This was a common greeting to the king.
+  * **the horns, flutes, ... and all kinds of music** See how you translated this list in [[vi:bible:notes:dan:03:03|3:5]].
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:03|Daniel Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:03:06|<<]] | [[:vi:bible:notes:dan:03:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

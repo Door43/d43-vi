@@ -1,0 +1,54 @@
+====== Joshua 08:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 When the men of Ai looked back, they saw smoke rising from their city. But they could not escape, because the Israelite troops stopped running away.
+\v 21 Joshua and his men saw that the men who had been hiding had captured the city and were burning it, and they saw the smoke rising. So they turned around and started to attack the men of Ai.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 When the men of Ai looked back, they saw smoke rising from their city. But they could not escape, because the Israelite troops stopped running away and had turned around and now were facing the army that had been coming after them.
+\v 21 Joshua and his men saw that the men who had been hiding had captured the city and were burning it, and they saw the smoke rising. So they turned back and began killing the men of Ai.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 The men of Ai turned and looked back. They saw the smoke from the city rising into the sky, and they could not escape this way or that.  For the Israelite soldiers who had fled into the wilderness now turned back to face those who were pursuing them.
+\v 21 When Joshua and all Israel saw the ambush had captured the city with the smoke rising, they turned around and killed the men of Ai.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ai]]
+  * [[:En:obe:other:desert]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:other:joshua]]
+  * [[:En:obe:other:israel]]
+
+
+===== Translation Notes: =====
+
+  * **The men of Ai turned ... they saw ... Joshua and all Israel ... turned around ... they killed** - These are the main events in the story. If your language has a way of marking that the writer adds all the words from "they saw the smoke from the city rising" to "with the smoke rising" so the reader understands why "they turned around and they killed," you may want to use it here. 
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:08|Joshua Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/08/18|<<]] | [[en/bible/notes/jos/08/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

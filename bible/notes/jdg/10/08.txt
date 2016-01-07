@@ -1,0 +1,47 @@
+====== Judges 10:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 In that same year, those people started to oppress the Israelites who lived in the Gilead \add region\add* on the east side of the Jordan \add River\add*. That was where the Amor people-group also lived. The Israelites who lived in that region were caused to suffer for eighteen years.
+\v 9 Then the people of the Ammon people-group crossed the Jordan \add River\add* to fight against the people of the tribes of Judah, Benjamin, and Ephraim. They caused the Israelites' lives to be very miserable.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 They crushed and oppress the Israelites that year, and for eighteen years they oppressed all the people of Israel who lived on the east side of the Jordan River. That was the land of the Amorites, which is in Gilead.
+\v 9 Then the Amonites crossed over the Jordan River to fight against the people of the tribes of Judah, Benjamin, and Ephraim. They caused the Israelites' to live their lives with great fear and dread.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 They crushed and oppressed the people of Israel that year, and for eighteen years they oppressed all the people of Israel who were beyond the Jordan in the land of the Amorites, which is in Gilead.
+\v 9 And the Ammonites crossed over the Jordan to fight against Judah, against Benjamin, and against the house of Ephraim, so that Israel was greatly distressed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Israel]]
+  * [[:vi:obe:other:jordanriver]]
+  * [[:vi:obe:other:amorite]]
+  * [[:vi:obe:other:gilead]]
+  * [[:vi:obe:other:ammon]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:benjamin]]
+  * [[:vi:obe:other:Ephraim]]
+
+===== Translation Notes: =====
+
+  * **crushed**  - "defeated"
+  * **eighteen**  - "18" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:10|Judges Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:10:06|<<]] | [[:vi:bible:notes:jdg:10:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

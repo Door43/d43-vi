@@ -1,0 +1,80 @@
+====== Psalms 107:41-43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 41 But he rescues poor people from being in misery\f + \ft Or: suffering \f*,
+\q2 and causes their families to increase in number like flocks of sheep.
+\q1
+\v 42 Godly\f + \ft Or: Righteous \f* people will see\f + \ft Or: hear about \f* these things, and they will rejoice,
+\q2 and wicked people \add will hear about these things, too\add*,
+\q2 \add but\add* they will have nothing to say \add against Yahweh\add* in reply.
+\b
+\q1
+\v 43 Those who are wise should think carefully about these things;
+\q2 they should consider all the things that Yahweh \add has done to show that he\add* faithfully loves them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 41 But he rescues poor people from being in misery
+\q2 and causes their families to increase in number like flocks of sheep.
+\q1
+\v 42 People who live rightly see God do these things, and they rejoice;
+\q2 wicked people hear about these things, too,
+\q2 but they have nothing to say against Yahweh in reply.
+\b
+\q1
+\v 43 Those who are wise should think carefully about these things;
+\q2 they should consider all the things that Yahweh has done to show that he faithfully loves them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 41 But he protects the needy from affliction
+\q and cares for his families like a flock.
+\q
+\v 42 The upright will see this and rejoice,
+\q and all wickedness shuts its mouth.
+\q
+\v 43 Whoever is wise should take note of these things
+\q and meditate on Yahweh's acts of covenant faithfulness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:afflict]]
+  * [[vi:obe:other:family]]
+  * [[:vi:obe:other:flock]]
+  * [[:En:obe:kt:upright]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:other:meditate]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:covenantfaith]]
+
+===== Translation Notes: =====
+
+  * **But he** - "But Yahweh"
+  * ** the needy** - "the poor" or "the oppressed"
+  * **from affliction** - "from suffering"
+  * **cares for his families like a flock** - AT: "increases the number of people in their families like flocks." or "causes them to have many children" (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **The upright** - "People who do what is right" or "Those who obey Yahweh"
+  * **all wickedness** - AT: "people who do wicked things." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **shuts its mouth** - AT: "has nothing to say against Yahweh in reply." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **take note of these things** - "keep these things in mind" or "heed these things" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:107|Psalms Chapter 107 Comprehension Questions]]**
+
+**[[:vi:bible:notes:psa:107:039|<<]] | [[:vi:bible:notes:psa:108:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

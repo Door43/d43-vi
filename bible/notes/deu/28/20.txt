@@ -1,0 +1,67 @@
+====== Deuteronomy 28:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 If you do evil things and reject Yahweh,
+\pi he will curse you by causing you to be confused\f + \ft Or: not know what to do \f*, and to be frustrated in all that you do,
+\pi until \add your enemies\add* quickly and completely destroy you \f + \ft Or:you will be quickly and completely destroyed \f*.
+\pi
+\v 21 Yahweh will send terrible diseases on you,
+\pi until not one of you remains alive in the land that you are about to enter and occupy.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 If you do evil things and reject Yahweh,
+\pi he will curse you by causing you to be confused, and to be frustrated in all that you do,
+\pi until your enemies quickly and completely destroy you .
+\pi
+\v 21 Yahweh will send terrible diseases on you,
+\pi until not one of you remains alive in the land that you are about to enter and occupy.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Yahweh will send on you curses, confusion, and rebukes in everything that you put your hand to do, until you are destroyed, and until you perish quickly because of your wicked actions by which you will have forsaken me.
+\v 21 Yahweh will make the plague cling to you until he destroys you from off the land that you are going in to possess.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:curse]]
+  * [[:vi:obe:other:rebuke|rebuke]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:perish|perish, perishing, perishable]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:forsaken|forsake, forsaken]]
+  * [[:vi:obe:other:plague|plague]]
+  * [[:vi:obe:other:possess|possess, possession]]
+
+===== Translation Notes: =====
+
+  * **curses, confusion, and rebukes** - These words combined emphasize the distress that Yahweh will cause the people of Israel. AT: "disasters, fear, and frustration"
+  * **until you are destroyed** - AT: "until your enemies destroy you" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **forsaken me** - Here "me" may refer to Yahweh, rather than Moses.
+  * **cling to you** - "remain on you"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:18|<<]] | [[:vi:bible:notes:deu:28:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

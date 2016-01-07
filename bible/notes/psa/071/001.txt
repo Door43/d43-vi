@@ -1,0 +1,79 @@
+====== Psalms 071:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I have come to you to get refuge\f + \ft Or: be protected \f*;
+\q2 never allow me to become ashamed \add because of being defeated\add*.
+\q1
+\v 2 Because you always do what is right, help me and rescue me;
+\q2 listen to me, and save me!
+\q1
+\v 3 Be like a huge rock \f + \ft metaphor \f* under which I can be safe\f + \ft Or: protected \f*;
+\q1 be like a strong fortress in which I am safe me \f + \ft doublet \f*.
+\q1 You \add continually\add* command \f + \ft Or: \add Continually\add* command \f* \add your angels\add* to rescue me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I have come to you to be safe;
+\q2 never allow me to become ashamed.
+\q1
+\v 2 Because you always do what is right, help me and rescue me;
+\q2 listen to me, and save me!
+\q1
+\v 3 Be like a huge rock on top of which I can be safe;
+\q1 be like a strong fortress in which I am safe.
+\q1 You have commanded your angels to rescue me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 71
+\p
+\q
+\v 1 In you, Yahweh, I take refuge;
+\q let me never be put to shame.
+\q
+\v 2 Rescue me and make me safe in your righteousness;
+\q turn your ear to me and save me.
+\q
+\v 3 Be to me a rock for refuge where I may always go;
+\q you have given a command to save me,
+\q for you are my rock and my fortress.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:refuge]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:save]]
+  * [[:vi:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+
+  * **​fortress **- **​**  a place that is protected against attack
+  *
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:071|Psalms Chapter 071 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:070:004|<<]] | [[:vi:bible:notes:psa:071:004|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

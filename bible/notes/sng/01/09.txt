@@ -1,0 +1,68 @@
+====== Song of Solomon 01:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 You \add are beautiful\add*, my darling, like the young female horse
+\q2 that pulls the chariot of the king of Egypt.
+\q1
+\v 10 Your cheeks are decorated with jewelry,
+\q2 and there are strings of beads\f + \ft Or: pearls \f* around your neck.
+\q1
+\v 11 We will make for you some gold earrings
+\q2 that are decorated\f + \ft Or: inlaid \f* with silver.
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 You are beautiful, my darling, like one of the young female horses
+\q2 that pull the chariots belonging to the king of Egypt.
+\q1
+\v 10 Your cheeks are decorated with jewelry,
+\q2 and there are strings of beads around your neck.
+\q1
+\v 11 I will make for you some gold earrings
+\q2 that are decorated with silver.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 I compare you, my love,
+\q to a mare among Pharaoh’s chariot horses.
+\q
+\v 10 Your cheeks are beautiful with ornaments,
+\q your neck with strings of jewels.
+\q
+\v 11 I will make for you gold ornaments
+\q with silver studs.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pharaoh]]
+  * [[:vi:obe:other:chariot]]
+  * [[:vi:obe:other:horse]]
+  * [[:vi:obe:other:gold]]
+
+===== Translation Notes: =====
+
+  * **I compare you, my love, to a mare among Pharoh's chariot horses** ​- The man tells the woman how valuable and beautiful she is to him.  In that culture in that time, horses were a sign of wealth and power.  The man is comparing the woman to an important possession owned by a powerful ruler. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Your cheeks...silver studs** - The man tells the woman that she is so beautiful that he wants to give her valuable expensive gifts of gold and silver jewelry to match her beauty.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:01|Song of Solomon Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:01:08|<<]] | [[:vi:bible:notes:sng:01:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

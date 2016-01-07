@@ -1,0 +1,68 @@
+====== Psalms 116:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 I am one of those who serve Yahweh;
+\q2 I serve him like my mother did.
+\q2 He has freed\f + \ft Or: saved \f* me from dying \f + \ft Or: from being fastened by chains \f*.
+\b
+\q1
+\v 17 So I will offer to him a sacrifice to thank him,
+\q1 and I will pray to him\f + \ft Or: continue to request that he ( metonymy ) help me \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 I am one of those who serves Yahweh;
+\q2 I serve him like my mother did.
+\q2 He has ended my troubles..
+\b
+\q1
+\v 17 So I will offer to him a sacrifice to thank him,
+\q1 and I will pray to him.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 Yahweh, indeed, I am your servant;
+\q I am your servant, the son of your servant woman;
+\q you have taken away my bonds.
+\q
+\v 17 I will offer to you the sacrifice of thanksgiving
+\q and will call on the name of Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:servant]]
+  * [[vi:obe:kt:bond]]
+  * [[:vi:obe:other:sacrifice]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:name]]
+
+
+===== Translation Notes: =====
+
+The person who made this song continues to speak.
+  * **the son of your servant woman** - See how you translated this in [[vi:bible:notes:psa:086:015|86:16]].
+  * **have taken away my bonds** - AT: "have saved me from death." (See: [[:vi:ta:vol1:translate:figs_metaphor]], [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **the sacrifice of thanksgiving** - "a sacrifice that shows that I am thankful"
+  * **will call on the name of Yahweh** - See how you translated this in [[vi:bible:notes:psa:116:012|116:13]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:116|Psalms Chapter 116 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:116:012|<<]] | [[:vi:bible:notes:psa:116:018|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

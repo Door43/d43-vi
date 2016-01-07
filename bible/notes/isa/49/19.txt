@@ -1,0 +1,69 @@
+====== Isaiah 49:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Your land has been ruined and caused to become desolate\f + \ft Or: abandoned \f* \f + \ft doublet \f*,
+\q2 but \add some day\add* it will be filled with people,
+\q2 and those who conquered you will be far away.
+\q1
+\v 20 The children who were born while you were exiled\f + \ft Or: in Babylonia \f* \f + \ft metaphor \f* will return \add to Jerusalem\add* and say,
+\q2 'This city is too small for us;
+\q2 We need more space to live in!'
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Your land has been ruined and caused to become desolate,
+\q2 but some day it will be filled with people,
+\q2 and those who conquered you will be far away.
+\q1
+\v 20 The children who were born while you were exiled will return to Jerusalem and say,
+\q2 'This city is too small for us;
+\q2 We need more space to live in!'
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 19 Though you were a waste and desolate, a land that was in ruins, 
+\q1 now you will be too small for the inhabitants, and those who devoured you will be far away.
+\q1
+\v 20 The children born during the time of your bereavement will say in your hearing, 
+\q1 'The place is too cramped for us, make room for us,  so we may live here.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:waste]]
+  * [[:vi:obe:other:desolate]]
+  * [[:vi:obe:other:ruin]]
+  * [[:vi:obe:other:devour]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to Zion as if it were a person, a widow.
+
+  * **Though you were a waste and desolate**  - "Though the enemy left you destroyed and empty"
+  * **bereavement - ** This refers to the time when the Israelites were in exile in Babylon.
+  * **The children born during the time of your bereavement**  - AT: "The children born during the exile" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:49|Isaiah Chapter 49 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:49:16|<<]] | [[:vi:bible:notes:isa:49:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 139:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 I could request the darkness to hide me,
+\q1 or I could request the light around me to become darkness,
+\q1
+\v 12 but even \add if that happened\add*, the darkness would not be darkness for you!
+\q1 For you, the night is \add as bright\add* as the daytime is,
+\q2 because for you, daylight and darkness are not different\f + \ft Or: the same \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 I could request the darkness to hide me,
+\q1 or I could request the light around me to become darkness,
+\q1
+\v 12 but even if that happened, the darkness would not be darkness for you!
+\q1 For you the night is as bright as the daytime is
+\q2 because, for you, daylight and darkness are no different.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 If I say, "Surely the darkness will hide me,
+\q and the night will be my light;"
+\q
+\v 12 even the darkness will not hide from you.
+\q The night shines like the day,
+\q for the darkness and the light are both alike to you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:darkness|darkness]]
+  * [[:vi:obe:kt:light|light]]
+
+===== Translation Notes: =====
+
+  * **If I say, "Surely the darkness will hide me, and the night will be my light"** -  AT: The darkness could not hide me, and neither could the night"  
+  * **The night shines like the day** - AT: "The day and night are the same to God" (See: [[vi:ta:vol1:translate:figs_simile]])
+  * **for the darkness and the light are both alike **  - AT: "because God's knowledge does depend on circumstances"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:139|Psalms Chapter 139 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:139:009|<<]] | [[:vi:bible:notes:psa:139:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~ 

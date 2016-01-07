@@ -1,0 +1,65 @@
+====== Psalms 119:119-120 ======
+
+===== TFT: =====
+
+<usfm>
+\v 119 You get rid of all the wicked people on the earth like \f + \ft simile \f* people throw away trash;
+\q2 therefore I love your requirements\f + \ft Or: what you have instructed us to do \f*.
+\q1
+\v 120 I \f + \ft synecdoche \f* tremble because I am afraid of you;
+\q2 I am afraid \add because you punish those who do not obey\add* your regulations\f + \ft Or: the rules that you have given to us \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 119 You get rid of all the wicked people on the earth as people get rid of trash;
+\q2 therefore I love your requirements.
+\q1
+\v 120 I tremble because I am afraid of you;
+\q2 I am afraid because you punish those who do not obey your regulations.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 119 You remove all the wicked of the earth like slag;
+\q therefore I love your solemn commands.
+\q
+\v 120 My body trembles in fear of you,
+\q and I am afraid of your righteous decrees.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:body|body]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+
+  * **You remove all of the wicked of the earth like slag**  - Slag is the waste or undesired leftovers in the process of refining gold or other metals. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **solemn commands**  - See how you translated this in [[:vi:bible:notes:psa:025:010|25:10]].
+  * **trembles in fear of you**  - AT: "shakes because I fear you"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:117|<<]] | [[:vi:bible:notes:psa:119:121|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

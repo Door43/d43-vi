@@ -1,0 +1,83 @@
+====== Hosea 05:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 I know \add everything about the people of\add* Israel;
+\q2 nothing that they have done is hidden from me.
+\q1 Because \add the people of\add* Israel have given themselves \add to worshiping idols\add*
+\q2 like \f + \ft metaphor \f* prostitutes \add give themselves to the men they sleep with\add*,
+\q1 they have become unacceptable to me.
+\b
+\q1
+\v 4 Because they \add like to do evil\add* deeds,
+\q2 they will not return to me, their God.
+\q1 Like prostitutes \add who have abandoned their husbands\add* \f + \ft metaphor \f*, they have [IDI] abandoned \f + \ft metaphor \f* me;
+\q2 they do not even know me, Yahweh.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 You, the people in Ephraim, the center of Israel—I know you.
+\q2 I know very well what you are like, you people of Israel.
+\q1 You people in Ephraim, you have acted like prostitutes.
+\q2 Yes, you people in Israel are polluted.
+\b
+\q1
+\v 4 Ephraim and Israel are not able to ask me to forgive them, because of what they have done.
+\q1 They have chosen to be unfaithful and immoral, 
+\q2 and they do not know me, Yahweh."
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 I know Ephraim,
+\q and Israel is not hidden from me.
+\q Ephraim, now you have become like a prostitute;
+\q Israel is defiled.
+\q
+\v 4 Their deeds will not allow them to turn to me, their God,
+\q for the spirit of adultery is in them,
+\q and they do not know me, Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:prostitute|prostitute, harlot, whore]]
+  * [[:vi:obe:other:defile|defile, be defiled, desecrate]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:spirit|spirit, spiritual]]
+  * [[:vi:obe:kt:adultery|adultery, adulterous, adulterer, adulteress]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+Yahweh is talking about Israel.
+
+  * **I know Ephraim, and Israel is not hidden from me. **- Yahweh knows that Ephraim (Israel) is idolatrous. There is no way that they can worship idols without Yahweh knowing what they are doing. (see: Parallelism and Synecdoche)
+  * **for the spirit of adultery is in them**  - //for the spirit of adultery is in them //  can be made explicit: "They have chosen to be unfaithful and immoral" (UDB) (see: Explicit and implicit information)
+  * **and they do not know me, Yahweh**. - Israel no longer listens to or follows Yahweh in any way. They do not acknowledge him as their God.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:05|Hosea Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:05:01|<<]] | [[:vi:bible:notes:hos:05:05|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

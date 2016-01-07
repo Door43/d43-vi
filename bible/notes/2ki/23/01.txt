@@ -1,0 +1,65 @@
+====== 2 Kings 23:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then the king summoned all the elders of Jerusalem and \add of the other places in\add* Judah.
+\v 2 They went together to the temple, along with the priests and the prophets, and many other \f + \ft hyperbole \f* people, from the most important people to the least important people. And while they listened, the king read to them all of the laws that Moses had written. He read from the scroll that had been found in the temple.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then the king summoned all the elders of Jerusalem and of the other places in Judah.
+\v 2 They went together to the temple, along with the priests and the prophets, and many other people, from the most important people to the least important people. And while they listened, the king read to them all of the laws that Moses had written. He read from the scroll that had been found in the temple.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 23
+\p
+\v 1 So the king sent messengers who gathered to him all the elders of Judah and of Jerusalem.
+\v 2 Then the king went up to the house of Yahweh, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, prophets, and all the people, from small to great. He then read in their hearing all the words of the book of the covenant that had been found in the house of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:messenger]]
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:covenant]]
+ 
+
+===== Translation Notes: =====
+
+  * **So the king sent messengers who gathered to him all the elders of Judah and of Jerusalem**. - "Then the king summoned all the elders of Jerusalem and of the other places in Judah." (See: UDB)
+  * **all the men of Judah and all the inhabitants of Jerusalem** - AT: "many other people" (UDB) (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+  * **from small to great** - "from the least important to the most important" 
+  * **He then read in their hearing all the words of the book of the covenant** ​- AT: "The king then read aloud so that they could hear all the words of the book of the covenant"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:23|2 Kings Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/22/20|<<]] | [[en/bible/notes/2ki/23/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

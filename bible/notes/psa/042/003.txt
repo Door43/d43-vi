@@ -1,0 +1,78 @@
+====== Psalms 042:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Every day and every night I cry;
+\q2 the only thing I have to drink is my tears;
+\q1 and while I do that, my enemies are continually asking me,
+\q2 "Why does your god not \add help you\add*?"
+\q1
+\v 4 I am very distressed [IDI] as I remember
+\q2 when I went with the crowd of people to the temple \add in Jerusalem\add*,
+\q2 leading them as we walked along;
+\q1 we were all shouting joyfully and singing to thank God \add for what he had done\add*;
+\q2 we were a large group who were celebrating.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Every day and every night I weep;
+\q2 the only thing I have to drink is my tears;
+\q1 and while I do that, my enemies are always asking me,
+\q2 "Why does your God not help you?"
+\q1
+\v 4 I pray earnestly to God as I remember
+\q2 when I used to go with the crowd of people to the temple in Jerusalem.
+\q2 I used to lead them as we walked along;
+\q1 we were all shouting joyfully and singing to thank God for what he had done;
+\q2 we were a large group who were celebrating.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 My tears have been my food day and night,
+\q while my enemies are always saying to me, “Where is your God?”
+\q
+\v 4 These things I call to mind, and I pour out my soul from within me,
+\q how I went with the throng and led them to the house of God
+\q with the voice of joy and praise, a multitude celebrating a festival.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:other:mind]]
+  * [[vi:obe:kt:soul]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:other:praise]]
+===== Translation Notes: =====
+
+  * **My tears have been my food**  - The author refers to his tears as his food to express how great his sadness is. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **day and night**  - This phrase refers to the entire day by referring to both its beginning and end. (See: [[:vi:ta:vol2:translate:figs_merism|Merism]])
+  * **my enemies are always saying to me**  - This is an exaggeration; his enemies are not saying this constantly are saying it often. (See: [[vi:ta:vol2:translate:figs_hyperbole]])
+  * **Where is your God?**  - The author's enemies use this question to express that they do not see his God helping him. AT: "Your God is not here to help you" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **call to mind**  - "remember" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **I pour out my soul from within me**  - The author uses this phrase to say that he is expressing his inmost thoughts and desires in prayer to God. (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **joy and praise**  - This phrase uses two different words to express one idea. AT: "joyful praise" (See: [[:vi:ta:vol2:translate:figs_hendiadys|Hendiadys]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:042|Psalms Chapter 042 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:042:001|<<]] | [[:vi:bible:notes:psa:042:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

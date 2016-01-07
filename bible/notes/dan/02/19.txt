@@ -1,0 +1,69 @@
+====== Daniel 02:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 And that night \add God\add* gave to me a vision in which he revealed the secret. Then I praised God,
+\v 20 saying,
+\q1 "We should praise God \f + \ft metonymy \f* forever,
+\q2 because only he truly is wise and powerful.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 That night God gave Daniel a vision, and in that vision the secret was made known to him. Then Daniel praised God
+\v 20 saying,
+\q1 "We praise the name of the true God forever
+\q2 because he owns all wisdom and power. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 That night the secret was revealed to Daniel in a vision. Then Daniel praised the God of heaven
+\v 20 and said, 
+\q "Praise the name of God forever and ever; 
+\q for wisdom and power belong to him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:reveal]]
+  * [[:vi:obe:other:daniel]]
+  * [[:vi:obe:other:vision]] 
+  * [[:En:obe:other:praise]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:heaven]]
+  * [[vi:obe:kt:name]]
+  * [[vi:obe:kt:forever]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:kt:power]]
+ 
+===== Translation Notes: =====
+
+    * **That night the secret was revealed** - AT: "That night God revealed the secret" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **the secret** - "the secret of the king's dream"
+    * **Praise the name of God** - AT: "Praise God" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:dan:02|Daniel Chapter 02 Comprehension Questions]]**
+
+
+**[[en/bible/notes/dan/02/17|<<]] | [[en/bible/notes/dan/02/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

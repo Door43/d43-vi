@@ -1,0 +1,65 @@
+====== Job 15:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 They are so fat \add that they are unable to fight\add*.
+\q1
+\v 28 They have lived in cities that have been abandoned,
+\q2 cities which \add God\add* declared would become a heap of ruins.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 But they are so fat that they are unable to fight.
+\q1
+\v 28 They have lived in cities that have been abandoned,
+\q2 cities which God declared would become a heap of ruins.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 This is true, even though he has covered his face with his fat
+\q and gathered fat upon his loins,
+\q
+\v 28 and has lived in desolate cities,
+\q in houses which no man inhabits now
+\q and which were ready to become heaps.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:desolate]]
+ 
+
+===== Translation Notes: =====
+
+  * **This is true- This expression means "They attacked God".**
+  * **Bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:15|Job Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:job:15:25|<<]] | [[:vi:bible:notes:job:15:29|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Ezekiel 20:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Almost seven years after \add King Jehoiachin and the rest of us had been captured and taken to Babylonia\add*, on the tenth day of the fifth month \add of that year\add*, some Israelite elders came to me to ask \add if I had a message for them\add* from Yahweh.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Almost seven years after the Babylonians had taken us Israelites to their land, on the tenth day of the fifth month of that year, some Israelite elders came to me to ask if I had any message for them from Yahweh.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 20
+\p
+\v 1 It came about in the seventh year, on the tenth day of the fifth month, that elders of Israel came to inquire of Yahweh and sat before me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:inquire]]
+  * [[:vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **It came about** - This phrase is used to mark the beginning of a new part of the story.
+  * **before me** - "in front of me"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:20|Ezekiel Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:19:14|<<]] | [[:vi:bible:notes:ezk:20:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

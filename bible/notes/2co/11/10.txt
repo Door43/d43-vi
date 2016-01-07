@@ -1,0 +1,48 @@
+====== 2 Corinthians 11:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add And\add* as\add sure as you know that\add* everything that Christ says is true, \add you can be sure that what\add* I say \add to you now is true. Wherever I go\add* there in Achaia \add province\add*, \add I do not let you believers pay me for doing God's work among you\add*. And no one will be able to prevent me from boasting \add about that\add*.
+\v 11 No one should wrongly \f + \ft rhetorical question \f* think that it is because I do not love you that \add I do not take pay from you\add*. God knows \add that you truly\f + \ft Or: really \f* are very dear to me\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 I am telling the complete truth about Christ and how I have worked for him. So I will continue to let everyone in all the region of Achaia know about this.
+\v 11 You do not really think that I refused your money because I did not love you, do you? Far from it! God knows I love you. 
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 As the truth of Christ is in me, this boasting of mine will not be silenced in the parts of Achaia.
+\v 11 And why? Because I do not love you? God knows I do.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:true|true, truth]]
+  * [[:vi:obe:kt:christ|Christ]]
+  * [[:vi:obe:kt:boast|boast]]
+  * love
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+  * **this boasting … will not be silenced…**  - Paul will continue to boast through out all of Achaia which is modern day southern Greece. (See: [[:vi:ta:vol2:translate:figs_litotes|Litotes]])
+  * **And why? Because I do not love you? **- AT: "I will continue to keep you from paying for my needs, because this shows others that I love you." (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2co:11|2 Corinthians Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:2co:11:07|<<]] | [[:vi:bible:notes:2co:11:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

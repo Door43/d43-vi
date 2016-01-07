@@ -1,0 +1,51 @@
+====== Matthew 26:67-68 ======
+
+===== TFT: =====
+
+<usfm>
+\v 67 Then \add some of them\add* spat in his face. \add Others\add* struck him with their fists. Others, \add after they blindfolded him\add*, slapped him
+\v 68 and said, "\add Since you claim that\add* \f + \ft irony \f* \add you are\add* the Messiah, tell us who hit you!"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 67 Then some of them spat in his face. Others struck him with their fists. Others slapped him
+\v 68 and said, "Since you claim that you are the Christ, tell us who hit you!"
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 67 Then they spat in his face and beat him, and struck him with the palms of their hands,
+\v 68 and said, "Prophesy to us, you Christ. Who is it that struck you?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:christ]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus being questioned by the high priest.
+
+  * **Then they**  - Possible meanings: "Then some of the men" or "Then the soldiers"
+  * **spat in his face**  - as an insult
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:26:65|<<]] | [[:vi:bible:notes:mat:26:69|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== 1 Chronicles 12:38-40 ======
+
+===== TFT: =====
+
+<usfm>
+\v 38 All those men were soldiers who volunteered to be in David's army. They came to Hebron wanting very much to enable David to be the king of all of the Israelite people.
+\v 39 The men spent three days there with David, eating and drinking, because their families had given them food to take with them.
+\v 40 Also, their fellow Israelites came from as far away as the area where the tribes of Issachar, Zebulun, and Naphtali lived, bringing food on donkeys, camels, mules, and oxen. They brought a lot of flour, fig cakes, raisins, wine, olive oil, cattle and sheep. And throughout Israel, the people were very joyful.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 38 All those men were soldiers who volunteered to be in David's army. They came to Hebron wanting very much to enable David to be the king of all of the Israelite people.
+\v 39 The men spent three days there with David, eating and drinking, because their families had given them food to take with them.
+\v 40 Also, their fellow Israelites came from as far away as the area where the tribes of Issachar, Zebulun, and Naphtali lived, bringing food on donkeys, camels, mules, and oxen. They brought a lot of flour, fig cakes, raisins, wine, olive oil, cattle and sheep. And throughout Israel, the people were very joyful.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 38 All these soldiers, equipped for battle, came to Hebron with firm intentions to make David king
+over all Israel. All the rest of Israel were in agreement to make David king also.
+\v 39 They were there with David three days, eating and drinking, for their relatives had sent them with provisions.
+\v 40 In addition, those who were near to them, as far as Issachar and Zebulun and Naphtali, brought bread on
+donkeys, camels, mules, and oxen, cakes of figs, clusters of raisins, wine, oil,
+ oxen, and sheep, for Israel was celebrating.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hebron]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:Israel]]
+  * [[:vi:obe:other:issachar]]
+  * [[:vi:obe:other:zebulun]]
+  * [[:vi:obe:other:naphtali]]
+  * [[:vi:obe:other:bread]]
+  * [[:vi:obe:other:donkey]]
+  * [[:vi:obe:other:camel]]
+  * [[:vi:obe:other:ox]]
+  * [[:vi:obe:other:fig]]
+  * [[:vi:obe:other:wine]]
+  * [[:vi:obe:other:oil]]
+  * [[:vi:obe:other:sheep]]
+
+===== Translation Notes: =====
+
+  * **firm intentions** - "plans"
+  * **equipped for battle** - AT: "with their weapons for battle" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **three days** - "3 days" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **raisins** - dried grapes - small fruit that grows on a vine (See: [[:vi:ta:vol1:translate:translate_unknown]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:12|1 Chronicles Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:12:36|<<]] | [[:vi:bible:notes:1ch:13:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

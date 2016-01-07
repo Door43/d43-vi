@@ -1,0 +1,70 @@
+====== Psalms 045:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 You who are a mighty warrior, put on your sword!
+\q2 You are glorious and majestic.
+\q
+\v 4 Ride on like a great chief
+\q2 to defend the truth that you speak
+\q2 and the fair decisions that you make!
+\q1 Because you are strong \f + \ft metonymy \f*,
+\q2 you will do awesome deeds.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 You who are a mighty warrior, put on your sword!
+\q2 You are glorious and majestic.
+\q
+\v 4 Ride on like a great king 
+\q2 to defend the truth that you speak
+\q2 and the fair decisions that you make!
+\q1 Because you fight in many battles,
+\q2 you will learn to do  deeds that your enemies will fear.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Put your sword on your thigh, mighty one,
+\q in your glory and your majesty.
+\q
+\v 4 In your majesty ride on triumphantly
+\q because of trustworthiness, meekness, and righteousness;
+\q your right hand will teach you fearful things.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:kt:glory|glory, glorious]]
+  * [[:vi:obe:kt:majesty|majesty]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:other:meek|meek]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:righthand|right hand]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+
+===== Translation Notes: =====
+
+  * **Put your sword on your thigh**  - A sword hung from a belt against the thigh. This phrase describes an action of someone preparing for battle. AT: "Prepare for battle"
+  * **thigh **- the upper section of the leg
+  * **because of trustworthiness, meekness, and righteousness**  - These are qualities of the mighty one. AT: because you fight for what is true and right"
+  * **your right hand will teach you**  - The right hand is the hand most soldiers held a sword in. It could be said to teach them through the experience they gained in battle. AT: "You will become a great warrior by fighting in many battles" (See: [[:vi:ta:vol2:translate:figs_personification|Personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:045|Psalms Chapter 045 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:045:001|<<]] | [[:vi:bible:notes:psa:045:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

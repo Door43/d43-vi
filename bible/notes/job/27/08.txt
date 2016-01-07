@@ -1,0 +1,77 @@
+====== Job 27:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 When \add it is time for God to\add* get rid of godless\f + \ft Or: wicked \f* people and to cause them to die,
+\q2 there is absolutely nothing good \f + \ft rhetorical question \f* that they can confidently expect \add to happen to them\add*.
+\q1
+\v 9 When they experience troubles, will God hear them call out \add to him for help\add*?\f + \ft Or: God certainly will not hear them call out \add to him for help\add*. \f* \f + \ft rhetorical question \f*
+\q1
+\v 10 Will they be happy about what Almighty \add God\add* does?\f + \ft Or: They certainly will not be happy about what Almighty \add God\add* does. \f* \f + \ft rhetorical question \f*
+\q2 Will they \add begin to\add* pray to him frequently?\f + \ft Or: They certainly will not \add begin to\add* pray to him frequently. \f* \f + \ft rhetorical question \f*
+\q2 \add Certainly not\add*!
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 When it is time for God to get rid of godless people and to cause them to die,
+\q2 there is absolutely nothing good  that they can confidently expect to happen to them.
+\q1
+\v 9 When they experience troubles, God will not hear them call out to him for help, will he?
+\q1
+\v 10 Will they be happy about what Almighty God does?
+\q2 Will they begin to pray to him frequently?
+\q2 Certainly not!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 For what is the hope of the godless when God cuts off his life,
+\q when God takes away his soul?
+\q
+\v 9 Will God hear his cry
+\q when trouble comes upon him?
+\q
+\v 10 Will he delight himself in the Almighty
+\q and call upon God at all times?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:hope]]
+  * [[:vi:obe:kt:ungodly]]
+  * [[:vi:obe:kt:cutoff]]
+  * [[:vi:obe:kt:call]]
+ 
+
+===== Translation Notes: =====
+
+  * **Verses 8,9 and 10 - Each of these 3 verses are rhetorical questions, and the answer to each question is negative.(See:Rhetorical question)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:27|Job Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:job:27:06|<<]] | [[:vi:bible:notes:job:27:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Leviticus 10:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Two of\add* Aaron's sons, Nadab and Abihu, took the pans in which they burned incense. They put some burning coals in them and put incense on top of the coals, but this fire was not acceptable \add to Yahweh\add* because it was not the kind that he had commanded them to burn.
+\v 2 So suddenly a fire from Yahweh appeared and burned them up \f + \ft doublet \f* in the presence of Yahweh.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Two of Aaron's sons, Nadab and Abihu, took the pans in which they burned incense. They put some burning coals in them and put incense on top of the coals, but this fire was not acceptable to Yahweh because it was not the kind that he had commanded them to burn.
+\v 2 So suddenly a fire from Yahweh appeared and burned them up in his own presence.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 10
+\p
+\v 1 Nadab and Abihu, sons of Aaron, each took his censer, put fire in it, and then incense. Then they offered unapproved fire before Yahweh, which he had not commanded them to offer.
+\v 2 So fire came out from before Yahweh and devoured them, and they died before Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:aaron|Aaron]]
+  * [[vi:obe:other:fire]]
+  * [[:vi:obe:other:incense|incense]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:devour|devour]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+
+===== Translation Notes: =====
+
+  * **Nadab and Abihu** - These are the names of Aaron's sons. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **censer** - a container for fire and incense which priests used
+  * **offered unapproved fire** - "offered fire that was not according to Yahweh's instructions" or "offered fire that Yahweh did not approve"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:10|Leviticus Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:09:22|<<]] | [[:vi:bible:notes:lev:10:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

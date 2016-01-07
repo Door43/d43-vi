@@ -1,0 +1,63 @@
+====== Proverbs 05:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 And when you about to die,
+\q1 you will groan with severe pain
+\q2 because diseases \add that you have gotten from being immoral\add* are destroying your body.
+\q1
+\v 12 Then you will say, "I hated it \add when people tried to\add* correct me.
+\q2 I despised people when they reproved\f + \ft Or: rebuked \f* me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 And when you are about to die,
+\q1 you will groan because your flesh and your body are wasting away.
+\q1
+\v 12 Then you will say, "I hated it when I was punished for doing wrong; 
+\q2 I despised people when they told me how to live. 
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 At the end of your life you will  groan
+\q when your flesh and your body waste away.
+\q
+\v 12 You will say, "How I hated discipline
+\q and my heart despised correction!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:discipline]]
+  * [[:En:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **you will groan** - AT: "you will say, "Oh, no!" "
+  * ** your flesh and your body** - These two words basically mean the same thing and are repeated to emphasize how horrible death is. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **waste away** - AT: "physically wear down" or "become weak and unhealthy"
+  * **You will say** - AT: "You will think" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * ** I hated discipline ... my heart despised correction** - These two phrases repeat the same idea and are repeated to emphasize how much this person disliked what the teacher had said. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **my heart** - AT: "I" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **despised** - AT: "disliked very much" or "hated"
+  * **correction** - To correct someone is to point out a mistake he or she has made. AT: "that someone corrected me" or "the people who corrected me"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:05|Proverbs Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:05:09|<<]] | [[:vi:bible:notes:pro:05:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

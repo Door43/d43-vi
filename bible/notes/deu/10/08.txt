@@ -1,0 +1,59 @@
+====== Deuteronomy 10:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 At that time, Yahweh set apart\f + \ft Or: appointed \f* the tribe of Levi to carry the chest that contained \add the tablets on which were written\add* the Ten Commandments, and to stand in Yahweh's presence \add in the sacred tent\add*, to offer sacrifices, and to pray for Yahweh to bless \add the people. They are still doing those things\add* at the present time.
+\v 9 That is the reason that the tribe of Levi did not receive any land like the other tribes did. What they received was the work\f + \ft Or: privilege \f* of being Yahweh's \add priests\add*, which is what he said that they should do.)
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 At that time, Yahweh chose the tribe of Levi to carry the chest that contained the tablets on which were written the Ten Commandments, and to stand in Yahweh's presence in the sacred tent, to offer sacrifices, and to pray for Yahweh to bless the people. They are still doing those things at the present time.
+\v 9 That is the reason that the tribe of Levi did not receive any land like the other tribes did. What they received was the honor of being Yahweh's priests, which is what he said that they should do.)
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 At that time Yahweh chose the tribe of Levi to bear the ark of the testimony of Yahweh, to stand before Yahweh to serve him, and to bless people in his name, as today.
+\v 9 Therefore Levi has no portion nor inheritance of land with his brothers; Yahweh is his inheritance, as Yahweh your God spoke to him.)
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:tribe|tribe]]
+  * [[:vi:obe:other:levite|Levite, Levi]]
+  * [[:vi:obe:other:arkofthecovenant|ark of the covenant, ark of the covenant decrees]]
+  * [[vi:obe:other:serve]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[:vi:obe:kt:brother|brother]]
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+This continues background information. 
+ 
+  * **to bless people in his name, as today** - AT: "to bless people with the authority of Yahweh, as they are doing today"
+  * **no portion nor inheritance of land** - The tribe of Levi did not receive a portion of the promised land when they arrived there.
+  * **spoke to him** - AT: "spoke to the tribe of Levi" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:10|Deuteronomy Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:10:06|<<]] | [[:vi:bible:notes:deu:10:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

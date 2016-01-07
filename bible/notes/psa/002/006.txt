@@ -1,0 +1,64 @@
+====== Psalms 002:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Yahweh says\add*, "I have put my king on a throne on Zion, my sacred hill \add in Jerusalem\add*."
+\q1
+\v 7 \add And his king says\add*, "I will proclaim what Yahweh has decreed.
+\q1 He said to me, '\add It is as though\add* you are my son;
+\q2 today I have declared to everyone that \add it is as though\add* \f + \ft metaphor \f* I am your father.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Yahweh says, "I have put my king on a throne on Zion, my sacred hill in Jerusalem."
+\q1
+\v 7 His king says, "I will proclaim what Yahweh has decreed.
+\q1 He said to me, 'You are my son;
+\q2 today I have become your father.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 "I myself have anointed my king
+\q on Zion, my holy mountain."
+\q
+\v 7 I will announce a decree of Yahweh.
+\q He said to me, "You are my son!
+\q This day I have become your father.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:zion|Zion, Mount Zion]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:Yahweh]]
+  * [[:vi:obe:kt:son|son]]
+  * [[:vi:obe:other:father|father, forefather]]
+
+===== Translation Notes: =====
+
+  * **myself** - The word "myself" is added here for emphasis. AT: "Yahweh" (UDB)
+  * **anointed my king** -  "appointed my king"
+  * **He says to me** - means God says to the king
+  * **You** - This refers to "my king" from verse 6.
+  * **I will announce a decree of Yahweh** - "I will announce a command of Yahweh."
+  * **I have become your father** - AT: "I announce that I am your Father" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:002|Psalms Chapter 002 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:002:004|<<]] | [[:vi:bible:notes:psa:002:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

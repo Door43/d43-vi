@@ -1,0 +1,44 @@
+====== Judges 06:30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 They went to Joash and said to him, "Bring your son out here! He must be executed\f + \ft Or: We must kill him \f*, because he destroyed our god Baal's altar and cut down the pole for our goddess Astarte!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 The men of the town said to Joash, "Bring your son out here! He must be put to death, because he destroyed our god Baal's altar and cut down the Asherah pole where we worship!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 30 Then the men of the town said to Joash, “Bring out your son so that he may be put to death, because he pulled apart the altar of Baal, and because he cut down the Asherah  beside it.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Joash]]
+  * [[:vi:obe:kt:son]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:Baal]]
+  * [[:vi:obe:other:asherim]]
+
+===== Translation Notes: =====
+
+  * **he may be put to death** AT: "we may kill him as punishment" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:06:28|<<]] | [[:vi:bible:notes:jdg:06:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

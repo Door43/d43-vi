@@ -1,0 +1,58 @@
+====== Psalms 021:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 In answer to my\f + \ft Or: his \f* prayer, you enabled me\f + \ft Or: him \f* to succeed and prosper.
+\q2 You placed a gold crown on my\f + \ft Or: his \f* head.
+\q1
+\v 4 I\f + \ft Or: He \f* asked you to enable me\f + \ft Or: him \f* to live \add for a long time\add*,
+\q2 and that is what you gave me\f + \ft Or: him \f*, a very long \f + \ft hyperbole \f* life.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 You have done so many wonderful things for me.
+\q2 You placed a gold crown on my head.
+\q1
+\v 4 I asked you to let me live for a long time,
+\q2 and you have enabled me to live for a long time.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For you bring him rich blessings;
+\q you placed on his head a crown of purest gold.
+\q
+\v 4 He asked you for life; you gave it to him;
+\q you gave him long days forever and ever.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:other:crown|crown]]
+  * [[:vi:obe:kt:purify|pure, purify, purification]]
+  * [[:vi:obe:other:gold|gold]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:forever|forever]]
+
+===== Translation Notes: =====
+
+  * **long days** - AT: “many days to live” or “a long life” (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **forever and ever** - AT: "that will continue forever and ever"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:021|Psalms Chapter 021 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:021:001|<<]] | [[:vi:bible:notes:psa:021:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

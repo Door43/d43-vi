@@ -1,0 +1,51 @@
+====== 2 Samuel 06:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 When David went home to \add ask Yahweh to\add* bless his family, his wife Michal came out to meet him. She said to him, "Maybe you, the king of Israel, \add think that\add* \f + \ft irony \f* you were honoring yourself today, but really, you acted like a fool, uncovering yourself while the female servants of your officials were watching!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 When David went home to ask Yahweh to bless his family, his wife Michal came out to meet him. She said to him, "Maybe you, the king of Israel, think that you were acting in an honorable way today, but really, you acted like a fool. You were nearly naked in front of the female servants of your officials!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Then David returned to bless his family. Michal, the daughter of Saul, came out to meet David and said, "How honored the king of Israel was today, who undressed himself today before the eyes of the slave girls among his servants, like one of the crude fellows who shamelessly undresses himself!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:bless]]
+  * [[vi:obe:other:family]]
+  * [[vi:obe:other:saul]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:other:Servant]]
+
+===== Translation Notes: =====
+
+  * **Michal**  - This is the female name of David's wife (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **undresses himself before the eyes of the slave girls** - Michal is rebuking David. David has only been wearing a linen ephod, in dancing he has apparently exposed his genitals to those around him. 
+  * **eyes of the slave girls** - Here "eyes" represent the perception of the slave girls. AT: "in front of the slave girls" (See: [[:vi:ta:vol2:translate:figs_synecdoche]]) 
+  * **crude fellows**  - David is being compared to a common and unrefined person. 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:06|2 Samuel Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:06:18|<<]] | [[:vi:bible:notes:2sa:06:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

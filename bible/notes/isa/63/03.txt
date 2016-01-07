@@ -1,0 +1,69 @@
+====== Isaiah 63:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add He replies\add*, "I have been treading on \add my enemies, not\add* on grapes.
+\q2 I did it myself; no one helped me.
+\q1 I punished them because I was very angry with them,
+\q2 and my clothes became stained with their blood.
+\q1
+\v 4 I did that because it was time for me \f + \ft synecdoche \f* to get revenge;
+\q2 it was time to rescue \add my people from those who had oppressed them\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 He replies, "I have been treading on my enemies, not on grapes.
+\q2 I did it myself; no one helped me.
+\q1 I punished them because I was very angry with them,
+\q2 and my clothes became stained with their blood.
+\q1
+\v 4 I did that because it was time for me to get revenge;
+\q2 it was time to rescue my people from those who had oppressed them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 I have trodden grapes in the winepress alone, and no one from the nations joined me.  
+\q1 I trod them in my anger and trampled them in my fury. 
+\q1 Their blood is spattered on my clothes and stained all my clothes.
+\q1
+\v 4 For I looked forward to the day of vengeance, and the year for my redemption had arrived.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:winepress]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:blood]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:kt:redeem]]
+ 
+
+===== Translation Notes: =====
+
+  * **I have trod grapes**  - Here "I" refers to Yahweh. This imagery refers to Yahweh destroying his enemies. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **For I looked forward to the day of vengeance**  - Here "day" refers to a period of time. (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **vengeance**  - Yahweh will punish in an appropriate way to bring about justice. His kind of vengeance differs from man's.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:63|Isaiah Chapter 63 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:63:01|<<]] | [[:vi:bible:notes:isa:63:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

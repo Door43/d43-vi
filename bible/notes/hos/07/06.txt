@@ -1,0 +1,73 @@
+====== Hosea 07:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 The officials angrily plan to murder the king;
+\q2 it is like \f + \ft simile \f* they have an oven in their inner beings.
+\q1 All during the night their \add eagerness\f + \ft Or: wanting \f* to murder the king\add* is like a fire that is smouldering,
+\q2 but in the morning it becomes like \f + \ft metaphor \f* a roaring fire.
+\q1
+\v 7 All those officials are like \f + \ft metaphor \f* hot flames
+\q2 that completely burn up their rulers,
+\q1 so all their kings are killed,
+\q2 and no one pleads with me \add to help them\add*."
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 But these same officials then set about making plans to murder the king. 
+\q2 They are quietly angry all night, 
+\q1 and they are openly angry in the morning.
+\q1
+\v 7 All those officials become so angry at the king,
+\q2 that they kill all their rulers.
+\q1 In the end, all their kings were killed;
+\q2 not one of them called on me, Yahweh, to help."
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 For with hearts like an oven,
+\q they devise their deceitful plans.
+\q Their anger smolders all night;
+\q in the morning it burns high like a flaming fire.
+\q
+\v 7 They all are hot as an oven,
+\q and they devour those who rule over them.
+\q All their kings have fallen;
+\q none of them calls on me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **For with hearts like an oven** - Both hearts and ovens store things. AT: "Just as people store up thoughts and judgments" (UDB) (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **smolders **- Much like a fire our thoughts show signs of continuing anger or hate
+  * **it burns high like a flaming fire** - It gets very intense. (UDB) (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **They all are hot as an oven** - When an oven burns for long it gets hot. (UDB) (See: [[:vi:ta:vol1:translate:figs_simile]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:07|Hosea Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:07:03|<<]] | [[:vi:bible:notes:hos:07:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

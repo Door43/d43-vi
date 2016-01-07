@@ -1,0 +1,60 @@
+====== Psalms 119:135-136 ======
+
+===== TFT: =====
+
+<usfm>
+\v 135 Act kindly toward me
+\q2 and teach me your statutes\f + \ft Or: what you have decreed that we should do \f*.
+\q1
+\v 136 I cry very much
+\q2 because \add many\add* people do not obey your laws.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 135 Act kindly toward me
+\q2 and teach me your statutes.
+\q1
+\v 136 I cry very much
+\q2 because many people do not obey your laws.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 135 Let your face shine on your servant,
+\q and teach me your statutes.
+\q
+\v 136 Streams of tears run down from my eyes
+\q because people do not observe your law.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:face|face]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+
+===== Translation Notes: =====
+
+  * **shine on your servant **- AT: "show favor on your servant" or "bless and guide your servant" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **streams of tears**  - AT: "many tears"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:133|<<]] | [[:vi:bible:notes:psa:119:137|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,54 @@
+====== Jeremiah 23:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh declares, "Terrible things will happen to the leaders \f + \ft metaphor \f* of my people—those who are like shepherds of the people who are like my sheep—because they have scattered my people and sent them away, and have not taken care of them.
+\v 2 So, this is what I, Yahweh, the God whom the Israelite people \add worship\add*, say to those leaders: 'Instead of taking care of my people and \add leading them to places where they are safe like a shepherd does for\add* his sheep, you have scattered them. So I will punish you for the evil things that you have done.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh declares, "Terrible things will happen to the leaders  of my people—those who are like shepherds of the people who are like my sheep—because they have scattered my people and sent them away, and have not taken care of them.
+\v 2 So, this is what I, Yahweh, the God whom the Israelite people worship, say to those leaders: 'Instead of taking care of my people and leading them to places where they are safe like a shepherd does for his sheep, you have scattered them. So I will punish you for the evil things that you have done.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 23
+\p
+\v 1 “Woe to the shepherds who destroy and scatter the sheep of my pasture"—this is Yahweh’s declaration.
+\v 2 Therefore Yahweh, the God of Israel, says this concerning the shepherds who are shepherding his people: "You are scattering my flock and driving them away. You have not cared for them at all.
+Know this! I will pay you back for the evil of your practices"—this is Yahweh’s declaration.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:woe|woe]]
+  * [[:vi:obe:other:shepherd|shepherd, to shepherd]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[vi:obe:other:declare]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:flock]]
+  * [[vi:obe:other:castout]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+===== Translation Notes: =====
+
+   * **the shepherds who destroy and scatter the sheep of my pasture**  -  Yahweh refers to Israel as his pasture, the people of Israel as his sheep and their leaders in Israel as the shepherds. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh's declaration** - See how you translated this in [[vi:bible:notes:jer:01:07|1:8]]. 
+  * **You are scattering my flock and driving them away** - These two clauses have similar meanings. The second one strengthens the thought in the first. (See” Parallelism)
+  * **pay you back for the evil** - Yahweh refers to evil actions like a loan that was given and can be paid back. AT: "have revenge for the evil"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:23|Jeremiah Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:22:29|<<]] | [[:vi:bible:notes:jer:23:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

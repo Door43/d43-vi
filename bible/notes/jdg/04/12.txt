@@ -1,0 +1,48 @@
+====== Judges 04:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Someone told Sisera that Barak had gone up on Tabor Mountain \add with an army\add*.
+\v 13 So he gathered his troops with their 900 chariots, and they marched from Harosheth-Haggoyim to the Kishon River.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Someone told Sisera that Barak son of Abinoam had gone up on Mount Tabor with an army.
+\v 13 Sisera gathered his troops with their nine hundred chariots, and they marched from Harosheth (where the non-Israelites lived) to the Kishon River.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 When they told Sisera that Barak (the son of Abinoam) had gone up to Mount Tabor,
+\v 13 Sisera called out all his chariots, nine hundred iron chariots, and all the soldiers who were with him, from Harosheth of the Gentiles to the Kishon River.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chariot|chariot]]
+  * [[:vi:obe:other:gentile|Gentile]]
+
+===== Translation Notes: =====
+
+  * **Sisera**  - See how you translated this name in [[:en/bible/notes/jdg/04/01|Judges 4:2]].
+  * **Barak...Abinoam...Mount Tabor**  - See how you translated these names in [[:vi:bible:notes:jdg:04:06|4:6]].
+  * **nine hundred iron chariots**  - 900 iron chariots  (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **Harosheth** - See how you translated this in [[:vi:bible:notes:jdg:04:01|4:2]]
+  * **Kishon River**  - See how you translated this in [[:vi:bible:notes:jdg:04:06|4:7]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:04|Judges Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:04:11|<<]] | [[:vi:bible:notes:jdg:04:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Jeremiah 32:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 And now, \add the army\add* of Babylonia has built ramps up against our city walls \add in order to attack our city\add*. Because of our enemies' swords and because of famines and diseases, they will be able to conquer it easily. The things that you said would happen have now happened.
+\v 25 And it is evident that the Babylonian army will soon conquer this city. So now, Yahweh my Lord, \add I do not understand\add* why you told me to buy this field with my silver, while others were watching. \add It seems that I have just been wasting my money by doing that\add*!"
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 And now, the army of Babylonia has built ramps up against our city walls in order to attack our city. Because of our enemies' swords and because of famines and diseases, they will be able to conquer it easily. The things that you said would happen have now happened.
+\v 25 And it is evident that the Babylonian army will soon conquer this city. So now, I do not understand why you told me to buy this field with my silver, while others were watching. It seems that I have just been wasting my money by doing that!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 Look! The siege mounds have reached up to the city to capture it. For because of 
+sword, famine, and plague, the city has been given into the hand of the Chaldeans who are fighting against it. For what you have said would happen is happening, and see, you are watching.
+\v 25 Then you yourself said to me, “Purchase a field for yourself with silver and have witnesses witness it,' even though this city is being given into the hand of the Chaldeans.”’”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:siege]]
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:other:famine|famine]]
+  * [[:vi:obe:other:plague|plague]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[vi:obe:other:Chaldeans]]
+  * [[vi:obe:other:silver]]
+  * [[vi:obe:kt:witness]]
+
+===== Translation Notes: =====
+
+Jeremiah continues praying to Yahweh.
+
+  * **to capture it**  - "so the enemy army can capture it"
+  * **For because of sword**  -  - Here sword means war or fighting. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **the city has been given into the hand of the Chaldeans**  - Here "hand" means power or control. AT: "you have given Jerusalem to the Chaldean army" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]] and [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **and have witnesses witness it**  - "and let other people witness it"
+  * **this city is being given**  - AT: "I am giving this city" (See:[[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:32|Jeremiah Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:32:22|<<]] | [[:vi:bible:notes:jer:32:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

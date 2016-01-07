@@ -1,0 +1,65 @@
+<code>
+
+</code>
+
+====== Psalms 060:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I prayed\add*, "God, you have rejected us \add Israelites\add*!
+\q1 Because you have been angry \add with us\add*,
+\q2 you have \add enabled our enemies\add* to break through our ranks.
+\q1 Please enable us to be strong again!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I prayed, "God, you have rejected us Israelites!
+\q1 Because you have been angry with us,
+\q2 you have enabled our enemies to break through our ranks.
+\q1 Please enable us to be strong again!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 60
+\d For the chief musician; set to Shushan Eduth. A michtam of David, for teaching. When he fought with Aram Naharaim and with Aram Zobah, and Joab returned and killed twelve thousand Edomites in the Valley of Salt.
+\b
+\q
+\v 1 God, you have cast us off; you have broken us down;
+\q you have been angry; restore us again.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:aram|Aram, Aramean]]
+  * [[:vi:obe:other:joab|Joab]]
+  * [[:vi:obe:other:edom|Edom, Edomite, Idumea, Seir, Teman]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:kt:restore|restore, restoration]]
+===== Translation Notes: =====
+
+  * **Shushan Eduth** - This was likely the name of a musical melody. (See: [[[[:vi:ta:vol1:translate:translate_names]])
+  * **michtam ** - See how you translated this in [[vi:bible:notes:psa:016:001|16:1]].]
+  * **Aram Naharaim ... Aram Zobah** - "Aram of the two rivers" ... "the Aramean nation of Zobah" These are places. (See: [[[[:vi:ta:vol1:translate:translate_names]])
+  * **twelve thousand Edomites** - "12,000" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **you have cast us off**- The Israelites express that they have been rejected by God like an unwanted piece of clothing that is taken off and thrown to the ground. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **you have broken us down**  - The Israelites express that they have been rejected by God like something unwanted that has been destroyed. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:060|Psalms Chapter 060 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:059:016|<<]] | [[:vi:bible:notes:psa:060:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

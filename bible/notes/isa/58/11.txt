@@ -1,0 +1,61 @@
+====== Isaiah 58:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 I, Yahweh, will guide you continually,
+\q2 and I will give you good things to satisfy you.
+\q2 I will enable you to remain strong and healthy.
+\q1 You will be like \f + \ft simile \f* a garden that is well watered,
+\q2 like \f + \ft simile \f* a spring that never dries up.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 I, Yahweh, will guide you continually,
+\q2 and I will give you good things to satisfy you.
+\q2 I will enable you to remain strong and healthy.
+\q1 You will be like  a garden that is well watered,
+\q2 like a spring that never dries up.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 11 Then Yahweh will lead you continually and satisfy the dry region of your soul, 
+\q1 and strengthen your bones. You will be
+like a watered garden, 
+\q1 and like a spring of water, whose waters never fail.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:other:fountain]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Israel.
+
+  * **satisfy the dry region of your soul**  - AT: "satisfy you like a rain falling in the desert" or "satisfy you even in the driest desert" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **You will be like a watered garden, and like a spring of water, whose waters never fail**  - This means they will have all they need for an abundant life. Judah was a dry land, and water was essential to life.  Also, it may recall the garden of Eden . (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:58|Isaiah Chapter 58 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:58:09|<<]] | [[:vi:bible:notes:isa:58:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,78 @@
+====== Psalms 044:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 It was not by using their own swords that they conquered the people that lived in that land,
+\q2 and it was not by their own power that they were victorious;
+\q1 it was only by your power \f + \ft metonymy, doublet \f* \add that they did those things\add*;
+\q2 and they were sure that you were with them,
+\q2 and that showed that you were pleased with them.
+\b
+\q1
+\v 4 You are my King and my God;
+\q2 it is you who enable us, your people \f + \ft metonymy \f*, to defeat our enemies.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 It was not by using their own swords that they conquered the people that lived in that land,
+\q2 and it was not by their own power that they were victorious;
+\q1 it was only by your power that they did those things;
+\q2 and they were sure that you were with them,
+\q2 showing that you were pleased with them.
+\b
+\q1
+\v 4 You are my King and my God;
+\q2 Make us, your people, able to defeat our enemies.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For they did not obtain the land for their possession by their own sword,
+\q neither did their own arm save them;
+\q but your right hand, your arm, and the light of your face,
+\q because you were favorable to them.
+\q
+\v 4 God, You are my King;
+\q command victory for Jacob.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:possess]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:kt:save]]
+  * [[vi:obe:kt:righthand]]
+  * [[vi:obe:kt:light]]
+  * [[vi:obe:kt:face]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:jacob]]
+ 
+===== Translation Notes: =====
+
+  * **by their own sword** - The word "sword" refers to the military power. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **your arm** - Yahweh's arm refers to his power. AT: "your power" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **the light of your face** - This part of Yahweh refers to his guidance. AT: "your guidance" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **victory for Jacob** - The people of Israel are referred to by the name of their ancestor "Jacob". (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:044:001|<<]] | [[:vi:bible:notes:psa:044:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

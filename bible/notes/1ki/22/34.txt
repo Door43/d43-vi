@@ -1,0 +1,43 @@
+====== 1 Kings 22:34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 But one \add Syrian\add* soldier shot an arrow at Ahab, without knowing that it was Ahab. The arrow struck Ahab between the places where the parts of his armor joined together. Ahab told the driver of his chariot, "Turn the chariot around and take me out of here! I have been severely wounded!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 But one Aramean soldier shot an arrow at Ahab, without knowing that it was Ahab. The arrow struck Ahab between the places where the parts of his armor joined together. Ahab told the driver of his chariot, "Turn the chariot around and take me out of here! I have been severely wounded!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 But a certain man drew his bow at random and shot the king of Israel between the joints of his armor. Then Ahab said to the driver of his chariot, "Turn around and carry me out of the battle, for I am badly wounded."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:bowweapon]]
+  * [[vi:obe:other:king]]
+  * [[vi:obe:other:kingdomofisrael]]
+  * [[:vi:obe:other:armor]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:22|1 Kings Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:22:31|<<]] | [[:vi:bible:notes:1ki:22:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

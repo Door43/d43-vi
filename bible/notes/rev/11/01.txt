@@ -1,0 +1,50 @@
+====== Revelation 11:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1  \add An angel gave\add* to me a reed similar to a measuring stick. He said  \add to me\add*,  "\add Christ says this: 'Go\add* to the temple  \add where people worship\add* God, measure it and the altar  \add in it\add*, and count the people who worship there.
+\v 2 But do not measure the courtyard outside  \add of the temple\add* \f + \ft doublet \f*, because  \add it\add* has been given \f + \ft Or:\add God\add* has given it \f* to  \add the\add* non-Jewish  \add people. As a result\add*, they will trample  \add Jerusalem city\add* for forty-two months.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then an angel gave to me a reed similar to a measuring stick. God said to me, "Go to the temple, measure it and the altar in it, and count the people who are worshiping there.
+\v 2 But do not measure the courtyard outside of the temple building because I have given it to the non-Jewish people groups. As a result, they will trample the city of Jerusalem for forty-two months.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 A reed was given to me to use like a measuring rod. I was told, "Get up and measure the temple of God and the altar, and those who worship in it.
+\v 2 But do not measure the courtyard outside the temple, for it has been given over to the Gentiles. They will trample the holy city for  forty-two months.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:reed]]
+  * [[:vi:obe:other:rod|rod]]
+  * [[:vi:obe:kt:temple|temple]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:other:courtyard|courtyard]]
+  * [[:vi:obe:other:gentile|Gentile]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+
+===== Translation Notes: =====
+
+  * **given to me…I was told**  - The words "me" and "I" refer to John.
+  * **trample**  - to treat something as worthless by walking on it.
+  * **forty-two months**  - AT: "42 months" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:11|Revelation Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:10:10|<<]] | [[:vi:bible:notes:rev:11:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish reed}}
+
+~~NOCACHE~~

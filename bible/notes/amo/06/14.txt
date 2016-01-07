@@ -1,0 +1,63 @@
+====== Amos 06:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 But the Almighty Commander of the armies of angels declares,
+\q2 "I will cause another nation to attack you people \f + \ft metonymy \f* of Israel;
+\q1 they will oppress you\f + \ft Or: cause you to suffer \f* all the way from Hamath Pass \add in the northwest\add*
+\q2 to the Dead Sea \add in the southeast\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 But Yahweh, Commander of the angel armies, declares,
+\q2 "I will cause a certain nation to attack you people of Israel;
+\q1 they will oppress you all the way from Hamath Pass in the northwest
+\q2 to the Brook of the Arabah.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 "But look, I will raise up against you a nation,
+\q house of Israel" —this is the declaration of the Lord Yahweh, the God of hosts.
+\q "They will afflict you
+\q from Lebo Hamath to the Brook of the Arabah."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:declare]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:kt:yahwehofhosts]]
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:other:hamath]]
+  * [[:vi:obe:other:arabah]]
+ 
+
+===== Translation Notes: =====
+
+  * **look**  - AT: “listen” or “pay attention to what I am about to tell you.”
+  * **declaration of the Lord Yahweh**  - Translate this as you did in [[:vi:bible:notes:amo:03:13|3:13]].
+  * **from Lebo Hamath to the Brook of the Arabah**  - AT: "from the northern border of your nation to the southern border"
+  * **brook**  - a small river that flows only during the wet season
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:06|Amos Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:06:12|<<]] | [[:vi:bible:notes:amo:07:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

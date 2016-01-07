@@ -1,0 +1,79 @@
+====== Psalms 048:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 they shook like ships sailing from Tarshish are shaken by a strong wind.
+\b
+\q1
+\v 8 We had heard \add that this city is glorious\add*,
+\q1 and now we have seen that it is.
+\q2 It is the city in which Yahweh, the one who is greater that all their gods, \add lives\add*.
+\q2 It is the city which God will preserve\f + \ft Or: protect \f* forever.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 They shook as ships sailing from Tarshish shake in a strong wind.
+\b
+\q1
+\v 8 We had heard that this city was glorious,
+\q1 and now we have seen that it is.
+\q2 It is the city in which Yahweh, Commander of the angel armies, lives.
+\q2 It is the city that God will preserve forever.
+
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 With the east wind
+\q you break the ships of Tarshish.
+\q
+\v 8 As we have heard, so have we seen
+\q in the city of Yahweh of hosts, in the city of our God;
+\q God will establish it forever. 
+\qs Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tarshish|Tarshish]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:kt:forever|forever]]
+
+===== Translation Notes: =====
+
+  * **With the east wind you break the ships of Tarshish** - This can be translated two different way: 1) As the author stops his description to address God and describe an example of his great power. (See: like you break [[:vi:ta:vol2:translate:figs_apostrophe]]) 2) As a simile. AT: "They shook like you shatter the ships of Tarshish with the east wind"
+  * **the ships of Tarshish** - This refers to large ocean ships. AT: "the strong ships of Tarshish" or "the strong ocean ships"
+  * **the east wind** - "a strong wind"
+  * **As we have heard** - This refers to the stories of Yahweh's power like the example used in the previous sentence. AT: "As we have heard about your great power" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **in the city of Yahweh of hosts, in the city of our God** - Both of these phrases refer to the same city. AT: "in the city of our God, Yahweh of hosts" (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **establish it** - This means to set something up and preserve it. AT: "make it last"
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:048|Psalms Chapter 048 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/048/004|<<]] | [[en/bible/notes/psa/048/009|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book2}}
+
+~~NOCACHE~~

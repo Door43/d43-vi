@@ -1,0 +1,93 @@
+====== Hosea 11:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 You people of Israel, I certainly do not want to \f + \ft rhetorical question \f* abandon you
+\q2 and allow \add your enemies\add* to capture you.
+\q1 I do not \f + \ft rhetorical question \f* want to act toward you like I acted toward Admah and Zeboiim,
+\q2 \add cities that I completely destroyed when I destroyed Sodom\add*.
+\q1 I \f + \ft synecdoche \f* have changed my mind about \add punishing you\add*;
+\q2 my desire to pity you has been aroused.
+\q1
+\v 9 Although I am extremely angry,
+\q2 I do not want to punish you severely;
+\q1 I do not want to devastate\f + \ft Or: completely ruin \f* Israel.
+\q2 \add Humans would easily decide to do that\add*,
+\q2 but I am God, not a human.
+\q1 I am the Holy One among you;
+\q2 Although I am very angry with you, I will not \add destroy you\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 But you people of Israel—dear Israel—I cannot abandon you.
+\q2 I cannot give you over to your enemies.
+\q1 I do not want to act toward you as I acted toward Admah or make you like Zeboiim—
+\q2 cities that I destroyed along with Sodom.
+\q1 I have changed my mind about punishing you;
+\q2 I earnestly long to have mercy on you.
+\q1
+\v 9 I have decided not to punish you severely.
+\q1 I do not want to destroy you, the people of my Israel, whom I love.
+\q2 Human beings would easily decide to do that,
+\q2 but I am God, not human.
+\q1 I am the Holy One who lives among you;
+\q2 I will not come to you and be angry with you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 8 How can I give you up, Ephraim?
+\q How can I hand you over, Israel?
+\q How can I make you like Admah?
+\q How can I make you like Zeboiim?
+\q My heart has changed within me;
+\q all my compassions have been stirred up.
+\q
+\v 9 I will not execute my fierce anger;
+\q I will not again destroy Ephraim.
+\q For I am God
+\q and not a man;
+\q I am the Holy One among you,
+\q and I will not come in wrath.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[: vi:obe:other:heart]]
+  * [[:vi:obe:kt:compassion]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:holyone|Holy One]]
+  * [[:vi:obe:kt:wrath|wrath]]
+
+===== Translation Notes: =====
+
+God is speaking about Israel.
+
+  * **How can I give you up, Ephraim? How can I hand you over, Israel?** - Yahweh loves his people so much that he will not totally destroy them. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **How can I make you like Admah? How can I make you like Zeboiim?** - AT: "I do not want to act toward you as I acted toward Admah or make you like Zeboiim—cities that I destroyed along with Sodom." (UDB) (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **My heart has changed within me** - The "heart" often represents the will/decisions a person makes. So the "heart" here represents the whole person of God. (UDB) (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:11|Hosea Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:11:05|<<]] | [[:vi:bible:notes:hos:11:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

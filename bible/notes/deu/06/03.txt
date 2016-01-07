@@ -1,0 +1,49 @@
+====== Deuteronomy 06:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So, you Israelite people, listen to them carefully and obey them. If you do that, things will go well with you, and you will become a very numerous nation when you are living in that very fertile [IDI] land. That is what Yahweh, the God whom our ancestors \add worshiped\add*, promised \add would happen\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So, you Israelite people, listen to them carefully and obey them. If you do that, things will go well with you, and you will become a very numerous nation when you are living in that very fertile land. That is what Yahweh, the God whom our ancestors worshiped, promised would happen.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Therefore listen to them, Israel, and keep them, so that it may go well with you, so that you may greatly multiply, in a land flowing with milk and honey, as Yahweh, the God of your fathers, has promised you would do.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[vi:obe:other:honey]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:other:father|father, forefather]]
+  * [[vi:obe:kt:promise]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+  * **listen to them** -  "listen to Yahweh's commandments, statutes and decrees". To "listen" in this case is to obey. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **a land flowing with milk and honey** - "a land where plenty of milk and honey flow." This means that the land will be rich and productive, so there will be enough food for everyone. AT: "a land that is excellent for cattle and farming" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:06|Deuteronomy Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:06:01|<<]] | [[:vi:bible:notes:deu:06:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,68 @@
+====== Hosea 13:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Even if you people of Israel prosper more than the nearby nations do,
+\q2 \add the army of Assyria\add* will come like \f + \ft metaphor \f* an east wind that blows from the desert;
+\q1 the springs and wells in Israel will become dry;
+\q2 and your enemies will take away all your valuable possessions.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 The prophet says: "Even though the people of Israel are wealthier than those of Judah,
+\q2 the day is coming when there will come Yahweh will destroy you.
+\q1 The people of Israel will meet disaster.
+\q2 Their enemies will take everything valuable away from you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 15 Though Ephraim is prosperous among his brothers,
+\q an east wind will come,
+\q the wind of Yahweh will up from the wilderness.
+\q Ephraim's spring will dry up,
+\q and his well will have no water.
+\q His enemy will plunder the storehouse of every precious object.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:kt:brother|brother]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[:vi:obe:other:fountain|fountain, spring]]
+  * [[:vi:obe:other:well|well]]
+  * [[:vi:obe:other:water]]
+  * [[:vi:obe:other:adversary|adversary, enemy]]
+  * [[:vi:obe:other:precious|precious]]
+
+===== Translation Notes: =====
+
+Hosea the prophet is speaking.
+
+  * **an east wind will come, the wind of Yahweh** - This means that the judgment of Yahweh on Israel (Ephraim) is coming soon. (see: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Ephraim's spring will dry up, and his well will have no water** - AT: "The people of Israel will meet disaster." (UDB) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:13|Hosea Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:13:14|<<]] | [[:vi:bible:notes:hos:13:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== Numbers 05:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 But if you have had sex with another man, \add Yahweh will curse you\add*.
+\v 21-22 Your womb will shrivel up and your stomach will swell up. You will never be able to give birth to children, and as a result, everyone will curse you and avoid you. If you have committed adultery, \add when you drink\add* this water, that is what will happen to you." Then the woman must answer, "\add If am guilty\add*, I will not object if that happens."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 But if you have had sex with another man, Yahweh will curse you.
+\v 21-22 Your womb will shrivel up and your stomach will swell up. You will never be able to give birth to children, and as a result, everyone will curse you and avoid you. If you have committed adultery, when you drink this water, that is what will happen to you." Then the woman must answer, "If I am guilty, I will not object if that happens."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20  But if you, a woman under her husband, has gone astray,  if you are defiled, and if some other man has slept with you..."
+\v 21 Then the priest must cause the woman to swear an oath that can bring down a curse on her, and then he must continue speaking to the woman, "... then Yahweh will make you into a curse that will be shown to your people to be such. This will happen if Yahweh causes your thigh to waste away and your abdomen to swell.
+\v 22 This water that brings the curse will go into your stomach, swell your abdomen, and waste away your thighs." The woman is to reply, "Yes, let that happen if I am guilty."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:defile]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:waste]]
+
+===== Translation Notes: =====
+
+  * **under her husband** - AT: "under her husband's authority" (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol1:translate:figs_idiom]])
+  * **if some other man has slept with you...** - Here the speaker stops talking suddenly for emphasis. (See: [[:vi:ta:vol2:translate:figs_euphemism]]
+  * **Yahweh will make you into a curse that will be shown to your people to be such** - Possible meanings are 1) that people would curse her, or 2) that people would use the her name to curse others. 
+  * **that will be shown to your people to be such** - AT: "that he will show to your relatives as a curse" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **your thigh to waste away and your abdomen to swell** - Possible meanings are 1) that the woman will become unable to bear children, or 2) that the woman will have a miscarriage.
+  * **your thigh to waste away** - Here the word "thigh" may refer to the woman's sexual organs. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:05|Numbers Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:num:05:18|<<]] | [[:vi:bible:notes:num:05:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

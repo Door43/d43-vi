@@ -1,0 +1,67 @@
+====== Psalms 011:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 When people are not punished for disobeying the laws,
+\q2 what can righteous people do?\f + \ft Or: there is not much that righteous people can do. \f*" \f + \ft rhetorical question \f*
+\b
+\q1
+\v 4 But Yahweh is sitting on his throne in his sacred temple in heaven,
+\q2 and he \f + \ft synecdoche \f* watches everything that people do.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 When wicked people do not suffer for disobeying the laws,
+\q2 what can righteous people do?
+\b
+\q1
+\v 4 But Yahweh is sitting on his throne in his sacred temple in heaven,
+\q2 and he sees everything that people do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For if the foundations are ruined,
+\q what can the righteous do?
+\q
+\v 4 Yahweh is in his holy temple;
+\q his eyes watch, his eyes examine the children of men.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:foundation]]
+  * [[:vi:obe:other:ruin]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:temple]]
+  * [[:vi:obe:kt:children]]
+ 
+
+===== Translation Notes: =====
+
+  * **For if the foundations are ruined, what can the righteous do?** - AT: "What can the righteous do when evil people are not punished when they disobey the laws?" (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **children of men** - "humanity"
+  * **his eyes watch, his eyes examine the children of men** - AT: "He examines all that humanity does." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:011|Psalms Chapter 011 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:011:001|<<]] | [[:vi:bible:notes:psa:011:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

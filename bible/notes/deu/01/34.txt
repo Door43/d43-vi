@@ -1,0 +1,67 @@
+====== Deuteronomy 01:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 Yahweh heard what they said, and he became angry. He solemnly declared,
+\v 35-36 'Caleb, the son of Jephunneh, will enter the land. He has obeyed me completely. So I will give to him and to his descendants \add some of\add* the land that he explored. He is the only one of all you people who will enter that land. None of these evil people will ever see that good land which I solemnly promised to give to your ancestors.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 Yahweh heard what they said, and he became angry. He solemnly declared,
+\v 35-36 'Caleb son of Jephunneh, will enter the land. He has obeyed me completely. So I will give to him and to his descendants some of the land that he explored. He is the only one of all you people who will enter that land. None of these evil people will ever see that good land which I solemnly promised to give to your ancestors.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 34 Yahweh heard the voice of your words and was angry; he swore and said,
+\v 35 "Surely not one of these men of this evil generation will see the good land that I swore to give to your ancestors,
+\v 36 save Caleb the son of Jephunneh; he will see it. To him I will give the land that he has stepped on, and to his children, because he has wholly followed Yahweh.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:other:voice]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:other:oath|oath, swear]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:generation|generation]]
+  * [[:vi:obe:other:caleb|Caleb]]
+  * [[:vi:obe:kt:children|children, child]]
+
+===== Translation Notes: =====
+
+  * **heard the voice of your words** - AT: "heard what you said" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **he swore and said** - God made a vow not to allow those who rebelled against him to enter the land He promised to give them.
+  * **will see** - Here this phrase means "will enter."
+  * **save Caleb** - "except Caleb." Caleb stood up with Joshua to exhort the people to fight.
+  * **Jephunneh** - This is the name of Caleb's father. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **he has wholly followed Yahweh** - AT: "he has completely obeyed me"
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:01|Deuteronomy Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/01/32|<<]] | [[en/bible/notes/deu/01/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

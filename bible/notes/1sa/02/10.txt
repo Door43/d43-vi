@@ -1,0 +1,63 @@
+====== 1 Samuel 02:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Yahweh, you will break into pieces those who oppose you.
+\q2 You will cause thunder in the sky \add to show\add* that you oppose\f + \ft Or: are angry with \f* them.
+\q1 Yahweh, you will judge people \add everywhere, even those who live in\add* the most remote places on the earth.
+\q2 You will give strength to the king whom you will appoint, and give him great power \add over his enemies\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh, you will break into pieces those who oppose you.
+\q2 You will cause thunder in the sky to show that you oppose them.
+\q1 Yahweh, you will judge people everywhere, even those who live in the most remote places on the earth.
+\q2 You will give strength to the king whom you will appoint, and give him great power over his enemies."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Those who oppose Yahweh will be broken to pieces;
+\q he will thunder against them from heaven.
+\q Yahweh will judge the ends of the earth;
+\q he will give strength to his king
+\q and exalt the horn of his anointed."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:kt:anoint]]
+ 
+
+===== Translation Notes: =====
+
+  * **broken to pieces** - AT: "defeated."  See: [[:vi:ta:vol1:translate:figs_idiom]])  
+  * **the ends of the earth** - AT: "the whole earth." See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **he will give strength to his king and exalt the horn of his anointed** - This is saying the same thought in two different ways to emphasize that he will certainly do it.  See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **horn** - This is a musical instrument that is a symbol for strength.  
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:02:09|<<]] | [[:vi:bible:notes:1sa:02:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

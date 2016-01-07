@@ -1,0 +1,75 @@
+====== Hosea 06:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 I have seen horrible things being done in Israel \f + \ft metonymy \f*.
+\q2 The people have abandoned me \add like prostitutes who have abandoned their husbands\add* \f + \ft metaphor \f*;
+\q1 \add so the people of\add* Israel have become unacceptable to me.
+\b
+\q1
+\v 11 And you \add people of\add* Judah,
+\q2 I have appointed a time when I will punish \f + \ft metaphor \f* you, too.
+\b
+\q1 Whenever I wanted to enable my people to prosper again,"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Among the people of Israel, I have seen a horrible thing—  
+\q2 the people of Ephraim worship idols everywhere.
+\q1 The people of Israel have become filthy by what they have done.
+\b
+\q1
+\v 11 And for you also, you people of Judah,
+\q2 I have set for you a time when I will separate out your good people from your bad people. 
+\q1 Just as in the harvest when you take all the crops in, 
+\q2 and you keep the good and throw away the bad, 
+\q1 that is what is coming for you, people of Judah. 
+\b
+\q1 That will be the day when I bring back the blessings and riches of my people once more."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 In the house of Israel I have seen a horrible thing;
+\q Ephraim's prostitution is there, and Israel is polluted.
+\q
+\v 11 For you also, Judah, a harvest has been appointed,
+\q when I will restore the fortunes of my people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:other:prostitute]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:kt:harvest]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:kt:restore]]
+  * [[:vi:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **Ephraim's prostitution**  - Ephraim's worship of false gods (see:[[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **For you also, Judah, a harvest has been appointed**  - "I have set a time of harvest for you also, Judah" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:06|Hosea Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:06:08|<<]] | [[:vi:bible:notes:hos:07:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

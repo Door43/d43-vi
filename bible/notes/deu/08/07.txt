@@ -1,0 +1,51 @@
+====== Deuteronomy 08:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 He is about to bring you into a good\f + \ft Or: fertile \f* land, which has streams which flow down from the hills and pour\f + \ft Or: flow \f* out of springs in the valleys.
+\v 8 It is a land on which wheat and barley grow, a land where there are fig trees and pomegranates, and a land where there are olive trees and honey.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 He is about to bring you into a good land, which has streams which flow down from the hills and flow out of springs in the valleys.
+\v 8 It is a land on which wheat and barley grow, a land where there are fig trees and pomegranates, and a land where there are olive trees and honey.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 For Yahweh your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing out into valleys and among hills;
+\v 8 a land of wheat and barley, of vines, fig trees, and pomegranates; a land of olive trees and honey.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:fountain]]
+  * [[:vi:obe:other:wheat]]
+  * [[:vi:obe:other:vine]]
+  * [[:vi:obe:other:fig]]
+  * [[:vi:obe:other:olive]]
+  * [[:vi:obe:other:honey]]
+===== Translation Notes: =====
+
+Moses is still talking to the people of Israel.
+
+  * **a land of** - "a land with" or "a land that has"
+  * **barley**  - a grain that they ate often and used to make bread
+  * **pomegranates ** - a red fruit full of seeds that people can eat 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:08|Deuteronomy Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:08:04|<<]] | [[:vi:bible:notes:deu:08:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

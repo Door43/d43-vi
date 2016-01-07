@@ -1,0 +1,79 @@
+====== Job 24:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 The result is that poor people have to search for food in the desert
+\q2 like wild donkeys do.
+\q1
+\v 6 The poor people harvest left-over grain in other people's fields,
+\q2 and gather grapes from vineyards that belong to wicked men.
+\q1
+\v 7 During the night they have nothing to cover their bodies,
+\q2 nothing to keep them warm.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 The result is that poor people have to search for food in the desert plain
+\q2 like wild donkeys do.
+\q1
+\v 6 The poor people harvest leftover grain in other people's fields,
+\q2 and gather leftover grapes from vineyards that belong to wicked men.
+\q1
+\v 7 During the night they have nothing to cover their bodies,
+\q2 nothing to keep them warm.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 See, like wild donkeys in the desert,
+\q these poor people go out to their work, looking carefully for food;
+\q perhaps the Arabah will provide them food for their children.
+\q
+\v 6 The poor reap in the night in other people’s fields;
+\q they glean grapes from the harvest of the wicked.
+\q
+\v 7 They lie naked all night without clothing;
+\q they have no covering in the cold.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:desert]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:kt:children]]
+  * [[:vi:obe:other:reap]]
+  * [[:vi:obe:other:glean]]
+  * [[:vi:obe:other:grape]]
+  * [[:vi:obe:kt:harvest]]
+ 
+
+===== Translation Notes: =====
+
+  * **like wild donkeys - This expression compares poor people to donkeys who go out to graze, but do not know where they will find food.(See: Simile)**
+  * **the Arabah - This place is the great plain between the Dead Sea and the Gulf of Akabah.**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:24|Job Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:job:24:02|<<]] | [[:vi:bible:notes:job:24:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

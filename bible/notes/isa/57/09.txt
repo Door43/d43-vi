@@ -1,0 +1,74 @@
+====== Isaiah 57:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 You have given \add fragrant\add* oil and lots of perfume to your god Molech,
+\q2 and you sent messengers to distant countries \add to find other gods to worship\add*;
+\q1 you \add even tried\add* to send \add messengers\add* to the place of the dead \add to search for new gods\add*.
+\q1
+\v 10 You became weary because of doing all those things,
+\q2 but you never said, 'It is useless \add for us to do that\add*.'
+\q1 You found new strength for worshiping idols,
+\q2 so you continued to do that \f + \ft litotes \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 You have given fragrant oil and lots of perfume to kings,
+\q2 and you sent representatives to distant countries to look for other gods to worship;
+\q1 you even tried to send messengers to the place of the dead to search for new gods.
+\q1
+\v 10 You became weary because of doing all those things,
+\q2 but you never said, 'It is useless for us to do that.'
+\q1 You found new strength for worshiping idols,
+\q2 so you continued to do so.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 9 You went to the king with oil; you multiplied  perfumes. 
+\q1 You send your ambassadors far away; you went down to Sheol.
+\q1
+\v 10 You were tired from your long journey, but you never said, "It is hopeless." 
+\q1 You found life in your hand; therefore you did not weaken.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:oil]]
+  * [[:vi:obe:other:ambassador]]
+  * [[:vi:obe:other:hades]]
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:other:hand]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the unfaithful people of Israel.
+
+  * **you went down to Sheol**  - The people did not literally go to Sheol. Yahweh is exaggerating slightly to emphasize how far they were willing to travel to find new gods to worship. (See: [[:vi:ta:vol2:translate:figs_hyperbole|Hyperbole]])
+  * **therefore you did not weaken**  - This means they continued seeking for other gods. (See: [[:vi:ta:vol2:translate:figs_litotes|Litotes]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:57|Isaiah Chapter 57 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:57:07|<<]] | [[:vi:bible:notes:isa:57:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -11,9 +11,9 @@ The term "Almighty" literally means "all-powerful" and in the Bible, it always r
 
   * This term could also be translated as "All-powerful" or "Completely Powerful One" or "God, who is completely powerful."
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
-(See also: [[en:obe:kt:power]])
+(See also: [[vi:obe:kt:power]])
 
 ===== Bible References: =====
 

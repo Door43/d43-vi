@@ -1,0 +1,64 @@
+====== Joshua 11:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Joshua's men fought against those groups for many years.
+\v 19 There was only one group that made a peace agreement with the Israelites; they were the people of the Hiv people-group who lived in Gibeon. The Israelites captured all the other towns in battles.
+\v 20 Yahweh caused the people in all those other groups to be stubborn [IDI], with the result that they fought against the Israelite army, and the Israelites killed them all. They were not merciful to any of them. That is what Yahweh had commanded Moses to do.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Joshua's men fought against all those kings for a long time.
+\v 19 There was only one city that made a peace treaty with the Israelites; they were the people of the Hivites who lived in Gibeon. The Israelites captured all the other cities in battles.
+\v 20 Yahweh caused the people in all those other groups to be stubborn, with the result that they fought against the Israelite army, and the Israelites killed them all. They cried out for mercy but were not heard, so that they might be complete destroyed. This is what Yahweh had commanded Moses to do.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 Joshua waged war for a long time with all the kings.
+\v 19 Not one city made peace with the army of Israel except the Hivites who lived in Gibeon. Israel captured all the rest of the cities in battle.
+\v 20 For it was Yahweh who had hardened their hearts so that they would come and wage war against Israel, so that he might completely destroy them. Their pleas for mercy were not heard, with the result that they were completely destroyed, just as Yahweh had commanded Moses.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:joshua]]
+  * [[:vi:obe:other:king]]
+  * [[;en:obe:other:israel]]
+  * [[:vi:obe:other:hivite]]
+  * [[:vi:obe:other:gibeon]]
+  * [[:En:obe:kt:yahweh]]
+  * [[vi:obe:other:command]]
+  * [[vi:obe:other:moses]]
+
+===== Translation Notes: =====
+
+    * **hardened their hearts** - This is describing the human heart as hard like a stone: meaning stubborn and unfeeling. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+
+ 
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:11|Joshua Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/11/16|<<]] | [[en/bible/notes/jos/11/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

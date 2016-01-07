@@ -1,0 +1,61 @@
+====== Daniel 09:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Lord our God, you brought your people out of Egypt by your great power \f + \ft metonymy \f*, and by doing that you have caused people from that time until the present time to know that you are great [IDI] \add even though\add* we have sinned and done wicked things.
+\v 16 Lord, Jerusalem is your city, and \add your temple was built there\add* on your sacred hill. Now all the people who live in nearby countries\f + \ft Or: nations \f* despise Jerusalem and us your people because of our sins and because of the evil things that our ancestors did. But now, because you do what is righteous\f + \ft Or: just \f*, \add we request you to\add* not be angry with Jerusalem any longer.
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Lord our God, you brought your people out of Egypt by your great power, and by doing that you have caused people from that time until the present time to know that you are great even though we have sinned and done wicked things.
+\v 16 But now, because everything you do is righteous, we request you to not be angry with Jerusalem any longer, O Lord. Jerusalem is your city, and your temple was built there on your sacred hill. Now all the people who live in nearby countries despise Jerusalem because of our sins and because of the evil things that our ancestors did. 
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Now, Lord our God, you brought out your people from the land of Egypt with a mighty hand, and you have made a famous name for yourself, as in this present day. But still we sinned; we have done wicked things.
+\v 16 Lord, because of all your righteous deeds, let your anger and your wrath turn away from your city Jerusalem, the mountain of your holiness. Because of our sins, and because of the iniquities of our ancestors, Jerusalem and your people have become an object of scorn to all those around us.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:lordgod]]
+  * [[vi:obe:kt:god]]
+  * [[vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:egypt]]
+  * [[vi:obe:other:hand]]
+  * [[vi:obe:kt:name]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:evil]]
+  * [[vi:obe:other:angry]]
+  * [[:vi:obe:kt:wrath]]
+  * [[vi:obe:kt:turn]]
+  * [[vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:holy]]
+  * [[vi:obe:kt:iniquity]]
+===== Translation Notes: =====
+
+  * **with a mighty hand** - AT: "with great strength" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **still we sinned; we have done wicked things** - The two clauses mean basically the same thing and are used together to emphasize how bad sin is. (See: [[vi:ta:vol2:translate:figs_parallelism]])
+  * **we sinned; we have done wicked things** - Daniel and Israel sinned and did wicked things, not God. (See: [[vi:bible:team-info:training:quick-reference:grammar:we-exclusive]])
+  * **all your righteousness** - "your great righteousness"
+  * **your anger and your wrath** - The words "anger" and "wrath" mean basically the same thing and are used together to emphasize how dangerous God can be. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **the mountain of your holiness** - The word "holiness" here may refer to God's holy temple. AT: "the mountain where your holy temple is" or "your holy mountain".
+  * **our sins ... our ancestors** - The sins and ancestors of Daniel and Israel, not of God.
+  * **object of scorn** - "target of disrespect"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:09|Daniel Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:09:12|<<]] | [[:vi:bible:notes:dan:09:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

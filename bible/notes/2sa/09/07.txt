@@ -1,0 +1,54 @@
+====== 2 Samuel 09:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 David said to him, "Do not be afraid; I will be kind to you because Jonathan your father \add was my friend was\add*. I will give back to you all the land that belonged to your grandfather Saul. And \add I want\add* you to always eat with me at my house \f + \ft metonymy \f*."
+\p
+\v 8 Mephibosheth bowed \add in front of David again\add* and said, "Sir, I am \add as worthless as\add* \f + \ft metaphor \f* a dead dog; I do not deserve \f + \ft rhetorical question \f* that you act kindly toward me!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 David said to him, "Do not be afraid. I will be kind to you because Jonathan your father was my friend. I will give back to you all the land that belonged to your grandfather Saul. And I want you to always eat with me in my house."
+\p
+\v 8 Mephibosheth bowed in front of David again and said, "Sir, I am as worthless as a dead dog. I do not deserve that you act kindly toward me!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 David said to him, "Do not be afraid, for I will surely show you kindness for Jonathan your father’s sake, and I will restore to you all the land of Saul your grandfather, and you will always eat at my table."
+\v 8 Mephibosheth bowed and said, "What is your servant, that you should look with favor on such a dead dog as I am?"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:kt:restore]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+  * **you will always eat at my table**  - Here the "my table" refers to being together with or in David's presence. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]]) 
+  * **What is your servant, that you should look with favor on such a dead dog as I am?** - This question is asked to show Mephibosheth understands his place. AT: "I am of no importance at all." (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **such a dead dog**  - Here the Mephibosheth represents the line of Saul, and compares himself to a "dead dog." Dogs were all feral, and alive were of little importance and were not directly cared for. So, a dead dog would have even less importance. AT: "I am like a dead dog"  (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:09|2 Samuel Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:09:05|<<]] | [[:vi:bible:notes:2sa:09:09|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -2,20 +2,19 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Zephaniah was the name of several men in the Old Testament, including a priest and a prophet. The Old Testament book of the prophet Zephaniah contains his prophecies.
 
-(Translation suggestions: [[en:ta:translate:translatenames]])
+  * The prophet Zephaniah lived in Jerusalem and prophesied during the reign of Josiah, king of Judah.
+  * Zephaniah rebuked the people for worshipping false gods.
 
-(See also: other)
+(Translation suggestions: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:vi:obe:other:josiah]])
 
 ===== Bible References: =====
 
-{{topic>zephaniah&nocomments}}
-
-~~DISCUSSION~~
+{{topic>zephaniah&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create zep01 ktlink}}
+{{tag>publish}}

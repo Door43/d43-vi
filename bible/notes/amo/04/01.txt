@@ -1,0 +1,85 @@
+====== Amos 04:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 You \add wealthy women\add* of Samaria \add who have grown fat\add* like \f + \ft metaphor \f* the fat cows of the Bashan \add region\add*.
+\q2 You oppress poor people
+\q2 and you cause needy people to suffer.
+\q1 And you say to your husbands,
+\q2 "Bring us \add more wine\add* to drink!"
+\q1
+\v 2 But Yahweh our God has said this:
+\q2 "Because I am holy, I solemnly promise this:
+\q1 It will \add soon\add* be the time when you all will be taken \add to another country\add*;
+\q2 \add your enemies will take you away as though they are using\add* sharp hooks \f + \ft doublet \f* \add to grab you\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 You wealthy women of Samaria who have grown fat like  the fat cows of the region of Bashan.
+\q2 You oppress poor people,
+\q2 and you cause needy people to suffer.
+\q1 And you say to your husbands,
+\q2 "Bring us more wine to drink!"
+\q1
+\v 2 But Yahweh our God has said this:
+\q2 "Because I am holy, I solemnly promise this:
+\q1 It will soon be the time when you all will be taken to another country;
+\q2 your enemies will take you away using sharp hooks to grab you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\p
+\q
+\v 1 Listen to this word,
+\q you cows of Bashan,
+\q you who are in the mountain of Samaria,
+\q you who oppress the poor, 
+\q you who crush the needy,
+\q you who say to your husbands,
+\q "Bring us drinks."
+\q
+\v 2 The Lord Yahweh has sworn by his holiness:
+\q "Look, the days will come on you
+\q when they will take you away with hooks,
+\q the last of you with fishhooks.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:cow]]
+  * [[:vi:obe:other:bashan]]
+  * [[:vi:obe:other:samaria]]
+  * [[:vi:obe:kt:oppress]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:other:oath]]
+  * [[:vi:obe:kt:holy]] 
+
+===== Translation Notes: =====
+
+    * **take you away with hooks, the last of you with fishhooks**  - "completely defeat all of you and force you to go away with them" or "put you on hooks like fish and take you away" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **hooks ... fishhooks** - The difference in meaning between these words is not clear, so it may be best to treat them as the same. (See: [[vi:ta:vol2:translate:figs_doublet]] and UDB)
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:04|Amos Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:03:15|<<]] | [[:vi:bible:notes:amo:04:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

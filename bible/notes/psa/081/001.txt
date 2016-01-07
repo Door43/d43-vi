@@ -1,0 +1,87 @@
+====== Psalms 081:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Sing songs to praise God, who enables us to be strong \add when we fight our enemies\add*;
+\q1 shout joyfully to God, whom we descendants of Jacob\f + \ft Or: Israelite people \f* \add worship\add*!
+\q1
+\v 2 Start \add playing\add* the music, and beat the tambourines,
+\q2 and play nice music on the harps and lyres\f + \ft Or: other stringed instruments \f*.
+\b
+\q1
+\v 3 Blow the trumpets \add during the festival to celebrate\add* each new moon
+\q2 and each time the moon is full and during our \add other\add* festivals.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Sing songs to praise God, who enables us to be strong when we fight our enemies;
+\q1 shout joyfully to God, whom we descendants of Jacob worship!
+\q1
+\v 2 Start playing the music, and beat the tambourines;
+\q2 play nice music on the harps and lyres.
+\b
+\q1
+\v 3 Blow the trumpets during the festival to celebrate each new moon,
+\q2 each time the moon is full, and during our other festivals.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 81
+\d For the chief musician; set to the Gittith style. A psalm of Asaph.
+\b
+\q
+\v 1 Sing aloud to God our strength;
+\q shout out for joy to the God of Jacob.
+\q
+\v 2 Sing a song and play the tambourine,
+\q the pleasant lyre with the harp.
+\q
+\v 3 Blow the ram's horn on the day of the new moon,
+\q on the day of the full moon, when our feast day begins.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:asaph|Asaph]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:joy|joy, joyful]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[:vi:obe:other:lute|lute, lyre]]
+  * [[:vi:obe:other:harp|harp]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:other:trumpet]]
+  * [[:vi:obe:other:newmoon|new moon]]
+  * [[:vi:obe:other:feast|feast]]
+
+===== Translation Notes: =====
+
+A psalm of Asaph. 
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **Gittith**  - See how you translated this in [[:vi:bible:notes:psa:008:001|8:1]].
+  * **God our strength**  - "God who gives us strength"
+  * **the God of Jacob**  - AT: "the God of Israel, the nation of Jacob's descendants" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **play the tambourine, the pleasant lyre with the harp ** - These are musical instruments.
+  * **tambourine** - a musical instrument with a head like a drum that can be hit and with pieces of metal around the side that sound when the instrument is shaken
+  * **when our feast day begins **- "and on the days when our feasts begin"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:081|Psalms Chapter 081 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:080:019|<<]] | [[:vi:bible:notes:psa:081:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

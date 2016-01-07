@@ -1,0 +1,42 @@
+====== Exodus 05:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 So the slave bosses and supervisors of the slaves went to where the \add Israelite\add* people were and said to them, "The king has said that he will no longer give you any straw.
+\v 11 \add So\add* you yourselves must go and get straw wherever you can find it. But you must still keep working to make the same number of bricks as before." \f + \ft litotes \f*
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 So the slave bosses and Israelite assistants went to where the Israelite people were and said to them, "The king has said that he will no longer give you any straw.
+\v 11 So you must go and get straw where you can find it. But you must keep working to make the same number of bricks."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 So the people's taskmasters and foremen went out and informed the people. They said, "This is what Pharaoh says: 'I will no longer give you any straw.
+\v 11 You yourselves must go and get straw wherever you can find it, but your workload will not be reduced.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pharaoh]]
+
+===== Translation Notes: =====
+
+  * **taskmasters** - “slave drivers” or “masters.” These were Egyptians whose job was to force the Israelites to do hard work.
+  * **I will no longer give you any straw … get straw wherever you can find it**  - The word "you" in these verses is plural and refers to the Israelite people. (See: [[:vi:ta:vol1:translate:figs_you|Forms of You]])
+  * **your workload will not be reduced**  - AT: "you must continue to make the same number of bricks as before"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:05|Exodus Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:05:06|<<]] | [[:vi:bible:notes:exo:05:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,74 @@
+====== Psalms 094:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Yahweh, you are pleased with people who \add want you to\add* discipline\f + \ft Or: correct \f* them,
+\q2 with people who \add want you to\add* teach them your laws.
+\q1
+\v 13 When those people have had troubles, you cause those troubles to cease,
+\q1 and some day \add it will be as though\add* you will dig pits for the wicked people,
+\q2 and they will fall into those pits \add and die\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Yahweh, how fortunate are those who allow you to discipline them,
+\q2 those who want you to teach them your laws.
+\q1
+\v 13 When those people have had troubles, you cause those troubles to cease,
+\q1 and someday it will be as though you will dig pits for the wicked people,
+\q2 and that they will fall into those pits and die.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Blessed is the one whom you instruct, Yahweh,
+\q the one whom you teach from your law.
+\q
+\v 13 You give him rest in times of trouble
+\q until a pit is dug for the wicked.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:rest]]
+  * [[:vi:obe:other:trouble]]
+  * [[:vi:obe:other:pit]]
+  * [[:vi:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+Now the Psalmist again talks to Yahweh.
+
+  * **Blessed is the one whom you instruct, Yahweh, the one whom you teach from your law** - These phrases share similar meanings and are combined for emphasis. AT: "Blessed is the person that you instruct and teach from your law, Yahweh." (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **until a pit is dug for the wicked** - Here "pit" represents a trap for catching and punishing the wicked. AT: "until you destroy the wicked" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:094|Psalms Chapter 094 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/094/010|<<]] | [[en/bible/notes/psa/094/014|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

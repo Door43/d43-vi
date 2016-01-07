@@ -1,0 +1,55 @@
+====== Leviticus 09:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 He\f + \ft Or: I \f* burned the fat, including that which covered the kidneys and the liver, as Yahweh had commanded him\f + \ft Or: me \f*.
+\v 11 Then Aaron burned \add the rest of\add* the meat and the hide\f + \ft Or: skin \f* outside the camp.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 He burned the fat, including that which covered the kidneys and the liver, as Yahweh had commanded him.
+\v 11 Then Aaron went outside the camp and there burned the rest of the meat and the hide.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 However, he burned the fat, the kidneys, and the covering of the liver on the altar as a sin offering, as Yahweh had commanded Moses.
+\v 11 And he burned the meat and the hide outside the camp.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:altar]]
+  * [[vi:obe:other:sinoffering]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:command]]
+  * [[vi:obe:other:moses]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **he burned** - "Aaron burned"
+    * **kidneys...liver** - See how you translated these in [[vi:bible:notes:lev:03:03|3:4]].
+    * **the hide** - the coat or skin of a herd animal
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:09|Leviticus Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:09:08|<<]] | [[:vi:bible:notes:lev:09:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

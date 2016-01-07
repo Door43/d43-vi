@@ -1,0 +1,69 @@
+====== Psalms 031:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Yahweh, I call out to you,
+\q2 so do not allow me to be disgraced.
+\q1 I desire that wicked people will be disgraced;
+\q2 I desire\f + \ft Or: hope \f* that they will \add soon die and\add* go down to the place where the dead people are.
+\q1
+\v 18 I desire that you will cause people \f + \ft metonymy \f* who tell lies to be unable to speak.
+\q2 Do that for people who are proud and those who arrogantly accuse righteous people.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Yahweh, I call out to you,
+\q2 so do not allow others to disgrace me.
+\q1 I wish that wicked people may be disgraced;
+\q2 I wish that they may go down to the place where the people are silent and dead.
+\q1
+\v 18 I wish that you may cause people who tell lies to be unable to speak.
+\q2 Do that to people who are proud and to those who arrogantly accuse others.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Do  not let me be humiliated, Yahweh; for I call out to you!
+\q May the wicked be humiliated! May they be silent in sheol.
+\q
+\v 18 May lying lips be silenced
+\q that speak against the righteous defiantly
+\q with arrogance and contempt.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:hades]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:arrogant]]
+  * [[:vi:obe:other:contempt]]
+
+===== Translation Notes: =====
+
+  * **let me be humiliated** - AT: "let others make me feel ashamed," (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **May the wicked be humiliated!** - AT: "I wish that God would disgrace wicked people!"
+  * **May they be silent in sheol. May lying lips be silenced** - This idea is repeated to emphasize the writer's desire that the voices of the wicked are not heard. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **May they be silent in sheol** - AT: "Let them die"
+  * **that speak against the righteous defiantly** - AT: "that say terrible things about righteous people"
+  * **with arrogance and contempt** - These terms have similar meanings. AT: "with a complete lack of respect." 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:031|Psalms Chapter 031 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:031:014|<<]] | [[:vi:bible:notes:psa:031:019|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Psalms 047:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 God sits on his sacred throne
+\q2 as he rules over the people of all ethnic groups.
+\q1
+\v 9 The rulers of those people-groups gather \add as though they were\add* \add God's people\add*, the people \add descended\add* from Abraham.
+\q1 But God has more power than the weapons\f + \ft Or: shields \f* \add of all the kings\add* on the earth;
+\q2 he is greatly honored\f + \ft Or: people honor him \f* everywhere.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 God sits on his sacred throne
+\q2 as he rules over the people of all ethnic groups.
+\q1
+\v 9 The rulers of those people groups gather in front of God's people, the people descended from Abraham.
+\q1 God has more power than the weapons of all the kings on the earth;
+\q2 he is great, and all people everywhere will honor him.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 God reigns over the nations;
+\q God sits on his holy throne.
+\q
+\v 9 The princes of the peoples have gathered together
+\q to the people of the God of Abraham;
+\q for the shields of the earth belong to God;
+\q he is greatly exalted.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:other:reign|reign]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:other:throne|throne]]
+  * [[:vi:obe:other:prince|prince]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:abraham|Abraham, Abram]]
+  * [[vi:obe:other:shield]]
+  * [[:vi:obe:kt:exalt|exalt, exaltation]]
+
+===== Translation Notes: =====
+
+  * **his holy throne** - This throne is present and not invisible.
+  * **The princes of the peoples** - "The princes of all the nations"
+  * **to the people of the God of Abraham** - "with the people belonging to the God of Abraham"
+  * **shields of the earth belong to Yahweh**  - The word "shields" refers to the protection of an army. AT: "armies of the earth are controlled by Yahweh" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:047|Psalms Chapter 047 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:047:006|<<]] | [[:vi:bible:notes:psa:048:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Psalms 068:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 You people who are citizens of kingdoms\f + \ft Or: countries \f* all over the world, sing to God!
+\q1 Sing praises to the Lord!
+\qr (Think about that!)
+\q1
+\v 33 Sing to the God, the one who rides in the sky,
+\q2 the sky that \add he created\add* long ago.
+\q1 Listen as he shouts with a very powerful voice.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 You people who are citizens of kingdoms all over the world, sing to God!
+\q1 Sing praises to Yahweh!
+
+\q1
+\v 33 Sing to the God, the one who rides in the sky,
+\q2 the sky that he created long ago.
+\q1 Listen as he shouts with a very powerful voice.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 32 Sing to God, you kingdoms of the earth;
+\qs Selah\qs*
+\q Sing praises to Yahweh.
+\q
+\v 33 To him who rides on the heaven of heavens, which exist from ancient times;
+\q see, he lifts up his voice with power.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[vi:obe:other:earth]]
+  * [[vi:obe:other:selah]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[vi:obe:kt:power]]
+
+===== Translation Notes: =====
+
+  * **him, he**  - Refers to God.
+  * **who rides **  - (See [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **heaven of heavens,** AT: "the highest of heavens,"
+  * **his voice**  - (See [[:vi:ta:vol2:translate:figs_personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:068|Psalms Chapter 068 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:068:030|<<]] | [[:vi:bible:notes:psa:068:034|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

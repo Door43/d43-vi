@@ -1,0 +1,75 @@
+====== Hosea 02:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 But they do not realize that I, \add Yahweh\add*, am the one who gave them grain and wine and \add olive\add* oil;
+\q2 I am the one who gave them silver and gold
+\q1 which they used to worship Baal.
+\q1
+\v 9 Therefore I will return and take my grain from them when it is ripe.
+\q2 I will take from them the wool and linen that I gave to them \add to make their clothes\add* \f + \ft metonymy \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 The people will say this, because they did not know that it was I, Yahweh, who had given them their grain, new wine, and olive oil. 
+\q2 It was I who had given them much silver and gold so they would become wealthy.
+\q1 But then they made all that gold and silver into objects to use in worshiping the idol Baal.
+\q1
+\v 9 Therefore I will take away from Israel all the grain I gave them.
+\q2 When the wheat is ready for harvest, I will keep them from getting it.
+\q1 The new wine that I gave them, I will take it away.
+\q2 I will take away from them all the wool and linen I gave them to make clothes for themselves, 
+\q1 the clothes that covered their nakedness.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 8 For she had not known that it was I who gave her
+\q the grain, the new wine and the oil,
+\q and who lavished on her silver and gold,
+\q which they then used for Baal.
+\q
+\v 9 So I will take back her grain at harvest time, 
+\q and my new wine in its season.
+\q I will take back my wool and flax
+\q that were used to cover her nakedness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:grain]]
+  * [[:vi:obe:other:wine|wine]]
+  * [[:vi:obe:other:oil|oil]]
+  * [[:vi:obe:other:silver|silver]]
+  * [[:vi:obe:other:gold|gold]]
+  * [[:vi:obe:other:baal|Baal]]
+  * [[:vi:obe:kt:harvest|harvest]]
+
+===== Translation Notes: =====
+
+God is speaking to Hosea.
+
+  * **I will take back my wool and flax that were used to cover her nakedness.** - Israel's harvests would fail.  He would remove his blessings from the nation of Israel and they would again be "naked." (see: [[:vi:ta:vol2:translate:figs_metonymy]] and see how you translated "naked" in [[:vi:bible:notes:hos:02:02|2:3]].)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:02:06|<<]] | [[:vi:bible:notes:hos:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

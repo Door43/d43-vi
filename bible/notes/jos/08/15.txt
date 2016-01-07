@@ -1,0 +1,64 @@
+====== Joshua 08:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Joshua and the Israelite soldiers \add who were with him\add* allowed the army of Ai to push them back. They ran toward the desert.
+\v 16 The men in Ai were ordered to chase after Joshua and his men. So they left the city and started to pursue the Israelites.
+\v 17 All the men of Ai and the men of Bethel pursued the Israelite army. They did not leave even one man in Ai to defend it. The \add gates of\add* the city were left wide open.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Joshua and the Israelite soldiers who were with him allowed the army of Ai to push them back. And the army of Israel ran toward the wilderness.
+\v 16 The men in Ai were ordered to chase after Joshua and his men. So they left the city and pursued Joshua and his army.
+\v 17 All the men of Ai and the men of Bethel pursued the Israelite army. They did not leave even one man in Ai to defend it. And they left the city gates wide open.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 Joshua and all Israel let themselves be defeated before them, and they fled toward the wilderness.
+\v 16 All the people who were in the city were called together to go after them, and they went after Joshua and they were drawn away from the city.
+\v 17 There was not a man left in Ai and Bethel who had not gone out to pursue Israel. They abandoned the city and left it open as they pursued Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:joshua]]
+  * [[:vi:obe:other:israel]]
+  * [[:En:obe:other:desert]]
+  * [[:vi:obe:other:ai]]
+  * [[:vi:obe:other:bethel]]
+
+
+===== Translation Notes: =====
+
+  * **let themselves be defeated before them**  - AT: "acted as if the men of Ai were defeating them" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **All the people who were in the city were called together** - "The city leaders called all the people in the city together" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **All the people who were in the city** - "All the soldiers" (see UDB)
+  * **They abandoned the city** - "They left the city completely without protection" or "After they left, there was no one in the city to protect it"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:08|Joshua Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/08/13|<<]] | [[en/bible/notes/jos/08/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

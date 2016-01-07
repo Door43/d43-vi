@@ -1,0 +1,69 @@
+====== Psalms 088:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 My eyes cannot see well because I cry very much.
+\q2 Yahweh, every day I call out to you \add to help me\add*;
+\q2 I lift up my hands to you \add while I pray\add*.
+\b
+\q1
+\v 10 You certainly do not \f + \ft rhetorical question \f* perform miracles for dead people!
+\q1 Their spirits do not \f + \ft rhetorical question \f* arise to praise you!
+\qr (Think about that!)
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 My eyes cannot see well because I cry very much.
+\q2 Yahweh, every day I call out to you to help me;
+\q2 I lift up my hands to you while I pray.
+\b
+\q1
+\v 10 You certainly do not perform miracles for dead people!
+\q1 Their spirits do not arise to praise you!
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 My eyes grow weary from trouble;
+\q All day long I call out to you, Yahweh;
+\q I spread out my hands to you.
+\q
+\v 10 Will you do wonders for the dead?
+\q Will those who have died rise and praise you? 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:trouble]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:other:selah]]
+
+===== Translation Notes: =====
+
+  * **weary**  - "tired"
+  * **I spread out my hands to you**  - "I lift up my hands to you." This is an action that shows that he totally depends on God. 
+  * **Will you do wonders for the dead?**  -  "You do not do wonders for dead people." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **Will those who have died rise and praise you?** - "You know that those who have died will not stand up and praise you." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:088|Psalms Chapter 088 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:088:008|<<]] | [[:vi:bible:notes:psa:088:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

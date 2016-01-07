@@ -1,0 +1,52 @@
+====== 2 Samuel 03:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9-10 Yahweh solemnly promised that he would not allow Saul and his descendants to continue to rule. He promised that he would cause David to rule over all the tribes of Israel and Judah, from Dan \add city\add* far in the north to Beersheba \add city\add* far in the south. So I hope\f + \ft Or: desire \f* that God will cut my throat if I do not enable that to happen!"
+\v 11 Ishbosheth was very afraid of Abner, so he did not say anything to reply to Abner.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9-10 Yahweh solemnly promised that he would not allow Saul and his descendants to continue to rule. He promised that he would cause David to rule over all the tribes of Israel and Judah, from the city of Dan far in the north to the city of Beersheba far in the south. So I hope that God will kill me if I do not enable that to happen!"
+\v 11 Ishbosheth was very afraid of Abner, so he did not say anything to reply to Abner.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 May God do so to me, Abner, and more also, if I do not do for David as Yahweh has sworn to him, 
+\v 10 to transfer the kingdom from the house of Saul and set up the throne of David over Israel and over Judah, from Dan to Beersheba."
+\v 11 Ishbosheth could not answer Abner another word, because he feared him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:oath|oath, swear]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:other:throne|throne]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:dan|Dan]]
+  * [[:vi:obe:other:beersheba|Beersheba]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+
+===== Translation Notes: =====
+
+  * **throne of David** - This phrase represents the authority of David being king. (See:[[:vi:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:03|2 Samuel Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:03:08|<<]] | [[:vi:bible:notes:2sa:03:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

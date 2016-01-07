@@ -1,0 +1,58 @@
+====== Psalms 090:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Lord, our God, give us your blessings\f + \ft Or: act kindly toward us \f*
+\q2 and enable us to be successful;
+\q2 yes, cause us to be successful in \add everything\add* that we do \f + \ft doublet \f*!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Lord, our God, give us your blessings
+\q2 and enable us to be successful;
+\q2 yes, cause us to be successful in everything that we do!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 May the favor of the Lord our God be ours;
+\q prosper the work of our hands;
+\q indeed, prosper the work of our hands.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:lordyahweh]]
+  * [[:vi:obe:other:hand]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **prosper the work of our hands**  - AT: "cause us to be successful" (See: [[:vi:ta:vol2:translate:figs_doublet]])
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:090|Psalms Chapter 090 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/090/014|<<]] | [[en/bible/notes/psa/091/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

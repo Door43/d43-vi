@@ -1,0 +1,60 @@
+====== Psalms 073:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 So they are proud, and their being proud is like a necklace \add that they show to others\add*,
+\q2 and they show off their violent actions like people show off their beautiful robes.
+\q1
+\v 7 From their inner beings pour out\f + \ft Or: do \f* evil deeds,
+\q2 and in their inner beings they are always thinking about more evil things to do.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 So they are proud, as proud as a woman with a beautiful necklace.
+\q2 They are as proud of their violenct actions as some people are proud of their beautiful robes.
+
+\q1
+\v 7 From their inner beings pour out evil deeds,
+\q2 and in their inner beings they are always thinking about more evil things to do.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Pride adorns them like a necklace around their neck;
+\q violence clothes them like a robe.
+\q
+\v 7 Out of such blindness comes sin;
+\q evil thoughts pass through their hearts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:proud|proud, pride, prideful]]
+  * [[vi:obe:kt:clothed]]
+  * [[:vi:obe:other:robe|robe]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[vi:obe:other:heart]]
+
+===== Translation Notes: =====
+
+Asaph continues to offer his thoughts about "the wicked."
+
+There are no new notes for this section.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:073:004|<<]] | [[:vi:bible:notes:psa:073:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

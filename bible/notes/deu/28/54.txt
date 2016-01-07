@@ -1,0 +1,46 @@
+====== Deuteronomy 28:54-55 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54-55 When your enemies have surrounded your towns, even the most gentle and sensitive men among you will want food very desperately, with the result that they will \add kill their own children and\add* eat their flesh, because they will not have anything else to eat. They will not even share any of it with their brothers or wives whom they love very much or with any of their other children who are still alive.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54-55 When your enemies have surrounded your towns, even the most gentle and sensitive men among you will want food very desperately, with the result that they will kill their own children and eat their flesh, because they will not have anything else to eat. They will not even share any of it with their brothers or wives whom they love very much or with any of their other children who are still alive.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 54 The man who is tender and very delicate among you—he will be envious of his brother and his own dear wife, and of whatever children he has left.
+\v 55 So he will not give to any of them the flesh of his own children that he is going to eat, because he will have nothing left for himself in the siege and in the distress which your enemy will put upon you within all your city gates.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:envy|envy, covet]]
+  * [[:vi:obe:other:siege]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:gate]]
+
+===== Translation Notes: =====
+
+  * **who is tender and very delicate among you** - This means a person who is of noble birth and is normally very gentle.
+  * **he will be envious of his brother **- AT: "he will be hostile toward his brother"
+  * **all your city gates** - AT: "all your cities" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:52|<<]] | [[:vi:bible:notes:deu:28:56|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

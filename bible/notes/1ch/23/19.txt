@@ -1,0 +1,52 @@
+====== 1 Chronicles 23:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Hebron had four sons.
+\li2 Jeriah was his oldest son, and his \add younger\add* brothers were Amariah, Jahaziel, and Jekameam.
+\li1
+\v 20 Uzziel had two sons.
+\li2 Micah was the oldest son, and his \add younger\add* brother was Isshiah.
+
+\m
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Hebron had four sons.
+\li2 Jeriah was his oldest son, and his younger brothers were Amariah, Jahaziel, and Jekameam.
+\li1
+\v 20 Uzziel had two sons.
+\li2 Micah was the oldest son, and his younger brother was Isshiah.
+
+\m
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Hebron's descendants were Jeriah, the oldest, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+\q
+\v 20 Uzziel's sons were Micah the oldest, and Isshiah the second.
+</usfm>
+
+===== Important Terms: =====
+
+  * No Important Terms for this chunk.
+
+===== Translation Notes: =====
+
+  * **Hebron's descendants were Jeriah, the oldest, Amariah the second, Jahaziel the third, and Jekameam the fourth** - AT: "Hebron's descendants were Jeriah the 1st, Amariah the 2nd, Jahaziel the 3rd, and Jekameam the 4th" (See: Ordinal Numbers and [[:vi:ta:vol1:translate:translate_names]])
+  * **Uzziel's sons were Michah the oldest, and Isshiah the second** - AT: "Uzziel's sons were Micah the 1st, and Isshiah the 2nd"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:23|1 Chronicles Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:23:15|<<]] | [[:vi:bible:notes:1ch:23:21|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

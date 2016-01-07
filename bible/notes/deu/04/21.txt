@@ -1,0 +1,57 @@
+====== Deuteronomy 04:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 But Yahweh was angry with me because of \add what\add* your ancestors \add did\f + \ft Or: said \f*\add*. He solemnly declared that I would not cross the Jordan \add River\add* to enter the good\f + \ft Or: fertile \f* land that he is giving to you.
+\v 22 He said that I must die here in this land and never cross the Jordan \add River\add*. But you will go across it, and you will occupy that land.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 But Yahweh was angry with me because of what your ancestors did. And he promised that I would never enter the land that he is giving to you.
+\v 22 He swore that I would die here in this land and never cross the Jordan River. But you will go across it, and you will occupy that land.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 Furthermore, Yahweh was angry with me because of you; he swore that I should not go over the Jordan, and that I should not go into that good land, the land that Yahweh your God is giving to you as an inheritance.
+\v 22 Instead, I must die in this land; I must not go over the Jordan; but you will go over and possess that good land.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:other:oath|oath, swear]]
+  * [[:vi:obe:other:jordanriver|Jordan River]]
+  * [[vi:obe:kt:God]]
+  * [[vi:obe:kt:inherit]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[vi:obe:other:possess]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+    * **Yahweh was angry with me because of you** - This refers to when Moses disobeyed what Yahweh told him to do because Moses was angry with the people of Israel.
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:04|Deuteronomy Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/04/19|<<]] | [[en/bible/notes/deu/04/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

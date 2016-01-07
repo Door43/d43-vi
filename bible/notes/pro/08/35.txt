@@ -1,0 +1,65 @@
+====== Proverbs 08:35-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 Those who find me will have a long life,
+\q2 and Yahweh will be pleased with them.
+\q1
+\v 36 But those who stray away from me just harm themselves.
+\q2 All those who hate me, \add it is as though\add* \f + \ft irony \f* they are loving death."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Those who find me will find life,
+\q2 and Yahweh will be pleased with them.
+\q1
+\v 36 But those who do not find me, they hurt themselves. 
+\q2 All those who hate me love death."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 35 For whoever finds me, finds life,
+\q and he will find the favor of Yahweh.
+\q
+\v 36 But he who fails to find me, harms himself; 
+\q all who hate me, love death."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:favor]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:En:obe:kt:love]]
+  * [[:En:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+  * **finds me ... find me ... hate me** - This is still wisdom talking about herself. (See: [[:vi:ta:vol2:translate:figs_123person]] and [[:vi:ta:vol2:translate:figs_personification]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:08|Proverbs Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/08/32|<<]] | [[en/bible/notes/pro/09/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

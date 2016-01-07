@@ -1,0 +1,76 @@
+====== 1 Chronicles 25:13-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Next, Bukkiah and 12 of his sons and relatives were selected.
+\li
+\v 14 Next, Jesarelah and 12 of his sons and relatives were selected.
+\li
+\v 15 Next, Jeshaiah and 12 of his sons and relatives were selected.
+\li
+\v 16 Next, Mattaniah and 12 of his sons and relatives were selected.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Next, Bukkiah and 12 of his sons and relatives were selected.
+\li
+\v 14 Next, Jesarelah and 12 of his sons and relatives were selected.
+\li
+\v 15 Next, Jeshaiah and 12 of his sons and relatives were selected.
+\li
+\v 16 Next, Mattaniah and 12 of his sons and relatives were selected.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 the sixth fell to Bukkiah, his sons and his relatives, twelve persons in number;
+\q
+\v 14 the seventh fell to Jesharelah, his sons and his relatives, twelve persons in number;
+\q
+\v 15 the eighth fell to Jeshaiah, his sons and his relatives, twelve persons in number;
+\q
+\v 16 the ninth fell to Mattaniah, his sons and his relatives, twelve persons in number;
+</usfm>
+
+
+===== Important Terms: ===== 
+  * No Important Terms for this chunk.
+
+===== Translation Notes: =====
+
+This continues the list begun in [[:vi:bible:notes:1ch:25:09|1 Chronicles 25:9]].
+
+  * **sixth ... ninth** - This shows the order in which the families were chosen.  AT: "number 6...number 7...number 8...number 9" (See: Ordinal Numbers and [[vi:ta:vol2:translate:translate_numbers]])
+  * **Bukkiah** - See how you translated this in [[:vi:bible:notes:1ch:25:04|1 Chronicles 25:4]].
+  * **twelve persons** - "12 people" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **Jesharelah** - This is another spelling for "Asharelah" in [[:vi:bible:notes:1ch:25:01|1 Chronicles 25:2]].
+  * **Jeshaiah** - See how you translated this in [[:vi:bible:notes:1ch:25:01|1 Chronicles 25:3]].
+  * **Mattaniah** - See how you translated this in [[:vi:bible:notes:1ch:25:04|1 Chronicles 25:4]].
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:25|1 Chronicles Chapter 25 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/25/09|<<]] | [[en/bible/notes/1ch/25/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

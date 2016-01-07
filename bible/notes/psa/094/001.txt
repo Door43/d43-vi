@@ -1,0 +1,77 @@
+====== Psalms 094:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, you are able to get revenge \add on your enemies\add*.
+\q2 So show them that you are going to punish them!
+\b
+\q1
+\v 2 You are the one who judges all \add people on\add* the earth;
+\q1 so arise, and give\f + \ft Or: punish \f* the proud \add leaders of our\add* people what\f + \ft Or: like \f* they deserve.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, you are able to get revenge on your enemies.
+\q2 So show them that you are going to punish them!
+\b
+\q1
+\v 2 You are the one who judges all people on the earth;
+\q1 so arise and give them what they deserve.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 94
+\p
+\q
+\v 1 Yahweh, God who avenges,
+\q God who avenges, shine over us.
+\q
+\v 2 Rise up, judge of the earth,
+\q give to the proud what they deserve.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:other:judgeposition]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:other:proud]]
+ 
+
+===== Translation Notes: =====
+
+See: talink Translating Poetry and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+    * **shine over us**  - AT: "show yourself" or "reveal your justice"
+    * **Rise up, judge of the earth, give to the proud what they deserve**  - AT: "Come, judge of the earth, and punish the proud"
+      
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:094|Psalms Chapter 094 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/093/005|<<]] | [[en/bible/notes/psa/094/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

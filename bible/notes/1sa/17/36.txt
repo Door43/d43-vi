@@ -1,0 +1,53 @@
+====== 1 Samuel 17:36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 I have killed both lions and bears. And \add I will do\add* the same to this heathen Philistine, because he has defied\f + \ft Or: ridiculed \f* the army of the all-powerful God!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 I have killed both lions and bears. And I will do the same to this heathen Philistine, because he has defied the army of the all-powerful God!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Your servant has killed both a lion and a bear. This uncircumcised Philistine will be like one of them, since he has
+challenged the armies of the living God."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:servant]]
+  * [[vi:obe:other:lion]]
+  * [[vi:obe:kt:uncircumcised]]
+  * [[vi:obe:other:philistines]]
+  * [[:vi:obe:kt:life]]
+  * [[vi:obe:kt:god]]
+
+===== Translation Notes: =====
+
+    * **This uncircumcised Philistine** - See how you translated this phrase in [[vi:bible:notes:1sa:17:26|17:26]].
+    * **will be like one of them** - David will be able to kill the Philistine just as he was able to kill the lion and bear.
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1sa:17|1 Samuel Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/17/34|<<]] | [[en/bible/notes/1sa/17/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

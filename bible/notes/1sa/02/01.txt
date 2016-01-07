@@ -1,0 +1,69 @@
+====== 1 Samuel 02:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Hannah prayed, saying,
+\q1 "In my inner being I rejoice in what you, Yahweh, \add have done\add*.
+\q2 I am strong \f + \ft metaphor \f* because I belong to you.
+\q1 I laugh at\f + \ft Or: ridicule \f* my enemies,
+\q2 because you, Yahweh has rescued me \add from being taunted by them\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Hannah prayed, saying,
+\q1 "In my inner being I rejoice in what you, Yahweh, have done.
+\q2 I am strong  because I belong to you.
+\q1 I laugh at my enemies
+\q2 because you, Yahweh has rescued me from being mocked by them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 Hannah prayed and said,
+\q "My heart exults in Yahweh;
+\q my horn is exalted in Yahweh;
+\q my mouth speaks boldly over my enemies,
+\q because I rejoice in your salvation.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:hannah]]
+  * [[:vi:obe:other:pray]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:exalt]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:salvation]]
+
+===== Translation Notes: =====
+
+
+    * **My heart exults in Yahweh; my horn is exalted in Yahweh** - She is saying the same thought in two ways.  (See: [[: vi:ta:vol2:translate:figs_parallelism]]) 
+    * **horn** - This is another way of saying strength.  (See: [[:vi:ta:vol1:translate:figs_metaphor]])  
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:01:26|<<]] | [[:vi:bible:notes:1sa:02:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

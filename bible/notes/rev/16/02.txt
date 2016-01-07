@@ -1,0 +1,41 @@
+====== Revelation 16:2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 So the first angel went and poured out on the earth \add the wine\f + \ft Or: liquid \f* that was in\add* \f + \ft metonymy \f* his bowl. \add As a result\add*, horrible and painful sores broke out on his enemies who had allowed the beast's \add agents\add* to mark them and who worshipped the image of the beast.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 So the first angel went and poured out on the earth the wine that was in his bowl. As a result, horrible and painful sores broke out on the people who had allowed the beast's servants to write the beast's name on them, those who had worshiped the beast's image.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 2 The first angel went and poured out his bowl on the earth; ugly and painful sores came on the people who had the mark of the beast, those who worshiped his image.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:angel]]
+  * [[vi:obe:other:beast]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:other:image]]
+
+===== Translation Notes: =====
+
+  * **poured out his bowl** - AT: "poured out the wine in his bowl" or "poured out God's wrath which was in his bowl" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **painful sores** - "painful wounds." These could be infections from diseases or injuries that have not healed.
+  * **mark of the beast** - See how you translated this in [[vi:bible:notes:rev:13:15|13:17]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:16|Revelation Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:16:01|<<]] | [[:vi:bible:notes:rev:16:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

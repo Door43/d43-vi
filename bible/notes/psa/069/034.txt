@@ -1,0 +1,81 @@
+====== Psalms 069:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 I desire that everything will praise God—
+\q2 everything that is in heaven and on earth, and all the creatures that are in the seas.
+\q1
+\v 35 God will rescue the people of Jerusalem \add from their enemies\add*,
+\q2 and he will rebuild the towns that are in Judah.
+\q1 His people will live there and again possess the land.
+\q1
+\v 36 The descendants of his people will inherit it,
+\q2 and those who love him will live there \add safely\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 I desire that everything will praise God—
+\q2 everything that is in heaven and on earth and all the creatures that are in the seas.
+\q1
+\v 35 God will rescue the people of Jerusalem from their enemies,
+\q2 and he will rebuild the towns that are in Judah.
+\q1 His people will live there and again possess the land.
+\q1
+\v 36 The descendants of his people will inherit it,
+\q2 and those who love him will live there safely.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 34 Let heaven and earth praise him,
+\q the seas and everything that moves in them.
+\q
+\v 35 For God will save Zion and will rebuild the cities of Judah;
+\q the people will live there and have it as a possession.
+\q
+\v 36 His servants’ descendants will inherit it;
+\q and those who love his name will live there.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:save]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:other:possess]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:kt:inherit]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:069|Psalms Chapter 069 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/069/032|<<]] | [[en/bible/notes/psa/070/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book2}}
+
+~~NOCACHE~~

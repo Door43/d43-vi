@@ -1,0 +1,75 @@
+====== Psalms 051:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 O God, act mercifully toward me,
+\q2 because you love me faithfully;
+\q2 because you are very merciful,
+\q2 erase \add the record of\add* the ways that I disobeyed you!
+\q1
+\v 2 Make me pure from the wrong things that I have done;
+\q2 make me clean from \add the guilt of\add* my sin.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 O God, act mercifully toward me
+\q2 because you love me faithfully;
+\q2 because you are very merciful,
+\q2 erase the record of the ways that I disobeyed you!
+\q1
+\v 2 Make me pure from the wrong things that I have done;
+\q2 make me clean from the guilt of my sin.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 51
+\d For the chief musician. A psalm of David; when Nathan the prophet came to him after he had gone in to Bathsheba.
+\b
+\q
+\v 1 Have mercy on me, God, because of your covenant faithfulness;
+\q for the sake of the multitude of your merciful actions, blot out my transgressions.
+\q
+\v 2 Wash me thoroughly from my iniquity
+\q and cleanse me from my sin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:nathan|Nathan]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:other:bathsheba|Bathsheba]]
+  * [[:vi:obe:kt:mercy|mercy, merciful]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:transgression|transgress, transgression]]
+  * [[:vi:obe:kt:iniquity|iniquity]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+
+===== Translation Notes: =====
+
+See: Translating Poetry and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **because of your covenant faithfulness; for the sake of the multitude of your merciful actions**  - AT: "because of your covenant love and many merciful actions" (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **blot out my transgressions**  -AT: "cancel my transgressions"
+  * **wash me thoroughly from my iniquity and cleanse me from my sin**  - AT: "wash me completely from my iniquity and cleanse me from my sin" (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:051|Psalms Chapter 051 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:050:023|<<]] | [[:vi:bible:notes:psa:051:003|>>]]**
+
+~~DISCUSSION~~{{tag>review book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,30 @@
+===== Upload Your Work =====
+
+This module answers the question: How do I upload my work?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+
+==== Uploading ====
+
+When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it. See [[vi:ta:vol1:tech:ts_publish]] for more information.
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[vi:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[vi:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[vi:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[vi:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[vi:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_request|Find my Language]]
+  * [[vi:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[vi:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[vi:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[vi:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[vi:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[vi:ta:vol1:tech:ts_problem|Report a Problem]]
+

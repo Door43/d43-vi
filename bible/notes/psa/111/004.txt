@@ -1,0 +1,71 @@
+====== Psalms 111:4-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 He has \add appointed\f + \ft Or: established \f* festivals in which\add* we remember\f + \ft Or: talk about \f* the wonderful things that he has done;
+\q2 Yahweh always acts kindly and mercifully.
+\q1
+\v 5 He provides food for those who have an awesome respect for him;
+\q2 he never forgets the agreement that he made \add with our ancestors\add*.
+\q1
+\v 6 By enabling his people to capture the lands that belonged to other people-groups,
+\q1 he has shown to us, his people, that he is very powerful.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 He has done wonderful things that people will always remember;
+\q2 Yahweh always acts kindly and mercifully.
+\q1
+\v 5 He provides food for those who have an awesome respect for him;
+\q2 he never forgets the covenant that he made with our ancestors.
+\q1
+\v 6 By enabling his people to capture the lands that belonged to other people groups,
+\q1 he has shown to us, his people, that he is very powerful.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 He does wonderful things that will be remembered;
+\q Yahweh is gracious and merciful.
+\q
+\v 5 He gives food to his faithful folllowers.
+\q He will always call to mind his covenant.
+\q
+\v 6 He showed his powerful works to his people
+\q in giving them the inheritance of the nations.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:amazed]]
+  * [[:vi:obe:kt:grace|grace, gracious]]
+  * [[:vi:obe:kt:mercy|mercy, merciful]]
+  * [[:vi:obe:kt:faithful|faithful, faithfulness]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[:vi:obe:other:nation|nation]]
+===== Translation Notes: =====
+
+  * **gracious and merciful** - These two words have basically the same meaning and are used together for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **call to mind**  - AT: "remember" (See: [[vi:ta:vol1:translate:figs_idiom]])
+  * **his powerful works** - AT: "his power" (See: [[vi:ta:vol1:translate:figs_metaphor]]) 
+  * **inheritance of the nations** - This is a reference to the land of other nations. This land would have normally been inherited.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:111|Psalms Chapter 111 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:111:001|<<]] | [[:vi:bible:notes:psa:111:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

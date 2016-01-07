@@ -1,0 +1,49 @@
+====== Deuteronomy 16:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 "\add Each year\add*, after you have threshed all your grain and pressed \add the juice from\add* all your grapes, you must celebrate the festival of \add living in temporary\add* shelters for seven days.
+\v 14 \add Each married couple\add* along with their children, their servants, the descendants of Levi \add who are in that town\add*, and the foreigners, orphans, and widows \add who are living among you\add*, should be joyful in the presence of Yahweh.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 "Each year, after you have threshed all your grain and pressed the juice from all your grapes, you must celebrate the Festival of Shelters for seven days.
+\v 14 Each married couple along with their children, their servants, the descendants of Levi who are in that town, and the foreigners, orphans, and widows who are living among you, should be joyful in the presence of Yahweh.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 You must keep the Festival of Shelters for seven days after you have gathered in the harvest from your threshing floor and from your winepress.
+\v 14 You will rejoice during your festival—you, your son, your daughter, your male servant, your female servant, the Levite, and the foreigner, and the fatherless and the widow who are within your gates.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:festival|festival]]
+  * [[:vi:obe:kt:harvest|harvest]]
+  * [[:vi:obe:other:thresh|thresh, threshing floor]]
+  * [[:vi:obe:other:winepress|winepress]]
+  * [[:vi:obe:other:rejoice|rejoice, exult]]
+
+===== Translation Notes: =====
+
+  * **Festival of Shelters** - Other names for this festival are "Feast of Tabernacles," "Festival of Booths," and "Feast of Ingathering." During harvest, farmers would set up temporary shelters in the field. This festival took place after the last harvest of the year. 
+  * **within your gates** - AT: “within your towns” (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:16|Deuteronomy Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:16:11|<<]] | [[:vi:bible:notes:deu:16:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

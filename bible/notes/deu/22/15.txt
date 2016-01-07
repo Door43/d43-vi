@@ -1,0 +1,44 @@
+====== Deuteronomy 22:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 If that happens, the young woman's parents must take the sheet that was on the bed when that man and their daughter were married, which still has bloodstains on it, and show it to the elders of the city at the gate of\f + \ft Or: central meeting place in \f* the city.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 If that happens, the young woman's parents must take the sheet that was on the bed when the man and their daughter were married, which still has bloodstains on it, and show it to the elders of the city at the gate of the city.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 Then the father and mother of the girl must take proof of her virginity to the elders at the city gate.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:virgin]]
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:kt:gate]]
+
+===== Translation Notes: =====
+
+Moses is still speaking to the people of Israel.
+
+  * **must take proof of her virginity**  - "must take proof that she was a virgin"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:22:13|<<]] | [[:vi:bible:notes:deu:22:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

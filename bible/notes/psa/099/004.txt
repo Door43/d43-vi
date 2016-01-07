@@ -1,0 +1,69 @@
+====== Psalms 099:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 He is a mighty king who loves\f + \ft Or: is pleased with \f* what is just, Or: right;
+\q2 he has acted justly and fairly \f + \ft doublet \f* in Israel.
+\q1
+\v 5 Praise Yahweh our God!
+\q2 Worship him \add in front of the Sacred Chest in his temple\add* \f + \ft metonymy \f*,
+\q2 where he rules people.
+\q2 He is holy!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 He is a mighty king who loves what is just;
+\q2 he has acted justly and fairly in Israel.
+\q1
+\v 5 Praise Yahweh, our God!
+\q2 Worship him in front of the sacred chest in his temple
+\q2 where he rules people.
+\q2 He is holy!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 The king is strong, and he loves justice.
+\q You have established fairness;
+\q you created just rule in Jacob.
+\q
+\v 5 Praise Yahweh our God
+\q and worship at his footstool.
+\q He is holy.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:justice|just, justice, justly]]
+  * [[:vi:obe:other:creation|create, creation, Creator]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:other:footstool|footstool]]
+
+===== Translation Notes: =====
+
+  * **You have established fairness; you created just rule** - This means God is fair. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **at his footstool.** - "before his throne" or "at his feet" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:099|Psalms Chapter 099 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:099:001|<<]] | [[:vi:bible:notes:psa:099:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish discuss book4}}
+
+~~NOCACHE~~

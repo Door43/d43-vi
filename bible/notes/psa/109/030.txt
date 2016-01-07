@@ -1,0 +1,53 @@
+====== Psalms 109:30-31 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 But I will thank Yahweh very greatly;
+\q2 I will praise him when I am among the crowd of people \add who are worshiping him\add*.
+\q1
+\v 31 I will do that because he defends \f + \ft metonymy \f* needy people \add like me\add*,
+\q2 and saves us from those who have decided\f + \ft Or: declared \f* that we must be executed.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 But I will thank Yahweh very much;
+\q2 I will praise him when I am among the crowd of people who are worshiping him.
+\q1
+\v 31 I will do that because he defends poor people like me
+\q2 and because he saves us from those who have said that we must die.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 30 I will gladly speak my fervent thanks to Yahweh;
+\q  I will praise him in the midst of a crowd.
+\q
+\v 31 For he will stand at the right hand of the needy person,
+\q to save him from those who condemn him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:righthand|right hand]]
+  * [[:vi:obe:kt:save|save, safe]]
+
+===== Translation Notes: =====
+
+  * **fervent**  - "devout" or "passionate"
+  * **For he will stand at the right hand of the needy person **- AT: “Because Yahweh is close by to help the poor person.” The poor were (and are) especially vulnerable to oppressors, those who are able to deprive them of their rights. (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:109|Psalms Chapter 109 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:109:028|<<]] | [[:vi:bible:notes:psa:110:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

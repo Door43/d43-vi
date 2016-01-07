@@ -1,0 +1,49 @@
+====== 1 Kings 12:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 All \f + \ft hyperbole \f* the people of \add northern\add* Israel went to Shechem \add city\add* in order to appoint Rehoboam to be their king. So Rehoboam also went there.
+\v 2 When Jeroboam, who was still in Egypt, heard about that, he returned from Egypt \add to Israel\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 All  the people of northern Israel went to the city of Shechem in order to appoint Rehoboam to be their king. So Rehoboam also went there.
+\v 2 When Jeroboam, who was still in Egypt, heard about that, he returned from Egypt to Israel.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 12
+\p
+\v 1 Rehoboam went to Shechem, for all Israel was coming to Shechem to make him king.
+\v 2 It happened that Jeroboam, the son of Nebat heard of this (for he was still in Egypt, to where he had fled from the presence of King Solomon; Jeroboam was living in Egypt).
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:rehoboam]]
+  * [[:vi:obe:other:shechem]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:jeroboam]]
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:other:solomon]]
+  * [[:vi:obe:kt:life]]
+
+===== Translation Notes: =====
+
+  * **all Israel was coming** - AT: "all the men of Israel" (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol2:translate:figs_hyperbole]])
+  * **It happened that** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:12|1 Kings Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:11:41|<<]] | [[:vi:bible:notes:1ki:12:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

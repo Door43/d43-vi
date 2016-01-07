@@ -1,0 +1,83 @@
+====== Hosea 08:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 The Israel people appointed \add their last three\add* kings,
+\q2 but they did not ask me if I agreed to \add what they were doing\add*.
+\q1 They chose their own leaders
+\q2 without asking if I would approve of them.
+\q1 They used their own silver and gold to make for themselves idols
+\q2 and doing that led them to be destroyed.
+\q1
+\v 5 You people of Samaria, throw away your \add idol that resembles a\add* calf!
+\q2 I am extremely angry with you people!
+\q1 How long \f + \ft rhetorical question \f* will you \add do things that cause\add* you to be unacceptable to me?
+\q2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Israel has appointed kings for themselves,
+\q2 but they did not consult with me about it.
+\q1 They chose their own kings 
+\q2 without asking me to approve them.
+\q1 They took their silver and gold and formed them into the idols they worshiped, 
+\q2 but the people will perish as a result."
+\v 5 The prophet says, "Yes, Yahweh has rejected your idol, you people of Samaria—an idol made in the form of a calf!"
+\q1 Yahweh says, "Perhaps these people will never again be able to do things that please me. I am very angry with them!
+
+
+\q2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 They have set up kings,
+\q but not by me.
+\q They have made princes,
+\q but without my knowledge.
+\q With their silver and gold
+\q they have made idols for themselves,
+\q but it was only so they might be cut off."
+\q
+\v 5 The prophet says, "He has thrown away your calf, Samaria."
+\q Yahweh says, "My anger burns against these people.
+\q For how long will they stay impure?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:prince|prince]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:vi:obe:kt:cutoff|cut off]]
+  * [[:vi:obe:other:reject|reject, push away]]
+  * [[:vi:obe:other:samaria|Samaria, Samaritan]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **but it was only so they might be cut off** - This was the result, not the purpose. AT: "but as a result of making idols, the people will be cut off"
+  * **they might be cut off** - Possible meanings are 1) "they will perish" or 2) "they will be sent away." This can be expressed with an active verb: I will cut them off" or "I will send them away"
+  * **He has rejected your calf** -  It appears that the Hosea is saying this. This can be made clear as it is in the UDB. Or it can be translated as if God is still speaking. AT: "I have rejected your calf" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **your calf** - It can be made clear that this was an idol. AT "your idol that you made to look like a calf" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **My anger burns against them** - AT: "I am very angry with them"
+  * **For how long will they stay impure?**  - Yahweh uses this question to express his anger about his people being impure. (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:08|Hosea Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:08:01|<<]] | [[:vi:bible:notes:hos:08:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

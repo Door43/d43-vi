@@ -1,0 +1,77 @@
+====== 1 Chronicles 24:15-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Next, Hezir was selected.
+\li1 Next, Happizzez was selected.
+\li1
+\v 16 Next, Pethahiah was selected.
+\li1 Next, Jehezkel was selected.
+\li1
+\v 17 Next, Jakin was selected.
+\li1 Next, Gamul was selected.
+\li1
+\v 18 Next, Delaiah was selected.
+\li1 Next, Maaziah was selected.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Next, Hezir was selected.
+\li1 Next, Happizzez was selected.
+\li1
+\v 16 Next, Pethahiah was selected.
+\li1 Next, Jehezkel was selected.
+\li1
+\v 17 Next, Jakin was selected.
+\li1 Next, Gamul was selected.
+\li1
+\v 18 Next, Delaiah was selected.
+\li1 Next, Maaziah was selected.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 the seventeenth to Hezir, the eighteenth to Happizzez,
+\v 16 the nineteenth to Pethahiah, the twentieth to Jehezkel,
+\v 17 the twenty-first to Jachin, the twenty-second to Gamul,
+\v 18 the twenty-third to Delaiah, and the twenty-fourth to Maaziah.
+</usfm>
+
+
+===== Important Terms: =====
+  * No Important Terms for this chunk.
+
+===== Translation Notes: =====
+
+This is the completion of the listing of the names in order of the men chosen by lot which began in [[:vi:bible:notes:1ch:24:07|1 Chronicles 24:7]].
+
+  * **seventeenth ... twenty-fourth** - This shows the order in which the leaders were chosen by the casting of lots. AT: “number 17…number 18…number 19…number 20…number 21…number 22…number 23…number 24” (See: Ordinal Numbers and [[:vi:ta:vol2:translate:translate_numbers]])
+  * **Hezir ... Maaziah** - These are names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:24|1 Chronicles Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/24/11|<<]] | [[en/bible/notes/1ch/24/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

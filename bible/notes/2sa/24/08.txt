@@ -1,0 +1,49 @@
+====== 2 Samuel 24:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 After nine months and twenty days, when they had finished going throughout the land \add and counting the people\add*, they returned to Jerusalem.
+\p
+\v 9 They reported to the king the number of people that they had counted. There were 800,000 men in Israel and 500,000 men in Judah who were able to become soldiers in the army \f + \ft metonymy \f*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 After nine months and twenty days, when they had finished going throughout the land and counting the people, they returned to Jerusalem.
+\p
+\v 9 They reported to the king the number of people that they had counted. There were 800,000 men in Israel and 500,000 men in Judah who were able to become soldiers in the army.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 When they had gone throughout all the land, they came back to Jerusalem at the end of nine months and twenty days.
+\v 9 Then Joab reported the total of the count of the fighting men to the king. There were in Israel eight hundred thousand brave men who drew the sword, and the men of Judah were five hundred thousand men.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[:vi:obe:other:report]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **they came back to Jerusalem at the end of nine months and twenty days. **- The author's note about the timeframe to take the census of the children of Israel. This only included the men.
+  * **Then Joab reported the total of the count of the fighting men to the king. **- Joab told the total number of men ready for battle to the King.
+  * **There were in Israel eight hundred thousand brave men who drew the sword, and the men of Judah were five hundred thousand men. **- The author's note about the split tribes and the census being divided to show how large the armies of Israel and Judah were. Over one million three hundred thousand men who were ready for battle.​
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:24|2 Samuel Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:24:05|<<]] | [[:vi:bible:notes:2sa:24:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

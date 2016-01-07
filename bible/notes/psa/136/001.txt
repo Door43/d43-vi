@@ -1,0 +1,79 @@
+====== Psalms 136:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Thank Yahweh, because he does good things for us;
+\q2 his faithful love for us endures forever.
+\q1
+\v 2 Thank God, the one who is greater than all other gods;
+\q2 his faithful love for us endures forever.
+\q1
+\v 3 Thank the Lord who is greater than all other lords\f + \ft Or: rulers \f*;
+\q2 his faithful love for us endures forever.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Thank Yahweh because he does good things for us;
+\q2 he will love us forever as he has promised.
+\q1
+\v 2 Thank God, the one who is greater than all other gods;
+\q2 he will love us forever as he has promised.
+\q1
+\v 3 Thank the Lord who is greater than all other lords;
+\q2 he will love us forever as he has promised.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 136
+\p
+\q
+\v 1 Oh, give thanks to Yahweh; for he is good,
+\q for his covenant faithfulness endures forever.
+\q
+\v 2 Oh, give thanks to the God of gods,
+\q for his covenant faithfulness endures forever.
+\q
+\v 3 Oh, give thanks to the Lord of lords,
+\q for his covenant faithfulness endures forever.
+</usfm>
+
+===== Important Terms: =====
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:good]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:endure]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:kt:God]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:kt:lordgod]]
+  * [[:vi:obe:kt:lordgod|lord, master, sir]]
+
+===== Translation Notes: =====
+
+  * **Oh **- see how you translated this in [[:vi:bible:notes:psa:005:007|5:7]]
+  * **the God of gods** - the God who is greater than the gods that other people worship (See: [[vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:135:019|<<]] | [[:vi:bible:notes:psa:136:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+
+
+~~NOCACHE~~

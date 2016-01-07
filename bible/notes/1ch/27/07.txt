@@ -1,0 +1,66 @@
+====== 1 Chronicles 27:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Asahel, Joab's \add younger\add* brother, was \add the commander of the group that served\add* during the following\f + \ft Or: fourth \f* month. Asahel's son Zebadiah became the commander after Asahel \add was killed\add*.
+\li1
+\v 8 The commander for the following\f + \ft Or: fifth \f* month was Shamhuth, a descendant of Izrah.
+\li1
+\v 9 The commander for the following\f + \ft Or: sixth \f* month was Ira the son of Ikkesh from Tekoa \add town\add*.
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Asahel, Joab's younger brother, was the commander of the group that served during the following month. Asahel's son Zebadiah became the commander after Asahel was killed.
+\li1
+\v 8 The commander for the following month was Shamhuth, a descendant of Izrah.
+\li1
+\v 9 The commander for the following month was Ira son of Ikkesh from the city of Tekoa.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 The commander for the fourth month was Asahel brother of Joab. Zebadiah his son became commander after him. In his division were 24,000 men.
+\v 8 The commander for the fifth month was Shamhuth, a descendant of Izrah. In his division were 24,000 men.
+\v 9 The commander for the sixth month was Ira son of Ikkesh, from Tekoa. In his division were 24,000 men.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:joab]]
+
+===== Translation Notes: =====
+
+  * **The commander for the fourth month was Asahel brother of Joab** - AT: "Asahel, brother of Joab, was the commander for the fourth month"
+  * **fourth ... fifth ... sixth month** - "month number 4 ... 5 ... 6" or "4th ... 5th ... 6th month" (See: Ordinal Numbers)
+  * **Ashael ... Ikkesh **- These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **his division**  - "his military group"
+  * **24,000 men** - "twenty four thousand men" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **Tekoa** - This is the name of a place. 
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:27|1 Chronicles Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/27/04|<<]] | [[en/bible/notes/1ch/27/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

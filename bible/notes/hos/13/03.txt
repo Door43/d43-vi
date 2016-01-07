@@ -1,0 +1,58 @@
+====== Hosea 13:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Therefore, those people will \add disappear quickly\add* like \f + \ft simile \f* the morning mist or the dew that lies \add on the ground\add* early \add in the morning\add*;
+\q2 \add they will disappear\add* like \f + \ft simile \f* chaff that is blown away from where \add the wheat\add* is threshed,
+\q2 like \f + \ft simile \f* smoke that goes out of a window.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So the people of Israel will disappear
+\q2 as quickly as the clouds that form in the morning,
+\q1 as quickly as the dew, when the sun dries it up.
+\q2 They will disappear as easily as the chaff that the wind blows away from the threshing place.
+\q2 They will disappear as easily as the smoke that goes out of the chimney.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 So they will be like the morning clouds,
+\q like the dew that goes away early,
+\q like the chaff that is driven by the wind away from a threshing floor,
+\q and like smoke out of a chimney.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:chaff]]
+  * [[:En:obe:other:thresh]]
+ 
+
+===== Translation Notes: =====
+
+  * **So they will be like the morning clouds…like the dew…like the chaff…like smoke out of a chimney** - These four phrases basically mean that Israel is temporary and disappearing and are meant to emphasize that the nation of Israel (Ephraim) will soon disappear if they continue to worship idols instead of following Yahweh. (See: [[:vi:ta:vol2:translate:figs_personification]] and [[:vi:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:13|Hosea Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:13:01|<<]] | [[:vi:bible:notes:hos:13:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

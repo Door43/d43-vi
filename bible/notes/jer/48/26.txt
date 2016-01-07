@@ -1,0 +1,69 @@
+====== Jeremiah 48:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 You people of Moab have rebelled against me, Yahweh;
+\q2 so now \add I will cause\add* you all to stagger like \f + \ft simile \f* drunken people.
+\q1 You people of Moab will wallow in your own vomit
+\q2 and be ridiculed.
+\q1
+\v 27 You people of Moab ridiculed the people of Israel \f + \ft rhetorical question \f*.
+\q1 Although they were thieves, they were never caught \f + \ft rhetorical question \f*.
+\q2 You shook your head at them scornfully and despised them \f + \ft rhetorical question \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 You people of Moab thought you were powerful enough to rebel against me, Yahweh;
+\q2 so now I will cause you all to stagger like  drunken people.
+\q1 You people of Moab will wallow in your own vomit
+\q2 and be ridiculed.
+\q1
+\v 27 You people of Moab ridiculed the people of Israel.
+\q1 Although they were thieves, they were never caught .
+\q2 You shook your head at them scornfully and despised them .
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 "Make him drunk, for he acted proudly against me, Yahweh. Now Moab claps his hands in disgust at his own vomit, so he also has become an object for laughter.
+\v 27 For did Israel not become an object for laughter to you? Was he found among thieves, that you shook your head at him as often as you spoke about him?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:drunk|drunk]]
+  * [[:vi:obe:other:proud|proud, pride, prideful]]
+  * Yahweh
+  * Moab
+  * Israel
+  * thief, thieves
+  * head
+
+===== Translation Notes: =====
+
+  * **Make him drunk -**  The judgments which God sends upon Moab shall allow the country to be scorned by his enemies; just as a drunken man is the object of men’s laughter and mocking. (See: Metaphor)
+  * **Now Moab claps his hands in disgust at his own vomit, so he also has become an object for laughter**. - God continues to compare Moab to a drunken man. (See: Metaphor)
+  * **For did Israel not become an object for laughter to you? - **.**3)**  Yahweh used this question to rebuke Moab for mocking Israel. (See: Rhetorical Question)
+  * **Was he found among thieves, that you shook your head at him as often as you spoke about him?**  Yahweh continues to rebuke Moab for mocking Israel. Israel had been guilty before God, but Israel was guiltless towards Moab. (See: Rhetorical Question)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:48|Jeremiah Chapter 48 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:48:21|<<]] | [[:vi:bible:notes:jer:48:28|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

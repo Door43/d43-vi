@@ -1,0 +1,92 @@
+====== Jeremiah 04:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh says, "You Israelite people, come back to me!
+\q2 If you get rid of those detestable idols
+\q2 and do not turn away from me again,
+\q1
+\v 2 and if you declare, 'Just as surely as Yahweh lives, what he says is true,'
+\q2 and if you start to always say what is true and act justly\f + \ft Or: fairly \f* and righteously,
+\q1 then the people in the other nations of the world will request that I bless them as I have blessed you,
+\q2 and they will all will come and honor\f + \ft Or: praise \f* me."
+\b
+\p
+\v 3 This is what Yahweh says to the people of Jerusalem and the other cities in Judah:
+\q1 "\add Cause your inner beings to be ready to receive my messages\add*
+\q2 like farmers plow up hard ground \add in order that they can plant seed in it\add*.
+\q1 Just as farmers do not \add waste good seed by\add* sowing seeds among thorny plants,
+\q2 \add I do not want to waste my time telling you messages that you are not ready to receive\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh says: You Israelite people, if you come back to anyone, it should be to me.
+\q If you get rid of those detestable idols, if you do not go away from me again,
+\q
+\v 2 and if you declare, 'Just as surely as Yahweh lives, what he says is true and just, and he teaches righteous living,'
+\q then the people in the other nations of the world will ask me to bless them as I have blessed you, and they will all come and honor me.
+\q
+\v 3 This is what Yahweh says to the people of Jerusalem and the other cities in Judah:
+\q "Cause your inner beings to be ready to receive my messages like farmers plow up hard ground in order that they can plant seed in it.
+\q Just as farmers do not waste good seed by sowing seeds among thorny plants, I do not want to waste my time telling you messages that you are not ready to receive.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\q
+\v 1 If you return, Israel—this is Yahweh’s declaration, then it should be to me that you return.
+\q If you remove your detestable things from before me and do not wander from me again,
+\q
+\v 2 and if you swear, ‘Yahweh lives in truth, justice, and righteousness,'
+\q the nations will ask for my blessing, and they will praise me.
+\q
+\v 3 For Yahweh says this to each person in Judah and Jerusalem: ‘Plow your own ground,
+\q and do not sow among thorns.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:turn]]
+  * [[:vi:obe:other:kingdomofisrael]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[vi:obe:other:declare]]
+  * [[:vi:obe:other:oath]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:other:sow]]
+===== Translation Notes: =====
+
+  * **If you return, Israel**  - AT: “If you will come back to me, people of Israel or “If you will change your behavior, people of Israel” (See: Metonymy and Idiom) 
+  * **then return to me** - Possible meanings are that 1) this is a command: “then return to me” or 2) this is a repetition of the first phrase: “if you will return to me.” AT: “then come back to me” or “then start worshiping me again”  (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]] and [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **Yahweh’s declaration**  - See how you translated this in [[:vi:bible:notes:jer:01:07|1:8]].
+  * **If you remove your detestable things from before me**  - This phrase refers to idols as things that deserve strong hatred. AT: "Remove your disgusting idols from my presence" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **do not wander from me again**  - AT: "remain faithful to me"
+  * **Plow your own ground, and do not sow among thorns**  - Yahweh tells the people to prepare their lives like a farmer prepares the ground for planting. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:04|Jeremiah Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:03:23|<<]] | [[:vi:bible:notes:jer:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,40 @@
+====== Ecclesiastes 07:29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 But I did learn one thing:
+\q2 when God created people, they were righteous,
+\q2 but they have found many ways to do many evil things.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 I also learned this: that when God created people, they were righteous, but they have found many ways to complicate their own lives.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 I have discovered on this: that God created humanity upright, but they have gone away looking for many difficulties.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:creation]]
+  * [[vi:obe:kt:upright]]
+
+===== Translation Notes: =====
+
+  * **they have gone away looking for many difficulties** - Possible meanings are 1) "they have made many sinful plans" or 2) "they have made their own lives difficult."
+  * **they have gone away** - Here the word "they" refers to "humanity." (See: [[vi:ta:vol2:translate:figs_singularpronouns]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:ecc:07|Ecclesiastes Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:ecc:07:27|<<]] | [[:vi:bible:notes:ecc:08:01|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

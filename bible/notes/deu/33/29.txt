@@ -1,0 +1,75 @@
+====== Deuteronomy 33:29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 You people of Israel, Yahweh has blessed\f + \ft Or: is pleased with \f* you.
+\q2 There is certainly \f + \ft rhetorical question \f* no nation like your nation,
+\q2 whom Yahweh has rescued \add from being slaves in Egypt\add*.
+\q1 \add He will be like\add* \f + \ft metaphor \f* a shield to protect you
+\q2 and like \f + \ft metaphor \f* a sword to enable you to defeat \add your enemies\add*.
+\q1 Your enemies will come to you begging for you \add to act mercifully toward them\add*,
+\q2 but you will trample on their backs\f + \ft Or: necks \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 You people of Israel, how fortunate are you.
+\q There is certainly no nation like your nation,
+\q whom Yahweh has rescued from being slaves in Egypt.
+\q He will be like a shield to protect you
+\q and like a sword to enable you to defeat your enemies.
+\q Your enemies will come to you begging for you to act mercifully toward them,
+\q but you will trample on their backs."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 Blessed are you, Israel!
+\q Who is like you, a people saved by Yahweh,
+\q the shield of your help,
+\q and the sword of your majesty?
+\q Your enemies will come trembling to you;
+\q you will stamp down their high places.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:save]]
+  * [[:vi:obe:other:shield]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:kt:majesty]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:highplaces]]
+ 
+===== Translation Notes: =====
+
+
+    * **Who is like you, a people saved by Yahweh** - Moses uses a question to emphasize that there is no other people besides the Israelites that Yahweh has saved. (See:[[:vi:ta:vol1:translate:figs_rquestion]])
+    * **a people saved by Yahweh** - AT: "a people whom Yahweh has saved" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **the shield of your help, and the sword of your majesty** - This means Yahweh uses his power to fight for the Israelites and to protect them. (See:[[:vi:ta:vol1:translate:figs_metaphor]])
+    * **you will stamp down their high places** - Possible meanings are 1) the Israelites will walk in victory over the backs of their enemies, or 2) the Israelites will destroy the places where the other people worship false gods.
+  
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/28|<<]] | [[en/bible/notes/deu/34/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

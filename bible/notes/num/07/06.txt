@@ -1,0 +1,51 @@
+====== Numbers 07:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 So Moses\f + \ft Or: I \f* took the carts and oxen and gave them to the descendants of Levi.
+\v 7 He\f + \ft Or: I \f* gave two carts and four oxen to the descendants of Gershon for their work,
+\v 8 and he\f + \ft Or: I \f* gave four carts and eight oxen to the descendants of Merari for their work. Aaron's son Ithamar was the supervisor of all their work.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 So Moses took the carts and oxen and gave them to the descendants of Levi.
+\v 7 He gave two carts and four oxen to the descendants of Gershon for their work,
+\v 8 and he gave four carts and eight oxen to the descendants of Merari for their work. Aaron's son Ithamar was the supervisor of all their work.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 Moses took the carts and the oxen, and he gave them to the Levites.
+\v 7  He gave two carts and four oxen to the descendants of Gershon, because of what their work needed.
+\v 8 He gave four carts and eight oxen to the descendants of Merari, in the care of Ithamar son of Aaron the priest. He did this because what their work needed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:aaron]]
+  * [[:vi:obe:kt:priest]]
+
+===== Translation Notes: =====
+
+  * **two carts and four oxen**  - AT: "2 carts and 4 oxen" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **because of what their work needed**  - AT: "because this is what they needed to do their work"
+  * **four carts and eight oxen**  - AT: "4 carts and 8 oxen" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **in the care of Ithamar son of Aaron the priest**  - This means that Ithamar showed the descendants of Merari what to do as they worked.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:07|Numbers Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:num:07:04|<<]] | [[:vi:bible:notes:num:07:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Lamentations 01:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Yahweh, see that we are suffering very much.
+\q2 \add It is as though\add* our inner beings are tormented.
+\q1 We are sad in our inner beings \f + \ft synecdoche \f*
+\q2 because we have rebelled against you.
+\q1 Our enemies kill people in the streets with their swords;
+\q2 people are dying in our houses \add because they have no food to eat\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Yahweh, see that we are suffering very much.
+\q2 It is as though our inner organs are on fire.
+\q1 We are sad in our inner beings 
+\q2 because we have rebelled against you.
+\q1 Our enemies kill people in the streets with their swords;
+\q2 at home it is like sheol, the world of the dead.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 Look, Yahweh, for I am in distress; my innermost parts churn about.
+\q My heart is turned within me for I have grievously rebelled.
+\q In the streets the sword takes our children; at home it is like the world of the dead.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:rebel]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:kt:children]]
+  * [[:vi:obe:kt:death]] 
+===== Translation Notes: =====
+
+  * **for I am in distress** - Jerusalem continues to talk about herself as if she were a woman, but now talks directly to Yahweh. (See: [[:vi:ta:vol2:translate:figs_123person]] and [[:vi:ta:vol2:translate:figs_personification]])
+  * **my innermost parts churn about**  - The word "churn" means to move around violently, normally in a circular rotation. This does not mean literally, but it is how it feels. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **My heart is turned within me**  - AT: "My heart is broken" or "I am extremely sad" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]] and [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **I have grievously rebelled** - "I have rebelled greatly"
+  * **the sword takes our children** - The sword stands for the enemy, and "takes" means "kills". AT: "the enemy kills our children" (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol1:translate:figs_idiom]])
+  * **at home it is like the world of the dead ** - Possible meanings are 1) at home everyone is dying or 2) at home is like a grave.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:01|Lamentations Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:01:18|<<]] | [[:vi:bible:notes:lam:01:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

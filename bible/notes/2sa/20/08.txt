@@ -1,0 +1,56 @@
+====== 2 Samuel 20:8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 When they arrived at the huge rock in the Gibeah \add region\add*, Amasa met them. Joab was wearing a soldier's uniform. He had a dagger\f + \ft Or: long \f* knife fastened to his belt. When he came close \add to Amasa, he allowed\add* the dagger to fall on the ground.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 When they arrived at the huge rock in the region of Gibeah, Amasa met them. Joab was wearing armor for battle and had a sword fastened to his belt. When he came close to Amasa, he allowed the sword to fall on the ground.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 When they were at the great stone which is at Gibeon, Amasa came to meet them. Joab was wearing the battle armor that he had put on, which included a belt around his waist with a sheathed sword fastened to it. As he walked forward, the sword fell out.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:stone]]
+  * [[:vi:obe:other:gibeon]]
+  * [[vi:obe:other:joab]]
+  * [[:vi:obe:other:armor]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **Amasa**  - name of a person (See: [[vi:ta:vol1:translate:translate_names]])
+  * **belt**  - a strip of leather or other material used to hold clothing or weapons of war in place 
+  * **sheathed sword**  - a sword that has its blade covered by a close-fitting case
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:20|2 Samuel Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/20/06|<<]] | [[en/bible/notes/2sa/20/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Judges 03:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Meanwhile, Ehud escaped. He passed by the stone carvings and arrived at Seirah, in the hilly area where the descendants of Ephraim lived.
+\v 27 There he blew a trumpet \add to signal that the people should join him to fight the people of Moab\add*. So the Israelites went with him from the hills. They went down toward \add the Jordan river\add*, with Ehud leading them.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Meanwhile, Ehud escaped. He passed by the stone quarries and arrived at Seirah, in the hill  country where the descendants of Ephraim lived.
+\v 27 There he blew a trumpet to tell everyone that the people should join him to fight the people of Moab. So the Israelites went with him from the hills. They went down toward the Jordan River, with Ehud leading them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 While the servants were waiting, wondering what they should do, Ehud escaped and passed beyond the place where there were carved images of idols, and so he escaped to Seirah.
+\v 27 When he arrived, he blew a trumpet in the hill country of Ephraim. Then the people of Israel went down with him from the hills, and he was leading them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:image]]
+  * [[vi:obe:other:idol]]
+  * [[:vi:obe:other:trumpet]]
+  * [[:En:obe:other:ephraim]]
+  * [[:vi:obe:other:israel]]
+ 
+===== Translation Notes: =====
+
+
+    * **Seirah** - The name of a city.  (See: [[vi:ta:vol1:translate:translate_names]])
+    * **When he arrived** - AT: "When he arrived in Seirah" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+    
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jdg:03|Judges Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/03/24|<<]] | [[en/bible/notes/jdg/03/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

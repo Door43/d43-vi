@@ -1,0 +1,46 @@
+====== Daniel 02:24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 Then I went to Arioch, the man whom the king had appointed to execute the wise men in Babylon. I said to him, "Do not kill those wise men. Take me to the king, and I will tell him what his dream means."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 Then Daniel went to Arioch, the man whom the king had appointed to execute everyone known to be wise in Babylon. He said to him, "Do not kill those men of wisdom. Take me to the king and I will tell him what his dream means."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 24 With all this Daniel went in to see Arioch, the one the king appointed to kill everyone who was wise in Babylon. He went and said to him, "Do not kill the wise men in Babylon. Escort me before the king and I will tell the dream's meaning to the king."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:daniel]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:dream]]
+
+===== Translation Notes: =====
+
+  * **Arioch** - See how you translated this name in [[vi:bible:notes:dan:02:14|2:14]].
+  * **everyone who was wise** - "the wise men"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:02|Daniel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:02:23|<<]] | [[:vi:bible:notes:dan:02:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

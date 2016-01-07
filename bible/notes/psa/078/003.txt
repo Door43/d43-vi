@@ -1,0 +1,64 @@
+====== Psalms 078:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 things that we have heard and known previously,
+\q2 things that our parents and grandparents told us.
+\q1
+\v 4 We will tell these things to our children \f + \ft litotes \f*,
+\q1 but we will also tell to our grandchildren
+\q2 about Yahweh's power and the glorious\f + \ft Or: great \f* things that he has done.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 These are things that we have heard and known previously,
+\q2 things that our parents and grandparents told us.
+\q1
+\v 4 We will tell these things to our children,
+\q1 but we will also tell our grandchildren
+\q2 about Yahweh's power and the glorious things that he has done.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 These are things that we have heard and learned,
+\q things that our ancestors have told us.
+\q
+\v 4 We will not keep them from their descendants.
+\q We will tell the next generation about the praiseworthy deeds of Yahweh,
+\q his strength, and the wonders that he has done.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:generation]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[vi:obe:other:strength]]
+  * [[vi:obe:kt:miracle]]
+
+===== Translation Notes: =====
+
+Verse 3 continues the sentence begun in verse 2.
+
+    * **We will not keep them from their descendants** - AT: We will tell our descendants about them"
+  * **the praiseworthy deeds of Yahweh**  - AT: "the deeds of Yahweh that are worthy of praise" or "the things we praise Yahweh for"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:001|<<]] | [[:vi:bible:notes:psa:078:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

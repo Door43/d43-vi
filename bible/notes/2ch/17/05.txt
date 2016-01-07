@@ -1,0 +1,62 @@
+====== 2 Chronicles 17:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Yahweh enabled him to completely control his kingdom. All \f + \ft hyperbole \f* \add the people of\add* Judah brought gifts to him, with the result that he became very rich and was greatly honored.
+\v 6 He \f + \ft synecdoche \f* was completely devoted to doing what pleased Yahweh. His workers got rid of the shrines on the hilltops and the poles for \add worshiping the goddess\add* Asherah throughout Judah.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Yahweh enabled him to completely control his kingdom. All the people of Judah brought gifts to him, with the result that he became very rich and was greatly honored.
+\v 6 He  was completely devoted to doing what pleased Yahweh. His workers got rid of the shrines and the poles for worshiping the goddess Asherah throughout Judah.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 So Yahweh established the rule in his hand; all Judah brought tribute to Jehoshaphat. He had riches and
+honor in abundance.
+\v 6 His heart was fixed on Yahweh’s ways. He also took away the shrines and the Asherah poles from
+Judah.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ruler]]
+  * [[:vi:obe:other:hand]]
+  * [[:En:obe:other:tribute]]
+  * [[:En:obe:other:honor]]
+  * [[:vi:obe:other:heart]]
+  * [[:En:obe:other:shrine]]
+  * [[:vi:obe:other:asherim]] 
+
+===== Translation Notes: =====
+
+  * **Asherah poles** - See how you translated this in [[:vi:bible:notes:2ch:14:01|14:3]]
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ch:17|2 Chronicles Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ch/17/03|<<]] | [[en/bible/notes/2ch/17/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

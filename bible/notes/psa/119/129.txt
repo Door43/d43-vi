@@ -1,0 +1,66 @@
+====== Psalms 119:129-130 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 129 Your requirements are\f + \ft Or: All the things that you have instructed us to do are \f* wonderful,
+\q2 so I obey them with all my inner being.
+\q1
+\v 130 When someone explains your words\f + \ft Or: what you have said \f*,
+\q2 \add it is as though\add* they are lighting a light;
+\q2 what they say causes even people who have not learned your laws to be wise.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 129 Your requirements are wonderful,
+\q2 so I obey them with all my inner being.
+\q1
+\v 130 When someone explains your words,
+\q2 it is as though they are lighting a light;
+\q2 what they say causes even people who have not learned your laws to be wise.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\d PE.
+\q
+\v 129 Your covenant decrees are wonderful;
+\q therefore I observe them.
+\q
+\v 130 The unfolding of your words gives light;
+\q it gives understanding to the untrained.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:kt:light]]
+ 
+
+===== Translation Notes: =====
+
+  * **PE** - This is the seventeenth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 129-136 begins with this letter.
+  * **covenant decree** - See how you translated this in [[:vi:bible:notes:psa:019:007|19:8]]
+  * **The unfolding of your words gives light** - AT: "The explanation of your words gives understanding" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:127|<<]] | [[:vi:bible:notes:psa:119:131|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

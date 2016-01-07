@@ -1,0 +1,42 @@
+====== Ezekiel 14:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 So now this is what I, Yahweh the Lord, say: I will cause four things to happen to the people of Jerusalem to punish them very severely. Some people and animals will be killed by swords, some will die from famines, others will be attacked and killed by wild animals, and others will die in plagues.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 So now this is what I, Yahweh the Lord, say: I will cause four things to happen to the people of Jerusalem to punish them very severely. Some people and animals will be killed by swords, some will die from famines, others will be attacked and killed by wild animals, and others will die in plagues.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 For the Lord Yahweh says this: "I will certainly make things worse by sending my four punishments—famine, sword, wild animals, and plague—against Jerusalem to cut off both man and beast from her.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:lordyahweh]]
+  * [[vi:obe:other:send]]
+  * [[:vi:obe:other:punish]]
+  * [[vi:obe:other:famine]]
+  * [[vi:obe:other:sword]]
+  * [[vi:obe:other:plague]]
+  * [[vi:obe:other:jerusalem]]
+  * [[vi:obe:kt:cutoff]]
+===== Translation Notes: =====
+
+  * **from her - ** The word "her" refers to Jerusalem.
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:14|Ezekiel Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:14:19|<<]] | [[:vi:bible:notes:ezk:14:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

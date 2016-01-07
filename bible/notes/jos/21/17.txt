@@ -1,0 +1,61 @@
+====== Joshua 21:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 The Kohath clan was also allotted these four cities: Gibeon, Geba,
+\v 18 Anathoth, and Almon. Those cities were in the area that had been allotted to the tribe of Benjamin.
+\m
+\v 19 Altogether those thirteen towns and surrounding pastureland were allotted to the priests who were descended from Aaron.
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 The Israelite leaders also gave the descendants of Aaron some cities in the area that the tribe of Benjamin possessed:  Gibeon, Geba,
+\v 18 Anathoth, and Almon—four cities with all their pasturelands.
+\m
+\v 19 Altogether there were thirteen cities with their surrounding pastureland that the Israelite leaders assigned to the priests, the descendants of Aaron.
+\m
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 From the tribe of Benjamin were given Gibeon with its pasturelands, Geba with its pasturelands,
+\v 18 Anathoth with its pasturelands, and Almon with its suburbs—four cities.
+\v 19 The cities given to the priests, the descendants of Aaron, were thirteen cities in all, including their pasturelands.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:benjamin]]
+  * [[vi:obe:other:gibeon]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:other:descendant]]
+ 
+
+===== Translation Notes: =====
+
+    * **Geba, Anathoth, and Almon**  - Names of cities in a list. Translate "Anathoth" the same way as in Joshua 21:18, 1 Kings 2:26, 1 Chronicles 6:60, 7:8, Ezra 2:23, Nehemiah 7:27, 10:19, 11:32, Isaiah 10:30, Jeremiah 1:1, 11:21, 23, 29:27, 32:7-9 (See: [[vi:ta:vol1:translate:translate_names]])
+    * **thirteen cities**  - Refers to the entire list of cities beginning in verse 13. (See: [[vi:ta:vol2:translate:translate_numbers]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:21|Joshua Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/21/13|<<]] | [[en/bible/notes/jos/21/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

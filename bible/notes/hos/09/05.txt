@@ -1,0 +1,77 @@
+====== Hosea 09:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 At that time you will not \f + \ft rhetorical question \f* be able to celebrate my feasts and sacred festivals.
+\q1
+\v 6 And even if you escape and are not killed \add by the Assyrians\add*,
+\q2 you will be captured by \add the army of\add* Egypt
+\q2 and you will \add die and\add* be buried in Memphis, \add the capital of Egypt\add*.
+\q1 Briers will \add grow up and\add* cover your treasures of silver,
+\q2 and thorns will grow in your ruined tents\f + \ft Or: houses \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 There, in a country far from your home, you will not be able to celebrate the festivals that Yahweh commanded you to celebrate.
+\q1
+\v 6 Look! If you escape and the  Assyrians do not kill you,
+\q2 the army of Egypt will capture you.
+\q2 You will die there, and the people in the city of Memphis will bury you.
+\q1 All your wealth in silver will become like the wilderness,
+\q2 and your houses, also.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 What will you do on the day of an appointed festival,
+\q on the day of a festival for Yahweh?
+\q
+\v 6 For, look, if they escape from destruction,
+\q Egypt will gather them,
+\q and Memphis will bury them.
+\q Their treasures of silver—
+\q sharp briers will overtake them,
+\q and thorns will fill their tents.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:appoint|appoint]]
+  * [[:vi:obe:other:festival|festival]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:En:obe:other:memphis]]
+  * [[:vi:obe:other:bury|bury, buried]]
+  * [[:vi:obe:other:silver|silver]]
+  * [[:En:obe:other:overtake]]
+  * [[:vi:obe:other:tent|tent]]
+
+===== Translation Notes: =====
+
+Hosea, the prophet, is speaking.
+
+  * **What will you do on the day of an appointed festival, on the day of a festival for Yahweh?** - Hosea uses this question to state that when the feast day of Yahweh comes, the people will not be able to observe it as they would normally have done if they had been in their own land. (UDB) (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **For, look, if they escape from destruction, Egypt will gather them, and Memphis will bury them. **- "Look! If you escape and the Assyrians do not kill you, the army of Egypt will capture you. You will die there, and the people in the city of Memphis will bury you." (UDB) (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **Memphis**  - Memphis was the capital of Egypt at this time in history.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:09|Hosea Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:09:03|<<]] | [[:vi:bible:notes:hos:09:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

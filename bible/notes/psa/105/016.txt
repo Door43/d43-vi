@@ -1,0 +1,69 @@
+====== Psalms 105:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 He sent a famine to Canaan, and as a result all the people had no food to eat.
+\q1
+\v 17 So his people went to Egypt, but first he sent someone there.
+\q2 He sent Joseph, who had been sold to be a slave.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 He sent a famine to Canaan, and as a result all the people had no food to eat.
+\q1
+\v 17 So his people went to Egypt, but first he sent someone there.
+\q2 He sent Joseph, who had been sold to be a slave.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 He called for a famine on the land;
+\q he cut off the whole supply of bread.
+\q
+\v 17 He sent a man ahead of them;
+\q Joseph was sold as a servant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:call]]
+  * [[:vi:obe:other:famine]]
+  * [[:vi:obe:kt:cutoff]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:josephot]]
+  * [[vi:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+    * **He sent a man ahead of them** - AT: "He sent a man ahead of them to Egypt" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+    * **Joseph was sold as a servant** - AT: "Joseph's brothers sold him as a slave" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:105|Psalms Chapter 105 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/105/014|<<]] | [[en/bible/notes/psa/105/018|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

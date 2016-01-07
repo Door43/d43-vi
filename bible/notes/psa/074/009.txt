@@ -1,0 +1,88 @@
+====== Psalms 074:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 All our sacred symbols \f + \ft Or: miracles \f* are gone;
+\q2 there are no prophets now\f + \ft Or: anymore \f*,
+\q2 and no one knows how long \add this situation will continue\add*.
+\b
+\q1
+\v 10 God, how long will our enemies make fun of you \f + \ft rhetorical question \f*?
+\q1 Will they insult you \f + \ft metonymy \f* forever \f + \ft rhetorical question \f*?
+\q1
+\v 11 Why do you refuse to help \f + \ft metonymy, rhetorical question \f* us?
+\q2 Why do you keep your hand inside your cloak \add instead of using it to destroy our enemies\add* \f + \ft rhetorical question \f*?
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 All our sacred symbols are gone;
+\q2 there are no prophets now,
+\q2 and no one knows how long this situation will continue.
+\b
+\q1
+\v 10 God, how long will our enemies make fun of you?
+\q1 Will they insult you?
+\q1
+\v 11 Why do you refuse to help us?
+\q2 Why do you keep your hand inside your cloak instead of using it to destroy our enemies?
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 We do not see any more miraculous signs from God;
+\q there is no prophet any more,
+\q and no one among us knows how long this will last.
+\q
+\v 10 How long, God, will the enemy throw insults at you?
+\q Will the enemy blaspheme your name forever?
+\q
+\v 11 Why do you hold back your hand, your right hand?
+\q Take your right hand from your garment and destroy them.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:sign]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:blasphemy]]
+  * [[:vi:obe:kt:name]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:hand]]
+ 
+
+===== Translation Notes: =====
+
+Asaph is addressing God about the destruction he sees.
+
+  * **How long, God, will the enemy . . .?** - (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **Will the enemy blaspheme your name forever?** - AT: "Will the enemy never stop speaking evil against you?" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]] and [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **Why do you hold back your hand, your right hand** - AT: "Why do you withhold your power" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **hand … your right hand** - Here the phrase "hand" represents God's power. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **take your right hand from your garment** - AT: "Stop hiding your power and take action." (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:074|Psalms Chapter 074 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:074:007|<<]] | [[:vi:bible:notes:psa:074:012|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

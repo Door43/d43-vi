@@ -1,0 +1,68 @@
+====== Psalms 018:22-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 My behavior was directed by his rules;
+\q2 I have not stopped obeying them.
+\q1
+\v 23 He knows that I have not done what is wrong;
+\q2 I have kept myself from sinning.
+\q1
+\v 24 So he rewards me because I do what is right;
+\q2 he knows that I \f + \ft synecdoche \f* have not committed sins.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 I have followed his decrees; I have not stopped obeying them.
+\q1
+\v 23 He knows that I have not done what is wrong and that I have kept myself from sinning.
+\q1
+\v 24 So he rewards me because I do what is right; he knows that I have not committed sins.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 For all his righteous decrees have been before me; as for his statutes, I have not turned away from them.
+\q
+\v 23 I have also been innocent before him, and I have kept myself from sin.
+\q
+\v 24 Therefore Yahweh has restored me because of my righteousness, because my hands were clean before his eyes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:other:statute|statute]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:innocent]]
+  * [[:vi:obe:kt:sin]]
+  * [[vi:obe:kt:restore]]
+  * [[:vi:obe:other:hand]]
+===== Translation Notes: =====
+
+  * **have been before me** - AT: "have been my guide" or "I have remembered"
+  * **innocent before him** - "innocent according to him"
+  * **I have kept myself from sin** - AT: "I have not sinned"
+  * **my hands were clean** - See how you translated this in [[vi:bible:notes:psa:018:020|18:20]].
+  * **before his eyes** - AT: "before him" or "according to him" (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:020|<<]] | [[:vi:bible:notes:psa:018:025|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

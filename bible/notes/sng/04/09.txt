@@ -1,0 +1,50 @@
+====== Song of Solomon 04:9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add You who are dearer to me than\add* my sister, my bride \f + \ft doublet \f*, you have captured my affection [IDI]
+\q2 by only once quickly looking at me,
+\q2 by one \add strand of\add* jewels in your necklace.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 You who are most dear to me, when I see you,
+\q2 you force me to love  you;
+\q2 one strand of jewels in your necklace is enough to do that.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 You have stolen my heart, my sister, my bride;
+\q you have stolen my heart
+\q with one jewel of your necklace.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[vi:obe:other:bride]]
+
+===== Translation Notes: =====
+
+   * **have stolen my heart** - He is saying his affection and love now belong to her. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+   * **my sister** - By calling her "sister," he is showing her purity.
+   * **with one jewel of your necklace** - He is implying that she has many good qualities. He is saying only one quality of hers would have been enough to attract him to her. 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:04|Song of Solomon Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:04:08|<<]] | [[:vi:bible:notes:sng:04:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

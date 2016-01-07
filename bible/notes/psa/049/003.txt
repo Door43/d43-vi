@@ -1,0 +1,74 @@
+====== Psalms 049:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 because what I am thinking is very sensible,
+\q2 and what I say will enable you to become wise.
+\q1
+\v 4 I think about \f + \ft metonymy \f* proverbs\f + \ft Or: wise sayings \f*,
+\q2 and while I play my harp, I explain what they mean.
+\b
+\q1
+\v 5 I am not \f + \ft rhetorical question \f* afraid when I am in trouble\f + \ft Or: danger \f*,
+\q2 when I am surrounded by my enemies,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 For what I am thinking is very sensible,
+\q2 and what I say will enable you to become wise.
+\q1
+\v 4 I think about wise words to tell you,
+\q2 and while I play my harp, I explain what they mean.
+\b
+\q1
+\v 5 I do not worry when I am in trouble,
+\q2 when I am surrounded by my enemies.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 My mouth will speak wisdom
+\q and the meditation of my heart will be of understanding.
+\q
+\v 4 I will incline my ear to a parable;
+\q I will begin my parable with the harp.
+\q
+\v 5 Why should I fear the days of evil,
+\q when iniquity surrounds me at my heels?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:other:meditate|meditate]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[vi:obe:other:understand]]
+  * [[:vi:obe:other:parable|parable]]
+  * [[:vi:obe:other:harp|harp]]
+  * [[:vi:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[vi:obe:kt:evil]]
+  * [[:vi:obe:kt:iniquity|iniquity]]
+===== Translation Notes: =====
+
+  * **My mouth will speak wisdom** - The author is referred to by the part of the body that is used to speak. AT: "I will speak wise words" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **and the meditation of my heart will be of understanding.** - "and in my deepest thoughts I will have understanding"
+  * **I will incline my ear to a parable** - The author describes a move of his ear to refer to his effort to hear. AT: "I will listen to a parable" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Why should I fear ...?** - This question is used to emphasize that the author has no reason to be afraid when bad things are done to him. AT: "I have no reason to fear ..." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **iniquity surrounds me at my heels? **  - Here "iniquity" is described as surrounding the author like a group of dangerous wild animals. AT: "the iniquity of my enemies surrounds me" or "my enemies surround me and act wickedly towards me" (See: [[:vi:ta:vol2:translate:figs_personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:049:001|<<]] | [[:vi:bible:notes:psa:049:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Psalms 136:18-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 He killed kings who were famous;
+\q2 his faithful love for us endures forever.
+\q1
+\v 19 He killed Sihon, the king of the Amor people-group;
+\q2 his faithful love for us endures forever.
+\q1
+\v 20 He killed Og, the king of Bashan \add region\add*;
+\q2 his faithful love for us endures forever.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 He killed kings who were famous;
+\q2 he will love us forever as he has promised.
+\q1
+\v 19 He killed Sihon, the king of the Amor people group;
+\q2 he will love us forever as he has promised.
+\q1
+\v 20 He killed Og, the king of the region of Bashan;
+\q2 he will love us forever as he has promised.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 and killed famous kings,
+\q for his covenant faithfulness endures forever—
+\q
+\v 19 Sihon king of the Amorites,
+\q for his covenant faithfulness endures forever—
+\q
+\v 20 and Og king of Bashan,
+\q for his covenant faithfulness endures forever—
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:amorite|Amorite]]
+  * [[:vi:obe:other:bashan|Bashan]]
+
+===== Translation Notes: =====
+
+  * **Sihon...Og** - see how you translated this in [[:vi:bible:notes:psa:135:010|135:11]]
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:136:016|<<]] | [[:vi:bible:notes:psa:136:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

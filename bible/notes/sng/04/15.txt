@@ -1,0 +1,72 @@
+====== Song of Solomon 04:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 \add You are like\add* \f + \ft metaphor \f* a fountain in a garden,
+\q2 like \f + \ft metaphor \f* a spring of clear water
+\q2 that flows down from the mountains of Lebanon.
+
+\b
+\q1
+\v 16 \add I want\add* the north wind and the south wind to come,
+\q2 and blow on my garden,
+\q1 in order that the fragrance \add of the spices\add* will spread through the air.
+\q1 Similarly, I want the one who loves me to come and enjoy \add cuddling up to me\add*
+\q2 like \f + \ft metaphor, euphemism \f* someone comes into a garden and enjoys eating the fruit \add that grows there\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 You are like a fountain in a garden,
+\q2 like  a spring of clear water
+\q2 that flows down from the mountains of Lebanon.
+\b
+\q1
+\v 16 [The young woman speaking to her lover] I want the north wind and the south wind to come,
+\q2 and blow on my garden,
+\q1 in order that the fragrance of the spices will spread through the air.
+\q1 Similarly, I want the one who loves me to come and enjoy being close to me
+\q2 like someone comes into a garden and enjoys eating the fruit that grows there.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 You are a garden spring,
+\q a well of fresh water,
+\q streams flowing down from Lebanon.
+\b
+\q
+\v 16 [The young woman speaking to her lover] Awake, north wind; come, south wind;
+\q blow on my garden so that its spices may give off their fragrance.
+\q May my beloved come into his garden
+\q and eat some of its choice fruit.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:well]]
+  * [[vi:obe:other:lebanon]]
+  * [[vi:obe:kt:beloved]]
+
+===== Translation Notes: =====
+
+  * **You are a garden spring, a well of fresh water,
+streams flowing down** -These ideas are repeated to show how refreshing Solomon thinks his wife is. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **You are a garden spring** - Solomon is admiring his wife. He doesn't think she is a real spring. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * ** Awake, north wind; come, south wind; blow** - He talks to the wind as though it were a person. (See: [[:vi:ta:vol2:translate:figs_personification]]) 
+  * **blow on my garden so that its spices may give off their fragrance** - She is treating her body as though it is a garden. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **May my beloved come into his garden and eat some of its choice fruit** - She is letting Solomon know her body is his, and she is ready for him. 
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:04|Song of Solomon Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:04:12|<<]] | [[:vi:bible:notes:sng:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

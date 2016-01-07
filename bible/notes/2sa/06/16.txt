@@ -1,0 +1,58 @@
+====== 2 Samuel 06:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 While they were carrying the sacred chest into the city, \add his wife\add* Michal, who was Saul's daughter, looked out the window of her \add house\add*. She saw King David leaping and dancing to honor Yahweh. But she was disgusted with him.
+\p
+\v 17 They brought the sacred chest into the tent that David had erected for it. Then David gave to Yahweh offerings to be completely burned \add on an altar\add*, and other offerings to restore fellowship with Yahweh.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 While they were carrying the sacred chest into the city, his wife Michal, Saul's daughter, looked out the window of her house. She saw King David leaping and dancing to honor Yahweh. But she was disgusted with him.
+\p
+\v 17 They brought the sacred chest into the tent that David had erected for it. Then David gave to Yahweh offerings to be completely burned on an altar, and other offerings to promise friendship with Yahweh.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 Now as the ark of Yahweh came into the City of David, Michal, daughter of Saul, looked out the
+window. She saw King David leaping and dancing before Yahweh. Then she despised him in her heart.
+\v 17 They brought in the ark of Yahweh and put it in its place, in the middle of the tent that David had set up for it.
+Then David offered burnt offerings and fellowship offerings before Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:arkofthecovenant|ark of the covenant, ark of the covenant decrees]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[vi:obe:other:cityofdavid]]
+  * [[:vi:obe:other:saul|Saul (OT)]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:tent|tent]]
+  * [[:vi:obe:other:burntoffering|burnt offering, offering by fire]]
+  * [[:vi:obe:other:fellowshipoffering|fellowship offering, peace offering]]
+
+===== Translation Notes: =====
+
+  * **Michal**  - This is the female name of David's wife (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **despised him in her heart**  - Michal did not share David's joy over the arrival of the ark of the covenant in Jerusalem. AT: "didn't agree with him" or "she disliked his joy." (See: [[:vi:ta:vol1:translate:figs_idiom]]) 
+  * **her heart** - The word "heart" here represents Michal. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:06|2 Samuel Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:06:14|<<]] | [[:vi:bible:notes:2sa:06:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

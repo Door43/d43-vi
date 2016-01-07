@@ -1,0 +1,71 @@
+====== Psalms 092:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 But righteous people will prosper like [SIL] palm trees that grow well,
+\q2 or like \f + \ft simile \f* cedar trees that grow in Lebanon.
+\q1
+\v 13 \add They are like the trees\add* that grow near the temple of Yahweh \add in Jerusalem\add*,
+\q2 the trees that are close to the courtyard of the temple of our God.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 But righteous people will prosper like palm trees that grow well,
+\q2 like the cedar trees that grow in Lebanon.
+\q1
+\v 13 They are like the trees that people plant at the temple of Yahweh in Jerusalem,
+\q2 the trees that are close to the courtyard of the temple of our God.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 The righteous will flourish like the palm tree;
+\q they will grow like a cedar in Lebanon.
+\q
+\v 13 They are planted in the house of Yahweh;
+\q they flourish in the courts of our God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:palm]]
+  * [[:vi:obe:other:cedar]]
+  * [[:vi:obe:other:lebanon]]
+  * [[:vi:obe:kt:houseofgod]]
+  * [[:vi:obe:other:courtyard]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **The righteous will flourish like the palm tree; they will grow like a cedar in Lebanon.**  - AT: "People who are righteous will grow well like a palm tree; they will develop like a cedar tree in Lebanon."(See: [[:vi:ta:vol1:translate:figs_simile]])
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:092|Psalms Chapter 092 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/092/010|<<]] | [[en/bible/notes/psa/092/014|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

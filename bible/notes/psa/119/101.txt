@@ -1,0 +1,58 @@
+====== Psalms 119:101-102 ======
+
+===== TFT: =====
+
+<usfm>
+\v 101 I have avoided all evil behavior
+\q2 in order that I may obey your words\f + \ft Or: what you have told us to do \f*.
+\q1
+\v 102 I have not turned away from\f + \ft Or: quit \f* \add obeying\add* your regulations\f + \ft Or: the rules that you have given to us \f*,
+\q2 because you have taught me \add while I have studied them\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 101 I have avoided all evil behavior
+\q2 so that I may obey your words.
+\q1
+\v 102 I have not refused to obey them
+\q2 because you have taught me while I have studied them.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 101 I have kept my feet back from every evil path
+\q so that I might observe your word.
+\q
+\v 102 I have not turned aside from your righteous decrees,
+\q for you have instructed me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+  * [[:vi:obe:kt:turn|turn, turn away]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+
+  * **kept my feet back from every evil path**- AT: "not done evil" or "have not followed evil ways" (See: [[:vi:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **turned aside **- See how you translated this in [[:vi:bible:notes:psa:014:002|14:3]]
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:099|<<]] | [[:vi:bible:notes:psa:119:103|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

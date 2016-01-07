@@ -1,0 +1,43 @@
+====== Psalms 080:19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Yahweh, commander of the armies of heaven, restore us;
+\q2 act kindly toward us in order that we may be rescued \add from our enemies\add*!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Yahweh, Commander of the angel armies, restore us;
+\q2 act kindly toward us and rescue us from our enemies!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Restore us, Yahweh, God of hosts;
+\q shine on us, and we will be be saved.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:restore|restore, restoration]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:yahwehofhosts|Yahweh of hosts, God of hosts]]
+  * [[:vi:obe:kt:save|save]]
+
+===== Translation Notes: =====
+
+  * **shine on us** - This means to give approval and favor. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:080|Psalms Chapter 080 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:080:017|<<]] | [[:vi:bible:notes:psa:081:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

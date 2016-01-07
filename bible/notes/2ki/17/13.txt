@@ -1,0 +1,62 @@
+====== 2 Kings 17:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Yahweh frequently sent his prophets and seers\f + \ft Or: those who saw visions from Yahweh \f* to warn the people of Israel and the people of Judah. The message that Yahweh gave them was, "Turn away from all your evil behavior. Obey my commands and my laws, the laws that I told your ancestors \add to obey\add* and which I told the prophets who served me to tell to you again."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh frequently sent his prophets and seers to warn the people of Israel and the people of Judah. The message that Yahweh gave them was, "Turn away from all your evil behavior. Obey my commands and my laws, the laws that I told your ancestors to obey and that I told the prophets who served me to tell to you again."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Yet Yahweh had testified to Israel and to Judah by every prophet and every seer, saying, "Turn from your evil ways and keep my commandments and my statutes, and be careful to keep all the law I commanded your fathers, and that I sent to you by my servants the prophets."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:testimony]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:statute]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+  * **turn from your evil ways** - AT: "stop doing the evil things you have been doing"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:17|2 Kings Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/17/11|<<]] | [[en/bible/notes/2ki/17/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

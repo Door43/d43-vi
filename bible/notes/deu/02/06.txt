@@ -1,0 +1,65 @@
+====== Deuteronomy 02:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add When you travel near their land\add*, buy food and water from them.'
+\p
+\v 7 Do not forget that Yahweh our God has blessed you in everything that you \f + \ft synecdoche \f* have done. He knows \add what has happened to you while\add* you have wandered in this huge desert. But he has been with you during those forty years, and as a result you have had everything that you needed \f + \ft litotes \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 When you travel near their land, buy food and water from them.'
+\p
+\v 7 Do not forget that Yahweh our God has blessed you in everything that you have done. He knows what has happened to you while you have wandered in this huge desert. But he has been with you during those forty years, and as a result you have had everything that you needed 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 You will purchase food from them for money, so that you may eat; you will also buy water from them for money, so that you may drink.
+\v 7 For Yahweh your God has blessed you in all the work of your hand; he has known your walking through this great wilderness. For these forty years Yahweh your God has been with you, and you have lacked nothing.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[vi:obe:other:desert]]
+
+===== Translation Notes: =====
+Moses continues to instruct Israel in how they are to treat the descendants of Esau.
+
+  * **from them for money** - from Esau's descendants
+  * **you in all the work of your hand** - AT: "all of your work" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **forty years** - "40 years" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **you have lacked nothing** - Yahweh uses a negative statement to emphasize that the people of Israel had all they needed during their time in the wilderness. (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:02|Deuteronomy Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/02/04|<<]] | [[en/bible/notes/deu/02/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

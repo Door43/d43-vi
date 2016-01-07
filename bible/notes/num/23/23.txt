@@ -1,0 +1,51 @@
+====== Numbers 23:23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 When people curse \f + \ft personification \f* the descendants of Jacob, they will not be harmed;
+\q2 when people work sorcery on them, it will have no power.
+\q1 So now people will say about the descendants of Jacob,
+\q2 'God has done wonderful things for the Israelites!'
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 When people curse the descendants of Jacob, they will not be harmed,
+\q2 when people work sorcery on them, it will have no power.
+\q1 So now people will say about the descendants of Jacob,
+\q2 'God has done wonderful things for the Israelites!'
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 There is no sorcery that works against Jacob,
+\q2 And no fortune telling harms Israel.
+\q Instead, it must be said about Jacob and Israel,
+\q2 'Look what God has done!'
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sorcery|sorcery, sorcerer, witchcraft]]
+  * [[:vi:obe:other:Jacob]]
+  * [[:vi:obe:other:wrong|wrong, mistreat, hurt]]
+
+===== Translation Notes: =====
+
+  * **Jacob...Israel** - These both refer to the people of Israel. (See: [[:vi:ta:vol2:translate:figs_doublet]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **it must be said** - AT: "people must say" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:23|Numbers Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:num:23:21|<<]] | [[:vi:bible:notes:num:23:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

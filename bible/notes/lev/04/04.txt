@@ -1,0 +1,45 @@
+====== Leviticus 04:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 He must bring the bull to the entrance to the Sacred Tent. He must lay his hands on its head. Then he must slaughter it in front of Yahweh \add and catch some of the blood in a bowl\add*.
+\v 5 Then the priest must take some of that blood into the Sacred Tent.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 He must bring the bull to the entrance to the sacred tent. He must lay his hands on its head. Then he must slaughter it in front of Yahweh and catch some of the blood in a bowl.
+\v 5 Then the priest must take some of that blood into the sacred tent.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 He must bring the bull to the entrance of the tent of meeting before Yahweh, lay his hand on its head, and kill the bull  before Yahweh.
+\v 5 The anointed priest will take some of the blood of the bull and bring it to the tent of meeting.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:cow|cow, calf, bull]]
+  * [[:vi:obe:other:tentofmeeting|tent of meeting]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:anoint|anoint, anointed]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:kt:blood|blood]]
+
+
+===== Translation Notes: =====
+Yahweh continues to tell Moses what the people must do.
+  * **He must bring the bull** - "The high priest must bring the bull"
+  * **lay his hand on its head** - See how you translated this in v. 3: 2. This is a sign of dedicating the animal to God.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:04|Leviticus Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:04:01|<<]] | [[:vi:bible:notes:lev:04:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

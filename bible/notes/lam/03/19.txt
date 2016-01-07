@@ -1,0 +1,69 @@
+====== Lamentations 03:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 When I think about my suffering and my wandering \add away from home\add*,
+\q2 it is like \add drinking\add* a very bitter \f + \ft doublet \f* liquid.
+\q1
+\v 20 I will never forget this time
+\q2 when I feel very depressed\f + \ft Or: discouraged \f* [IDI].
+\q1
+\v 21 However, I confidently expect \add Yahweh to do good things for me again\add*
+\q2 when I think about this:
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 When I think about how I suffer and how I wander far from home,
+\q2 it is like drinking a very bitter liquid.
+\q1
+\v 20 I will never forget this time
+\q2 when I feel very depressed.
+\q1
+\v 21 However, I confidently expect Yahweh to do good things for me again,
+\q2 and I think about this:
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Call to mind my affliction and my straying into wormwood and bitterness!
+\q
+\v 20 I certainly call it to mind, and I bow down within myself.
+\q
+\v 21 But I call this to mind in my heart; therefore I have hope.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:mind]]
+  * [[:vi:obe:kt:afflict]]
+  * [[vi:obe:kt:astray]]
+  * [[:vi:obe:kt:bow]]
+  * [[:vi:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **call to mind my affliction** - AT: "remember my affliction" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **wormwood and bitterness** - The two words share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **I bow down within myself** - The expression refers to depression and despair. AT: "my soul melts within me" or "I am in despair" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:03:16|<<]] | [[:vi:bible:notes:lam:03:22|>>]]**
+
+~~DISCUSSION~~{{tag>text review}}
+
+~~NOCACHE~~

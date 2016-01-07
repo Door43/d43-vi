@@ -1,0 +1,66 @@
+====== Psalms 079:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 The people-groups that live in countries that surround our land insult us;
+\q2 they laugh at us and deride\f + \ft Or: belittle \f* us.
+\b
+\q1
+\v 5 Yahweh, how long \add will this continue\add*?
+\q2 Will you be angry with us forever?
+\q1 Will your being angry be like a fire burning \add within you\add*?
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 The people groups that live in countries that surround our land insult us;
+\q2 they laugh at us and mock us.
+\b
+\q1
+\v 5 Yahweh, how long will this continue?
+\q2 Will you be angry with us forever?
+\q1 Will your anger be like a fire burning within you?
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 We have become a reproach for our neighbors to make,
+\q mocking and derision to those who are around us.
+\q
+\v 5 How long, Yahweh? Will you stay angry forever?
+\q How long will your jealous anger burn like fire?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reproach|reproach]]
+  * [[:vi:obe:other:neighbor|neighbor]]
+  * [[:vi:obe:other:mock|mock, ridicule]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:kt:jealous|jealous, jealousy]]
+  * [[:vi:obe:other:fire|fire]]
+
+===== Translation Notes: =====
+
+  * **We have become a reproach for our neighbors to make, mocking and derision to those who are around us ** - These two phrases share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **We have become** - The pronoun "We" refers to God's people.
+  * **burn like fire** - This simile compares the expression of God's anger to a fire. (See: [[:vi:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:079|Psalms Chapter 079 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:079:001|<<]] | [[:vi:bible:notes:psa:079:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

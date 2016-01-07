@@ -1,0 +1,54 @@
+====== Joshua 10:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 As they fled in front of the Israelite army, Yahweh threw down huge hailstones from the sky. As a result, more of them died from hailstones falling on them than died as a result of the Israelite army killing them with swords.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 As they fled in front of the Israelite army, Yahweh threw down on them huge stones from the sky. More of them died from hailstones than died by the swords of the army of Israel.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 As they ran away from Israel, down the hill from Bethhoron, then Yahweh threw large stones down from heaven upon them all the way to Azekah, and they died. There were more who died because of the hailstones than who were killed with the sword by the men of Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel]]
+  * [[:En:obe:kt:yahweh]]
+  * [[vi:obe:other:stone]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:sword]]
+ 
+
+===== Translation Notes: =====
+
+  * **threw large stones down from the sky**  - AT: "large hailstones Yahweh threw from the sky."
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:10|Joshua Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/10/09|<<]] | [[en/bible/notes/jos/10/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

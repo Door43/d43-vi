@@ -1,0 +1,73 @@
+====== Psalms 078:23-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 But God spoke to the sky above them
+\q2 and commanded it to open like a door,
+\q1
+\v 24 and then \add food\add* fell down like rain,
+\q3 \add food which they named\add* 'manna';
+\q2 God gave them grain from heaven\f + \ft Or: the sky \f*.
+\q1
+\v 25 So the people ate the food that angels eat,
+\q2 and God gave to them all the manna that they wanted.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 But God spoke to the sky above them
+\q2 and commanded it to open like a door,
+\q1
+\v 24 and then food fell down like rain,
+\q3 food that they named "manna."
+\q2 God gave them grain from heaven.
+\q1
+\v 25 So the people ate the food that angels eat,
+\q2 and God gave to them all the manna that they wanted.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Yet he commanded the skies above
+\q and opened the doors of the sky.
+\q
+\v 24 He rained down manna for them to eat,
+\q and gave them the grain from heaven.
+\q
+\v 25 People ate the bread of angels.
+\q He sent them food in abundance.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:vi:obe:other:manna|manna]]
+  * [[:vi:obe:other:grain|grain]]
+  * [[:vi:obe:other:bread]]
+  * [[:vi:obe:kt:angel|angel]]
+  * [[:vi:obe:other:send|send, send out]]
+
+===== Translation Notes: =====
+
+  * **skies** - Possible meanings are 1) "sky" (see UDB) or 2) "clouds."
+  * **opened the doors of the sky**  - See: Metaphor
+  * **He rained down manna for them to eat, and gave them the grain from heaven** - These two lines speak of the same event.
+  * **He rained down manna** - "He caused manna to fall from the sky like rain"
+  * **the bread of angels**  - This speaks of the manna. AT: "the same kind of food that angels eat."
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:021|<<]] | [[:vi:bible:notes:psa:078:026|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

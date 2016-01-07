@@ -1,0 +1,93 @@
+====== Lamentations 02:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Yahweh was determined
+\q2 to cause the walls of our city \f + \ft metonymy \f* to be torn down.
+\q1 \add It was as though\add* he measured the walls
+\q2 and then he completely destroyed \f + \ft metonymy \f* them.
+\q1 \add It was as though\add* he caused the towers and walls to lament\f + \ft Or: weep \f*
+\q2 \add because they were now ruins\add*.
+\b
+\q1
+\v 9 The city gates have collapsed;
+\q2 the bars that fastened the gates shut have been smashed.
+\q1 The king and his officials have been forced to go to other countries.
+\q2 No longer does anyone teach the people the laws \add that God gave to Moses\add*.
+\q1 The prophets do not receive any visions
+\q2 because Yahweh does not give them any.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Yahweh was determined
+\q2 that our enemies whould tear down our city wall.
+\q1 It was as though he had first measured the walls
+\q2 and then completely destroyed them.
+\q1 It was as though he caused the towers and walls to lament
+\q2 because they were now ruins.
+\b
+\q1
+\v 9 The city gates have collapsed;
+\q2 the enemy has destroyed the bars that fastened the gates shut.
+\q1 The king and his officials have been forced to go to other countries,
+\q2 where no one teaches the laws that God gave to Moses.
+\q1 The prophets do not receive any visions
+\q2 because Yahweh does not give them any.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Yahweh has deliberately decided to destroy the city wall of the daughter of Zion.
+\q He has stretched out the measuring line and has not withheld his hand from destroying the wall.
+\q And he has made the ramparts lament and the walls become feeble.
+\q
+\v 9 Her gates have sunk into the ground; he has destroyed and broken her gate bars.
+\q Her king and her princes are among the Gentiles, where there is no law of Moses.
+\q Even her prophets find no vision from Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:zion]]
+  * [[vi:obe:other:hand]]
+  * [[:vi:obe:kt:lament]]
+  * [[:vi:obe:kt:gate]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:prince]]
+  * [[vi:obe:other:gentile]]
+  * [[vi:obe:kt:lawofmoses]]
+  * [[vi:obe:kt:prophet]]
+  * [[vi:obe:other:vision]]
+
+===== Translation Notes: =====
+
+    * **He has stretched out the measuring line** - AT: "He has measured the length of the wall" so he knows exactly how much to destroy (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **has not withheld his hand from destroying** - AT: "He has destroyed using all his power" (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[vi:ta:vol2:translate:figs_litotes]])
+    * **withheld his hand** - "kept his hand to himself"
+    * **he has made the ramparts lament and the walls become feeble** - "because he has destroyed the ramparts and walls, they look like people who lament and have lost their strength" (See: [[:vi:ta:vol2:translate:figs_personification]])
+    * **ramparts** - Ancient cities had a main “wall” to keep attackers out, and an outer line of “ramparts” to keep attackers from the wall.
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:02|Lamentations Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:02:07|<<]] | [[:vi:bible:notes:lam:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

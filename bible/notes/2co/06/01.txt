@@ -1,0 +1,67 @@
+====== 2 Corinthians 06:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1  \add Therefore\add*, because I am working together with God  \add himself\add*, I say this to you very strongly: God has  \add already\add* kindly  \add forgiven you because Christ died for you\add*, so do not now  \add say\add* "It does not matter  \add if I live just to please myself\add*."
+\v 2 For God said  \add long ago in the Scriptures\add*:
+\p When it is the right time  \add for me\add* to help you, \add you will ask me to help you\add*, and I will hear you. Then I will  \add send\add* a Savior to help you.
+\p
+\add So listen to what\add* I am telling you: God  \add has sent\add* his Savior, so now is the time when  \add God is ready to\add* save  \add people from the guilt of their sins\add*.
+
+
+\p
+\v 3 Neither I nor the men  \add working\add* with me do anything that would hinder people from trusting in Christ, and so we cannot be accused \f + \ft Or:no one can accuse  \add us\add* \f* \add of not\add* serving  \add God properly\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1  We work together, and we beg you not to receive the gift of God's love in a way that makes no difference for you.
+\v 2 For God said, 
+\q "At a time when I displayed my loving mercy, I listened to you, 
+\q And when I completed the work of my salvation, I helped you."
+\m Look, this is the day when God is having mercy on you; this is the day that he is rescuing you.
+\m
+\p
+\v 3 We certainly do not want to give anyone reason to do wrong, because we want no one to accuse us of preaching the good news in order to encourage evil doing.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\nb
+\v 1 And so, working together, we beg you not to receive the grace of God to no effect.  
+\v 2 For he says,
+\q "In a favorable time I paid attention to you,
+\q And in the day of salvation I helped you."
+\m Look, now is the favorable time; look, now is the day of salvation.
+\v 3 We do not place a stumbling block in front of anyone, for we do not wish our ministry to be brought into disrepute.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:beg]]
+  * [[:vi:obe:kt:receive]]
+  * [[:vi:obe:kt:grace]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:other:stumblingblock]]
+===== Translation Notes: =====
+
+  * **working together** - "working together with God". Paul is inferring that he and Timothy are working with God.
+  * **we beg you not to receive the grace of God to no effect** - Paul is encouraging the Corinthians to allow the grace of God to manifest itself in their lives. (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  * **"In a favorable time I paid attention to you**  - AT: "At the right time I heard you"
+  * **Look, now is the favorable time; look, now is the day of salvation.**  - AT: "Indeed, now is the right time, now is the day of salvation".
+  * **We do not place a stumbling block in front of anyone, for we do not wish our ministry to be brought into disrepute. ** - AT: "We live in such a way that no one should falter because of us, or find fault with our ministry."
+
+===== Links: =====
+  * **  [[:vi:bible:questions:comprehension:2co:06|2 Corinthians Chapter 06 Comprehension Questions]]**
+
+**[[:vi:bible:notes:2co:05:20|<<]] | [[:vi:bible:notes:2co:06:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

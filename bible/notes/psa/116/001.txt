@@ -1,0 +1,67 @@
+====== Psalms 116:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 I love Yahweh,
+\q2 because he hears me when I cry to him for him to help me.
+\q1
+\v 2 He listens to me,
+\q2 so I will call out to him all during my life.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I love Yahweh
+\q2 because he hears me when I cry to him for help.
+\q1
+\v 2 He listens to me,
+\q2 so I will call out to him all during my life.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 116
+\p
+\q
+\v 1 I love Yahweh because he hears
+\q my voice and my pleas for mercy.
+\q
+\v 2 Because he listened to me,
+\q I will call on him as long as I live.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:voice]]
+  * [[vi:obe:other:plead]]
+  * [[:vi:obe:kt:mercy]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:life]]
+
+===== Translation Notes: =====
+
+This psalm is a song of thanksgiving.\\
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+  * **I love** - The word "I" refers to the person who made this song. We do not know who this person was.
+  * **my voice** - AT: "what I say." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **will call on him**  - "call to him" or "pray to him"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:116|Psalms Chapter 116 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:115:017|<<]] | [[:vi:bible:notes:psa:116:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,69 @@
+====== Psalms 105:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add He said that to them\add* when they were only a few of them,
+\q2 a tiny group of people who were living in that land like strangers\f + \ft Or: that belonged to other people \f*.
+\q1
+\v 13 They continued to wander from one place to another,
+\q2 from one kingdom to another.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 He said that to them when there were only a few of them,
+\q2 a tiny group of people who were living in that land like strangers.
+\q1
+\v 13 They continued to wander from one place to another,
+\q2 from one kingdom to another.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12  He said this when they were only few in number,
+\q so very few, and were strangers in the land.
+\q
+\v 13 They went from nation to nation
+\q and from one kingdom to another.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:kingdom]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **when they were only few in number** - The word "they" refers to the Israelites. 
+    * **and were strangers in the land** - It is implied that "the land" refers to Canaan. AT: "and were foreigners in the land of Canaan" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+    * **from nation to nation and from one kingdom to another** - These two phrases have similar meanings and are used together for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:105|Psalms Chapter 105 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/105/009|<<]] | [[en/bible/notes/psa/105/014|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

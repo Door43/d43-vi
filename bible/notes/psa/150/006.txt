@@ -1,0 +1,42 @@
+====== Psalms 150:6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 I want all living creatures to praise Yahweh!
+\b
+\q1 Praise Yahweh!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 I want all living creatures to praise Yahweh!
+\b
+\q1 Praise Yahweh!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Let everything that has breath praise Yahweh.
+\q Praise Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:breath]]
+
+===== Translation Notes: =====
+
+  * **everything that has breath**  - everything living (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]] )
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:150|Psalms Chapter 150 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:150:003|<<]] | **
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

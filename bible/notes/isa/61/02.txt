@@ -1,0 +1,59 @@
+====== Isaiah 61:2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 He has sent me to tell those who mourn about the members of their families who died \f + \ft Or: \add who are still in Babylonia \f*\add*
+\q2 that now is the time when Yahweh will act kindly \add toward his people\add*;
+\q1 now is the time when our God will get revenge on\f + \ft Or: punish \f* their enemies.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 He has sent me to tell those who mourn 
+\q2 that now is the time when Yahweh will act kindly toward his people;
+\q1 now is the time when our God will get revenge on their enemies.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 2 He has sent me to proclaim the year of Yahweh's favor, the day of vengeance of our God,
+\q1 and to comfort all who mourn—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:send]]
+  * [[vi:obe:other:proclaim]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:comfort]]
+ 
+
+===== Translation Notes: =====
+
+Isaiah continues speaking.
+
+  * **year of Yahweh's favor**  - "time when Yahweh will act kindly toward his people" (UDB)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:61|Isaiah Chapter 61 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:61:01|<<]] | [[:vi:bible:notes:isa:61:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

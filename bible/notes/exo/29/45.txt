@@ -1,0 +1,43 @@
+====== Exodus 29:45-46 ======
+
+===== TFT: =====
+
+<usfm>
+\v 45 I will live among the Israelite people, and I will be their God.
+\v 46 They will know that I am Yahweh God, the one who brought them out of Egypt in order that I might live among them. I am Yahweh, their \add almighty\add* God."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 45 I will live among the Israelite people, and I will be their God.
+\v 46 They will know that I am Yahweh God, the one who brought them out of Egypt in order that I might live among them. I am Yahweh, the God whom they worship."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 45 I will live among the Israelites and will be their God.
+\v 46 They will know that I am Yahweh, their God, who brought them out from the land of Egypt so that I might live among them. I am Yahweh, their God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:israel]]
+  * [[:vi:obe:kt:god|God]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to Moses.
+
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:29|Exodus Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:29:43|<<]] | [[:vi:bible:notes:exo:30:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

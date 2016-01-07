@@ -1,0 +1,53 @@
+====== Numbers 23:10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Who can count the descendants of Jacob; they are as numerous as particles of <dust\f + \ft Or: dirt>?( Or: No ) one can count the descendants of Jacob; they are as numerous as particles of <dust, Or: dirt>! \f* \f + \ft rhetorical question \f*
+\q1 Who can count even a quarter of the Israelite people?\f + \ft Or: No one can count even a quarter of the Israelite people! \f* \f + \ft rhetorical question \f*
+\q1 I wish\f + \ft Or: hope \f* that I will die like righteous people die;
+\q2 I hope that I will die \add peacefully\add* like they will die."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Who can count the descendants of Jacob, as numerous as particles of dust!
+\q2 Who can count even a quarter of the Israelite people?
+\q1 I wish that I will die like righteous people die.
+\q2 I hope that I will die peacefully like they will die."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Who can count the dust of Jacob
+\q2 or number even only one fourth of Israel?
+\q Let me die the death of a righteous person,
+\q2 and let my life's end be like his!"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:jacob]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+
+===== Translation Notes: =====
+
+  * **Who can count the dust of Jacob or number even only one fourth of Israel?**  - AT: "No one can count the Israelites. No one could count even a fourth of them because there are so many" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]] and [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **and let my life's end be like his**  - Here "his" refers to the people of Israel. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:23|Numbers Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:num:23:09|<<]] | [[:vi:bible:notes:num:23:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

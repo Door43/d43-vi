@@ -1,0 +1,56 @@
+====== Psalms 136:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 He is the one who caused the ground to rise up above the deep waters;
+\q2 his faithful love for us endures forever.
+\q1
+\v 7 He is the one who created great lights \add in the sky\add*;
+\q2 his faithful love for us endures forever.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 He is the one who caused the ground to rise up above the deep waters;
+\q2 he will love us forever as he has promised.
+\q1
+\v 7 He is the one who created great lights in the sky;
+\q2 he will love us forever as he has promised.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 to him who spread out the earth above the waters,
+\q for his covenant faithfulness endures forever—
+\q
+\v 7 to him who made great lights,
+\q for his covenant faithfulness endures forever—
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:other:water]]
+  * [[:vi:obe:kt:light]]
+
+===== Translation Notes: =====
+
+  * **spread out the earth above the waters **- AT: "placed the earth over the waters"
+  * **great lights**  - AT: "the sun and the moon and the stars"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:136:004|<<]] | [[:vi:bible:notes:psa:136:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

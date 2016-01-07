@@ -1,0 +1,63 @@
+====== Deuteronomy 12:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "I will now tell you\f + \ft Or: These are \f* the rules and regulations that you must faithfully obey in the land that Yahweh, the God whom our ancestors \add worshiped\add* is giving to you to occupy. You must obey these laws all the time that you are alive.
+\v 2 You must destroy all the places where the people-groups that you will expel worship their gods, on the tops of mountains and hills and under big green trees.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 I will now tell you the rules and decrees that you must faithfully obey in the land that Yahweh, the God whom our ancestors worshiped, is giving to you to occupy. You must obey these laws all the time that you are alive.
+\v 2 When you drive out those people groups whose land you will take, you must destroy all the places where they worshiped their gods, places on the tops of mountains and hills and beside large trees.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 12
+\p
+\v 1 These are the statutes and the decrees that you will keep in the land that Yahweh, the God of your fathers, has given you to possess, all the days that you live on the earth.
+\v 2 You will surely destroy all the places where the nations that you will dispossess worshiped their gods, on the high mountains, on the hills, and under every green tree;
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:statute]]
+  * [[:vi:obe:other:decree]]
+  * [[vi:obe:kt:promisedland]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:other:possess]]
+  * [[vi:obe:other:biblicaltimeday]]
+  * [[:vi:obe:kt:life]]
+  * [[vi:obe:other:earth]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:kt:falsegod]]
+
+===== Translation Notes: =====
+
+Moses is still talking to the people of Israel.
+
+  * **you will keep** - "you must obey"
+  * **all the days that you live on the earth** - AT: "for as long as you live on that ground." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **You will surely destroy** - "You must destroy"
+  * **the nations that you will dispossess** - "the people whose land you will take"
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:12|Deuteronomy Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:11:31|<<]] | [[:vi:bible:notes:deu:12:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

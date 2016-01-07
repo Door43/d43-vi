@@ -1,0 +1,68 @@
+====== Psalms 049:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 You people of all ethnic groups, listen!
+\q1 You people all over the world,
+\q2
+\v 2 important people and unimportant people,
+\q2 rich people and poor people,
+\q1 everyone, \add listen to what I am saying\add*,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 You people of all people groups, listen!
+\q1 You people all over the world,
+\q2
+\v 2 important people and unimportant people,
+\q2 rich people and poor people,
+\q1 everyone, listen to what I am saying.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 49 
+\d For the chief musician. A psalm of the sons of Korah.
+\b
+\q
+\v 1 Hear this, all you peoples;
+\q give ear, all you inhabitants of the world,
+\q
+\v 2 Both low and high,
+\q rich and poor together.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:chief]]
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:kt:son|son]]
+  * [[:vi:obe:other:korah|korah]]
+  * [[:vi:obe:other:peoplegroup|]]
+===== Translation Notes: =====
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+This psalm is a song that teaches people. 
+
+  * **A psalm of the sons of Korah** - This can also be written as a sentence. AT: “This is a psalm of the sons of Korah" or “This is a psalm that the sons of Korah wrote” 
+  * **Hear this, all you peoples; give ear, all you inhabitants ...** - These two phrases have basically the same meaning and are used together to get people's attention. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **Hear this, all you peoples** - The author begins to speak to everyone from every people group in the world. Even though the people cannot hear him he does this to express that his message is important. (See: [[:vi:ta:vol2:translate:figs_apostrophe]])
+  * **give ear**  - The author asks for the people to listen by asking for the part of the body that listens. AT: "Listen" (See: [[:vi:ta:vol2:translate:figs_synecdoche]]) 
+  * **Both low and high** - A person's respect in their community is expressed by height.  A person who is very respected in the community is high and a person who is not respected is considered low. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **low and high, rich and poor** - There two phrases include all people. (See: [[:vi:ta:vol2:translate:figs_merism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:048:014|<<]] | [[:vi:bible:notes:psa:049:003|>>]]**
+
+~~DISCUSSION~~{{tag>review book2}}
+
+~~NOCACHE~~

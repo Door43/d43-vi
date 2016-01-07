@@ -1,0 +1,71 @@
+====== Isaiah 59:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 \add It is as though he is a soldier who\add* \f + \ft metaphor \f* puts on his armor and a helmet;
+\q2 his continually doing what is right is like \f + \ft metaphor \f* his armor, and his ability to rescue people is like his helmet.
+\q1 His being extremely angry and his being ready to get revenge \add on those who do evil\add* are like \f + \ft metaphor \f* his robes.
+\q1
+\v 18 He will repay his enemies for the evil things that they have done.
+\q2 He will severely punish \f + \ft metonymy \f* even those who live far \add from Jerusalem\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 It is as though he were a soldier who put on his armor and a helmet;
+\q2 his continually doing what is right is like  his armor, and his ability to rescue people is like his helmet.
+\q1 His being extremely angry and his being ready to get revenge on those who do evil are like his robes.
+\q1
+\v 18 He will repay his enemies for the evil things that they have done.
+\q2 He will severely punish even those who live far from Jerusalem.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 17 He put on righteousness as a breastplate and a helmet of salvation upon his head. 
+\q1 He clothed himself with garments of
+vengeance and wore zeal as a mantle.
+\q1
+\v 18 He repaid them for what they had done, angry judgment to his adversaries, vengeance to his enemies, to the islands punishment as their reward.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:breastplate]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:kt:clothed]]
+  * [[:vi:obe:kt:avenge]]
+  * [[:vi:obe:kt:zealous]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:punish]]
+  * [[:vi:obe:kt:reward]]
+
+===== Translation Notes: =====
+
+  * **He put on righteousness as a breastplate and a helmet of salvation upon his head. He clothed himself with garments of vengeance and wore zeal as a mantle** - This shows God preparing to punish the wicked people. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **mantle** - a loose, flowing robe
+  * **He repaid them** - Isaiah is describing a future event as if it happened in the past. This means that it will certainly happen.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:59:16|<<]] | [[:vi:bible:notes:isa:59:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

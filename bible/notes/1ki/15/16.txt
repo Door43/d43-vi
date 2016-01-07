@@ -1,0 +1,60 @@
+====== 1 Kings 15:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 There were wars between \add the armies of\add* Asa and Baasha, the king of Israel, all during the time that they ruled.
+\v 17 Baasha's army invaded Judah. They captured Ramah \add town north of Jerusalem\add*. Then they started to build a wall around it in order to prevent people from entering or leaving the area in Judah that was ruled by King Asa.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 There were wars between the armies of Asa and Baasha, the king of Israel, all during the time that they ruled.
+\v 17 Baasha's army invaded Judah. They captured the city of Ramah north of Jerusalem. Then they started to build a wall around it in order to prevent people from entering or leaving the area in Judah that King Asa ruled.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 There was war between Asa and Baasha, king of Israel, all their days.
+\v 17 Baasha, king of Israel, acted aggressively against Judah and built up Ramah, so that he might not allow anyone to leave or enter into the land of Asa, king of Judah.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:asa]]
+  * [[vi:obe:other:baasha]]
+  * [[vi:obe:other:king]]
+  * [[vi:obe:other:kingdomofisrael]]
+  * [[vi:obe:other:kingdomofjudah]]
+  * [[vi:obe:other:ramah]]
+
+===== Translation Notes: =====
+
+    * **acted aggressively against Judah** - "attacked Judah"
+    * **built up Ramah** - It is implicit that the army of Baasha first captured Ramah. AT: "captured and fortified Ramah" (See: [[vi:ta:vol1:translate:figs_explicit]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ki:15|1 Kings Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ki/15/14|<<]] | [[en/bible/notes/1ki/15/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

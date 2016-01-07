@@ -11,10 +11,10 @@ Caiaphas was the high priest of Israel during the time of John the Baptist and J
     * ​Caiaphas was the high priest at the trial of Peter and John.
 
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
 
-(See also: [[en:obe:kt:highpriest]])
+(See also: [[vi:obe:kt:highpriest]])
 
 ===== Bible References: =====
 

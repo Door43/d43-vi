@@ -1,0 +1,54 @@
+====== Isaiah 57:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Wicked people \add do not have peace in their inner beings\add*;
+\q2 they are like \f + \ft simile \f* a sea \add whose waves are\add* always churning up mud,
+\q1
+\v 21 and I, Yahweh, say that things will never go well\f + \ft Or: be peaceful \f* for those who are evil."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Wicked people do not have peace in their inner beings;
+\q2 they are like a sea whose waves are always churning up mud,
+\q1
+\v 21 and I, Yahweh, say that things will never go well for those who are evil."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 20 But the wicked are like the tossing sea, which cannot rest, 
+\q1 and its waters churn up mire and mud.
+\q1
+\v 21 "There is no peace for the wicked one," says God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:kt:rest|rest]]
+  * [[:vi:obe:other:water|water, waters]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+  * [[:vi:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+  * **But the wicked are like the tossing sea…mire and mud**  - This emphasizes that there is no peace for the wicked. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:57|Isaiah Chapter 57 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:57:18|<<]] | [[:vi:bible:notes:isa:58:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

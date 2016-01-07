@@ -1,0 +1,73 @@
+====== 1 Chronicles 12:9-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Ezer was their leader.
+\li1 Next in command was Obadiah.
+\li1 Next was Eliab.
+\li1
+\v 10 Next was Mishmannah.
+\li1 Next was Jeremiah.
+\li1
+\v 11 Next was Attai.
+\li1 Next was Eliel.
+\li1
+\v 12 Next was Johanan.
+\li1 Next was Elzabad.
+\li1
+\v 13 Next was \add another man whose name was\add* Jeremiah.
+\li1 The last was Macbannai.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Ezer was their leader.
+\li1 Next in command was Obadiah.
+\li1 Next was Eliab.
+\li1
+\v 10 Next was Mishmannah.
+\li1 Next was Jeremiah.
+\li1
+\v 11 Next was Attai.
+\li1 Next was Eliel.
+\li1
+\v 12 Next was Johanan.
+\li1 Next was Elzabad.
+\li1
+\v 13 Next was another man whose name was Jeremiah.
+\li1 The last was Macbannai.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 There were Ezer the leader, Obadiah the second, Eliab the third,
+\v 10 Mishmannah the fourth, Jeremiah the fifth,
+\v 11 Attai the sixth, Eliel the seventh,
+\v 12 Johanan the eighth, Elzabad the ninth,
+\v 13 Jeremiah the tenth, Machbannai the eleventh.
+</usfm>
+
+===== Important Terms: =====
+  * [[vi:obe:other:obadiah]]
+
+===== Translation Notes: =====
+
+  * **Ezer ... Machbannai** - These are the names of men.  (See: [[vi:ta:vol1:translate:translate_names]])
+  * **second ... eleventh** - This is listing these men in order of leadership by ordinal numbers. AT: "2nd...3rd...4th...5th...6th...7th...8th...9th...10th...11th"  (See: Ordinal Numbers and [[vi:ta:vol2:translate:translate_numbers]])
+  * **Eliel** - See how you translated this in [[:vi:bible:notes:1ch:11:45|1 Chronicles 11:46]].
+  * **Johanan** - See how you translated this in [[:vi:bible:notes:1ch:12:03]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:12|1 Chronicles Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:12:08|<<]] | [[:vi:bible:notes:1ch:12:14|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

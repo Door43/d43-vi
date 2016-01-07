@@ -1,0 +1,63 @@
+====== Deuteronomy 33:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 I say this about \add the tribe\add* of Dan:
+\q1 The people of the tribe of Dan are like \f + \ft simile \f* a young lion;
+\q2 they leap out from \add their caves in the\add* Bashan \add region to attack their enemies\add*.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 I say this about the tribe of Dan:
+\q The people of the tribe of Dan are like a young lion;
+\q they leap out from their caves in the region of Bashan to attack their enemies.
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 About Dan, Moses said,
+\q “Dan is a lion cub
+\q that leaps out from Bashan.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:dan]]
+  * [[:vi:obe:other:Bashan]]
+ 
+
+===== Translation Notes: =====
+Moses continues blessing each tribe of Israel.
+
+    * **Dan is a lion cub that leaps out from Bashan** - This means the people of Dan are strong, and they attack the enemies of the Israelites who live in Bashan. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+ 
+   
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/21|<<]] | [[en/bible/notes/deu/33/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

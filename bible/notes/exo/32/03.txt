@@ -1,0 +1,51 @@
+====== Exodus 32:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 So the people did that. They took off all their gold earrings and brought them to Aaron.
+\v 4 He took all those gold earrings and melted them in a fire. He \add poured the gold into a mold and\add* made a statue that represented a young bull. The people saw it and said, "This is the god of us Israelite people! This is the one who brought us up from the land of Egypt!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 So the people took off all their gold earrings and brought them to Aaron.
+\v 4 He melted the gold in a fire. He poured the gold into a mold and made a statue that looked like a young bull. The people saw it and said, "This is the god of the Israelite people! This is the one who rescued us from the land of Egypt!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 All the people took off the golden rings that were on their ears and brought them to Aaron.
+\v 4 He received the gold from them, fashioned it in a mold, and made it into a molded calf. Then the people said, "Israel, this is your god who brought you up out of the land of Egypt."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:peoplegroup]]
+  * [[vi:obe:other:gold]]
+  * [[vi:obe:other:aaron]]
+  * [[vi:obe:kt:receive]]
+  * [[:vi:obe:other:cow|cow, calf]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[vi:obe:kt:falsegod]]
+  * [[vi:obe:other:egypt]]
+
+===== Translation Notes: =====
+
+  * **All the people** - This refers to all the people who rejected Moses as their leader and Moses' God as their God.
+  * **fashioned it in a mold, and made it into a molded calf**  - Aaron melted the gold collected and poured the gold into a mold that contained the shape of a calf.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:32|Exodus Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:32:01|<<]] | [[:vi:bible:notes:exo:32:05|>>]]**
+
+~~DISCUSSION~~{{tag>Publish }}
+
+~~NOCACHE~~

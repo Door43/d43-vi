@@ -1,0 +1,44 @@
+====== Ezekiel 29:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Almost twenty-seven years \add after we had been taken to Babylonia\add*, on the first day \add of the new year\add*, Yahweh gave me this message:
+\v 18 "You human, the army of king Nebuchadnezzar of Babylon fought very hard against Tyre, with the result that their heads were rubbed bare and their shoulders became raw\f + \ft Or: full of blisters \f*. But Nebuchadnezzar and his army did not get any valuable things from Tyre to reward them for their hard work \add against Tyre\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Almost twenty-seven years after we Israelites prisoners had been taken to Babylonia, on the first day of the new year, Yahweh gave me this message:
+\v 18 "Son of man, the army of King Nebuchadnezzar of Babylon fought very hard against Tyre, with the result that their heads were rubbed bare under their helmets, and their shoulders became raw. But Nebuchadnezzar and his army did not get any valuable things from Tyre to reward them for their hard work in that campaign.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Then it came about in the twenty-seventh year on the first of the first month, that the word of Yahweh came to me and said,
+\v 18 “Son of man, Nebuchadnezzar the king of Babylon stationed his army to do hard work against Tyre. Every head was shaved and every shoulder was bared, but there were never any wages from Tyre for him and his army, for the hard work that he did against Tyre.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:tyre]]
+
+===== Translation Notes: =====
+
+  * **the Word of Yahweh came to me and said** - See how you translated this in [[:vi:bible:notes:ezk:03:16|3:16]].
+  * **Son of man** - See how you translated this in [[:vi:bible:notes:ezk:02:01|2:3]].
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:29|Ezekiel Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:29:15|<<]] | [[:vi:bible:notes:ezk:29:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

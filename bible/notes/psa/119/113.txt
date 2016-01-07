@@ -1,0 +1,67 @@
+====== Psalms 119:113-114 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 113 I hate people who are only partly committed to you,
+\q2 but I love your laws.
+\q1
+\v 114 You are like a place where I can hide \add from my enemies\add*,
+\q2 and you are like a shield \f + \ft metaphor \f* \add behind which I am protected from them\add*,
+\q2 and I trust in your promises.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 113 I hate people who only say they love you,
+\q2 but I love your laws.
+\q1
+\v 114 You are like a place where I can hide from my enemies,
+\q2 and you are like a shield behind which I am protected from them;
+\q2 I trust in your promises.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\d SAMEKH.
+\q
+\v 113 I hate those who have a double mind,
+\q but I love your law.
+\q
+\v 114 You are my hiding place and my shield;
+\q I wait for your word.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:mind]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:kt:lawofmoses]]
+ 
+
+===== Translation Notes: =====
+
+  * **SAMEKH:**  This is the fifteenth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 113-120 begins with this letter.
+  * **who have a double mind**  - These people are not sincere. They are not wholly committed to following God. AT: "who cannot make up their mind about following God" or "who are insincere" (See: [[vi:bible:team-info:training:quick-reference:figures:metaphor]] )
+  * **my hiding place**  - This means God is like a place where we can hide from our enemies, where we are safe and protected. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **my shield**  - AT: "my protector"
+  * **your word**  - AT: "your instruction"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:111|<<]] | [[:vi:bible:notes:psa:119:115|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 119:159-160 ======
+
+===== TFT: =====
+
+<usfm>
+\v 159 Yahweh, notice that I love your principles of behavior\f + \ft Or: what you have declared that we should do \f*;
+\q2 because you faithfully love me, allow me to continue to live.
+\q1
+\v 160 All that you have said is truth,
+\q2 and all your regulations\f + \ft Or: the rules that you have given to us \f* will endure forever.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 159 Yahweh, notice that I love your principles of behavior;
+\q2 because you faithfully love me, allow me to continue to live.
+\q1
+\v 160 I can rely on everything that you have said;
+\q2 all your regulations will endure forever.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 159 See how I love your instructions;
+\q keep me alive, Yahweh, as you have promised by your covenant faithfulness.
+\q
+\v 160 The essence of your word is trustworthy;
+\q every one of your decrees lasts forever.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:promise|promise]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]essence
+  * [[:vi:obe:kt:forever|forever]]
+
+===== Translation Notes: =====
+
+  * **The essence of your word is trustworthy **- AT: "your word is completely true"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:157|<<]] | [[:vi:bible:notes:psa:119:161|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

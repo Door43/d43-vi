@@ -1,0 +1,59 @@
+====== Psalms 085:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Please enable us \f + \ft rhetorical question \f* to prosper again
+\q2 in order that we, your people, will rejoice about what you \add have done for us\add*.
+\q1
+\v 7 Yahweh, by rescuing us \add from our troubles\f + \ft Or: difficulties \f*\add*,
+\q2 show us that you faithfully love us.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Please enable us  to prosper again
+\q2 so that we, your people, will rejoice about what you have done for us.
+\q1
+\v 7 Yahweh, by rescuing us from our troubles,
+\q2 show us that you faithfully love us.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Will you not revive us again?
+\q Then your people will rejoice in you.
+\q
+\v 7 Show us your covenant faithfulness, Yahweh,
+\q grant us your salvation.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:salvation]]
+
+===== Translation Notes: =====
+
+  * **you...your** - These pronouns refer to Yahweh. (See: [[vi:ta:vol1:translate:figs_yousingular]])
+  * **Will you not revive us again?** -The writer makes another sincere request. AT: "Please make us prosper again."
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:085|Psalms Chapter 085 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:085:003|<<]] | [[:vi:bible:notes:psa:085:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

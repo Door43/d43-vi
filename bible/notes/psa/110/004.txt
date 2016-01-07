@@ -1,0 +1,55 @@
+====== Psalms 110:4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 Yahweh has made a solemn promise,
+\q2 and he will never change his mind;
+\q1 he has said to the king, "You will be a priest forever
+\q2 like those who are in the line \add descended from\add* Melchizedek."
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh has made a solemn promise
+\q2 and he will never change his mind;
+\q1 he has said to the king, "You will be a priest forever
+\q2 like Melchizedek."
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Yahweh has sworn, and will not change:
+\q "You are a priest forever,
+\q after the manner of Melchizedek."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:oath]]
+  * [[:vi:obe:kt:priest]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:melchizedek]]
+
+===== Translation Notes: =====
+
+  * **You are** - Yahweh is speaking to the lord.
+  * **and will not change** - "and will not change his mind" or "and will not regret his oath"
+  * **after the manner of Melchizedek** - AT: "in the same way that Melchizedek was priest." (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:110|Psalms Chapter 110 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:110:002|<<]] | [[:vi:bible:notes:psa:110:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

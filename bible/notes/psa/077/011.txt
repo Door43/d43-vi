@@ -1,0 +1,61 @@
+====== Psalms 077:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 But then, Yahweh, I recall\f + \ft Or: remember \f* your great deeds;
+\q2 I remember the wonderful things that you did in the past.
+\q2
+\v 12 I meditate on all that you have done,
+\q2 and I think about your mighty acts.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 But then, Yahweh, I recall your great deeds;
+\q2 I remember the wonderful things that you did in the past.
+\q2
+\v 12 I meditate on all that you have done,
+\q2 and I think about your mighty acts.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 But I will call to mind your deeds, Yahweh;
+\q I will think about your wonderful deeds of old.
+\q
+\v 12 I will ponder all your deeds
+\q and will reflect on them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:mind|mind]]
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+
+===== Translation Notes: =====
+
+The writer begins to speak to Yahweh.
+
+  * **call to mind** - "remember" (See: [[vi:ta:vol1:translate:figs_idiom]])
+  * **ponder ... reflect on** - "think deeply about ... think carefully about" (See: [[vi:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:077|Psalms Chapter 077 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:077:010|<<]] | [[:vi:bible:notes:psa:077:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

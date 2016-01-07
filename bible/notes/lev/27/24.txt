@@ -1,0 +1,46 @@
+====== Leviticus 27:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 But in the Year of Celebration, the land will again be owned by the person from whom he bought it, the person whose family had always owned that land.
+\v 25 All the silver that is paid must be compared with the official pieces of silver in the Sacred Tent.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 However, in the year of celebration, the land will again come into the possession of  the person from whom he bought it, the person whose family had always owned that land.
+\v 25 All the silver that is paid must be calculated in terms of the official pieces of silver in the sacred tent.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 In the year of jubilee the field will return to the man from whom it was bought, to the land's owner.
+\v 25 All the estimated values must be set by the weight of the sanctuary shekel. Twenty gerahs must be the equivalent of one shekel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:sanctuary]]
+
+===== Translation Notes: =====
+
+  * **to the man from whom it was bought, to the land's owner** - AT: "to the land's original owner from whom the man bought it" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **All the estimated values must be set** - AT: "The priests must determine the estimated values"
+  * **by the weight of the sanctuary shekel** - This refers to the official value of the shekel.
+  * **shekel** - See: [[vi:obe:other:biblicalmoney]]
+  * **Twenty gerahs** - "20 gerahs." This equals one shekel. (See: [[vi:ta:vol2:translate:translate_numbers]] and [[vi:obe:other:biblicalweight]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:27|Leviticus Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:27:22|<<]] | [[:vi:bible:notes:lev:27:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

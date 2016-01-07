@@ -1,0 +1,49 @@
+====== Deuteronomy 16:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Honor Yahweh our God by celebrating this festival for seven days in the place that Yahweh chooses \add for you to worship him\add*. You should all be joyful, because Yahweh will have blessed your harvest and all the other work that you have done
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Honor Yahweh our God by celebrating this festival for seven days in the place that he chooses for you to worship him. You should all be joyful, because Yahweh will have blessed your harvest and all the other work that you have done
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 For seven days you must observe the festival for Yahweh your God at the place that Yahweh will choose, because Yahweh your God will bless you in all your harvest and all the work of your hands, and you must be completely joyful.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:bless]]
+  * [[vi:obe:kt:harvest]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:vi:obe:kt:joy|joy, joyful]]
+
+===== Translation Notes: =====
+
+  * **the festival** - "the Festival of Shelters"
+  * **work of your hands**  - AT: “every work you do” (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:16|Deuteronomy Chapter 16 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:16:13|<<]] | [[:vi:bible:notes:deu:16:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 062:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 I have heard God say more than once that he is the one who really has power,
+\q1
+\v 12 and that he is the one who faithfully loves us.
+\q2 He rewards every one of us according to the deeds that we do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 I have heard God say more than once that he is the one who really has power,
+\q1
+\v 12 and that he is the one who faithfully loves us, as he promised.
+\q2 He rewards every one of us according to the deeds that we do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 God has spoken once,
+\q twice have I heard this:
+\q power belongs to God.
+\q
+\v 12 Also to you, Lord, belongs covenant faithfulness,
+\q for you pay back every person for what he has done.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * belongs, belong
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:062|Psalms Chapter 062 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:062:009|<<]] | [[:vi:bible:notes:psa:063:001|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

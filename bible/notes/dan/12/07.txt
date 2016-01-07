@@ -1,0 +1,48 @@
+====== Daniel 12:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 The angel who was on the other side of \f + \ft Or: above \f* the river raised his hands toward the sky, and solemnly promised, with the authority \f + \ft metonymy \f* of God, who lives forever, "It will be three and a half years. All these things will end after God's people stop fighting against those who persecute\f + \ft Or: cause trouble for, Or: cause suffering for \f* them."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 The one wearing the linen clothes and standing further up the river raised his hands toward the sky and solemnly promised to the one who lives forever, “It will be three and a half years, and when God's holy people and their strength are no longer being shattered to pieces, then all these things are finished."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 I heard the man clothed in linen, who was upstream along the river—he raised his right hand and his left hand to heaven and swore by the one who lives forever that it would be for a time, times, and a half, that is, three and one-half years. When the shattering of the power of the holy people comes to an end, all these things will be completed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:water]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:oath]]
+  * [[vi:obe:kt:life]]
+  * [[vi:obe:kt:forever]]
+  * [[vi:obe:kt:power]]
+  * [[:vi:obe:kt:holy]]
+===== Translation Notes: =====
+
+  * **the man clothed in linen** - AT: "the man who was wearing linen clothes" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **the one who lives forever** - "God, who lives forever"
+  * **When the shattering of the power of the holy people comes to an end** - AT: "When those who break the power of the holy people are finished"
+  * **all these things will be completed** - AT: "all these things will have happened" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:dan:12|Daniel Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:dan:12:05|<<]] | [[:vi:bible:notes:dan:12:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Judges 02:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So now, I am telling you that I will not expel \add your enemies\add* as you advance. They will be like thorns in your sides. And they will try to trap you \add by making you worship\add* their idols."
+\p
+\v 4 After he told that to all the Israelites, the people cried loudly.
+\v 5 They called that place Bokim, \add which means 'weeping\add*.' There they offered sacrifices to Yahweh.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So now, I am telling you that I will not drive out your enemies as you advance. They will be like thorns in your sides. And they will try to trap you by persuading you to  worship their idols."
+\p
+\v 4 After he said that to all the Israelites, the people lamented loudly.
+\v 5 They named that place Bochim, which means "weeping." There they offered sacrifices to Yahweh.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 And now I say, 'I will not drive the Canaanites out before you, but they will become thorns in your sides, and their gods will become a trap for you.'”
+\v 4 When the angel of Yahweh spoke these words to all the people of Israel, the people shouted and wept.
+\v 5 They called that place Bochim. There they offered sacrifices to Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:castout]]
+  * [[:En:obe:other:canaan]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:kt:angel]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:En:obe:other:israel]] 
+  * [[:vi:obe:other:sacrifice]]
+
+===== Translation Notes: =====
+The angel of Yahweh continues to speak to the people of Israel.
+
+    * **become thorns in your sides** - The angel of Yahweh compares the Canaanites to thorns to express that like a thorn in a person's side is painful so also the Canaanites will cause problems for Israel. AT: "become problems for you" (See: [[vi:ta:vol1:translate:figs_metaphor]])  
+    * **thorns** - sharp pieces of wood up to 7 centimeters long that stick out from some plants
+    * **their gods will become a trap for you** - AT: "their gods are like a trap that will lead you into sin" (See: [[vi:ta:vol1:translate:figs_metaphor]]) 
+    * **cried out and wept** - AT: "they cried many tears"
+    * **Bochim** - See how you translated this in [[vi:bible:notes:jdg:02:01|2:1]].
+
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jdg:02|Judges Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/02/01|<<]] | [[en/bible/notes/jdg/02/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

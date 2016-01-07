@@ -1,0 +1,62 @@
+====== Jeremiah 18:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 So, this is what Yahweh said:
+\q1 "Ask the \add people who live in other\add* nations if they have \f + \ft rhetorical question \f* ever heard of such a thing.
+\q2 My Israelite people, who \add have been pure like\add* \f + \ft metaphor \f* virgins, have done a terrible thing!
+\q1
+\v 14 The snow certainly never \f + \ft rhetorical question \f* completely disappears\f + \ft Or: melts \f* from the rocky slopes of the mountains in Lebanon.
+\q2 The cold streams that flow down from those distant mountains never \f + \ft rhetorical question \f* cease flowing.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 So this is what Yahweh said in response:
+\q1 "Ask the people who live in other nations if they have ever heard of such a thing.
+\q2 My Israelite people, who have been pure like virgins, have done a terrible thing!
+\q1
+\v 14 The snow certainly never completely disappears from the rocky slopes of the mountains in Lebanon.
+\q2 The cold streams that flow down from those distant mountains never cease flowing.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Therefore Yahweh says this: "Ask the nations, who has ever heard of such a thing as this?
+\q The virgin Israel has committed a horrible act.
+\q
+\v 14 Does the snow in Lebanon ever leave the rocky hills in the fields?
+\q Do the mountain streams coming from far away ever lose their water?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:Yahweh]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:virgin|virgin]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[vi:obe:other:snow]]
+  * [[:vi:obe:other:lebanon|Lebanon]]
+===== Translation Notes: =====
+
+  * **Ask the nations, who has ever heard of such a thing as this?**  - Implicit is that the nations will say that nobody has ever heard something like this. AT: "Nowhere on earth has anyone ever heard of such a thing like this!" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **The virgin Israel**  - Israel is ironically described as a virgin woman. AT: "Israel, who falsely pretends to be fully devoted to God" (See: [[:vi:ta:vol2:translate:figs_personification|Personification]] and [[:vi:ta:vol1:translate:figs_irony|Irony]])
+  * **Does the snow in Lebanon ever leave the rocky hills in the fields?**  - The implicit answer to this question is "no". AT: "The snow of Lebanon clearly never leaves the rocky hills in the fields" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **Do the mountain streams coming from far away ever lose their water?**  - The implicit answer to this question is also "no". AT: "The moutain streams coming from far away surely never lose their water" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:18|Jeremiah Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:18:11|<<]] | [[:vi:bible:notes:jer:18:15|>>]]**
+
+~~DISCUSSION~~{{tag>review mgr}}
+
+~~NOCACHE~~

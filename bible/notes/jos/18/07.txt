@@ -1,0 +1,60 @@
+====== Joshua 18:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 But the tribe of Levi will not be allotted any land, because their \add reward is to be\add* Yahweh's priests. The tribes of Gad, Reuben, and half the tribe of Manasseh have already been allotted their land on the east side of the Jordan \add River\add*, just as Moses, the man who served God \add well\add*, decided, \add so they will not get any more land\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 But the tribe of Levi will not be assigned any land, because their reward is to be Yahweh's priests. The tribes of Gad, Reuben, and the half tribe of Manasseh have already been assigned their land on the east side of the Jordan River, just as Moses, the man who served God well, decided, so they will not get any more land."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 The Levites have no portion among you, for the priesthood of Yahweh is their inheritance. Gad, Reuben, and the half tribe of Manasseh have received their inheritance, beyond Jordan. This is the inheritance that Moses the servant of Yahweh gave them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:levite]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:kt:inherit]]
+  * [[vi:obe:other:gad]]
+  * [[vi:obe:other:reuben]]
+  * [[vi:obe:other:tribe]]
+  * [[vi:obe:other:manasseh]]
+  * [[vi:obe:kt:receive]]
+  * [[vi:obe:other:jordanriver]]
+  * [[vi:obe:other:moses]]
+  * [[vi:obe:other:servant]]
+
+
+ 
+
+===== Translation Notes: =====
+ 
+Joshua is continuing his speech to the children of Israel.
+
+  * **the half-tribe of Manasseh**  - "half of the tribe of Manasseh"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:18|Joshua Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:18:05|<<]] | [[:vi:bible:notes:jos:18:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

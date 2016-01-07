@@ -1,0 +1,45 @@
+====== Leviticus 10:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Moses\f + \ft Or: I \f* said to Aaron and his two sons who were still alive, Eleazar and Ithamar, "Take the offering made from grain that is left after a portion of it has been offered to Yahweh to be burned, and eat it alongside the altar. \add It should not be eaten elsewhere\add* because it is very holy.
+\v 13 Eat it in a holy place; it is the share for you and your sons from the offerings that were burned; I have commanded that it be your share.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Moses said to Aaron and his two sons who were still alive, Eleazar and Ithamar, "Take the offering made from flour that is left after a portion of it has been offered to Yahweh to be burned, and eat it alongside the altar. It should not be eaten elsewhere because it is very holy.
+\v 13 Eat it in a holy place. It is the share for you and your sons from the meat that you have burned as offerings. Yahweh has commanded me to tell you this.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Moses spoke to Aaron and to Eleazar and to Ithamar, his remaining sons, "Take the grain offering that remains from the offerings to Yahweh made by fire, and eat it without yeast beside the altar, for it is most holy.
+\v 13 You must eat it in a holy place, because it is your share and your sons’ share of the offerings to Yahweh made by fire, for this is what I have been commanded to tell you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:grainoffering]]
+  * [[vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:yeast|yeast, leaven]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[vi:obe:kt:holy]]
+  * [[vi:obe:other:command]]
+
+===== Translation Notes: =====
+
+  * **the offerings to Yahweh made by fire** - AT: "the burnt offerings to Yahweh" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **this is what I have been commanded to tell you**  - AT: "this is what Yahweh commanded me to tell you"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:10|Leviticus Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:10:08|<<]] | [[:vi:bible:notes:lev:10:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Jeremiah 07:33-34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 The corpses of my people that are \add not buried and are\add* left on the ground will be eaten by vultures and wild animals,
+\q2 and there will be no one to shoo them away.
+\q1
+\v 34 There will be no one singing and laughing anymore in the streets of Jerusalem;
+\q2 there will be no more joyful voices of bridegrooms and brides in Judah,
+\q2 because the land will be completely destroyed."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 The corpses of my people that are not buried and are left on the ground will be eaten by vultures and wild animals, and there will be no one to shoo them away.
+\v 34 There will be no one singing and laughing anymore in the streets of Jerusalem; there will be no more joyful voices of bridegrooms and brides in Judah, because the land will be completely destroyed."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 33 The corpses of this people will be food for the birds of the skies and the beasts of the earth, and there will be no one to frighten them away.
+\v 34 I will put an end to the cities of Judah and the streets of Jerusalem, the sounds of exaltation and jubilation, the sounds of the groom and the bride—since the land will become a desolation.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:heaven]]
+  * [[vi:obe:other:beast]]
+  * [[vi:obe:other:kingdomofjudah]]
+  * [[vi:obe:other:jerusalem]]
+  * [[vi:obe:other:rejoice]]
+  * [[vi:obe:other:bridegroom]]
+  * [[vi:obe:other:bride]]
+  * [[:vi:obe:other:desolate]]
+
+===== Translation Notes: =====
+
+Yahweh continues to speak.
+  * **The corpses** - "The dead bodies"
+  * **this people** - the people of Judah
+  * **the birds of the skies** - See how you translated "the birds of the heavens" in [[vi:bible:notes:jer:04:23|4:25]].
+  * **the beasts of the earth** - "the wild animals of the land"
+  * **to frighten them away** - "to scare them away"
+  * **I will put an end to** - "I will remove from" 
+  * **the sounds of exaltation and jubilation** - "the sounds of people rejoicing and being happy" AT: "people there who are happy"
+  * **the sounds of the groom and bride** - AT: "people getting married (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:07|Jeremiah Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:07:31|<<]] | [[:vi:bible:notes:jer:08:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,44 @@
+====== Judges 19:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 The old man said, "I wish that things will go well for you, but I would like to provide what you need. Do not stay here in the square tonight."
+\v 21 Then the old man took them to his house. He gave food to the donkeys. He \add gave water to the man and the woman and the servant to\add* wash their feet. And the old man gave them something to eat and drink.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 The old man said, "I wish that things will go well for you, but I would like to provide what you need. Do not stay here in the square tonight."
+\v 21 Then the old man took them to his house. He gave food to the donkeys. He gave water to the man and the woman and the servant to wash their feet. And the old man gave them something to eat and drink.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 The old man greeted them, “Peace be with you! I will take care of all your needs. Only do not spend the night in the square.” 
+\v 21 So the man brought the Levite into his house and gave feed to the donkeys. They washed their feet and ate and drank.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peace]]
+  * [[:vi:obe:other:Levite]]
+  * [[:vi:obe:other:donkey]]
+
+===== Translation Notes: =====
+
+  * **the night in the square**  - "the night unprotected in the open" or "the night in the middle of the town"** **
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:19|Judges Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:19:18|<<]] | [[:vi:bible:notes:jdg:19:22|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

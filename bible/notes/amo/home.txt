@@ -1,0 +1,24 @@
+===== Amos Links: =====
+
+  * [[:vi:ulb:ep:30-amo.usfm|Full ULB text of Amos]]
+  * [[:vi:udb:ep:30-amo.usfm|Full UDB text of Amos]]
+  * [[:vi:bible:admin-reports:notes-team-admin:amo|Notes: Amos Team Admin]]
+  * [[:vi:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages vi:bible:notes:amo:01 -title -naturalOrder -exclude:home -textPages="Amos 1" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:02 -title -naturalOrder -exclude:home -textPages="Amos 2" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:03 -title -naturalOrder -exclude:home -textPages="Amos 3" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:04 -title -naturalOrder -exclude:home -textPages="Amos 4" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:05 -title -naturalOrder -exclude:home -textPages="Amos 5" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:06 -title -naturalOrder -exclude:home -textPages="Amos 6" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:07 -title -naturalOrder -exclude:home -textPages="Amos 7" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:08 -title -naturalOrder -exclude:home -textPages="Amos 8" -nbCol=2> 
+
+<nspages vi:bible:notes:amo:09 -title -naturalOrder -exclude:home -textPages="Amos 9" -nbCol=2> 

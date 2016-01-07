@@ -1,0 +1,60 @@
+====== 1 Chronicles 05:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 The men from those three tribes prayed to God during the battles, requesting him to help them. So he helped them, because they trusted in him. He enabled them to defeat [IDI] the descendants of Hagar and all those who were helping them.
+\v 21 They took the animals that belonged to the descendants of Hagar: They took 50,000 camels, 250,000 sheep, and 2,000 donkeys. They also captured 100,000 people.
+\v 22 But many descendants of Hagar were killed because God helped the people of the tribes of Reuben, Gad, and Manasseh. After that, those three tribes lived in that area until \add the army of\add* Babylonia \add captured them and\add* took them away to Babylon.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 The men from those three tribes prayed to God during the battles, requesting him to help them. So he helped them, because they trusted in him. He enabled them to defeat the descendants of Hagar and all those who were helping them.
+\v 21 They took the animals that belonged to the descendants of Hagar: They took 50,000 camels, 250,000 sheep, and 2,000 donkeys. They also captured 100,000 people.
+\v 22 But many descendants of Hagar were killed because God helped the people of the tribes of Reuben, Gad, and Manasseh. After that, those three tribes lived in that area until the army of Babylonia captured them and took them away to Babylon.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 They received divine help against them. In this way, the Hagrites and all who were with them were defeated. This was because the Israelites cried out to God in the battle, and he responded to them, because they put their trust in him.
+\v 21 They captured their animals, including fifty thousand camels, 250,000 sheep, two thousand donkeys, and 100,000 men.
+\v 22 Because God fought for them, they killed many of the enemy. They lived in their land until the captivity.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:divine]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:other:camel]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:other:donkey]]
+  * [[vi:obe:other:adversary]]
+  * [[:vi:obe:other:captive]]
+  
+===== Translation Notes: =====
+
+  * **They received divine help against them** - This means that God helped the Israelite soldiers fight against their enemies. AT: "Yahweh gave the tribes of Reuben, Gad, and Manasseh divine help against the Hagrites"
+  * **fifty thousand camels**  - "50,000 camels" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **250,000 sheep** - "two hundred fifty thousand sheep"
+  * **two thousand donkeys** - "2,000 donkeys"
+  * **100,000 men** - "one hundred thousand men"
+  * **Because God fought for them** - AT: "Because God helped them" 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:05|1 Chronicles Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:05:18|<<]] | [[:vi:bible:notes:1ch:05:23|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

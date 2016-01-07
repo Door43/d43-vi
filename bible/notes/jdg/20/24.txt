@@ -1,0 +1,52 @@
+====== Judges 20:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 The next day they again stood in their positions for fighting, just like they had done on the previous day.
+\v 25 The men of the tribe of Benjamin came out of Gibeah and attacked the Israelites, and killed 18,000 more of their men.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 The next day they again stood in their positions for fighting, just as they had done on the previous day.
+\v 25 The men of the tribe of Benjamin came out of Gibeah and attacked the Israelites, and killed 18,000 more of their men.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 24 So the soldiers of Israel went against the soldiers of Benjamin the second day.
+\v 25 On the second day, Benjamin went out against them from Gibeah and they killed 18,000 men from the soldiers of Israel, all were men who trained in fighting with the sword.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Israel]]
+  * [[:vi:obe:other:Benjamin]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **second day** - "day 2" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **Gibeah** - See how you translated this in [[:vi:bible:notes:jdg:19:12|Judges 19:12]].
+  * **18,000** - (See: [[vi:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:20|Judges Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:20:22|<<]] | [[:vi:bible:notes:jdg:20:26|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Exodus 04:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Yahweh said to Moses\f + \ft Or: me \f*, "When you return to Egypt, be sure to perform all the miracles that I have given you power \add to do\add*, while the king is watching. But I will make him stubborn [IDI], with the result that he will not let the Israelite people leave \add Egypt\add*.
+\v 22 Then say to him, 'This is what Yahweh says: "The Israelite \add people\add* \f + \ft metonymy \f* are \add as dear to\add* me as firstborn sons \f + \ft metaphor \f*.
+\v 23 I told you to let my people \f + \ft metonymy \f* leave \add Egypt\add*, in order that they may worship me \add in the desert\add*. If you refuse to let them go, I warn you, I will kill your firstborn son!"~'~"
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Yahweh said to Moses, "When you return to Egypt, be sure to do all the miracles that I have given you power to do in front of the king. But I will make him turn away from you, and he will not let the Israelite people leave Egypt.
+\v 22 Then say to him, 'This is what Yahweh says: Israel is like my first born son,
+\v 23 and I say to you, "Let my son go, so that he may worship me." But you did not let my son go and because of this, I will kill your firstborn son!'"
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 Yahweh said to Moses, "When you go back to Egypt, see that you do before Pharaoh all the wonders that I have put in your power. But I will harden his heart, and he will not let the people go.
+\v 22 You must say to Pharaoh, 'This is what Yahweh says: Israel is my son, my firstborn,
+\v 23 and I say to you, "Let my son go, so he may worship me." But since you have refused to let him go, I will certainly kill your son, your firstborn.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[vi:obe:other:moses]]
+  * [[:vi:obe:other:pharaoh]]
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:power]]
+  * [[vi:obe:other:heart]]
+  * [[:vi:obe:other:israel]]
+  * [[vi:obe:kt:son]]
+  * [[vi:obe:kt:firstborn]]
+  * [[vi:obe:kt:worship]]
+===== Translation Notes: =====
+
+  * **will harden his heart** - Possible meanings are 1) "will make him unwilling to obey you" or 2) "will make him unwilling to obey me."
+  * **Israel is my son**  - The word "Israel" is a shortened form of "the people of Israel." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **is my son, my firstborn**  - "is like my son, my firstborn" or "is like a firstborn son to me"  (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **you have refused to let him go**  - The word "him" refers to the people of Israel as God's son. (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **I will certainly kill your son, your firstborn**  - The word "son" here refers to the actual son of Pharaoh.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:04|Exodus Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:04:18|<<]] | [[:vi:bible:notes:exo:04:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

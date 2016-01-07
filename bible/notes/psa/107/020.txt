@@ -1,0 +1,74 @@
+====== Psalms 107:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 When he commanded that they be healed, they were healed;
+\q2 he saved them from dying.
+\q1
+\v 21 They also should praise\f + \ft Or: thank \f* Yahweh for faithfully loving them,
+\q2 and for all the wonderful things that he does for people.
+\q1
+\v 22 They should give offerings to him to show that they are thankful,
+\q2 and they should sing joyfully about the miracles that he has performed.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 When he commanded that they be healed, they were healed;
+\q2 he saved them from dying.
+\q1
+\v 21 They should praise Yahweh for loving them faithfully
+\q2 and for the wonderful things that he does for people.
+\q1
+\v 22 They should give offerings to him to show that they are thankful,
+\q2 and they should sing joyfully about the miracles that he has performed.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 He sent his word and healed them,
+\q and he rescued them from their destruction.
+\q
+\v 21 Oh that people would praise Yahweh for his covenant faithfulness
+\q and for the amazing things he has done for humanity!
+\q
+\v 22 Let them offer the sacrifices of thanksgiving
+\q and proclaim his deeds in singing.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:send]]
+  * [[vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:heal]]
+  * [[:vi:obe:other:sacrifice]]
+  * [[:vi:obe:other:proclaim]]
+  * [[:vi:obe:kt:works]]
+
+===== Translation Notes: =====
+
+  * **He sent his word** - Yahweh sends his word as though it were his messenger. AT: "Yahweh gave them his word." (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **and healed them** - "in order to heal them." The word "them" refers to the people who had become foolish and were suffering.
+  * **Oh that people...for humanity** - See how you translated this in [[vi:bible:notes:psa:107:008|107:8]].
+  * **of thanksgiving** - "that show that they are thankful"
+  * **proclaim his deeds in singing** - "tell others about the things he has done by singing joyfully"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:107|Psalms Chapter 107 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:107:017|<<]] | [[:vi:bible:notes:psa:107:023|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

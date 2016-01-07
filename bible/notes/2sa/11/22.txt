@@ -1,0 +1,52 @@
+====== 2 Samuel 11:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 So the messenger went and told David everything that Joab told him to say.
+\v 23 The messenger said to David, "Our enemies were very brave, and came out of the city to fight us in the fields. \add They were defeating us\add* but we forced them back to the city gate.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 So the messenger went and told David everything that Joab told him to say.
+\v 23 The messenger said to David, "Our enemies were very brave, and came out of the city to fight us in the fields. They were driving us back at first, but then us but we forced them back to the city gate.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 So the messenger left and went to David and told him everything that Joab had sent him to say.
+\v 23 And the messenger said to David, "The enemy were stronger than we were at first; they came out to us into the field, but we drove them back to the entrance of the gate.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:gate]]
+ 
+
+===== Translation Notes: =====
+
+    * **went to David and told him everything**  - or "went to David and repeated everything"
+    * **And the messenger said to David**  - or "And the messenger informed David that".  Try to stay with the literal unless there would be confusion with multiple words for "said" in your language.
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:11|2 Samuel Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/11/21|<<]] | [[en/bible/notes/2sa/11/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

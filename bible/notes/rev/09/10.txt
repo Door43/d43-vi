@@ -1,0 +1,69 @@
+====== Revelation 09:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 They had tails like \add tails of\add* scorpions \add by which they\add* stung \add people\add*. Their power to harm people during those five months was in their tails.
+\v 11 The king who ruled over them was the angel of the underworld. His name in the Hebrew language is Abaddon. In the Greek language it is Apollyon. \add Both of\add* those names \add mean 'Destroyer'\add*.
+\p
+\v 12 That ended the first terrible event. \add Be aware that\add* two tragic events are still to come.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 They had tails like tails of scorpions. With these tails they could sting people. Their power to harm people during those five months was in their tails.
+\v 11 The king who ruled over them was the angel of the underworld. His name in the Hebrew language is Abaddon. In the Greek language it is Apollyon. Both of these names mean "Destroyer."
+\p
+\v 12 That ended the first terrible event. But be aware that two more terrible events are still to come.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 They had tails with stingers like scorpions; in their tails they had power to harm people for five months.
+\v 11 They had as king over them the angel of the deep and endless pit. His name in Hebrew was Abaddon, and in Greek he had the name Apollyon.
+\p
+\v 12 The first woe is past. Watch! After this there are still two disasters to come.
+</usfm>
+
+
+===== Important Terms: =====
+
+=====   =====
+
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:kt:angel|angel]]
+  * [[:vi:obe:other:pit|pit]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:other:hebrew|Hebrew]]
+  * [[:vi:obe:other:greek|Greek, Grecian, Hellenistic]]
+  * [[:vi:obe:kt:woe|woe]]
+  * [[vi:obe:other:watch]]
+
+===== Translation Notes: =====
+John continues to describe the locusts.
+
+ 
+  * **deep and endless** - See how you translated this in [[vi:bible:notes:rev:09:01|9:1]].
+  * **Abaddon...Apollyon** - Both names mean "destruction." (See: [[:vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:09|Revelation Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:09:07|<<]] | [[:vi:bible:notes:rev:09:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

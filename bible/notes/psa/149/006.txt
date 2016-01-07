@@ -1,0 +1,55 @@
+====== Psalms 149:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 They \f + \ft metonymy \f* should shout loudly to praise God;
+\q2 but they should also hold sharp swords in their hands,
+\q1
+\v 7 ready to use them to defeat the \add soldiers of\add* nations \add that do not worship God\add*,
+\q1 and to punish the people \add of those nations\add*,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 They should shout loudly to praise God;
+\q2 but they should also hold sharp swords in their hands,
+\q1
+\v 7 ready to use them to defeat the soldiers of nations that do not worship God
+\q1 and to punish the people of those nations.
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 May the praises of God be in their mouths
+\q and a two-edged sword in their hand
+\q
+\v 7 to execute vengeance on the nations
+\q and acts of punishment on the peoples.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:kt:avenge|avenge, revenge, vengeance]]
+  * [[:vi:obe:other:punish|punish, punishment]]
+
+===== Translation Notes: =====
+
+  * **May the praises of God be in their mouths **- AT: "May they praise God" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **a two-edged sword in their hand**  - If swords are not known, use the name of a local weapon. This refers to a type of war festival before or after a battle.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:149|Psalms Chapter 149 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:149:004|<<]] | [[:vi:bible:notes:psa:149:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

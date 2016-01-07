@@ -1,18 +1,24 @@
-====== angel ======
+====== angel, archangel ======
 
 ===== Definition: =====
 
 An angel is a powerful spirit being whom God created. These spirit beings exist to serve God by doing whatever he tells them to do.
 
-  * The word for "angel" means "messenger."
+  * The word "angel" means "messenger."
+  * An "archangel" is the angel who rules or leads all the other angels. The Bible records that the name of the archangel is "Michael."
   * In the Bible, angels gave messages to people from God about things he wanted them to do. Angels also told people about events that were going to happen in the future or events that had already happened.
   * Angels have God's authority as his representatives and sometimes in the Bible they would speak as if it were God himself speaking.
   * Other ways that angels serve God is by protecting and strengthening people.
 
 ===== Translation Suggestions: =====
 
-  * Ways to translate "angel" could include, "messenger from God" or " God's heavenly servant" or "God's spirit messenger."
-  * Also consider how this term is translated in a national language or another local language. (See:[[:vi:ta:translate:translateunknowns|How to Translate Unknowns]])
+  * Ways to translate "angel" could include, "messenger from God" or "God's heavenly servant" or "God's spirit messenger."
+  * The term "archangel" could be translated as "chief angel" or "head ruling angel" or "leader of the angels."
+  * Also consider how these terms are translated in a national language or another local language.
+ 
+ (See: [[vi:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:vi:obe:other:chief]], [[:vi:obe:other:messenger]], [[:vi:obe:other:michael]],  [[:vi:obe:other:ruler]], [[:vi:obe:other:servant]])
 
 ===== Bible References: =====
 
@@ -27,6 +33,7 @@ An angel is a powerful spirit being whom God created. These spirit beings exist 
   * **[[:vi:obs:notes:frames:25-08|[25-08]]]** Then **angels**  came and took care of Jesus.
   * **[[:vi:obs:notes:frames:38-12|[38-12]]]** Jesus was very troubled and his sweat was like drops of blood. God sent an **angel**  to strengthen him.
   * **[[:vi:obs:notes:frames:38-15|[38-15]]]**"I could ask the Father for an army of **angels**  to defend me."
-~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~DISCUSSION~~{{tag>publish discuss ktobs}}
 
 ~~NOCACHE~~

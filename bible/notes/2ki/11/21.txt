@@ -1,0 +1,38 @@
+====== 2 Kings 11:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Joash was seven years old when he became the king \add of Judah\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Joash was seven years old when he became the king of Judah.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 Joash was seven years old when he began to reign.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:joash]]
+  * [[:vi:obe:other:reign]]
+
+===== Translation Notes: =====
+
+  * **Joash was seven years old**  - "Joash was 7 years old" (See: [[:vi:ta:vol2:translate:translate_numbers|Translate Numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:11|2 Kings Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:11:19|<<]] | [[:vi:bible:notes:2ki:12:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

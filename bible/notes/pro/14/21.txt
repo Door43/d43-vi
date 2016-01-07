@@ -1,0 +1,71 @@
+====== Proverbs 14:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 It is sinful to despise your \add poor\add* neighbors;
+\q2 \add God\add* is pleased with those who do kind things for the poor.
+\b
+\q1
+\v 22 Those who plan to do things that are evil\f + \ft Or: wrong \f* are walking on the wrong road;
+\q2 people faithfully love, respect and are loyal to those who plan to do what is good.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 It is sinful to have contempt for your neighbors;
+\q2 but how fortunate are those who do kind things for the poor.
+\b
+\q1
+\v 22 Those who plot with evil plans, do they not go astray?
+\q2 But those who make plans for the good will receive love and faithfulness.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 The one who shows contempt for his neighbor is sinning, 
+\q but the one who shows favor to the poor is happy. 
+\q
+\v 22 Do not those who plot evil go astray?
+\q But those who plan to do good will receive covenant faithfulness and trustworthiness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:contempt]]
+  * [[:vi:obe:other:neighbor]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:kt:favor]]
+  * [[:vi:obe:kt:astray]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:trust]]
+
+===== Translation Notes: =====
+
+  * **The one … the one**  - AT: "The person … the person"
+  * **the poor**  - "poor people"
+  * **Do not those who plot evil go astray?**  - The implicit answer to this question is "yes". AT: "Those who plot evil will go astray" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **who plot evil**  - AT: "who make evil plans" or "who make plans to do evil things"
+  * **will receive covenant faithfulness and trustworthiness**  - AT: "will receive God's covenant faithfulness and enjoy his trustworthiness"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:14|Proverbs Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:14:19|<<]] | [[:vi:bible:notes:pro:14:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

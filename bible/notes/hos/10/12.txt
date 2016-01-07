@@ -1,0 +1,90 @@
+====== Hosea 10:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add You plow your fields and plant your seeds\add* and harvest \add your crops\add* \f + \ft metaphor \f*,
+\q2 \add but what you need to do is\add* to act righteously and to faithfully love me;
+\q1 you need to repent \f + \ft metaphor \f*,
+\q2 because it is time to try to know me, Yahweh;
+\q1 and if you do that, I will pour out \f + \ft metaphor \f* many blessings on you.
+\q1
+\v 13 You plant \add seeds\add* and harvest \add the crops and eat them\add*;
+\q2 but \add what I consider that you have really done is\add* to plant wicked deeds and harvested evil deeds
+\q2 and eaten \f + \ft metaphor \f* the results [IDI] of the lies that you have told.
+\q1 \add Instead of trusting in me\add*, you have depended on\f + \ft Or: trusted in \f* your own power
+\q2 and your many soldiers.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Plow, now, and do what is right, 
+\q2 and you will reap the fruit of faithful love. 
+\q1 Do the hard word of breaking up the unplowed ground, 
+\q2 for now is the time for you to ask Yahweh to have mercy on you,
+\q1 so that he may come and rescue you because he does what is right.
+\q1
+\v 13 You have sinned wickedly, and now you will have to bear the consequences. 
+\q2 You told lies, and now you must suffer the results of the lies you told. 
+\q1 You have trusted in your own abilities and wisdom,
+\q2 and you have relied on the soldiers in your armies. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 12 Sow righteousness for yourselves, 
+\q and reap the fruit of covenant faithfulness.
+\q Break up your unplowed ground,
+\q for it is time to seek Yahweh,
+\q until he comes and rains righteousness on you.
+\q
+\v 13 You have plowed wickedness;
+\q you reaped injustice.
+\q You have eaten the fruit of deception
+\q because you trusted in your plans
+\q and in your many soldiers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sow|sow, sower]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:reap|reap, reaper]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:vi:obe:other:reap|reap, reaper]]
+  * [[:vi:obe:kt:unjust|unjust, unjustly, injustice]]
+  * [[:vi:obe:kt:fruit]]
+  * [[:vi:obe:kt:deceive|deceive, deceived, deceiver, deception]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking.
+
+  * **Sow righteousness for yourselves,** - Using the language of farming, strive for a good relationship with God. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **and reap the fruit of covenant faithfulness** - The result will be a great relationship with God. (see: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Break up your unplowed ground** - Unplowed ground symbolizes what their lives were like - full of sins. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **You have plowed wickedness** - This is the other side. But in reality you have planted wrongdoing (See: [[:vi:ta:vol1:translate:figs_metaphor]]).
+  * **you reaped injustice. You have eaten the fruit of deception** - These two phrase are saying the same thing. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:10|Hosea Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:10:10|<<]] | [[:vi:bible:notes:hos:10:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

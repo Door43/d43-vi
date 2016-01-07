@@ -1,0 +1,47 @@
+====== Numbers 20:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 In March\f + \ft Or: April \f* \add of the next year\add*, the Israelite people traveled\f + \ft Or: walked \f* to the Zin Desert and camped\f + \ft Or: set up their tents \f* near Kadesh \add town\add*. While they\f + \ft Or: we \f* were there, \add Moses', Or: my older sister\add* Miriam died and was buried there.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 In March of the next year, the Israelite people traveled to the Zin Desert and camped near Kadesh. While they were there, Moses' sister Miriam died and was buried there.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 20
+\p
+\v 1 So the people of Israel, the whole community, went into the wilderness of Zin in the first month; they stayed at Kadesh. There Miriam died and was buried.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[:vi:obe:other:kadesh|Kadesh]]
+  * [[:vi:obe:other:miriam|Miriam]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:other:bury|bury, buried]]
+
+===== Translation Notes: =====
+
+  * **month **- (See also: biblical time)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:20|Numbers Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:num:19:20|<<]] | [[:vi:bible:notes:num:20:02|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

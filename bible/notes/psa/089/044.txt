@@ -1,0 +1,63 @@
+====== Psalms 089:44-45 ======
+
+===== TFT: =====
+
+<usfm>
+\v 44 You have caused his splendor to end \f + \ft Or: You have taken away his power as king ( metonymy ) \f*
+\q2 and knocked his throne to the ground.
+\q1
+\v 45 You have caused him to become old when he is still young
+\q2 and caused him to be very shamed\f + \ft Or: disgraced \f*.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 44 You have caused his splendor to end 
+\q2 and knocked his throne to the ground.
+\q1
+\v 45 You have caused him to become old when he is still young
+\q2 and caused him to be very shamed.
+
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 44 You have brought his splendor to an end;
+\q you have brought down his throne to the ground.
+\q
+\v 45 You have shortened the days of his youth.
+\q You have covered him with shame. 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:splendor]]
+  * [[:vi:obe:other:throne]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:selah]]
+
+===== Translation Notes: =====
+
+  * **you have brought down his throne to the ground.** - AT: "You, Yahweh, have ended his reign in humiliation." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **shortened the days of his youth.**  - AT: "caused him to decline quickly."
+  * **covered him with shame** - Yahweh has brought the king to complete humiliation and embarrassment. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:089|Psalms Chapter 089 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:089:041|<<]] | [[:vi:bible:notes:psa:089:046|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

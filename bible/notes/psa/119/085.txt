@@ -1,0 +1,61 @@
+====== Psalms 119:85-86 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 85 \add It is as though\add* proud people have dug deep pits for me \add to fall into\add*,
+\q2 people who do not obey your laws.
+\q1
+\v 86 All your commands are\f + \ft Or: what you have commanded is \f* trustworthy;
+\q2 but people are persecuting\f + \ft Or: causing trouble for \f* me by telling lies about me, so please help me!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 85 It is as though proud people, those who do not obey your laws, have dug deep pits for me to fall into.
+\q2
+\q1
+\v 86 All your commands are trustworthy;
+\q2 but people are persecuting me by telling lies about me, so please help me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 85 The proud have dug pits for me,
+\q defying your law.
+\q
+\v 86 All your commandments are reliable;
+\q those people persecute me wrongfully; help me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:proud|proud, pride, prideful]]
+  * [[:vi:obe:other:pit|pit]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:persecute]]
+  * [[:vi:obe:other:wrong]]
+
+===== Translation Notes: =====
+
+  * **The proud have dug pits for me**  - This refers to hunting where pits are dug to capture animals by falling into the pit. The proud are seeking to capture the psalmist or cause him to do wrong. (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:083|<<]] | [[:vi:bible:notes:psa:119:087|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

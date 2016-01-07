@@ -1,0 +1,71 @@
+====== Song of Solomon 05:2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 I was partially asleep, but my mind was still awake.
+\q2 Then I heard the one who loves me knocking \add at the door\add*.
+\q1 \add He said\add*, "\add You who are dearer to me than\add* my sister, my darling, my dear friend, my perfect one, my dove \f + \ft metaphor \f*,
+\q2 open the door for me!
+\q1 My hair is wet from the dew,
+\q2 from the mist \add that has fallen during\add* the night."
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 [The young woman speaking] I was asleep, and I had a dream.
+\q2 In it I heard my lover knocking at the door.
+\q1 He said, "You who are dearer to me than my sister, my darling, my dear friend, my perfect one, my dove,
+\q2 open the door for me!
+\q1 My hair is wet from the dew,
+\q2 from the mist that has fallen during the night."
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 2 [PART FOUR] [The young woman speaking] I was asleep, but my heart was awake in a dream.
+\q There is the sound of my beloved knocking and saying,
+\q "Open to me, my sister, my love, my dove, my undefiled one,
+\q for my head is wet with dew,
+\q my hair with the night's dampness."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[vi:obe:other:dream]]
+  * [[:vi:obe:kt:beloved]]
+  * [[vi:obe:other:sister]]
+  * [[vi:obe:kt:love]]
+  * [[vi:obe:other:dove]]
+  * [[vi:obe:kt:purify]]
+===== Translation Notes: =====
+
+The young woman uses euphemisms to describe her dream so that the way that she describes her dream can be interpreted in two different ways. In the first way, the woman describes a dream about a night when her lover came to visit her at her house. In the second way, the woman describes a dream about a time when she was beginning to have sex with her lover. (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **but my heart was awake** - AT: "but my mind was awake." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **There is the sound of my beloved knocking** - Possible interpretations are 1) the lover is knocking on the door of the young woman's house or 2) "I noticed that my beloved was pushing his penis against my vulva."
+  * **Open to me** - Possible interpretations are 1) AT: "Open the door for me" or 2) AT: "Open up your vagina for me." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **my sister** - See how you translated this in [[vi:bible:notes:sng:04:09|4:9]].
+  * **my love** - See how you translated this in [[vi:bible:notes:sng:01:09|1:0]].
+  * **My dove** - See how you translated this in [[vi:bible:notes:sng:02:14|2:14]].
+  * **undefiled one** - "my perfect one" or "my faithful one" or "my innocent one"
+  * **for my head is wet with dew** - Possible interpretations are 1) the man's head is all wet because he is standing outside during the night when the dew falls on the earth or 2) AT: "because the tip of my penis is moist with preseminal fluid." Preseminal fluid is the fluid that comes out of a man's penis right before he is ready to ejaculate. 
+  * **dew** - drops of water or mist that form during the cool of the night when the temperature drops
+  * **my hair with the night's dampness** - Possible interpretations are 1) the wet night air makes the man's hair wet because he is standing outside or 2) AT: "the end of my penis has the drops of liquid of the nighttime." Most people had sex during the nighttime, so it was during the night that the man would become aroused and begin to emit fluid from his penis. 
+  * **my head is wet with dew, my hair with the night's dampness** - This is repeated for emphasis and for the beauty of the poetry used here. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:05|Song of Solomon Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:05:01|<<]] | [[:vi:bible:notes:sng:05:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

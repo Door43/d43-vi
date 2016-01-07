@@ -1,0 +1,92 @@
+====== Lamentations 01:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 The people of \f + \ft personification \f* Jerusalem have sinned very much;
+\q2 \add it is as though\add* \f + \ft metaphor \f* the city has become like a filthy rag.
+\q1 All those who previously honored the city now despise it,
+\q2 because they see that it has become very disgraced \f + \ft metaphor \f*.
+\q1 Now \add the people of\add* the city groan,
+\q2 and they cover their faces \add because they are very ashamed\add*.
+\b
+\q1
+\v 9 The city has become filthy because of \f + \ft personification \f* the sins that the people have committed;
+\q2 they did not think about what could happen to the city.
+\q1 Now the city has been destroyed,
+\q2 and there is no one to comfort \add the people\add*.
+\q1 \add The people cry out saying\add*, "Yahweh, look at how we are suffering
+\q2 because our enemies have defeated us!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 We, the people of  Jerusalem, have sinned very much;
+\q2 our city has become like a bloody rag between a woman's legs.
+\q1 Everyone who previously honored our city now despise it;
+\q2 they are like people who strip a woman bare and then mock her.
+\q1 Now we groan in the city;
+\q2 we are like a woman without clothes who tries to cover herself with her hands.
+\b
+\q1
+\v 9 It is as if our city has become filthy because we have sinned so greatly;
+\q2 we did not think about how God would punish us.
+\q1 We did not imagine how we would suffer;
+\q2 there is no one to comfort us.
+\q1 We all call out to God, "Yahweh, look at how we are suffering
+\q2 because our enemies have defeated us!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Jerusalem sinned greatly; therefore, she has become like a menstrual rag.
+\q All that honored her now despise her since they have seen her nakedness.
+\q She groans and tries to turn away.
+\q
+\v 9 She has become unclean beneath her skirts. She did not consider her future punishment.
+\q She has gone down shockingly. She has no comforter.
+\q Look at my affliction, Yahweh, for the enemy has become too great!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:kt:sin]]
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:unclean]]
+  * [[:vi:obe:other:punish]]
+  * [[:vi:obe:other:comfort]]
+  * [[:vi:obe:kt:afflict]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:adversary]]
+===== Translation Notes: =====
+
+  * **Jerusalem sinned greatly** - This describes Jerusalem as a person who sinned, while it also stands for the inhabitants of Jerusalem. (See: [[:vi:ta:vol2:translate:figs_personification|Personification]] and [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **she has become like a menstrual rag** - According to Old Testament law, a woman was ritually unclean during her monthly bleeding. "Jerusalem's sins have made her completely unclean and unacceptable before God." (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **her nakedness** - Jerusalem is described as a woman whose genitals and other private parts have been shown to everyone to shame her. AT: "her naked" (See: [[:vi:ta:vol2:translate:figs_personification|Personification]])
+  * **She has become unclean beneath her skirts** - This is a reference to a woman's monthly bleeding that would make her unclean.
+  * **She has gone down shockingly** - AT: "Her downfall was astonishing" or "she was destroyed by surprise" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+  * **Look at my affliction, Yahweh** - Possible meanings are that 1) the author of Lamentations now talks directly to Yahweh or 2) Jerusalem is described as talking to Yahweh like a person. (See: [[:vi:ta:vol2:translate:figs_personification|Personification]])
+  * **Look at ** - AT: "Pay attention to" (See: [[:vi:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lam:01|Lamentations Chapter 01 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:01:07|<<]] | [[:vi:bible:notes:lam:01:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

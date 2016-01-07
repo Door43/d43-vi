@@ -1,0 +1,51 @@
+====== Micah 03:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Because of what you \add leaders do\add*,
+\q2 Zion Hill will be plowed like a field;
+\q1 it will become a heap of ruins\f + \ft Or: rubble \f*;
+\q2 the top of the hill, where the temple is now, will be covered with bushes.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Because of what you leaders do,
+\q2 Mount Zion will be plowed like a field;
+\q1 it will become a heap of ruins.
+\q2 The top of the hill, where the temple is now, will be covered with trees.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Therefore, because of you,
+\q Zion will be plowed like a field,
+\q Jerusalem will be a heap of ruins,
+\q and the hill of the temple will be like a forested hill.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:jerusalem|Jerusalem]]
+  * [[:vi:obe:other:ruin|ruin, ruins]]
+  * [[:vi:obe:kt:temple|temple]]
+
+===== Translation Notes: =====
+
+  * **Because of you**  - Here "you" refers to the priests, prophets, and leaders of the previous verse.
+  * **Zion will be plowed like a field, Jerusalem will be a heap of ruins, and the hill of the temple will be like a forested hill.**  - Micah means that Jerusalem will be completely destroyed. A large city with many people living there will become abandoned and grow over like a field or forest. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **Zion will be plowed like a field **- After its destruction, Jerusalem will be available to plow. AT: "Other people will plow Zion like a field." (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **and the hill of the temple will be like a forested hill.**  - Not even the temple area will be spared. The leaders have corrupted it, and it will be destroyed too.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mic:03|Micah Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:mic:03:09|<<]] | [[:vi:bible:notes:mic:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

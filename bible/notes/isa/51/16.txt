@@ -1,0 +1,72 @@
+====== Isaiah 51:16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 I have given you my message \f + \ft metonymy \f* to proclaim,
+\q2 and I have protected you by my hand \f + \ft metonymy \f*.
+\q1 I stretched out the sky
+\q2 and laid the foundation of the earth.
+\q1 And I am the one who says to you Israelite people,
+\q2 'You are my people!'~"
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 I have given you my message to proclaim,
+\q2 and I have protected you by my hand.
+\q1 I have done this in order to stretch out the sky
+\q2 and lay the foundation of the earth.
+\q1 And I have done this in order to say to you Israelites,
+\q2 'You are my people!'"
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 16 "I have placed my words in your mouth, and I have covered you in the shadow of my hand, 
+\q1 that I may plant the heavens, lay the foundations of the earth, and say to Zion, 'You are my people.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:shadow]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:heaven]]
+  * [[vi:obe:other:foundation]]
+  * [[vi:obe:other:zion]]
+  * [[vi:obe:kt:peopleofgod]]
+
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **I have placed my words in your mouth** - Here "I" refers to Yahweh and "your" refers to his servant. AT: "I have told you what to say" (See: [[vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol2:translate:figs_synecdoche]])
+    * **and I have covered you in the shadow of my hand** - AT: "and my power has kept you safe"
+    * **that I may plant the heavens** - This means the same as "stretch out the heavens." Here it emphasizes God's power to restore the heavens in the future. See how you translated a similar phrase in [[vi:bible:notes:isa:40:21|40:22]]. 
+    * **lay the foundations of the earth** - This emphasizes God's power to restore the earth in the future. See how you translated a similar phrase in [[vi:bible:notes:isa:24:17|24:18]].
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:51|Isaiah Chapter 51 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:51:14|<<]] | [[:vi:bible:notes:isa:51:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,74 @@
+====== Psalms 141:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I call out to you;
+\q2 \add please\add* help me quickly!
+\q1 Listen to me when I am calling to you.
+\q1
+\v 2 Accept my prayer as though it was incense \add being burned as an offering\add* \f + \ft simile \f* to you.
+\q2 And accept me while I lift up my hands \add to pray\add* to you
+\q2 like you accept sacrifices \add that are offered to you in the\add* evening \f + \ft simile \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I call out to you;
+\q2 please help me quickly!
+\q1 Listen to me when I am calling to you.
+\q1
+\v 2 Accept my prayer as though it were incense being burned as an offering to you.
+\q2 Accept me while I lift up my hands to pray to you,
+\q2 just as you accept sacrifices that are offered to you in the evening.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 141
+\d A psalm of David.
+\p
+\q
+\v 1 Yahweh, I am crying out to you; come quickly to me.
+\q Listen to me when I call to you.
+\q
+\v 2 May my prayer be like incense before you;
+\q may my lifted hands be like the evening sacrifice.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:pray|pray, prayer]]
+  * [[:vi:obe:other:incense|incense]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **A psalm of David** - See how you translated this in [[:vi:bible:notes:psa:003:001|3:1]] 
+  * **Listen to me when I call**  - AT: "Please hear me when I call" or "I beg you to hear me when I call"
+  * **crying out** - See how you translated this in [[:vi:bible:notes:psa:022:001|22:1]]
+  * **lifted hands**  - See how you translated this in [[:vi:bible:notes:psa:134:001|134:2]]
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:141|Psalms Chapter 141 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:140:012|<<]] | [[:vi:bible:notes:psa:141:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

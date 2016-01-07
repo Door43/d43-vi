@@ -1,0 +1,65 @@
+====== Job 34:34-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 People who have good sense, those who are wise and who listen to what I say,
+\q2 will say to me,
+\q1
+\v 35 'Job is speaking ignorantly;
+\q2 what he says is nonsense.'
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 People who have good sense, those who are wise and who listen to what I say,
+\q2 will say to me,
+\q1
+\v 35 'Job is speaking ignorantly;
+\q2 what he says is nonsense.'
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 34 Men of understanding will say to me—
+\q indeed, every wise man who hears me will say,
+\q
+\v 35 ‘Job speaks without knowledge;
+\q his words are without wisdom.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wise]]
+  * [[:vi:obe:other:know]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:34|Job Chapter 34 Comprehension Questions]]**
+**[[:vi:bible:notes:job:34:31|<<]] | [[:vi:bible:notes:job:34:36|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

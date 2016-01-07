@@ -1,0 +1,69 @@
+====== Proverbs 14:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Wise women \f + \ft personification \f* hold their families together \add by the wise things that they do\add*,
+\q2 but foolish women ruin their families by the foolish things that they do.
+\q1
+\v 2 By continually behaving\f + \ft Or: acting \f* righteously, \add people show that they\add* have an awesome respect for Yahweh;
+\q2 those who walk on crooked paths\f + \ft Or: always deceive others \f* \add show that they\add* despise him.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 A wise women holds her family together,
+\q2 but a foolish woman tears it apart by the foolish things she does.
+\q1
+\v 2 The one who honors God in the way he lives, gives to Yahweh the respect he deserves; 
+\q2 the dishonest person shows his disrespect, and he despises Yahweh. 
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 14
+\q
+\v 1 The wise women builds her house,
+\q but a foolish woman tears it down with her own hands.
+\q
+\v 2 The one who walks uprightly fears Yahweh,
+\q but the one who is dishonest in his ways despises him.
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:wise|wise, wisdom]]
+  * [[:vi:obe:other:house]]
+  * [[:vi:obe:kt:foolish|fool, foolish]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+  * **builds her house** - "builds up her house" AT: "keeps her house safe" or "makes her house better"
+  * **tears it down with her own hands** - AT: "destroys her own house with her own hands"
+  * **with her own hands** - AT: "by herself" or "by the way she behaves" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **The one who ... the one who** - AT: "The person who ... the person who"
+  * **walks uprightly** - AT: "walks in a just and honest way"
+  * **dishonest** - saying things that are not true, often with the intent to deceive
+  * **despises** - AT: "grossly disrespects" or "indicates he hates"
+  * **in his ways despises him** - The word "his" refers to the dishonest man and "him" refers to Yahweh. (See: [[:vi:ta:vol2:translate:figs_123person]])
+  * **his ways** - AT: "his way of living"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:14|Proverbs Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:13:25|<<]] | [[:vi:bible:notes:pro:14:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

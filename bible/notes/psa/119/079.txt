@@ -1,0 +1,67 @@
+====== Psalms 119:79-80 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 79 Cause those who have an awesome respect for you to come back to me
+\q2 in order that they may \f + \ft Or: specifically, those who \f* know your requirements\f + \ft Or: what you have instructed us to do \f*.
+\q1
+\v 80 Enable me to perfectly \add obey\add* your statutes\f + \ft Or: what you have decreed that we should do \f*
+\q2 in order that I may not be ashamed \add because of not doing that\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 79 Cause those who have an awesome respect for you to come back to me
+\q2 so that they may learn what you command.
+\q1
+\v 80 Enable me to perfectly obey your statutes
+\q2 so that I may not be ashamed because of not doing that.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 79 May those who honor you turn to me,
+\q those who know your covenant decrees.
+\q
+\v 80 May my heart be blameless with respect to your statutes
+\q so that I may not be put to shame.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:honor]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:blameless]]
+  * [[:vi:obe:other:statute]]
+  * [[:vi:obe:other:shame]]
+ 
+
+===== Translation Notes: =====
+
+  * **turn to me**  - AT: "come to me" or "unite with me"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:077|<<]] | [[:vi:bible:notes:psa:119:081|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

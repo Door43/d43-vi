@@ -1,0 +1,60 @@
+====== Psalms 076:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 So give to Yahweh the offerings that you promised to give to him;
+\q2 all the people of nearby people-groups should also bring gifts to him, the one who is awesome.
+\q1
+\v 12 He humbles [IDI] princes,
+\q2 and even causes great kings to be terrified.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 So give to Yahweh the offerings that you promised to give to him;
+\q2 all the people of nearby people groups should also bring gifts to him, the one who is awesome.
+\q1
+\v 12 He humbles the leaders,
+\q2 and terrifies all the kings.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Make vows to Yahweh your God and keep them.
+\q May all who surround him bring gifts to him who is to be feared.
+\q
+\v 12 He humbles the spirit of the princes;
+\q he is feared by the kings of the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:vow]]
+  * [[:vi:obe:kt:gift]]
+  * [[:vi:obe:kt:fear]]
+  * [[:vi:obe:other:humble]]
+  * [[:vi:obe:kt:spirit]]
+  * [[:vi:obe:other:prince]]
+  * [[:vi:obe:other:king]]
+ 
+
+===== Translation Notes: =====
+
+  * **him who is to be feared **- "the one whom they should fear," Yahweh
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:076|Psalms Chapter 076 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:076:010|<<]] | [[:vi:bible:notes:psa:077:001|>>]]**
+
+~~DISCUSSION~~{{tag>check book3}}
+
+~~NOCACHE~~

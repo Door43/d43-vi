@@ -1,0 +1,57 @@
+====== Judges 08:27-28 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 Gideon made\f + \ft Or: decorated \f* a sacred vest from the gold, and later he put it in his hometown, Ophrah. But soon the Israelite people started to worship the vest. So it became like a trap \f + \ft metaphor \f* for the people, \add causing them to worship it instead of worshiping only God\add*.
+
+\p
+\v 28 That is how the Israelites defeated the people from Midian. The people of Midian did not become strong enough to attack Israel again. So while Gideon was alive, there was peace in the land for forty years.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 Gideon made for the people a sacred garment that they worshiped instead of worshiping only God. Gideon and all his family sinned by worshiping it.
+
+\p
+\v 28 That is how the Israelites defeated the people from Midian. The people of Midian did not become strong enough to attack Israel again. So while Gideon was alive, there was peace in the land for forty years.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 27 Gideon made an ephod out of the earrings and put it in his city, in Ophrah, and all Israel prostituted themselves by worshiping it there. It became a trap for Gideon and for those in his house.
+\v 28 So Midian was subdued before the people of Israel and they did not raise their heads up again. And the land had peace for forty years in the days of Gideon.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Gideon]]
+  * [[:vi:obe:other:ephod]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:prostitute]]
+  * [[:vi:obe:kt:worship]]
+  * [[vi:obe:other:snare]]
+  * [[vi:obe:other:house]]
+  * [[vi:obe:other:peace]]
+===== Translation Notes: =====
+
+  * **Ophrah** - See how you translated this in [[:vi:bible:notes:jdg:06:11|6:11]].
+  * **all Israel prostituted themselves by worshiping it** - The worship of the ephod is compared to prostitution because like a prostitute gives pleasure to men who are not her husband to get money, the Israelites have given worship to something that is not their God to have success. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **It became a trap** - The worship of the ephod is compared to a trap because they thought it was good but it was harmful. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **they did not raise their heads up again** - To have a raised head is associated with having confidence. They did not have confidence in their ability to attack Israel and defeat them. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **forty years** - "40 years" (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **in the days of Gideon** - The life of Gideon is referred to by the days that made up his life. AT: "During the life of Gideon" (See:[[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:08:26|<<]] | [[:vi:bible:notes:jdg:08:29|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

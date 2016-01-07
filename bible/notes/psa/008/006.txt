@@ -1,0 +1,71 @@
+====== Psalms 008:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 You put us in charge of everything that you made;
+\q2 you gave us authority over all things—
+\q1
+\v 7 the sheep and the cattle,
+\q2 and even the wild animals,
+\q1
+\v 8 the birds, the fish,
+\q2 and everything else that swims in the seas.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 You put us in charge of everything that you made;
+\q2 you gave us authority over all things—
+\q1
+\v 7 the sheep and the cattle,
+\q2 and even the wild animals,
+\q1
+\v 8 the birds, the fish,
+\q2 and everything else that swims in the seas.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 You make him to rule over the works of your hands;
+\q you have put all things under his feet:
+\q
+\v 7 all sheep and oxen,
+\q and even the animals of the field,
+\q
+\v 8 the birds of the heavens, and the fish of the sea,
+\q everything that  passes through the currents of the seas.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:works]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:other:ox]]
+
+===== Translation Notes: =====
+
+  * **made him rule over the works ... put all things under his feet** - These two clauses express similar meanings. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **the works of your hands** - This means everything that God created. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **put all things under his feet** - This means that God gave his people authority over all creation.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:008|Psalms Chapter 008 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:008:003|<<]] | [[:vi:bible:notes:psa:008:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

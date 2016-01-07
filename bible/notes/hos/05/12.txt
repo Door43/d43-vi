@@ -1,0 +1,82 @@
+====== Hosea 05:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 I will destroy \add the people of\add* Israel like \f + \ft simile \f* \add larvae of\add* moths\f + \ft Or: cockroaches \f* destroy wool,
+\q2 and I will cause \add the people of\add* Judah to be like \f + \ft simile \f* rotten wood.
+\b
+\q1
+\v 13 When \add the leaders of\add* Israel and Judah saw that the people were suffering
+\q2 because of what \add their enemies were doing to them\add* \f + \ft metaphor \f*,
+\q1 they sent \add messages\add* to the great king of Assyria
+\q2 requesting \add his help\add*.
+\q1 But he cannot help you;
+\q2 he cannot cause you to stop suffering,
+\q2 \add because I am the one who is punishing\add* Israel and Judah.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 I will destroy Ephraim as a moth destroys wool;
+\q2 I will destroy Judah as rot destroys wood.
+\b
+\q1
+\v 13 When the people of Ephraim realized how weak they were,
+\q1 when the people of Judah realized how weak they were,
+\q2 they asked the people of Assyria for help;
+\q1 they sent messengers to the great king of Assyria
+\q2 But he could not help you;
+\q1 he could not make you strong again.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 So I will be like a moth to Ephraim,
+\q and to the house of Judah like rot.
+\q
+\v 13 When Ephraim saw his sickness,
+\q and Judah saw his wound,
+\q then Ephraim went to Assyria,
+\q and sent messengers to the great king.
+\q But he was not able to cure you
+\q or heal your wound.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ephraim]]
+  * [[:vi:obe:other:kingdomofjudah]]
+  * [[:vi:obe:other:assyria|Assyria, Assyrian, Assyrian Empire]]
+  * [[:vi:obe:other:messenger|messenger]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:other:heal|heal, cure]]
+
+===== Translation Notes: =====
+
+Yahweh is talking about Judah and Israel.
+
+  * **I will be like a moth to Ephraim, and to the house of Judah like rot **- A moth on a piece of wool and rot in a piece of wood are both destructive. Both Ephraim and Judah are guilty of idolatrous actions that come from within their hearts as they have turned away from the worship of Yahweh. Their judgment (destruction) will come from Yahweh. (see: simile/metaphor)
+  * **When Ephraim saw his sickness, and Judah saw his wound **- Both Ephraim (the northern kingdom of Israel) and Judah (the southern kingdom of Israel) realized that they would not be able to defend themselves if and when they were attacked by surrounding nations. (see: synecdoche, metonymy, and metaphor)
+  * **then Ephraim went to Assyria, and Judah sent messengers to the great king**. - Ephraim had been paying tribute (money) to Assyria so that Assyria would not attack her. Judah was also in danger, and the king of Judah (King Ahaz) sent messengers to the king of Assyria asking for protection from attacks by other nations. Neither kingdom asked Yahweh for help.
+  * **But he was not able to cure you or heal your wound.**  - The king of Assyria could not save either Ephraim or Judah. Yahweh was in control, and Yahweh was going to bring judgment on both Ephraim and Judah because they had turned to the worship of idols instead of the worship of Yahweh.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:05|Hosea Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:05:10|<<]] | [[:vi:bible:notes:hos:05:14|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

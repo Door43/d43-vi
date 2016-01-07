@@ -1,0 +1,65 @@
+====== Jeremiah 46:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then Yahweh gave to the prophet Jeremiah this message about King Nebuchadnezzar when he planned to attack Egypt \add with his army\add*:
+\q1
+\v 14 "Shout this message throughout Egypt!
+\q2 Proclaim it in Migdol, Memphis, and Tahpenes \add cities\add*!
+\q1 'Get into your positions\f + \ft Or: Line up \f* \add for the battle\add*;
+\q2 Prepare to defend yourselves,
+\q2 because everyone around you will be killed.' \f + \ft personification, metonymy \f*
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then Yahweh gave to the prophet Jeremiah this message about King Nebuchadnezzar when he planned to attack Egypt with his army:
+\q1
+\v 14 "Shout this message throughout Egypt!
+\q2 Proclaim it in the cities of Migdol, Memphis, and Tahpenes!
+\q1 'Get into your positions for the battle;
+\q2 Prepare to defend yourselves,
+\q2 because everyone around you will be killed.' 
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 This is the word that Yahweh told Jeremiah the prophet when Nebuchadnezzar king of Babylon came and attacked the land of Egypt:
+\q
+\v 14 “Report to Egypt and let it be heard in Migdol and Memphis.
+\q In Tahpanhes they have said, ‘Station yourself and take a stand, for the sword is devouring all around you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:jeremiah]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:egypt]]
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:other:devour]]
+  * [[:vi:obe:other:report|report]]
+===== Translation Notes: =====
+
+  * **Migdol, Memphis, and Tahpanhes**  - These are important military cities in Egypt. Memphis was the capitol city of Egypt. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **the sword is devouring all around you** - The word "sword" here represents the army of Babylon. The phrase "the sword is devouring" is "causing destruction." AT: "the army of Babylon is causing destruction." (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol2:translate:figs_personification]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:46|Jeremiah Chapter 46 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:46:11|<<]] | [[:vi:bible:notes:jer:46:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

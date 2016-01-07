@@ -1,0 +1,87 @@
+====== Song of Solomon 04:12-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add You who are dearer to me than\add* [MER] my sister, my bride, you are like \f + \ft metaphor \f* a garden that is locked
+\q2 \add in order that other men cannot enter it\add*;
+\q1 you are like \f + \ft metaphor \f* a spring or a fountain that is covered
+\q2 \add in order that others may not drink from it\add*.
+\q1
+\v 13 You are like \f + \ft metaphor \f* an orchard of pomegranate trees
+\q2 full of delicious fruit,
+\q2 and plenty of \add plants that produce\add* henna and nard \add spices\add*,
+\q2
+\v 14 and saffron and calamus and cinnamon
+\q2 and many other kinds of incense,
+\q2 and myrrh and aloes
+\q2 and many other fine spices.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 You who are most dear to me, you are like a garden that the owner keeps locked
+\q2 in order that other men cannot enter it;
+\q1 you are like a spring that is covered
+\q2 in order that others may not drink from it.
+\q1
+\v 13 You are like an orchard of pomegranate trees
+\q2 full of delicious fruit,
+\q2 and plenty of plants that produce henna and nard spices,
+\q2
+\v 14 saffron and calamus and cinnamon
+\q2 and many other kinds of incense,
+\q2 myrrh and aloes
+\q2 and many other fine spices.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 My sister, my bride is a garden locked up,
+\q a garden locked up, a spring that is sealed.
+\q
+\v 13 Your branches are a grove of pomegranate trees with choice fruit,
+\q and of henna and nard plants,
+\q
+\v 14 Spikenard and saffron,
+\q calamus and cinnamon with all kinds of spices,
+\q myrrh and aloes with all the finest spices.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:fountain]]
+  * [[:vi:obe:other:seal]]
+  * [[vi:obe:other:pomegranate]]
+
+===== Translation Notes: =====
+
+Solomon continues to admire and praise his wife.
+
+  * **my bride is a garden locked up** - Solomon is using a word picture to say that no one else may have his wife. She is saved sexually for him alone.  (See: [[:vi:ta:vol2:translate:figs_euphemism]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **Your branches are a grove of pomegranate trees with choice fruit, and of henna . . . with all the finest spices** - These are pictures he is using to show how desirable his bride is to him. (See: [[:vi:ta:vol1:translate:figs_metaphor]]) 
+  * **henna, nard, spikenard, saffron, calamus, cinnamon, myrrh, aloes**  - These are parts of plants used for perfumes, food flavoring, and medicines.
+  * **henna** - See how you translated this in [[vi:bible:notes:sng:01:12|1:14]].
+  * **nard** - See how you translated this in [[vi:bible:notes:sng:01:12|1:12]].
+  * **spikenard** - See how you translated this in [[vi:bible:notes:sng:04:12|4:14]]
+  * **saffron** - "Saffron" is a yellow colored spice that comes from the dried parts from the center of a certain flower. 
+  * **calamus** - a root used to aid people with stomach problems
+  * **cinnamon** - a sweet cooking spice made from the bark of a tree
+  * **myrrh** - See how you translated this in [[vi:bible:notes:sng:01:12|1:13]].
+  * **aloes** - tropical plants with thick leaves which have a thick liquid used in medicine or beauty creams 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:04|Song of Solomon Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:04:10|<<]] | [[:vi:bible:notes:sng:04:15|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

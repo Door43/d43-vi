@@ -1,0 +1,48 @@
+====== 2 Chronicles 18:19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 And Yahweh said, 'Who can persuade Ahab, the king of Israel, to go to fight against the people of Ramoth, in order that he may be killed there?'
+\p Some suggested one thing, and others suggested something else.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 And Yahweh said, 'Who can persuade Ahab, the king of Israel, to go to fight against the people of Ramoth, in order that he may be killed there?'
+\p Some suggested one thing, and others suggested something else.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Yahweh said, 'Who will entice Ahab, king of Israel, so that he may go up and fall at Ramoth Gilead?' And one individual answered in this way, and another answered in that way.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:ahab]]
+
+===== Translation Notes: =====
+
+  * **entice** - This means to attract someone by offering something appealing.
+  * **fall** - AT: "be seriously hurt" or "die" (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **one individual answered this way, and another answered in that way** - This indicates that there was more than one opinion.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:18|2 Chronicles Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:18:17|<<]] | [[:vi:bible:notes:2ch:18:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

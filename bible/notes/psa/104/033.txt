@@ -1,0 +1,55 @@
+====== Psalms 104:33-34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 I will sing to Yahweh as long as I live\f + \ft Or: throughout my entire life \f*.
+\q2 I will praise my God until the day that I die.
+\q1
+\v 34 I hope that Yahweh will be pleased by all these things that I have thought \add about him\add*,
+\q2 because I rejoice about \add knowing\add* him.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 I will sing to Yahweh as long as I live.
+\q2 I will praise my God until the day that I die.
+\q1
+\v 34 May Yahweh be pleased by all these things that I have thought about him
+\q2 because I rejoice about knowing him.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 33 I will sing to Yahweh all my life;
+\q I will sing praise to my God as long as I live.
+\q
+\v 34 May my thoughts be sweet to him;
+\q I will rejoice in Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:other:rejoice|rejoice]]
+
+===== Translation Notes: =====
+
+  * **my thoughts be sweet** - He is comparing his thoughts to something that tastes sweet. AT: "my thoughts be pleasing' or "my thoughts please" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:104|Psalms Chapter 104 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:104:031|<<]] | [[:vi:bible:notes:psa:104:035|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Proverbs 14:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Those who quickly become angry [IDI] do foolish things;
+\q2 people hate those who plan to do wicked things \f + \ft Or: those who have good sense remain calm( Or: patient ) \f*.
+\b
+\q1
+\v 18 Foolish people get what they deserve for doing foolish things;
+\q2 those with good sense are rewarded \f + \ft metaphor \f* by being able to learn much.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Those who get angry quickly do foolish things;
+\q2 people hate those who make evil plans.
+\b
+\q1
+\v 18 Those who have not been instructed have foolishness handed to them;
+\q2 those who have learned a little knowledge are surrounded by it. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 One who is quick to become angry does foolish things,
+\q and a person who makes evil schemes is hated.
+\q
+\v 18 The untaught inherit foolishness,
+\q but the prudent are surrounded by knowledge.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:angry]]
+  * [[:En:obe:kt:foolish]]
+  * [[:En:obe:kt:evil]]
+  * [[:En:obe:kt:inherit]]
+  * [[:En:obe:other:know]]
+
+===== Translation Notes: =====
+
+
+    * **One who** - AT: "A person who"
+    * **is quick to become angry** - "becomes angry quickly"
+    * **untaught** - AT: "young and naïve"
+    * **inherit foolishness** - AT: "will only have foolishness" or "will always be foolish" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **the prudent** - "the wise" AT: "prudent men"
+    * **are surrounded by knowledge** - AT: "always have the knowledge they need available"
+     
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:pro:14|Proverbs Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/14/15|<<]] | [[en/bible/notes/pro/14/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

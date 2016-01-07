@@ -1,0 +1,54 @@
+====== Nehemiah 11:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Altogether, there were 242 members of that clan who were leaders of the clan \add who settled in Jerusalem\add*.
+\p Another \add priest who settled in Jerusalem\add* was Amashsai the son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer.
+\v 14 There were 128 members of that clan who were valiant soldiers \add who settled in Jerusalem\add*. Their leader was Zabdiel the son of Haggedolim.
+\b
+\m
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Altogether, there were 242 members of that clan who were leaders of the clan who settled in Jerusalem.
+\p Another priest who settled in Jerusalem was Amashsai the son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer.
+\v 14 There were 128 members of that clan who were valiant soldiers who settled in Jerusalem. Their leader was Zabdiel the son of Haggedolim.
+\b
+
+
+\m
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 And there were his associates who were heads of families, 242 men, and Amashsai, the son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer,
+\v 14 and their brothers, courageous fighting men, 128 in number; their leading officer was Zabdiel, the son of Haggedolim.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:head|head]]
+  * [[:vi:obe:other:family|family]]
+  * [[:vi:obe:kt:son|son]]
+
+===== Translation Notes: =====
+
+  * **And there were his associates who were heads of families**  - "And his brothers were heads of clans" or "And his kinsmen were heads of clans"
+  * **his associates**  - Here "his" refers to Adaiah, the son of Jeroham. (See [[:vi:bible:notes:neh:11:10|11:12]])
+  * **242 men**  - See how you translated numbers in [[:vi:bible:notes:neh:07:11|07:11-14]].
+  * **Amashsai…Azarel…Ahzai…Meshillemoth…Immer…Zabdiel…Haggedolim**  - These are male names (See: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
+  * **courageous fighting men**  - "valiant warriors" or "courageous warriors"
+  * **128**  - See how you translated numbers in [[:vi:bible:notes:neh:07:11|07:11-14]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:11|Nehemiah Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:11:10|<<]] | [[:vi:bible:notes:neh:11:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

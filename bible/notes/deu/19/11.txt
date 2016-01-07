@@ -1,0 +1,64 @@
+====== Deuteronomy 19:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 But suppose someone hates his enemy and hides and waits for that person \add to come along the road\add*. Then \add when he passes by, suddenly\add* he attacks him and murders him. If the attacker flees to one of those cities \add to be protected there\add*,
+\v 12 the elders of the city \add where the murdered man lived must not protect the attacker\add*. They must send someone to the city to which the other man escaped, and bring him to \f + \ft metonymy \f* the relative who is supposed\f + \ft Or: expected \f* to get revenge, so that he may execute that man.
+\v 13 You must not pity those who murder other people! Instead, you must \add execute them\add*, in order that the people in the land of Israel will not be punished \f + \ft metonymy \f* for murdering innocent people, and in order that things will go well for you.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 But suppose someone hates his enemy and hides and waits for that person to come along the road. Then when he passes by, suddenly he attacks him and murders him. If the attacker flees to one of those cities to be protected there,
+\v 12 the elders of the city where the murdered man lived must not protect the attacker. They must send someone to the city to which the other man escaped, and bring him to  to get revenge, so that he may execute that man.
+\v 13 You must not pity those who murder other people! Instead, you must execute them, in order that the people in the land of Israel will not be punished  for murdering innocent people, and in order that things will go well for you.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 But if anyone hates his neighbor, lies in wait for him, rises up against him, and mortally wounds him so that he dies, and if he then flees into one of these cities—
+\v 12 then the elders of his city must send and bring him back from there, and turn him over into the hand of the responsible relative, so that he may die.
+\v 13 Your eye must not pity him; instead, you must eradicate the bloodguilt from Israel, that it may go well with you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:neighbor]]
+  * [[vi:obe:kt:death]]
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:israel]]
+
+===== Translation Notes: =====
+
+  * **lies in wait for him**   - "hides and waits for him." This implies that the man waits for his neighbor to come, so that he can kill him. AT: "hides and waits in order to kill him" or "plans to kill him." (See: [[:vi:ta:vol1:translate:figs_explicit]]) 
+  * **rises up against him**  - AT: "attacks him." (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **and mortally wounds him so that he dies**  - "and hurts him so that he dies" or "and kills him" 
+  * **must send and bring him back from there**  - "must send someone to get him and bring him back from the city that he escaped to" 
+  * **turn him over**  - AT: "give him." 
+  * **into the hand of**  - The hand represents the authority, or responsibility. AT: "to the authority of" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+   * **your eye must not pity**  - The eye represents the person's thoughts and feelings which think about letting the man live. AT: "do not let him live." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **you must eradicate the bloodguilt from Israel**  - "you must remove the guilt of murder from Israel" 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:19|Deuteronomy Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:19:08|<<]] | [[:vi:bible:notes:deu:19:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,77 @@
+====== Psalms 031:14-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 But Yahweh, I trust in you.
+\q2 You are my God.
+\q1
+\v 15 My whole life \f + \ft metonymy \f* is in your hands;
+\q2 save me from my enemies,
+\q2 from those who pursue me.
+\q1
+\v 16 Act kindly toward me
+\q2 and rescue me because you always faithfully love me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 But Yahweh, I trust in you.
+\q2 I say confidently that you are the God I worship.
+\q1
+\v 15 My whole life is in your hands;
+\q2 save me from my enemies,
+\q2 from those who pursue me.
+\q1
+\v 16 Act kindly toward me
+\q2 and rescue me because you always faithfully love me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 But I trust in you, Yahweh;
+\q I say, "You are my God."
+\q
+\v 15 My destiny is in your hand.
+\q Rescue me from the hands of my enemies and from those who pursue me.
+
+
+
+\q
+\v 16 Make your face shine on your servant;
+\q save me in your covenant faithfulness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:destiny]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:save]]
+  * [[:vi:obe:kt:covenantfaith]]
+
+===== Translation Notes: =====
+
+  * **from those who pursue me** - AT: "from those who try to capture me"
+  * **My destiny is in your hand** - AT: "You will decide my future." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **Make your face shine on your servant** - AT: "Treat me kindly;" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:031|Psalms Chapter 031 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:031:012|<<]] | [[:vi:bible:notes:psa:031:017|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

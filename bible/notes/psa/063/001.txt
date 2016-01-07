@@ -1,0 +1,70 @@
+====== Psalms 063:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, you are the God whom I \add worship\add*.
+\q1 I greatly desire to be with you
+\q2 like [SIL] a person in a dry hot desert greatly desires \add some water\add*.
+\b
+\q1
+\v 2 So, I want to see you in your temple;
+\q1 I want to see that you are great and glorious.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, you are the God whom I worship.
+\q1 I greatly desire to be with you
+\q2 as a a person in a dry hot wilderness greatly desires some water.
+\b
+\q1
+\v 2 I have been with you in your temple
+\q1 In order to see that you are loving and powerful.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 63
+\d A psalm of David, when he was in the wilderness of Judah.
+\b
+\q
+\v 1 God, you are my God; I will seek you earnestly;
+\q my soul thirsts for you, and my flesh longs for you
+\q in a dry and weary land where there is no water.
+\q
+\v 2 So I have looked on you in the sanctuary
+\q to see your power and your glory.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm|psalm]]
+  * [[:vi:obe:other:david|David]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:kt:flesh|flesh]]
+  * [[:vi:obe:kt:sanctuary|sanctuary]]
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:kt:glory|glory, glorious]]
+
+===== Translation Notes: =====
+
+  * **A psalm of David**- This can also be written as a sentence. AT: “This is a psalm of David" or “This is a psalm that David wrote”
+  * **my soul thirsts for you, and my flesh longs...no water**:- David really needs God. He compares his need for God to his need for water. (See: Idiom)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:063|Psalms Chapter 063 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:062:011|<<]] | [[:vi:bible:notes:psa:063:003|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

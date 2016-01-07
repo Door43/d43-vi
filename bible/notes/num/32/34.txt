@@ -1,0 +1,44 @@
+====== Numbers 32:34-36 ======
+
+===== TFT: =====
+
+<usfm>
+\v 34 The people of the tribe of Gad rebuilt Dibon, Ataroth, Aroer,
+\v 35 Atroth-Shophan, Jazer, Jogbehah,
+\v 36 Beth-Nimrah, and Beth-Haran cities. Those were cities with strong walls around them. And they also built pens for their sheep.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 34 The people of the tribe of Gad rebuilt Dibon, Ataroth, Aroer,
+\v 35 Atroth Shophan, Jazer, Jogbehah,
+\v 36 Beth Nimrah, and Beth Haran cities. Those were cities with strong walls around them. And they also built pens for their sheep.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 34 The descendants of Gad rebuilt Dibon, Ataroth, Aroer,
+\v 35 Atroth Shophan, Jazer, Jogbehah,
+\v 36 Beth Nimrah, and Beth Haran as fortified cities with pens for sheep.
+</usfm>
+
+===== Important Terms: =====
+
+  * fortified
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:32|Numbers Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:num:32:33|<<]] | [[:vi:bible:notes:num:32:37|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

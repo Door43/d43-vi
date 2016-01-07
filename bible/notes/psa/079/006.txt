@@ -1,0 +1,64 @@
+====== Psalms 079:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Instead of being angry with us\add*,
+\q2 be angry with the people-groups that do not know\f + \ft Or: worship \f* you!
+\q1 Be angry with kingdoms whose people do not pray to you,
+\q2
+\v 7 because they have killed Israelite people
+\q2 and they have ruined your country.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Instead of being angry with us,
+\q2 be angry with the people groups that do not know you!
+\q1 Be angry with kingdoms whose people do not pray to you
+\q2
+\v 7 because they have killed Israelite people
+\q2 and they have ruined your country.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Pour out your wrath on the nations that do not know you
+\q and on the kingdoms that do not call upon your name.
+\q
+\v 7 For they have devoured Jacob
+\q and destroyed his villages.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wrath|wrath]]
+  * [[vi:obe:other:nation]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:other:devour|devour]]
+  * [[:vi:obe:other:jacob|Jacob, Israel]]
+
+===== Translation Notes: =====
+
+These two pairs of phrases each share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **they have devoured Jacob**  - This describes the enemies of God's people eating them completely. (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:079|Psalms Chapter 079 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:079:004|<<]] | [[:vi:bible:notes:psa:079:008|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

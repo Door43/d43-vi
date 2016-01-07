@@ -1,0 +1,63 @@
+====== 2 Kings 15:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Then Shallum, the son of Jabesh, made plans to assassinate Zechariah. He killed him at Ibleam \add town\add*, and then he became the king.
+\v 11 Everything else that Zechariah did is written in the book named 'The History of the Kings of Israel.'
+\v 12 When Zechariah died, \add that ended the dynasty of King Jehu\add*. That fulfilled what Yahweh said to King Jehu would happen: "Your son and grandson and great-grandson and great-great-grandson will all be kings of Israel."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then Shallum son of Jabesh, made plans to assassinate Zechariah. He killed him in the city of Ibleam, and then he became the king.
+\v 11 Everything else that Zechariah did is written in the Book of the Events of the Kings of Israel.
+\v 12 When Zechariah died, the dynasty of King Jehu was finished. This fulfilled what Yahweh said to King Jehu would happen, "Your son and grandson and great-grandson and great-great-grandson will all be kings of Israel."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Shallum the son of Jabesh conspired against Zechariah, attacked him in front of the people, and killed him. Then he became king in his place.
+\v 11 As for the other matters concerning Zechariah are written in The Book of the Events of the Kings of Israel.
+\v 12 This was the word of Yahweh that he spoke to Jehu, saying, "Your descendants will sit on the
+throne of Israel to the fourth generation." And so it happened.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wordofgod]]
+  * [[:vi:obe:other:jehu]]
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:throne]]
+  * [[:vi:obe:other:generation]]
+
+===== Translation Notes: =====
+
+  * **Then he became king in his place** - "Then Shallum became king in Zechariah's place." 
+  * **This was the word of Yahweh that he spoke to Jehu, saying, "Your descendants will sit on the throne of Israel to the fourth generation."** - AT: "This is what Yahweh said to Jehu: 'Your descendants will be the kings of Israel for four generations.'"  (See: [[:vi:ta:vol1:translate:figs_explicit]])  
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2ki:15|2 Kings Chapter 15 Comprehension Questions]]**
+
+**[[en/bible/notes/2ki/15/08|<<]] | [[en/bible/notes/2ki/15/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>text publish}}
+
+~~NOCACHE~~

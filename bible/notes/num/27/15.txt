@@ -1,0 +1,49 @@
+====== Numbers 27:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then Moses\f + \ft Or: I \f* said this to Yahweh:
+\v 16 "Yahweh, you are the God who directs the spirits of all people. So please appoint a new leader for the Israelite people.
+\v 17 Appoint someone who will lead your people when they go to fight a battle, so that they will not \add just wander around\add* like sheep that do not have a shepherd." \f + \ft simile \f*
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then Moses said this to Yahweh,
+\v 16 "Yahweh, you are the God who directs the spirits of all people. So please appoint a new leader for the Israelite people.
+\v 17 Appoint someone who will lead your people when they go to fight a battle, so that they will not just wander around like sheep that do not have a shepherd." 
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Then Moses spoke to Yahweh and said,
+\v 16 "May you, Yahweh, the God of the spirits of all humanity, appoint a man over the community,
+\v 17 a man who may go out and come in before them and lead them out and bring them in, so that your community is not like sheep that have no shepherd."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:spirit|spirit, spiritual]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:other:shepherd|shepherd, to shepherd]]
+
+===== Translation Notes: =====
+
+  * **a man who may go out and come in before them and lead them out and bring them in**  - AT: "Appoint someone who will lead your people when they go to fight a battle" (UDB)
+  * **so that your community is not like sheep that have no shepherd**  - The community is being compared to a group of sheep without a leader, or shepherd.  AT:  "so that your people have a leader and do not wander."  (See: Similie)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:27|Numbers Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:num:27:12|<<]] | [[:vi:bible:notes:num:27:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

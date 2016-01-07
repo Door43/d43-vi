@@ -1,0 +1,56 @@
+====== Psalms 018:33-34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 He enables me to \add walk swiftly without stumbling\add*,
+\q2 like a deer walks\f + \ft Or: runs \f* in the mountains.
+\q1
+\v 34 He teaches me how to use a strong\f + \ft Or: metal \f* bow
+\q2 in order that I can use it to fight in battles.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 He enables me to walk swiftly without stumbling as a deer walks in the mountains.
+\q1
+\v 34 He teaches me how to use a strong bow in order that I can use it to fight in battles.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 33 He makes my feet swift like a deer and places me on the mountains!
+\q
+\v 34 He trains my hands for war and my arms to bend a bow of bronze.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:deer]]
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:bronze|bronze]]
+===== Translation Notes: =====
+
+  * **makes my feet swift** - "makes my feet very fast" AT: "makes me run very fast" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **like a deer and places me on the mountains** - The deer is especially quick and stable in the mountains. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **He trains my hands** - AT: "He trains me" (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **my arms** - AT: "me" (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **to bend a bow of bronze** - AT: "to prepare a bow of bronze for shooting"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:030|<<]] | [[:vi:bible:notes:psa:018:035|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

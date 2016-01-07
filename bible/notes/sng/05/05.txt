@@ -1,0 +1,56 @@
+====== Song of Solomon 05:5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 I got up to open \add the door\add* for the one who loves me,
+\q2 \add but first I put a lot of\add* myrrh on my hands.
+\q1 The myrrh was dripping from my fingers
+\q2 while I unlatched the bolt.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 I got up to open the door for him,
+\q2 but first I put a lot of myrrh on my hands.
+\q1 It was dripping from my fingers
+\q2 while I unlatched the bolt.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 I got up to open the door for my beloved;
+\q my hands were dripping with myrrh,
+\q my fingers with moist myrrh,
+\q on the door handle.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:beloved]]
+  * [[vi:obe:other:myrrh]]
+
+===== Translation Notes: =====
+
+  * **I got up to open the door for my beloved** - Possible meanings are 1) the young woman got out of bed in order to let her beloved into the house or 2) "I prepared myself in order to open up myself sexually to my beloved." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **my hands** - Possible meanings are 1) the young woman is referring to her hands or 2) the word "hands" is used as a euphemism for the labia major. AT: "my outer labia." (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+  * **were dripping with myrrh** - Possible meanings are 1) the young woman put myrrh on her hands as a perfume when she got up to meet he beloved at the door or 2) the young woman compares the arousal fluid coming from her labia with the myrrh that oozes out of myrrh trees. AT: "were oozing arousal fluid." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **my fingers** - The word "fingers" likely refers to both the inner and outer labia of a woman.
+  * **with moist myrrh** - "with abundant myrrh"
+  * **on the door handle** - Possible meanings are 1) the myrrh that the woman put on her hands dripped on the handle for the lock of the door or 2) the phrase "door handle" refers to the inner labia of a woman, AT: "my inner labia are dripping with abundant arousal fluid." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:sng:05|Song of Solomon Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:sng:05:03|<<]] | [[:vi:bible:notes:sng:05:06|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

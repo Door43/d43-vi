@@ -1,0 +1,51 @@
+====== Ecclesiastes 04:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 But then some other young man becomes king, and everyone starts to support\f + \ft Or: is pleased with \f* him.
+\v 16 Large crowds of people crowd around him. But after a few years, they will reject him, too. So it is all senseless, like chasing after the wind.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 But then some other young man becomes king, and everyone starts to support him.
+\v 16 Large crowds of people crowd around him. But after a few years, they will be tired of him, too. So it is all senseless, like trying to control the wind.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 However, I saw everyone who was alive and walking around  under the sun submitting themselves to another young man who rose up as king.
+\v 16 There is no end to all the people who want to obey the new king, but later many of them will no longer praise him. Surely this situation is vapor and an attempt to shepherd the wind.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:walk]]
+  * [[vi:obe:other:submit]]
+  * [[vi:obe:kt:raise]]
+  * [[vi:obe:other:obey]]
+  * [[vi:obe:other:praise]]
+  * [[:En:obe:other:shepherd]] 
+
+===== Translation Notes: =====
+ Instead of choosing the wise youth, the people choose the king's son who may not be any wiser.
+
+  * **alive and walking around** - The words "alive" and "walking around" mean basically the same thing and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol1:translate:figs_idiom]])
+  * **There is no end to all the people** - AT: "There are very many people" (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+  * **vapor and an attempt to shepherd the wind** - See how you translated this in [[vi:bible:notes:ecc:01:12|1:14]].
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:ecc:04|Ecclesiastes Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:ecc:04:13|<<]] | [[:vi:bible:notes:ecc:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

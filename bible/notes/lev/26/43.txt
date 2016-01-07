@@ -1,0 +1,44 @@
+====== Leviticus 26:43 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 But \add before that happens\add*, my people will be forced to leave their land, with the result that the land will be able to rest while it is desolate and while the people are being punished for rejecting my laws and hating my decrees \f + \ft doublet \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 But before that happens, my people will be forced to leave their land, with the result that the land will be able to rest while no one is in it, and while I am punishing the people for rejecting my laws and hating my decrees.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 43 The land will be abandoned by them, so it will be pleased with its Sabbaths while it lies abandoned without them. They will have to pay the penalty for their sins  because they rejected my decrees and detested my laws.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reject]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:lawofmoses]]
+ 
+
+===== Translation Notes: =====
+
+  * **The land will be abandoned by them** - AT: "The people of Israel will abandon their land" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **so it will be pleased with its Sabbaths** - Yahweh speaks about the land as if it were a person who is happy about resting. This means while the people are in exile no one will plant seed or grow crops. This allows the land to rest. (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:26|Leviticus Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:26:40|<<]] | [[:vi:bible:notes:lev:26:44|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

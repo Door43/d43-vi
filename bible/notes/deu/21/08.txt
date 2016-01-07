@@ -1,0 +1,60 @@
+====== Deuteronomy 21:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Yahweh, forgive us, your Israelite people whom you rescued \add from Egypt\add*. Do not consider us to be guilty\f + \ft Or: that we should be punished because \f* of murdering someone who is innocent\f + \ft Or: had not done something that is wrong \f*. Instead, forgive us.'
+\v 9 By doing that, you will be doing what Yahweh considers to be right, and you will not be considered to be guilty for murdering that person.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Yahweh, forgive us, your Israelite people whom you rescued from Egypt. Do not consider us to be guilty. Instead, forgive us.'
+\v 9 By doing that, you will be doing what Yahweh considers to be right, and you will not be considered to be guilty for murdering that person.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 Forgive, Yahweh, your people Israel, whom you have redeemed, and do not put guilt for innocent bloodshed in the midst of your people Israel." Then the bloodshed will be forgiven them.
+\v 9 In this way you will put away the innocent blood from your midst, when you do what is right in the eyes of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:forgive]]
+  * [[vi:obe:other:israel]]
+  * [[:vi:obe:kt:redeem]]
+  * [[:vi:obe:kt:guilt]]
+  * [[:vi:obe:kt:innocent]]
+  * [[vi:obe:other:bloodshed]]
+  * [[vi:obe:kt:blood]]
+
+===== Translation Notes: =====
+
+Moses continues to tell the elders what they should say when they wash their hands over the heifer.
+
+  * **and do not put guilt for innocent bloodshed in the midst of your people Israel**  - "and do not treat your people Israel like they are guilty for killing an innocent person"
+  * **Then the bloodshed will be forgiven them** - AT: "Then Yahweh will forgive his people Israel for the killing of an innocent person." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **you will put away the innocent blood from your midst**  - "you will not be guilty any more of killing the innocent person"
+  * **what is right in the eyes of Yahweh**  - The eyes of Yahweh represent his thoughts. AT: "what Yahewh thinks is right." (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:21:06|<<]] | [[:vi:bible:notes:deu:21:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

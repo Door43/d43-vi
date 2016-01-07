@@ -1,0 +1,58 @@
+====== Exodus 37:27-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 He made two gold rings for carrying the altar. Then he attached them to the altar below the border, one on each side of the altar. The poles by means of which the altar was to be carried were \add to be inserted into\add* those rings.
+\v 28 He made those \add two\add* poles from acacia wood and covered them with gold.
+\v 29 He also made the sacred oil for anointing and the pure sweet-smelling incense. He mixed the incense together as a skilled perfumer would.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 Bezalel and his men made two gold rings for carrying the altar. Then they attached them to the altar below the border, one on each side of the altar. The poles for carrying the altar fit into those rings.
+\v 28 They made those two poles from acacia wood and covered them with gold.
+\v 29 They also made the sacred oil for anointing and the pure sweet-smelling incense. A skilled perfumer mixed the incense together.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 27 He made two golden rings to be attached to it under its border on its two opposite sides. The rings were holders for poles to carry the altar.
+
+\v 28 He made the poles of acacia wood, and he covered them with gold.
+
+
+\v 29 He made the holy anointing oil and the pure fragrant incense, the work of a perfumer.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:gold]]
+  * [[vi:obe:other:altar]]
+  * [[vi:obe:other:acacia]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:kt:anoint]]
+  * [[:vi:obe:other:oil]]
+  * [[vi:obe:kt:purify]]
+  * [[vi:obe:other:incense]]
+  * [[:vi:obe:kt:works]]
+
+===== Translation Notes: =====
+
+Bezalel's work crew continues to build the tabernacle and furniture
+
+
+  * **He made two golden rings...with gold** - For 37:27-28 see how you translated many of these words in [[vi:bible:notes:exo:30:03|30:4]] and [[vi:bible:notes:exo:30:05|30:5]]
+  * **to be attached to it** - AT: "which they attached to the altar" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **the work of a perfumer** - See how you translated this in [[vi:bible:notes:exo:30:22|30:25]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:37|Exodus Chapter 37 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:37:25|<<]] | [[:vi:bible:notes:exo:38:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

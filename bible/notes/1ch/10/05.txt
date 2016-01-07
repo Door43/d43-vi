@@ -1,0 +1,44 @@
+====== 1 Chronicles 10:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 When the man carrying his weapons saw that Saul was dead, he also threw himself on his own sword and died.
+\v 6 So Saul and three of his sons all died, and none of his descendants ever became king.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 When the man carrying his weapons saw that Saul was dead, he also threw himself on his own sword and died.
+\v 6 So Saul and three of his sons all died, and none of his descendants ever became king.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 5 When his armor bearer saw that Saul was dead, he likewise fell on his sword and died.
+\v 6 So Saul died, and his three sons, so all his household members died together.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:household]]
+
+===== Translation Notes: =====
+
+  * **and his three sons** - AT: "and his 3 sons died" (See: [[:vi:ta:vol2:translate:figs_ellipsis]] and [[vi:ta:vol2:translate:translate_numbers]])
+  * **so all his household members** - AT: "and all the members of his household"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:10|1 Chronicles Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:10:04|<<]] | [[:vi:bible:notes:1ch:10:07|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

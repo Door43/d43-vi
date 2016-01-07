@@ -1,0 +1,56 @@
+====== 1 Chronicles 28:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then David gave to his son Solomon \add the scroll on which were written\add* the plans for the main rooms of the temple, its porch, its storerooms, all the other upper and lower rooms, and the Very Holy Place where God forgive the sins that people have committed.
+\v 12 David wrote for him the plans that God's Spirit had put into his mind for building the courtyards and all the rooms that surrounded the temple, including the room where the money and other valuable things that were dedicated to God were kept.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then David gave to his son Solomon the scroll on which were written the plans for the main rooms of the temple, its porch, its storerooms, all the other upper and lower rooms, the holy place, and the very holy place having the sacred chest and its lid.
+\v 12 David wrote for him the plans that he had made for building the courtyards and all the rooms that surrounded the temple, including the room where the money and other valuable things that were dedicated to God were kept.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Then David gave to Solomon his son the design of the temple portico, and the temple's buildings, storerooms, upper rooms, 
+inner rooms, and the room with the atonement lid.
+\v 12 He gave him the plans he had for drawn for the courtyards of Yahweh's house, all the surrounding rooms, the storerooms in God's house, and the treasuries of the things consecrated for the temple.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:david]]
+  * [[vi:obe:other:solomon]]
+  * [[vi:obe:kt:temple]]
+  * [[:vi:obe:kt:atonementlid]]
+  * [[vi:obe:kt:houseofgod]]
+  * [[:vi:obe:kt:consecrate]]
+
+===== Translation Notes: =====
+
+  * **temple portico** - a row of columns or pillars that hold up the roof at the entrance of the temple
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:1ch:28|1 Chronicles Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/28/09|<<]] | [[en/bible/notes/1ch/28/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

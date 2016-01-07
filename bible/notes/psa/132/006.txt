@@ -1,0 +1,70 @@
+====== Psalms 132:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 In Bethlehem we heard news about the sacred chest.
+\q2 We \add went and\add* found it in the fields of Jearim \add city, and we took it to Jerusalem\add*.
+\q1
+\v 7 \add Later we said\add*, "Let's go to the temple of Yahweh \add in Jerusalem\add*;
+\q2 let's worship \add there\add* in front of the throne \add where he is sitting\add*."
+\q1
+\v 8 Yahweh, come to the place where you live eternally,
+\q2 to the place where your sacred chest is,
+\q2 to that place that shows that you are very powerful.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 In Ephrathah we heard where  the sacred chest was.
+\q2 So we went and found it near the city of Kiriath Jearim, and we took it to Jerusalem.
+\q1
+\v 7 Later we said, "Let's go to the sacred tent of Yahweh in Jerusalem;
+\q2 let's worship there in front of the throne where he is sitting."
+\q1
+\v 8 Yahweh, come to the place where you live eternally,
+\q2 to the place where your sacred chest is,
+\q2 to the place that shows that you are very powerful.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 See, we heard about it in Ephrathah;
+\q we found it in the fields of Jaar.
+\q
+\v 7 We will go into God's tabernacle;
+\q we will worship at his footstool.
+\q
+\v 8 Arise, Yahweh; come to your resting place.
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:other:footstool]]
+  * [[:vi:obe:kt:raise]]
+
+===== Translation Notes: =====
+
+  * **we heard about it in Ephrathah**- AT: "those of us  people of Israel who were in Ephrathah heard about the sacred chest"
+  * **fields of Jaar**- the fields where people's animals grazed near a town whose name means Forest (ULB) or City of Forests (UDB) (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **we will worship at his footstool** - AT: "we will worship him as our king" (See: [[:vi:ta:vol2:translate:figs_metonymy]]) 
+  * **your resting place** - the sacred tent where they worship God (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:132|Psalms Chapter 132 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:132:003|<<]] | [[:vi:bible:notes:psa:132:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish  book5}}
+
+~~NOCACHE~~

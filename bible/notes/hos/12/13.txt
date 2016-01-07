@@ -1,0 +1,65 @@
+====== Hosea 12:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 \add Many years later\add*, Yahweh enabled a prophet to bring the \add ancestors of you\add* people of Israel here from Egypt;
+\q2 that prophet, \add Moses\add*, took care of them.
+\q1
+\v 14 \add But now the people of\add* Israel have caused Yahweh to become very angry;
+\q2 Yahweh says that they deserve to die because they caused \add many others\add* to die \f + \ft metonymy \f*;
+\q2 he will pay them back for the sins that they have committed against him and for insulting him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh used the prophet Moses to bring Israel out of Egypt,
+\q2 and he took care of them by the prophet who led them. 
+\q1
+\v 14 The people of Israel have caused Yahweh to become very angry;
+\q2 their Lord says that they are guilty of the death of many, and that their guilt remains on them. 
+\q2 He will pay them back because they have insulted him with their shameful deeds.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Yahweh brought Israel out of Egypt by a prophet,
+\q and by a prophet he took care of them.
+\q
+\v 14 Ephraim has bitterly provoked Yahweh to anger.
+\q So his Lord will leave the guilt of his blood on him
+\q and will repay him for his disgraceful deeds.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * [[:vi:obe:kt:guilt|guilt, guilty]]
+  * [[:vi:obe:kt:blood|blood]]
+
+===== Translation Notes: =====
+
+Hosea the prophet is speaking.
+
+  * **So his Master will leave the guilt of his blood on him** - As shown in the UDB translation, this phrase is saying that these people did many sins against their Master and he is not going to try get rid of them. (UDB) (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:12|Hosea Chapter 12 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:12:11|<<]] | [[:vi:bible:notes:hos:13:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

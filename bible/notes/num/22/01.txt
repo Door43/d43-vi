@@ -1,0 +1,46 @@
+====== Numbers 22:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then the Israelites traveled west to the area of Moab that was in the valley of the Jordan \add River\add*, across the river from Jericho \add city\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then the Israelites traveled west to the plain of Moab that was in the valley of the Jordan River, across the river from Jericho.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 22
+\nb
+\v 1 The people of Israel traveled on until they camp in the plains of Moab near Jericho, on the other side of the Jordan River from it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:other:moab|Moab, Moabite, Moabitess]]
+  * [[:vi:obe:other:jericho|Jericho]]
+  * [[:vi:obe:other:jordanriver|Jordan River]]
+
+===== Translation Notes: =====
+
+  * **on the other side of the Jordan River from it** - The Israelites were camped on the east side of the Jordan River. Jericho was on the west side of the river.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:22|Numbers Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:num:21:33|<<]] | [[:vi:bible:notes:num:22:02|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

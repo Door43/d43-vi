@@ -1,0 +1,62 @@
+====== Psalms 055:22-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 Put your troubles in Yahweh's hands,
+\q2 and he will take care of you;
+\q1 he will never allow righteous people to experience disasters.
+\q1
+\v 23 God, you will cause murderers \f + \ft metonymy \f* and liars to die before they have lived half as long as they expect to live;
+\q2 but as for me, I will trust in you.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 Put your troubles in Yahweh's hands,
+\q2 and he will take care of you;
+\q1 he will never allow righteous people to experience disasters.
+\q1
+\v 23 God, you will cause murderers and liars to die before they have lived half as long as they expect to live;
+\q2 but as for me, I will trust in you.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 Place your burdens on Yahweh, and he will sustain you;
+\q he will never allow a righteous person to fall.
+\q
+\v 23 But you, God, will bring the wicked down into the pit of destruction;
+\q bloodthirsty and deceitful men will not live even half as long as others,
+\q but I will trust in you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:burden|burden]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[vi:obe:kt:evil]]
+  * [[:vi:obe:other:pit|pit]]
+  * [[:vi:obe:kt:deceive|deceive, deceived, deceiver, deception, deceptive, deceitful]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+
+===== Translation Notes: =====
+
+  * **your, you -**  David is speaking to other godly people.
+  * **he **- Refers to God.
+  * **a righteous person to fall.**- AT: "the righteous to be moved from his faith."
+  * **vs 23 **- David turns to talk directly to God.
+  * **bloodthirsty**  - This is someone who is eager to hurt and enjoys the sight of violence and bloodshed.
+  * **I - ** David speaks for himself.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:055|Psalms Chapter 055 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:055:020|<<]] | [[:vi:bible:notes:psa:056:001|>>]]**
+
+~~DISCUSSION~~{{tag>check book2}}
+
+~~NOCACHE~~

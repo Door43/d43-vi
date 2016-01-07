@@ -1,0 +1,67 @@
+====== Psalms 073:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 You are in heaven and I belong to you \f + \ft rhetorical question \f*,
+\q1 and there is nothing on this earth that I desire more than that.
+\q1
+\v 26 My body and my mind may become very weak,
+\q2 but God, you continue to enable me to be strong;
+\q2 I belong to you forever.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 You are in heaven, and I belong to you;
+\q1 there is nothing on this earth that I desire more than that.
+\q1
+\v 26 My body and my mind may become very weak,
+\q2 but, God, you continue to enable me to be strong;
+\q2 I belong to you forever.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 Whom have I in heaven but you?
+\q There is no one on earth that I desire but you.
+\q
+\v 26 My flesh and my heart grow weak,
+\q but God is the strength of my heart forever.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:kt:flesh]]
+  * [[vi:obe:other:heart]]
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:kt:forever]]
+ 
+
+===== Translation Notes: =====
+
+  * **Whom have I in heaven but you? **- This sentence shows that God is all Asaph wants or needs. (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **My flesh and my heart  **- These two phrases share similar meanings and are combined for emphasis. Together they represent all of the person. AT: "My body and my mind" (See: [[:vi:ta:vol2:translate:figs_doublet|Doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:073:023|<<]] | [[:vi:bible:notes:psa:073:027|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

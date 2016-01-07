@@ -1,0 +1,44 @@
+====== 1 Kings 09:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 But Solomon did not force any Israelite people to become slaves. Some of them became soldiers and army officers and commanders and drivers of his chariots and men\f + \ft Or: soldiers \f* who rode on horses.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 But Solomon did not force any Israelite people to become slaves. Some of them became soldiers, servants, officials, army officers, commanders of his chariot forces, and men who rode on his horses.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 However, Solomon made no forced laborers of the people of Israel. Instead, they became his soldiers and his servants, his officials, and his officers and commanders of his chariot forces and his horse riders.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:solomon]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:chariot]]
+  * [[vi:obe:other:horsemen]]
+
+===== Translation Notes: =====
+
+    * **Solomon made no forced laborers of the people of Israel** - AT: "Solomon did not force the people of Israel to labor"
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:09|1 Kings Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:09:20|<<]] | [[:vi:bible:notes:1ki:09:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== 1 Kings 07:20-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 These heads\f + \ft Or: tops \f* were placed on a bowl-shaped section around which was draped the wreaths of chains. He made 200 \add figures that represented\add* pomegranates and put them in two rows around the head\f + \ft Or: top \f* of each pillar.
+\v 21 His \add helpers\add* set up the pillars in front of the entrance of the temple. The pillar on the south side was named Jakin, and the pillar on the north side was named Boaz.
+\v 22 The bronze heads\f + \ft Or: tops \f* that were shaped like lilies were placed on top of the pillars.
+\p So Huram and his helpers completed the work of making the bronze pillars.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 These tops were placed on a bowl shaped section around which were two rows of two hundred figures of pomegranates around the top of each pillar.
+\v 21 His helpers set up the pillars in front of the entrance of the temple. The pillar on the south side was named Jakin, and the pillar on the north side was named Boaz.
+\v 22 The bronze tops that were shaped like lilies were placed on top of the pillars.
+\p So Huram and his helpers completed the work of making the bronze pillars.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 The capitals on these two pillars also included, close to their very top, two hundred pomegranates in rows all around.
+\v 21 He raised up the pillars at the temple portico. The pillar on the right hand was named Jakin, and the pillar on the left hand was named Boaz.
+\v 22 On the top of the pillars were decorations like lilies. The fashioning of the  pillars was done in this way.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[vi:obe:kt:temple]]
+
+===== Translation Notes: =====
+
+  * **two hundred pomegranates** - "200 pomegranates" (See: [[:vi:ta:vol2:translate:translate_numbers]])
+  * **He raised up the pillars** - Here, the word "He" refers to Huram's workers. AT: "Huram's workers erected the pillars" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **The pillar on the right hand was named Jakin** - AT: "The name of the pillar on the right side was Jakin" (See: [[:vi:ta:vol1:translate:translate_names]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **the pillar on the left hand was named Boaz** - AT: "The name of the pillar on the left side was Boaz"
+  * **The fashioning of the  pillars was done** - AT: "Huram did the fashioning of the pillars" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:07|1 Kings Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:07:18|<<]] | [[:vi:bible:notes:1ki:07:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

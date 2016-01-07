@@ -1,0 +1,59 @@
+====== Nehemiah 06:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 On October 2 we finished rebuilding the wall. We did it all in 52 days.
+\v 16 When our enemies in the nearby countries heard about that, they realized that they had been humiliated, because everyone knew that it was because God helped us that we had been able to do this work \add and that they had not been able to force us to quit\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 We finished rebuilding the wall in the month of Elul, on the twenty-fifth day of the month. We did all the work in fifty-two days.
+\v 16 When our enemies in the nearby countries heard about that, they became very afraid and they were humiliated, because they knew it was God who helped us complete this work. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 So the wall was finished on the twenty-fifth day of the month Elul, after fifty-two days. 
+\v 16 When all our enemies heard of it, all the nations around us, they became afraid and they fell greatly in their own esteem. For they knew the work was done with the help of our God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:adversary]]
+  * [[vi:obe:other:nation]]
+  * [[vi:obe:kt:fear]]
+  * [[vi:obe:kt:works]]
+  * [[vi:obe:kt:god]]
+ 
+===== Translation Notes: =====
+
+(See: [[vi:ta:vol2:translate:translate_numbers]])
+
+    * **So the wall was finished** - This passive clause can be translated as an active clause. AT: "We finished the wall" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+    * **the twenty-fifth day** - "the 25th day" 
+    * **the month Elul** - This month was in the summer and early fall. It was the 6th month [or moon] of the Jewish calendar.
+    * **fifty-two days** - "52 days"
+    * **they fell greatly in their own esteem** - "they thought much less of themselves" or "they lost confidence."
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:neh:06|Nehemiah Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:neh:06:12|<<]] | [[:vi:bible:notes:neh:06:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

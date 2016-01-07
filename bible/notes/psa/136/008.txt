@@ -1,0 +1,65 @@
+====== Psalms 136:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 He created the sun to shine in the daytime;
+\q2 his faithful love for us endures forever.
+\q1
+\v 9 He created the moon and stars to shine during the nighttime;
+\q2 his faithful love for us endures forever.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 He created the sun to shine in the daytime;
+\q2 he will love us forever as he has promised.
+\q1
+\v 9 He created the moon and stars to shine during the nighttime;
+\q2 he will love us forever as he has promised.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 the sun to rule by day,
+\q for his covenant faithfulness endures forever—
+\q
+\v 9 the moon and stars to rule by night,
+\q for his covenant faithfulness endures forever—
+</usfm>
+
+
+===== Important Terms: =====
+
+
+===== Translation Notes: =====
+
+
+    * **to rule by**  - AT: "to shine through the" (See:[[vi:ta:vol1:translate:figs_metaphor]] and [[vi:ta:vol2:translate:figs_personification]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/136/006|<<]] | [[en/bible/notes/psa/136/010|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book5}}
+
+~~NOCACHE~~

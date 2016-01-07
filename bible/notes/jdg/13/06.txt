@@ -1,0 +1,53 @@
+====== Judges 13:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 The woman ran and told her husband, "A prophet came to me. He looked awesome, like an angel from God. I did not ask where he came from, and he did not tell me his name.
+\v 7 But he told me, 'You will become pregnant and give birth to a son. Until then, you must not drink any wine or any alcoholic\f + \ft Or: fermented \f* drink, and you must not eat any food that would make you unacceptable to God. Your son must be dedicated to God from the day he is born until the day he dies.'~"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 The woman ran and told her husband, "A man whom God sent came to me. I was very afraid of him, because he was like an angel from God. I did not ask where he came from, and he did not tell me his name.
+\v 7 But he told me, 'You have become pregnant, and you will give birth to a son. Until then, you must not drink any wine or any alcoholic drink, and you must not eat any food that the law says you are not to eat; it would be unacceptable to God for you to eat it. Your son will be dedicated to God even before he is born, and until the day he dies.'"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 Then the woman came and told her husband, “A man of God came to me, and his appearance was like that of an angel of God, and he caused me to be very afraid. I did not ask him where he came from, and he did not tell me his name.
+\v 7 He said to me, 'Look! You will become pregnant, and you will give birth to a son. So then drink no wine or strong drink, and do not eat any food that the law declares to be unclean, because the child will be a Nazirite to God from the time he is in your womb until the day of his death.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:angel]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:other:wine]]
+  * [[:vi:obe:other:strongdrink]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:unclean]]
+  * [[:vi:obe:other:Nazirite]]
+  * [[:vi:obe:other:womb]]
+  * [[:vi:obe:kt:death|death]]
+
+===== Translation Notes: =====
+
+  * **Look**  - "Pay attention" or "Understand this"
+  * **from the time he is in your womb until the day of his death**  - This emphasizes that it would be for his entire life. (See: [[:vi:ta:vol2:translate:figs_merism|Merism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:13|Judges Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:13:03|<<]] | [[:vi:bible:notes:jdg:13:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

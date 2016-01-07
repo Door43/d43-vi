@@ -1,0 +1,72 @@
+====== Psalms 145:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Yahweh, all the creatures that you \add made\add* will thank you,
+\q2 and all your people will praise you.
+\q1
+\v 11 They will tell others that about you rule very gloriously as our king
+\q2 and that you are very powerful.
+\q1
+\v 12 They will do that in order that everyone will know about your powerful deeds
+\q2 and that you rule over us gloriously.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh, all the creatures that you made will thank you,
+\q2 and all your people will praise you.
+\q1
+\v 11 They will tell others that you rule very gloriously as our king
+\q2 and that you are very powerful.
+\q1
+\v 12 They will do that so that everyone will know about your powerful deeds
+\q2 and that you rule over us gloriously.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 All you have made will give thanks to you, Yahweh;
+\q your faithful ones will bless you.
+\q
+\v 11 Your faithful ones will speak of the glory of your kingdom,
+\q and they will tell of your power.
+\q
+\v 12 They will make known to mankind God's mighty deeds
+\q and the glorious splendor of his kingdom.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:glory]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:kt:power|power]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:other:splendor|splendor]]
+
+===== Translation Notes: =====
+
+  * **all you have made will give thanks**  - AT: "all the people you have made will give thanks"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:145|Psalms Chapter 145 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:145:008|<<]] | [[:vi:bible:notes:psa:145:013|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

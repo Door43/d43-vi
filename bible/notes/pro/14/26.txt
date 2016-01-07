@@ -1,0 +1,73 @@
+====== Proverbs 14:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Those who have an awesome respect for Yahweh are confident \add that he will protect them\add*,
+\q2 and their family will also be protected.
+\b
+\q1
+\v 27 Having an awesome respect for Yahweh is like \f + \ft metaphor \f* having a fountain that gives life;
+\q2 which will help you to escape when something dangerous is threatening to kill you \f + \ft metaphor \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Those give Yahweh the honor he deserves
+\q2 find strong confidence in him;
+\q2 giving honor to God will also protect your children.
+\b
+\q1
+\v 27 Giving Yahweh the honor he deserves is like having a fountain that gives life;
+\q2 so you can keep away from being trapped by death.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 In the fear of Yahweh is strong confidence,
+\q and it will be a refuge for his children.
+\q
+\v 27 The fear of Yahweh is a fountain of life,
+\q so that one may turn away from the snares of death.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:fear]]
+  * [[:En:obe:kt:confidence]]
+  * [[:En:obe:kt:refuge]]
+  * [[:En:obe:kt:children]]
+  * [[:En:obe:other:fountain]]
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:turn]]
+  * [[:En:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+    * **his children** - Those are the children of the person who fears Yahweh (See: [[:vi:ta:vol2:translate:figs_123person]])
+    * **fountain of life** - AT: "source of life"
+    * **that one** - "that a person"
+    * **snare** - a sort of trap used to hunt animals
+      
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:14|Proverbs Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:14:25|<<]] | [[:vi:bible:notes:pro:14:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

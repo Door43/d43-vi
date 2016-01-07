@@ -1,0 +1,45 @@
+====== Leviticus 22:26-27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 Yahweh also said to Moses\f + \ft Or: me \f*,
+\v 27 "When a calf or lamb or goat is born, it must remain with its mother for seven days. After that, it can be accepted to be an offering to me that will be burned.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 Yahweh also said to Moses,
+\v 27 "When a calf or lamb or goat is born, it must remain with its mother for seven days. After that, it can be accepted to be an offering to me that will be burned.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 Yahweh spoke to Moses and said,
+\v 27 "When a calf or a sheep or a goat is born, it must remain seven days with its mother. Then from the eighth day on, it may be accepted as a sacrifice for an offering made by fire to Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:moses]]
+  * [[:vi:obe:other:cow|cow, calf, bull]]
+  * [[vi:obe:other:sheep]]
+  * [[vi:obe:other:goat]]
+  * [[vi:obe:other:burntoffering]]
+
+===== Translation Notes: =====
+
+  * **it may be accepted **- AT: "you may accept it" (See: [[vi:ta:vol2:translate:figs_activepassive]])
+  * **for an offering made by fire** - AT: "for a burnt offering" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:22|Leviticus Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:22:24|<<]] | [[:vi:bible:notes:lev:22:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

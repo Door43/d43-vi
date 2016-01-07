@@ -1,0 +1,59 @@
+====== Deuteronomy 02:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Then I sent messengers to go from the desert to King Sihon at Heshbon. I told them to give this peaceful message to the king:
+\v 27 'Please allow us to travel through your land. We \add promise that\add* we will stay on the road; we will not turn off to the right or to the left.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Then I sent messengers to go from the desert, where we were, to King Sihon at Heshbon. I told them to give this peaceful message to the king:
+\v 27 'Please allow us to travel through your land. We promise that we will stay on the road; we will not turn off to the right or to the left.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 I sent messengers from the wilderness of Kedemoth to Sihon, king of Heshbon, with words of peace, saying,
+\v 27 "Let me pass through your land; I will go along the highway; I will turn neither to the right hand nor to the left.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:messenger|messenger]]
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[vi:obe:other:king]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:other:peace|peace, peaceful]]
+
+===== Translation Notes: =====
+
+  * **I sent** - Here "I" refers to Moses.
+  * **wilderness of Kedemoth** - This is the name of an area near the valley of Arnon. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Sihon...Hesbon** - See how you translated these in [[vi:bible:notes:deu:01:03|1:4]].
+  * **with words of peace** - "with a message that asked for peace"
+  * **I will turn neither to the right hand nor to the left** - "I will not change direction." AT: "I will always stay on the path" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:02|Deuteronomy Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/02/24|<<]] | [[en/bible/notes/deu/02/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,68 @@
+====== Psalms 037:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 Yahweh rescues righteous people;
+\q2 in times of trouble he protects them \f + \ft metaphor \f*.
+\q1
+\v 40 Yahweh helps them and saves them;
+\q2 he rescues them from \add being attacked\f + \ft Or: harmed \f* by\add* wicked people
+\q2 because they go to him to be protected \f + \ft metaphor \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 Yahweh rescues righteous people;
+\q2 in times of trouble he protects them.
+\q1
+\v 40 Yahweh helps them and saves them;
+\q2 he rescues them from being attacked by wicked people
+\q2 because they go to him to be protected.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 39 Salvation of the righteous comes from Yahweh;
+\q he protects them in the times of trouble.
+\q
+\v 40 Yahweh helps them and rescues them.
+\q He rescues them from evil men and saves them
+\q because they have taken refuge in him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:salvation]]
+  * [[;en:obe:kt:righteous]]
+  * [[:vi:obe:other:trouble]]
+  * [[:vi:obe:kt:save]]
+  * [[:vi:obe:kt:refuge]]
+ 
+
+===== Translation Notes: =====
+
+    * **Yahweh helps them**  - This same idea is repeated in four different ways to emphasize that God is dependable and able to give aid. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+    * **they have taken refuge in him**  - AT: "they go to Yahweh for protection" (See: [[:vi:ta:vol2:translate:figs_activepassive]]) 
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:037|Psalms Chapter 037 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/037/037|<<]] | [[en/bible/notes/psa/038/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

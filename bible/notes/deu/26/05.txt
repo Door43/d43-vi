@@ -1,0 +1,54 @@
+====== Deuteronomy 26:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Then in Yahweh's presence you must say this: 'My ancestor \add Jacob\add* was a man from Aram\f + \ft Or: Syria \f* who was continually wandering \add from one place to another\add*. He took his family to Egypt. They were a small group \add when they went there\add*, but they lived there and their descendants became a very large\f + \ft Or: populous \f* \f + \ft doublet \f* and powerful nation.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Then in Yahweh's presence you must say this: 'My ancestor Jacob was a man from Aram and powerful nation. He took his family to Egypt. They were a small group when they went there, but they lived there and their descendants became a very large and powerful nation.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 You must say before Yahweh your God, "My ancestor was a wandering Aramean. He went down into Egyptand stayed there, and his people were few in number. There he became a great, mighty, and populous nation.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:aram|Aram, Aramean]]
+  * [[:vi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:other:nation|nation]]
+
+===== Translation Notes: =====
+
+  * **My ancestor was a wandering Aramean** - This is the beginning of the statement that the Israelite male should make when bringing his basket. This statement continues until the middle of 26:10.
+  * **a wandering Aramean** - This refers to Jacob who was the ancestor of all Israelites. He lived for many years in Aram-Nahairam, a region located in Syria.
+  * **and stayed there** - "and lived the rest of his life there"
+  * **There he became** - Here "he" refers to Jacob's descendants. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **a great, mighty** -  These words mean basically the same thing. They emphasize that their nation was powerful. (See: [[:vi:ta:vol2:translate:figs_doublet]]) 
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:26|Deuteronomy Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/26/03|<<]] | [[en/bible/notes/deu/26/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

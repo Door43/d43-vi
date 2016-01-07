@@ -1,0 +1,63 @@
+====== Psalms 020:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Some \add kings\add* trust that because they have chariots \add they will be able to defeat their enemies\add*,
+\q2 and some trust that their horses \add will enable them to defeat their enemies\add*,
+\q2 but we will trust in the power \f + \ft metonymy \f* of Yahweh our God.
+\q1
+\v 8 Some will stumble and fall down,
+\q2 but we will be strong and not be moved\f + \ft Or: continue standing \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Some kings trust that because they have chariots they will be able to defeat their enemies,
+\q2 and some trust that their horses will enable them to defeat their enemies,
+\q2 but we will trust in the power of Yahweh our God.
+\q1
+\v 8 Some will stumble and fall down,
+\q2 but we will be strong and not be moved.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Some trust in chariots and others in horses,
+\q but we call on Yahweh our God.
+\q
+\v 8 They will be brought down and fall,
+\q but we will rise and stand upright!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:other:chariot|chariot]]
+  * [[:vi:obe:other:horse|horse]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+===== Translation Notes: =====
+
+  * **they will be brought down and fall** - AT: "God will bring them down and make them fall" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **they will be brought down** - The word "they" refers to the people who trust in chariots and horses.
+  * **brought down and fall** - Both these verbs mean basically the same thing and are repeated to emphasize how sure their destruction will be. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **we will rise and stand upright** - "we will get up and stand up straight." These two words basically mean the same thing and are repeated to emphasize how strong they are. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:020|Psalms Chapter 020 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:020:005|<<]] | [[:vi:bible:notes:psa:020:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

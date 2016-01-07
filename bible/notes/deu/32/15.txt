@@ -1,0 +1,73 @@
+====== Deuteronomy 32:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 The Israelite people became rich and prosperous,
+\q2 but then they rebelled against God;
+\q1 they abandoned him, the one who created them,
+\q2 the one who powerfully saves them.
+\q1
+\v 16 He abandoned them because they started to worship other\f + \ft Or: strange \f* gods.
+\q1 Because of their worshiping disgusting idols,
+\q2 he became angry.
+\q
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 The Israelite people became rich and prosperous,
+\q but then they rebelled against God;
+\q they abandoned him, the one who created them,
+\q the one who powerfully saves them.
+\q
+\v 16 He abandoned them because they started to worship other gods.
+\q Because of their worshiping disgusting idols,
+\q he became angry.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 But Jeshurun grew fat and kicked,
+\q filled with fat, stout, and sleek.
+\q He abandoned the God who made him,
+\q and he rejected the Rock of his salvation.
+\q
+\v 16 They made Yahweh jealous by their strange gods;
+\q and angered him with their detestable idols.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reject|reject, push away]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:salvation|salvation]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:jealous|jealous, jealousy]]
+  * [[:vi:obe:kt:falsegod]]
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[vi:obe:other:detestable]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+
+===== Translation Notes: =====
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **Jeshuran** - This also refers to the people of Israel. Translators may add a footnote that says: "The name 'Jeshuran' means 'righteous one.'" (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **grew fat and kicked** - Moses compares the people of Israel to a well-fed animal that does not become gentle but instead kicks. This means the people rebelled even though God took care of them. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **filled with fat, stout and sleek** -  "heavy, plump, and stuffed." All of these mean that the people grew healthy and prospered.
+  * **Rock of his salvation** - This means Yahweh is strong and able to protect his people. (See:[[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:32:14|<<]] | [[:vi:bible:notes:deu:32:17|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

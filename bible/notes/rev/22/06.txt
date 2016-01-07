@@ -1,0 +1,61 @@
+====== Revelation 22:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 The angel said to me: "These words that\add God has revealed to you\add* are true, and he will certainly fulfill them. The Lord God who \add inspires\add* the prophets\f + \ft Or: tells the prophets what to say \f* sent his angel to show the people who serve him the events that must happen soon."
+\v 7 \add Jesus says to all his people\add*, "Listen \add to\add* this! I am coming soon; \add God will abundantly\add* bless everyone who obeys the message that \add has been written\add* in this book."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 The angel said to me: "These things that God has shown you are true, and he will certainly make them happen. The Lord God who inspires the prophets sent his angel to show the people who serve him the events that must happen soon."
+\v 7 Jesus says to all his people, "Listen to this! I am coming soon; God will abundantly bless everyone who obeys the message that has been written in this book."
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 The angel said to me, "These words are trustworthy and true. The Lord, the God of the spirits of the prophets, sent his angel to show his servants what must happen soon."
+\v 7 "Look! I am coming soon! Blessed is the one who obeys the words of the prophecy of this book."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:angel|angel]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:kt:true|true, truth]]
+  * [[vi:obe:kt:lordgod]]
+  * [[:vi:obe:kt:holyspirit]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:other:send|send, send out]]
+  * [[vi:obe:other:servant]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[vi:obe:other:obey]]
+
+===== Translation Notes: =====
+
+  * **These words are reliable and true** - See how you translated a similar phrase in [[vi:bible:notes:rev:21:05|21:5]].
+  * **Look! I am coming soon** - The quotation marks before this sentence show that the speaker changes between verse 6 and verse 7. Jesus is now speaking in verse 7, as is stated in the UDB.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:22|Revelation Chapter 22 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:22:03|<<]] | [[:vi:bible:notes:rev:22:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

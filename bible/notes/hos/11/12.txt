@@ -1,0 +1,57 @@
+====== Hosea 11:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add Yahweh says, "The people of\add* Israel have surrounded me with lies\f + \ft Or: constantly told lies to me \f*.
+\q2 And the people of Judah have also turned\f + \ft Or: rebelled \f* against me, their God,
+\q2 the Holy One who always does what I promise to do."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 "The people of Israel have continually lied to me.
+\q2 But the people of Judah they still obey me and are faithful to me, the Holy One."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 "Ephraim surrounds me with falsehood,
+\q and the house of Israel with deceit.
+\q But Judah is still going about with me, God,
+\q and is faithful to me, the Holy One."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:vi:obe:kt:deceive|deceive, deceived, deceiver, deception]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:kt:iyahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:iyahweh]]
+  * [[:vi:obe:kt:holyone|Holy One]]
+===== Translation Notes: =====
+
+God is talking about Israel and Judah.
+
+  * **Ephraim surrounds me with falsehood, and the house of Israel with deceit** - This means that Ephraim (the house of Israel) has continually lied and been dishonest with Yahweh. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **Ephraim surrounds me with falsehood** - AT: "Ephraim has constantly told lies to me" (UDB) (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **But Judah is still going about with me, God, and is faithful to me, the Holy One** - Even though Judah has rebelled at times, they are still following Yahweh. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:11|Hosea Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:11:10|<<]] | [[:vi:bible:notes:hos:12:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

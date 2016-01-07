@@ -1,0 +1,40 @@
+====== Leviticus 15:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 When a woman has her monthly menstrual period, no one should touch her for seven days. If anyone touches her \add during that time\add*, no one should touch the person who touched her until that evening.
+\v 20 No one should touch anything that she lies on or sits on during that time.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 When a woman has her menstrual period, no one may touch her for seven days. If anyone touches her during that time, no one may touch the person who touched her until that evening.
+\v 20 No one may touch anything that she lies on or sits on during that time.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 When a woman menstruates, her impurity will continue for seven days, and whoever touches her will  be unclean until evening.
+\v 20 Everything she lies on during her period will be unclean; everything that she sits on will also be unclean.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:unclean]]
+
+===== Translation Notes: =====
+
+  * **menstruate...her period** - Both of these refer to the time when blood flows from a woman's womb.
+  * **her impurity will continue** - "she will be unclean"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:15|Leviticus Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:15:16|<<]] | [[:vi:bible:notes:lev:15:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

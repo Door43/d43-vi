@@ -1,0 +1,48 @@
+====== 1 Corinthians 14:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 If we speak in languages \f + \ft metonymy \f* \add that we have not learned\add*, unbelievers \add who are there will realize that the Spirit of God is truly among us\add*. That will warn them \add that they need to fear God\add*. But believers do not \add need such a warning\add*.
+\v 23 Suppose during the worship service everyone started to speak in languages \f + \ft metonymy \f* \add that they have not learned\add*. If unbelievers or people who do not know \add about the abilities that God's Spirit gives to believers\add* come in \add and hear that\add*, they will surely think that you are crazy.\f + \ft Or: will they not think that you are crazy? \f* \f + \ft rhetorical question \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 So if a believer speaks in a language that God has given him, this impresses the unbelievers who might be listening. But if a believer speaks a message from God, this impresses the other believers.
+\v 23 You can seen how confusing it would be if all the believers met together and spoke in different languages. Any unbeliever who heard them would call them all crazy.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 Therefore tongues are a sign, not to believers, but to unbelievers. But prophesying is for a sign, not for unbelievers, but for believers.
+\v 23 If, therefore, the whole church comes together and all speak in tongues, and outsiders and unbelievers come in, would they not say that you are insane?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tongue]]
+  * [[:vi:obe:kt:miracle]]
+  * [[:vi:obe:kt:believe]]
+  * [[:vi:obe:kt:unbeliever]]
+  * [[:vi:obe:kt:prophet]]
+  * [[:vi:obe:kt:church]]
+ 
+===== Translation Notes: =====
+
+    * **would they not say that you are insane?** - AT: "they would say that you are insane." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1co:14|1 Corinthians Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:1co:14:20|<<]] | [[:vi:bible:notes:1co:14:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

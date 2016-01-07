@@ -1,0 +1,78 @@
+====== Micah 07:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 I am very miserable\f + \ft Or: frustrated \f*!
+\q1 I am like \f + \ft simile \f* someone who is hungry, \add who searches for fruit to pick\add*
+\q2 after all the fruit had been picked
+\q1 and who finds no grapes or figs to eat.
+\q1
+\v 2 All the godly people have disappeared from this land;
+\q2 there is not one of them left.
+\q1 \add The people who are left\add* are all murderers \f + \ft metonymy \f*;
+\q2 \add it is as though\add* everyone is eager to kill his fellow countryman.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 I am very miserable!
+\q1 I am like someone who is hungry, who searches for fruit to eat
+\q2 and who finds no grapes or figs to eat
+\q1 because all the fruit has been picked.
+\q1
+\v 2 Everyone who honored God has disappeared from this land;
+\q2 not one of them is left.
+\q1 The people who are left are all murderers;
+\q2 it is as though everyone is eager to kill his fellow countryman.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 7
+\p
+\q
+\v 1 Woe is me!
+\q For me it is like when the harvest of summer fruit is over,
+\q and also even the gleaning of the left-over grapes in the vineyards:
+\q There are no more clusters of fruit to be found,
+\q but I still crave first ripe figs.
+\q
+\v 2 The godly man has perished from the earth;
+\q there is no one left who is upright among the people.
+\q They all lie in wait to shed others' blood;
+\q everyone and his brother hunt someone with a net.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:woe]]
+  * [[:En:obe:kt:harvest]]
+  * [[vi:obe:other:glean]]
+  * [[vi:obe:other:grape]]
+  * [[:vi:obe:other:vineyard]]
+  * [[:En:obe:kt:perish]] 
+
+===== Translation Notes: =====
+
+  * **For me it is like when the harvest of summer fruit … first ripe figs**  - Micah emphasizes that there are no longer any honest people, loyal to God, in Israel. AT: "For me the people of Israel are like a vineyard after the harvest and gleaning. The vines are bare. I can no longer find any fruit, but I still crave to eat a ripe fig. (See: [[:vi:ta:vol1:translate:figs_simile|Simile]] and [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **The godly man has perished … with a net **- Micah exaggerates to show how bad the situation is. He feels there is no one good left in Israel. (See: [[:vi:ta:vol2:translate:figs_hyperbole|Hyperbole]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mic:07|Micah Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:mic:06:16|<<]] | [[:vi:bible:notes:mic:07:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,79 @@
+====== Psalms 089:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I will sing forever about the ways you faithfully love me;
+\q2 people not yet born will hear that you faithfully \add do all that you have promised\add*.
+\q1
+\v 2 I will tell people that you will faithfully love us forever,
+\q2 and that your being faithful \add to do what you have promised\add* is as permanent as the sky.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I will sing forever about the ways you faithfully love me;
+\q2 people not yet born will hear that you faithfully do all that you have promised.
+\q1
+\v 2 I will tell people that you will faithfully love us forever,
+\q2 and that your being faithful to do what you have promised is as permanent as the sky.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 89
+\d  A maschil of Ethan the Ezrahite.
+\b
+\q
+\v 1 I will sing of Yahweh's acts of covenant faithfulness forever.
+\q I will proclaim your truthfulness to future generations.
+\q
+\v 2 For I have said, "Covenant faithfulness has been established  forever;
+\q your truthfulness you have established in the heavens."
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:proclaim]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:other:generation]]
+  * [[:vi:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+    * **maschil** - See how you translated this in [[vi:bible:notes:psa:032:001|32:1]].
+    * **Ethan, Ezrahite** - The name of the writer and his clan. (See: [[:vi:ta:vol1:translate:translate_names]])
+    * **covenant faithfulness**  - "promises of faithful love"
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:089|Psalms Chapter 089 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/088/017|<<]] | [[en/bible/notes/psa/089/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book3}}
+
+~~NOCACHE~~

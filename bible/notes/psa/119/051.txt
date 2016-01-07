@@ -1,0 +1,64 @@
+====== Psalms 119:51-52 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 51 Proud people are always making fun of me,
+\q2 but I do not turn away from\f + \ft Or: stop \f* \add obeying\add* your laws.
+\q1
+\v 52 Yahweh, when I think about your regulations\f + \ft Or: the rules \f* that you gave to us long ago,
+\q2 I am comforted\f + \ft Or: encouraged \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 51 Proud people are always making fun of me,
+\q2 but I do not turn away from obeying your laws.
+\q1
+\v 52 Yahweh, when I think about your regulations that you gave to us long ago,
+\q2 I am comforted.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 51 The proud have scoffed at me,
+\q yet I have not turned away from your law.
+\q
+\v 52 I have thought about your righteous decrees from ancient times, Yahweh,
+\q and I comfort myself.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:proud]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:righteous]]
+  * [[:vi:obe:other:decree]]
+  * [[:vi:obe:kt:yahweh]]
+ 
+
+===== Translation Notes: =====
+
+  * **scoffed at**  - to mock someone or something that is looked down on, doubted, or not honored
+  * **from ancient times**  - This is a reference to when the decrees, the Law, were given along time ago.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:049|<<]] | [[:vi:bible:notes:psa:119:053|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

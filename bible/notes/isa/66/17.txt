@@ -1,0 +1,54 @@
+====== Isaiah 66:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Yahweh says, "Some of you people purify\f + \ft Or: bathe \f* yourselves and then go to a garden to worship your gods. You eat the meat of pigs and lizards and mice, \add and other things that I have forbidden you to eat\add*. So I will get rid of you \add for doing that\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Yahweh says, "Some of you will prepare yourselves to enter the garden of idols by washings and special diets and clothing, and you follow into that place, those who eat the meat of pigs and mice, and other things that I have forbidden you to eat. I promise you, I will stop them and they will not do this any more!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 17 They sanctify themselves and make themselves pure, so they may enter the gardens, following those who 
+\q1 eat the flesh of pig and abominable things like mice. 
+\q1 "They will come to an end"—this is a declaration of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:sanctify]]
+  * [[:vi:obe:kt:purify]]
+  * [[:vi:obe:kt:flesh]]
+  * [[:vi:obe:other:pig]]
+  * [[:vi:obe:kt:abomination]]
+  * [[:vi:obe:other:declare]]
+  * [[:vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+Isaiah continues speaking.
+
+  * **enter the gardens** - This is a place where people would go to worship idols. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **declaration of Yahweh** - See how you translated this in [[vi:bible:notes:isa:14:21|14:22]].
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:66:15|<<]] | [[:vi:bible:notes:isa:66:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

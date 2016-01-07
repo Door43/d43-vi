@@ -1,0 +1,103 @@
+====== Jeremiah 22:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 But Jehoiakim, you \f + \ft metonymy \f* are greedy and desire only to obtain things by acting dishonestly.
+\q2 You murder \f + \ft metonymy \f* innocent people,
+\q1 you oppress poor people,
+\q2 and you treat people cruelly and violently."
+\b
+\p
+\v 18 Therefore, this is what Yahweh says about Jehoiakim, the son of King Josiah:
+\q1 "\add When he dies\add*, people will not mourn for him.
+\q2 They will not say to each other, 'It is very sad; we are so sorry!'
+\q1 The people whom he ruled will not mourn for him, saying,
+\q2 'We are sad that our king is dead; we are so sorry that the wonderful things \add that happened while he was king are ended\add*.'
+\q1
+\v 19 \add When he dies, people will do to\add* his corpse what they do to a dead donkey;
+\q2 his corpse will be dragged out of Jerusalem and dumped outside the gates!
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 But Jehoiakim, you  are greedy and desire only to obtain things by acting dishonestly.
+\q2 You murder  innocent people,
+\q1 you oppress poor people,
+\q2 and you treat people cruelly and violently."
+\b
+\p
+\v 18 Therefore, this is what Yahweh says about Jehoiakim son of King Josiah:
+\q1 "When he dies, people will not mourn for him.
+\q2 They will not say to each other, 'It is very sad; we are so sorry!'
+\q1 The people whom he ruled will not mourn for him, saying,
+\q2 'We are sad that our king is dead; we are so sorry that the wonderful things that happened while he was king are ended.'
+\q1
+\v 19 When he dies, people will do to his corpse what they do to a dead donkey;
+\q2 his corpse will be dragged out of Jerusalem and dumped outside the gates!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 But there is nothing in your eyes and heart except worry for your unjust profit and for pouring out innocent blood,
+\q for producing oppression and crushing of others.
+\v 18 Therefore Yahweh says this about Jehoiakim son of Josiah, king of Judah: They will not lament for him with “Woe, my brother!” or “Woe, my sister!” They will not lament him with 
+“Woe, lord!” or “Woe, majesty!”
+\q
+\v 19 He will be buried with an donkey's burial,
+\q dragged away and thrown out beyond the gates of Jerusalem.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:profit]]
+  * [[vi:obe:kt:innocent]]
+  * [[vi:obe:kt:blood]]
+  * [[vi:obe:kt:oppress]]  
+  * [[:vi:obe:other:jehoiakim]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:judah]]
+  * [[:vi:obe:kt:lament]]
+  * [[:vi:obe:kt:lord]]
+  * [[:vi:obe:kt:majesty]]
+  * [[:vi:obe:other:bury]]
+  * [[:vi:obe:other:donkey]]
+  * [[:vi:obe:kt:gate]]
+  * [[:vi:obe:other:jerusalem]]
+ 
+===== Translation Notes: =====
+
+    * **nothing in your eyes or heart** - The words "eyes" and "heart" are used figuratively to describe the things  a person constantly looks at and thinks about. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **unjust profit** - getting money by cheating or by using unfair means 
+    * **pouring out innocent blood** - AT: "killing innocent people"    
+    * **crushing of others**  - "doing violence to others in order to get money" 
+    * **Woe, my brother... Woe, my sister... Woe, my lord... Woe, my majesty**  - Yahweh uses the word "woe" several times for emphasis. He addresses the various people who would normally show great sadness when someone dies. (See : [[:vi:ta:vol2:translate:figs_hyperbole]])
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:22|Jeremiah Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/22/15|<<]] | [[en/bible/notes/jer/22/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

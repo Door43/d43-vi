@@ -1,0 +1,77 @@
+====== Job 30:24-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 When people experience disasters,
+\q2 and they sit on a pile of ruins and cry out for help,
+\q2 others surely \f + \ft rhetorical question \f* reach out their hand to help them.
+\q1
+\v 25 \add That is what I did\add*. I wept for people who were experiencing troubles,
+\q2 and I felt sorry for poor\f + \ft Or: needy \f* people.
+\q1
+\v 26 But when I expected good things \add to happen to me\add*, evil things happened;
+\q2 when I waited for light\f + \ft Or: happiness \f*, all I received was darkness\f + \ft Or: unhappiness \f* \f + \ft metaphor \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 When people experience disasters,
+\q2 they sit on a pile of ruins and cry out for help;
+\q2 they certainly cry out for help.
+\q1
+\v 25 I myself wept for people who were experiencing troubles,
+\q2 and I felt sorry for poor people.
+\q1
+\v 26 However, when I expected good things to happen to me, evil things happened;
+\q2 when I waited for light, I experienced darkness instead.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 However, does no one reach out with his hand to beg for help when he falls?
+\q does no one in trouble call out for help?
+\q
+\v 25 Did not I weep for him who was in trouble?
+\q Was not my heart grieved for the needy?
+\q
+\v 26 When I looked for good, then evil came;
+\q when I waited for light, darkness came instead.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:kt:light]]
+  * [[:vi:obe:kt:darkness]]
+ 
+
+===== Translation Notes: =====
+
+  * **Verses 26 and 27 contain three rhetorical questions,  whose answer is yes.**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:30|Job Chapter 30 Comprehension Questions]]**
+**[[:vi:bible:notes:job:30:22|<<]] | [[:vi:bible:notes:job:30:27|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

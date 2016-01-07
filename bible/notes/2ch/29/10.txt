@@ -1,0 +1,46 @@
+====== 2 Chronicles 29:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 But now I intend to make an agreement with Yahweh, our God, in order that he will no longer be angry with us.
+\v 11 \add You who are like\add* my sons, do not waste any time. \add Do immediately what Yahweh wants you to do\add*.Yahweh has chosen you to stand in his presence and offer sacrifices and burn incense."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 But now I intend to make a covenant with Yahweh, our God, in order that he will no longer be angry with us.
+\v 11 You who are like my sons, do not waste any time. Do immediately what Yahweh wants you to do.Yahweh has chosen you to stand in his presence and offer sacrifices and burn incense."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 Now it is in my heart to make a covenant with Yahweh, the God of Israel, so that his fierce anger may turn away from us.
+\v 11 My sons, do not be lazy now, for Yahweh has chosen you to stand before him, to worship him, and that you should be his servants and burn incense."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:covenant|covenant]]
+  * [[:vi:obe:kt:worship|worship]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+
+===== Translation Notes: =====
+
+  * **his fierce anger may turn away from us** - AT: "he may not act on his anger toward us" (See: [[:vi:ta:vol2:translate:figs_personification]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:29|2 Chronicles Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:29:08|<<]] | [[:vi:bible:notes:2ch:29:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

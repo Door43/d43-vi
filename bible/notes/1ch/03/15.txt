@@ -1,0 +1,51 @@
+====== 1 Chronicles 03:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Josiah's oldest son was Johanan. His other sons were Jehoiakim, Zedekiah, and Shallum.
+\li1
+\v 16 Jehoiakim's sons were Jehoiachin \f + \ft Or: Jeconiah \f* and Zedekiah.
+
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Josiah's oldest son was Johanan. His other sons were Jehoiakim, Zedekiah, and Shallum.
+\li1
+\v 16 Jehoiakim's sons were Jehoiachin and Zedekiah.
+
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Josiah's sons were his firstborn Johanan, his second son Jehoiakim, his third son Zedekiah, and his fourth son Shallum.
+\v 16 Jehoiakim's son was Jeconiah. The last king was Zedekiah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:josiah]]
+  * [[vi:obe:kt:firstborn]]
+  * [[:vi:obe:other:jehoiakim]]
+  * [[:vi:obe:other:zedekiah]]
+  * [[vi:obe:other:king]]
+
+===== Translation Notes: =====
+
+  * **Johanan...Shallum...Jeconiah** - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:03|1 Chronicles Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:03:13|<<]] | [[:vi:bible:notes:1ch:03:17|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Deuteronomy 24:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 When some man has just become married, he must not \add be required to\add* become a soldier in the army or be required to do any other work \add for the government\add*. He must be exempt from\f + \ft Or: allowed to not perform \f* such work for one year \add after being married\add*. He should stay happily with his wife for that year.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 When a man has just become married, he must not be required to become a soldier in the army or be required to do any other work for the government. He must be exempt from such work for one year after being married. He should stay at home and make his wife happy for that year.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 When a man takes a new wife, he will not go to war with the army, neither may he be commanded to go on any forced duty; he will be free to be at home for one year and will cheer his wife whom he has taken.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:kt:free]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **when a man takes a new wife**  - AT: "when a man is newly married to a woman"
+    * **neither may he be commanded to go on any forced duty** - AT: "neither may anyone in authority command him to live away from his home in order to do obligatory service." (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+    * **he will be free to be at home** - While the man might do his regular work, he will be living at home with his wife.
+    * **he will cheer his wife**  - AT: "he will make his wife happy by his presence in their new home"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/03|<<]] | [[en/bible/notes/deu/24/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

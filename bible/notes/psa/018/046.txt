@@ -1,0 +1,61 @@
+====== Psalms 018:46-47 ======
+
+===== TFT: =====
+
+<usfm>
+\v 46 Yahweh is alive!
+\q2 Praise the one who is like a huge rock \f + \ft metaphor \f* \add under which I am safe\add*!
+\q2 Exalt the God who saves me!
+\q1
+\v 47 He enables me to get revenge on my enemies;
+\q2 he causes me to defeat nations and to rule over them,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 46 Yahweh is alive! Praise the one who is like a huge rock on top of which I am safe! Exalt the God who saves me!
+\q1
+\v 47 He enables me to get revenge on my enemies; he causes me to defeat nations and to rule over them,
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 46 Yahweh lives; may my rock be praised. May the God of my salvation be exalted.
+\q
+\v 47 This is the God who executes vengeance for me, who subjugates nations under me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:kt:exalt|exalt, exaltation]]
+  * [[:vi:obe:kt:avenge|avenge, revenge, vengeance]]
+  * [[:vi:obe:other:subject|subject, be subject to, in subjection to]]
+
+===== Translation Notes: =====
+
+  * **may my rock be praised** - AT: "he is my rock and he should be praised" or "may people praise my rock" (See: [[:vi:ta:vol1:translate:figs_explicit]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **my rock** - See how you translated this metaphor in [[:vi:bible:notes:psa:018:002|18:2]].
+  * **May the God of my salvation be exalted** - "May people exalt the God of my salvation" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **the God of my salvation** - AT: "the God who saved me" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **the God who executes vengeance for me** - "the God who avenges for me" or "the God who is my avenger" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:018:043|<<]] | [[:vi:bible:notes:psa:018:048|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

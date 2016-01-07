@@ -1,0 +1,72 @@
+====== Psalms 085:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 You stopped being angry with us
+\q2 and turned away from severely punishing us.
+\b
+\q1
+\v 4 Now, God, the one who saves\f + \ft Or: rescues \f* us, restore us\f + \ft Or: make us prosperous again \f*
+\q1 and stop being angry with us!
+\q1
+\v 5 Will you continue to be angry with us forever?\f + \ft Or: Please do not continue to be angry with us forever. \f* \f + \ft doublet, rhetorical question \f*
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 You stopped being angry with us
+\q2 and turned away from severely punishing us.
+\b
+\q1
+\v 4 Now, God, the only one who can save us, stop being angry with us 
+\q1 and help us.
+\q1
+\v 5 Will you continue to be angry with us forever?
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 You have withdrawn all your wrath;
+\q you have turned back from your hot anger.
+\q
+\v 4 Restore us, God of our salvation,
+\q and let go of your displeasure with us.
+\q
+\v 5 Will you be angry with us forever?
+\q Will you remain angry throughout future generations?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:wrath]]
+  * [[:vi:obe:kt:turn]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:kt:restore]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:salvation]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:generation]]
+
+===== Translation Notes: =====
+
+  * **You...your** - The pronouns "you" and "your" refer to Yahweh. (See: [[vi:ta:vol1:translate:figs_yousingular]]) 
+  * **us**  - "us" refers to the Israelite people. (See: [[vi:ta:vol2:translate:figs_pluralpronouns]])
+  * **You have withdrawn all your wrath; you have turned back from your hot anger.** - The writer uses parallel phrases to emphasize the importance of God's forgiveness. (See: [[vi:ta:vol2:translate:figs_parallelism]])
+  * **Will you be angry with us forever? Will you remain angry throughout future generations?** - The writer uses parallel sentences to emphasize the sincere request. AT: " Please do not stay angry at us forever." (See: [[vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:085|Psalms Chapter 085 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:085:001|<<]] | [[:vi:bible:notes:psa:085:006|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

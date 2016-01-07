@@ -1,0 +1,64 @@
+====== Psalms 093:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh, \add when you created the world, you separated\add* the water from \add the chaotic mass and formed oceans\add*,
+\q2 and the waves of the waters \add of those oceans\add* still roar,
+\q1
+\v 4 but you are greater than the roar of those oceans,
+\q2 more powerful than the ocean waves!
+\q2 You are Yahweh, the one who is greater than any other god!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh, when you created the world, you separated the water from the chaotic mass and formed oceans,
+\q2 and the waves of the waters of those oceans still roar,
+\q1
+\v 4 but you are greater than the roar of those oceans,
+\q2 more powerful than the ocean waves!
+\q2 You are Yahweh, the one who is greater than any other god!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 The oceans rise, Yahweh;
+\q they have lifted up their voice;
+\q the oceans' waves crash and roar.
+\q
+\v 4 Above the crashing of many waves,
+\q the mighty breakers of the sea,
+\q Yahweh on high is mighty.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:raise]]
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:other:mighty]]
+
+===== Translation Notes: =====
+
+  * **have lifted up their voice; the oceans' waves crash and roar** - AT: "have made a mighty noise because their waves crash and roar" (See: [[:vi:ta:vol2:translate:figs_personification]])
+  * **roar** - make a long, loud sound.
+  * **Above the crashing of many waves, the mighty breakers of the sea, **  - AT: "But Yahweh you are greater than the roar of the oceans or the crash of their mighty breakers." (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **breakers** - large waves coming to land
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:093|Psalms Chapter 093 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:093:001|<<]] | [[:vi:bible:notes:psa:093:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

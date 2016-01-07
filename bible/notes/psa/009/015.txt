@@ -1,0 +1,70 @@
+====== Psalms 009:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 \add It is as though\add* the \add wicked people of many\add* nations have dug a pit for me to fall into \f + \ft metaphor \f*,
+\q2 but they have fallen into that same pit.
+\q1 \add It is as if\add* they spread out a net to catch me \f + \ft metaphor \f*,
+\q2 but their feet have been caught in that same net.
+\q1
+\v 16 Because of what you have done, people know that you decide matters fairly\f + \ft Or: justly \f*,
+\q2 but you allow wicked people to be trapped by the same evil things that they themselves do.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 It is as though the wicked people of many nations have dug a pit for me to fall into,
+\q2 but they have fallen into that same pit.
+\q1 It is as though they have spread out a net to catch me,
+\q2 but their feet have been caught in that same net.
+\q1
+\v 16 Because of what you have done, people know that you make justice happen;
+\q2 you allow wicked people to be trapped by the same evil things that they themselves do.
+
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 The nations have sunk down into the pit that they made;
+\q their feet are caught in the net that they hid.
+\q
+\v 16 Yahweh has made himself known; he has executed judgment;
+\q the wicked is ensnared by his own actions. 
+\qs Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pit]]
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:other:selah]]
+
+===== Translation Notes: =====
+
+  * **the nations have sunk down into the pit that they made; their feet are caught in the net that they hid** - The words "pit" and "net" represent the evil plans that wicked people made. AT: "The nations have failed and their own evil plans have destroyed them." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **ensnared** - "trapped" or "caught"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:009|Psalms Chapter 009 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:009:013|<<]] | [[:vi:bible:notes:psa:009:017|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

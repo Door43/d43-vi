@@ -1,0 +1,60 @@
+====== 2 Samuel 11:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 Then their archers shot arrows at us from \add the top of\add* the city wall. They killed some of your officers. They killed your officer Uriah, too."
+\p
+\v 25 David said to the messenger, "Go back to Joab and say to him, 'Do not be distressed \add about what happened\add*, because no one ever knows who will be killed in a battle.' Tell him that the next time, his troops should attack the city more strongly, and capture it."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Then their archers shot arrows at us from the top of the city wall. They killed some of your officers. They killed your officer Uriah, too."
+\p
+\v 25 David said to the messenger, "Go back to Joab and say to him, 'Do not worry about what happened, because no one ever knows who will die in battle.' Tell him that the next time, his troops should attack the city more strongly and capture it. Encourage Joab in this way."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 And their shooters shot at your servants from off the wall, and some of the king’s servants were killed, and your servant Uriah the Hittite was killed too."
+\v 25 Then David said to the messenger, "Say thisto Joab, 'Do not let this displease you, for the sword
+devours one as well as another. Make your battle even stronger against the city, and overthrow it.' And encourage Joab."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sword]]
+  * [[:vi:obe:other:devour]]
+ 
+
+===== Translation Notes: =====
+
+    * **some of the king’s servants were killed**  - See: [[:vi:ta:vol2:translate:figs_activepassive]].
+    * **the Hittite was killed too**  - See: [[:vi:ta:vol2:translate:figs_activepassive]].
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:2sa:11|2 Samuel Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/11/22|<<]] | [[en/bible/notes/2sa/11/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

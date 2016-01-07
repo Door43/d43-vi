@@ -1,0 +1,63 @@
+====== Psalms 059:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Look! They are waiting to kill me!
+\q2 Fierce men have gathered to assault me.
+\q1 Yahweh, they are doing that even though I have not done what is wrong!
+\q1
+\v 4 It is not because I have committed any sin \add against them\add*
+\q2 that they run and get ready to attack me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Look! They are waiting to kill me!
+\q2 Fierce men have gathered to assault me.
+\q1 Yahweh, they are doing that even though I have not done what is wrong!
+\q1
+\v 4 It is not because I have committed any sin against them
+\q2 that they run and get ready to attack me. Please look at my situation and help me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For, see, they lie in wait for my soul;
+\q the mighty evildoers gather themselves together against me,
+\q but not because of my transgression or because of my sin, Yahweh.
+\q
+\v 4 They prepare to run at me although I am without fault;
+\q awake and help me and see.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+  * [[:vi:obe:kt:transgression|transgress, transgression]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+
+===== Translation Notes: =====
+
+  * **they lie in wait for my soul** - David's enemies are in hiding and are waiting quietly for the time when they can attack him. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **because of my transgression or because of my sin** - Both of these phrases mean same thing and are repeated to emphasis that it is true. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **awake** - This word means the same thing as "rise up."  It refers to deciding on a purpose and then beginning at act like a person who wakes and begins to do things. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **to run at me** - This compares the authors enemies to soldiers who run towards their enemy in battle.  (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **and see** - AT: "and see what is happening"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:059|Psalms Chapter 059 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:059:001|<<]] | [[:vi:bible:notes:psa:059:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

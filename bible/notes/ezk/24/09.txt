@@ -1,0 +1,62 @@
+====== Ezekiel 24:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Therefore, this is what I, Yahweh the Lord say:
+\q1 Terrible things will happen to that city that is full of murderers \f + \ft metonymy \f*!
+\q2 \add It will be as though\add* I also will pile high the wood in the fire.
+\q1
+\v 10 So, heap on the wood
+\q2 and light the fire!
+\q1 Cook the meat well,
+\q2 and mix some spices with it;
+\q2 cook it until the bones are charred.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Therefore, this is what I, Yahweh the Lord say:
+\q1 'Terrible things will happen to that city that is full of murderers!
+\q2 It will be as though I also will pile high the wood in the fire.
+\q1
+\v 10 So heap on the wood
+\q2 and light the fire!
+\q1 Cook the meat well,
+\q2 and mix some spices with it;
+\q2 cook it until the bones are black.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 Therefore, the Lord Yahweh says this: Woe to the city of blood! I will also enlarge the pile of wood! 
+\v 10 Increase the wood! Light the fire! Cook the meat thoroughly and season the broth! And let the bones be well burned!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:lordyahweh]]
+
+===== Translation Notes: =====
+
+Yahweh continues to compare Jerusalem with a cooking pot.
+
+  * **I will enlarge the pile of wood** - It is implied that the pile of wood is under the cooking pot, which represents Jerusalem. AT: "I will make the pile of wood under you even bigger." (See: [[vi:ta:vol1:translate:figs_explicit]])
+  * **Increase...Light...Cook...let the bones be well burned** - Yahweh gives these commands to imaginary people who are part of the metaphor. 
+  * **Increase the wood** - "Use a lot of wood"
+  * **And let the bones be well burned** - AT: "And burn the bones." (See: [[vi:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:24|Ezekiel Chapter 24 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:24:07|<<]] | [[:vi:bible:notes:ezk:24:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

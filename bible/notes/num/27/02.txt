@@ -1,0 +1,45 @@
+====== Numbers 27:2-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 They came to the entrance of the Sacred Tent and stood in front of Eleazar, Moses\f + \ft Or: me \f*, the tribal leaders, and many \f + \ft euphemism \f* other Israelite people.
+\v 3 They said, "Our father died \add during the time that we were\add* in the desert, and he did not have any sons. But he was not among those who supported Korah, who rebelled against Yahweh. He died just because he was a sinner \add like everyone else\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 They came to the entrance of the sacred tent and stood in front of Eleazar, Moses, the tribal leaders, and many other Israelite people.
+\v 3 They said, "Our father died during the time that we were in the desert, and he did not have any sons. But he was not among those who supported Korah, who rebelled against Yahweh. He died just because he was a sinner like everyone else.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 2 They stood before Moses, Eleazar the priest, the leaders, and before all the community at the entrance to the tent of meeting. They said,
+\v 3 "Our father died in the wilderness. He was not among those who gathered together against Yahweh in the company of Korah. He died in his own sin; instead, it was because of his own sin that he died.
+</usfm>
+
+===== Important Terms: =====
+
+  * Eleazar
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:other:tent|tent]] of meeting
+  * [[:vi:obe:other:desert|desert, wilderness]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * Korah
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+
+===== Translation Notes: =====
+
+  * **He died in his own sin; instead, it was because of his own sin that he died **- This means that the man died, and he was part of the group that Yahweh said would wander for forty years in the wilderness, but he was not part of Korah's rebellion.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:27|Numbers Chapter 27 Comprehension Questions]]**
+**[[:vi:bible:notes:num:27:01|<<]] | [[:vi:bible:notes:num:27:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

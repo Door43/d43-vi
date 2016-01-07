@@ -1,0 +1,45 @@
+====== 1 Kings 18:45-46 ======
+
+===== TFT: =====
+
+<usfm>
+\v 45 Very soon the sky was full of black clouds. There was a strong wind, and then it began to rain very hard. Ahab got into his chariot and started to return to Jezreel \add city\add*.
+\v 46 Yahweh gave extra strength to Elijah. He tucked his cloak into his belt \add in order to run fast\add*, and he ran ahead of Ahab's \add chariot\add* all the way\f + \ft Or: 17 miles, Or: 26 km. \f* to Jezreel.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 45 Very soon the sky was full of black clouds. There was a strong wind, and then it began to rain very hard. Ahab got into his chariot and started to return to the city of Jezreel.
+\v 46 Yahweh gave extra strength to Elijah. He tucked his cloak into his belt in order to run fast, and he ran ahead of Ahab's chariot all the way to Jezreel.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 45 It happened that in a little while the heavens grew black with clouds and wind, and there was a great rain. Ahab rode and went to Jezreel,
+\v 46 but the hand of Yahweh was on Elijah. He tucked his robe in his belt and ran before Ahab to the entrance of Jezreel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:Ahab]]
+  * [[:vi:obe:other:jezreel]]
+  * [[:vi:obe:other:hand]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:robe]]
+===== Translation Notes: =====
+
+  * **It happened** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
+  * **the hand of Yahweh was on Elijah** - Here the word "hand" represents strength. AT: "Yahweh gave his power to Elijah" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **tucked his robe in his belt** - Elijah wrapped his long robe around his waist so that his legs would be free for running.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:18|1 Kings Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:18:43|<<]] | [[:vi:bible:notes:1ki:19:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

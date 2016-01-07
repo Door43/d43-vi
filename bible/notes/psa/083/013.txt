@@ -1,0 +1,80 @@
+====== Psalms 083:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 My God, cause them \add to disappear quickly\add* like whirling dust,
+\q2 like chaff that the wind blows away!
+\q1
+\v 14 Like a fire completely burns a forest
+\q1 and like flames burn in the mountains,
+\q1
+\v 15 expel them with your storms
+\q2 and cause them to be terrified by your big storms\f + \ft Or: hurricanes \f*!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 My God, cause them to disappear quickly like whirling dust,
+\q2 like chaff that the wind blows away!
+\q1
+\v 14 As a fire completely burns a forest
+\q1 and as flames burn in the mountains,
+\q1
+\v 15 expel them with your storms
+\q2 and cause them to be terrified by your big storms!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 My God, make them like the whirling dust,
+\q like chaff before the wind,
+\q
+\v 14 like the fire that burns the forest,
+\q and like the flame that sets the mountains on fire.
+\q
+\v 15 Chase them with your strong wind,
+\q and terrify them with your windstorm.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chaff]]
+  * [[:vi:obe:other:fire]]
+  * [[:vi:obe:other:terror]]
+ 
+
+===== Translation Notes: =====
+
+The writer uses similes to paint a picture of God's total destruction of Israel's enemies.
+
+    * **like the whirling dust, like chaff before the wind,**  -  Both statements compare God's enemies to things that can be blown away by the wind and these combine for emphasis. (See: [[:vi:ta:vol1:translate:figs_simile]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+    * **like the fire that burns the forest, and like the flame that sets the mountain on fire.**  - Both statements compare God's enemies to things that can be burned away by forest fires and these combine for emphasis. (See: [[:vi:ta:vol1:translate:figs_simile]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+    * **Chase them with your strong wind, and terrify them with your windstorm.** - Both statements ask God to destroy the enemies with storms and these combine for emphasis. (See: [[:vi:ta:vol1:translate:figs_simile]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:083|Psalms Chapter 083 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/083/011|<<]] | [[en/bible/notes/psa/083/016|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book3}}
+
+~~NOCACHE~~

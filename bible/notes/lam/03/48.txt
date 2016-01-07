@@ -1,0 +1,64 @@
+====== Lamentations 03:48-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 48 Many tears flow from my eyes
+\q2 because my people have been destroyed.
+\q1
+\v 49 My tears continually flow;
+\q2 they will not stop
+\q1
+\v 50 until Yahweh looks down from heaven and sees us.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 48 Many tears flow from my eyes
+\q2 because my people have been destroyed.
+\q1
+\v 49 My tears continually flow;
+\q2 they will not stop
+\q1
+\v 50 until Yahweh looks down from heaven and sees us.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 48 My eye runs down with streams of water because of the crushing of the daughter of my people.
+\q
+\v 49 My eye flows out, and it will not cease, for there is no end to it
+\q
+\v 50 until Yahweh looks down and sees from heaven.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+    * **My eye runs down with streams of water** - "Tears flow from my eyes like water flows in a river" because I am crying (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **because of the crushing of the daughter of my people** - See how you translated this in [[:vi:bible:notes:lam:02:11|2:11]].
+    * **My eye flows out** - AT: "Tears flow from my eyes" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **it will not cease ... no end to it** - AT: "my tears will not cease falling ... no end to them" (See: [[vi:ta:vol2:translate:figs_pluralpronouns]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:vi:bible:notes:lam:03:44|<<]] | [[:vi:bible:notes:lam:03:51|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}
+
+~~NOCACHE~~

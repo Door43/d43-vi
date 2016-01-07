@@ -2,13 +2,16 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Ekron was a major city of the Philistines, located nine miles inland from the Mediterranean Sea.
 
-(Translation suggestions: [[en:ta:translate:translatenames]])
+  * A temple of the false god, Beelzebub was located at Ekron.
+  * Once, the ark of the covenant was taken to Ekron after being captured by the Philistines.
+  * After much sickness and death occurred in the city, the Philistines sent the ark back to Israel.
 
-(See also: other)
+
+(Translation suggestions: [[:vi:ta:vol1:translate:translate_names|Translate Names]]) 
+
+(See also: [[[[:En:obe:other:philistines]], [[:vi:obe:other:beelzebul]], [[:vi:obe:other:arkofthecovenant]], [[:vi:obe:other:falsegod]])
 
 ===== Bible References: =====
 
@@ -18,4 +21,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>create jdg01 ktlink}}
+{{tag>publish}}

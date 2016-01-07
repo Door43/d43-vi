@@ -1,0 +1,82 @@
+====== Job 17:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "My time to live is almost ended; I have no strength left;
+\q2 my grave is waiting for me.
+\q1
+\v 2 Those who are around me are making fun of me;
+\q2 I \f + \ft synecdoche \f* watch them while they taunt\f + \ft Or: belittle \f* me."
+
+\q1
+\v 3 "God, \add it is as though I am in prison\add*;
+\q1 please pay the money in order that I may be released,
+\q2 because there is certainly no one else who will help me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "My time to live is almost ended; I have no strength left;
+\q2 those who have dug my grave are waiting for me.
+\q1
+\v 2 Those who are around me are making fun of me;
+\q2 I must always see them mocking me."
+
+\q1
+\v 3 "God, it is as though I were in prison;
+\q1 please pay the money in order that I may be released,
+\q2 because there is certainly no one else who will help me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\b
+\q
+\v 1 My spirit is consumed, and my days are over;
+\q the grave is ready for me.
+\q
+\v 2 Surely there are mockers with me;
+\q my eye must always see their provocation.
+\b
+\q
+\v 3 Give now a pledge, be a guarantee for me with yourself;
+\q who else is there who will help me?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:spirit]]
+  * [[:vi:obe:other:tomb]]
+  * [[:vi:obe:other:mock]]
+  * [[:vi:obe:other:pledge]]
+ 
+
+===== Translation Notes: =====
+
+  * **provocation- This word here means "their offensive, unpleasant, or irritating, slanderous remarks".**
+  * **give a pledge or be a guarantee - This means secure my release and is a doublet. (See: Doublet)**
+  * **who else is there to free me - This means there is no one else to free me. (See: Rhetorical question)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:17|Job Chapter 17 Comprehension Questions]]**
+**[[:vi:bible:notes:job:16:20|<<]] | [[:vi:bible:notes:job:17:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

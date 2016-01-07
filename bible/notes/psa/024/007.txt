@@ -1,0 +1,60 @@
+====== Psalms 024:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Open up the \add temple\add* gates
+\q2 in order that our glorious king may enter!
+\q1
+\v 8 \add Do you know\add* who the glorious king is?
+\q2 It is Yahweh, the one who is very strong \f + \ft doublet \f*;
+\q2 It is Yahweh, who conquers \add all his enemies\add* in battles!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Open up the temple gates
+\q2 in order that our glorious king may enter!
+\q1
+\v 8 Do you know who the glorious king is?
+\q2 It is Yahweh, the one who is very strong;
+\q2 It is Yahweh, who conquers all his enemies in battles!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Lift up your heads, you gates;
+\q be lifted up, everlasting doors,
+\q so that the King of glory may come in!
+\q
+\v 8 Who is this King of glory?
+\q Yahweh, strong and mighty; Yahweh, mighty in battle.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:kt:eternity|everlasting, eternal, eternity]]
+  * [[:vi:obe:other:king|king]]
+  * [[:vi:obe:kt:glory|glory, glorious]]
+  * [[:vi:obe:other:mighty|mighty, might]]
+
+===== Translation Notes: =====
+
+  * **Lift up your heads, you gates; be lifted up, everlasting doors** - The two phases are very similar in meaning. The words "gates" and "doors" refer to the gates of the temple. AT: "Open up, you ancient gates"  (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:024|Psalms Chapter 024 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:024:005|<<]] | [[:vi:bible:notes:psa:024:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

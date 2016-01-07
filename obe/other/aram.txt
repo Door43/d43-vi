@@ -8,7 +8,7 @@
   * One of Shem's sons was named Aram. Another man named Aram was a cousin of Rebekah. It is probable that the region of Aram was named after one of these two men.
   * This region was also called "Paddan Aram" and later became known by the Greek name, "Syria."
 
-(Translation suggestions: [[:vi:ta:translate:translatenames]])
+(Translation suggestions: [[vi:ta:vol1:translate:translate_names]])
 
 (See also: [[:vi:obe:other:PaddanAram]], [[:vi:obe:other:Syria]], [[:vi:obe:other:Shem]], [[:vi:obe:other:Rebekah]])
 

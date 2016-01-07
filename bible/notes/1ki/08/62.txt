@@ -1,0 +1,55 @@
+====== 1 Kings 08:62-63 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 62 Then the king and all the Israelite people who were there offered sacrifices to Yahweh.
+\v 63 They sacrificed 22,000 cattle and 120,000 sheep to restore fellowship with Yahweh. Then the king and all the people dedicated the temple.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 62 Then the king and all the Israelite people who were there offered sacrifices to Yahweh.
+\v 63 They sacrificed twenty-two thousand cattle and 120,000 sheep to restore fellowship with Yahweh. Then the king and all the people dedicated the temple.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 62 So the king and all Israel with him offered sacrifices to Yahweh.
+\v 63 Solomon offered a sacrifice of fellowship offerings, which he made to Yahweh: twenty-two thousand oxen and 120,000 sheep. So the king and all the people of Israel dedicated the house of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:king]]
+  * [[vi:obe:other:israel]]
+  * [[:vi:obe:other:sacrifice]]
+  * [[vi:obe:other:fellowshipoffering]]
+  * [[:vi:obe:other:ox]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:other:dedicate]]
+  * [[:vi:obe:other:house]]
+
+===== Translation Notes: =====
+
+    * **all Israel with him** - This may refer either 1) to the people whom Solomon called to Jerusalem and who are listed in [[vi:bible:notes:1ki:08:01|8:1]], or 2) to those who traveled to Jerusalem for the feast, not necessarily to every person who lived in Israel. (See: [[:vi:ta:vol2:translate:figs_hyperbole]])
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:08|1 Kings Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:08:59|<<]] | [[:vi:bible:notes:1ki:08:64|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

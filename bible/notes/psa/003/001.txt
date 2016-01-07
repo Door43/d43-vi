@@ -1,0 +1,79 @@
+====== Psalms 003:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I have many enemies \f + \ft doublet \f*!
+\q2 There are many people who oppose\f + \ft Or: rebel \f* against me.
+\q1
+\v 2 Many people are saying about me,
+\q2 "God will certainly not help him."
+\qr (Think about that!)
+\b
+\q2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I have many enemies!
+\q2 There are many people who oppose me.
+\q1
+\v 2 Many people are saying about me,
+\q2 "God will certainly not help him."
+\qr 
+\b
+
+
+\q2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\d A psalm of David, when he fled from Absalom his son.
+\b
+\q
+\v 1 Yahweh, how many are my enemies!
+\q Many have turned away and attacked me.
+\q
+\v 2 Many say about me,
+\q "There is no help for him from God." 
+\qs Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:other:absalom]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+(See: [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+
+  * **A psalm of David** - “This is a psalm that David wrote” 
+  * **turned away** - "come against me" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **"There is no help for him from God."** - TA: "God will not help him." (See:[[:vi:ta:vol2:translate:figs_activepassive]])  
+  * **Selah** - Possibly a music term meaning the instruments should play and the singing wait.
+
+
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:003|Psalms Chapter 003 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:002:012|<<]] | [[:vi:bible:notes:psa:003:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

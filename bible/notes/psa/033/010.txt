@@ -1,0 +1,91 @@
+====== Psalms 033:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Yahweh frustrates the things that the \add pagan\add* nations decide to do.
+\q2 He prevents them from doing the \add evil\add* things that they plan to do.
+\q1
+\v 11 But what Yahweh decides to do will last forever.
+\q2 What he plans to do will never be changed.
+\b
+\q1
+\v 12 Yahweh blesses those nations who choose him to be their God;
+\q2 He is pleased with those whom he has chosen to receive what he has promised.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh stops the other nations from doing the things they want to do.
+\q2 He prevents them from doing the evil things that they plan to do.
+\q1
+\v 11 But what Yahweh decides to do will last forever.
+\q2 What he plans to do will never change.
+\b
+\q1
+\v 12 Yahweh blesses our nation, we who worship him;
+\q2 How fortunate are we, the nation that belongs to him forever!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Yahweh frustrates the alliances of nations;
+\q he overrules the plans of the peoples.
+\q
+\v 11 The plans of Yahweh stand forever,
+\q the plans of his heart for all generations.
+\q
+\v 12 Blessed is the nation whose God is Yahweh,
+\q the people whom he has chosen as his own inheritance.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:nation]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:generation]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:elect]]
+  * [[:vi:obe:kt:inherit]]
+ 
+===== Translation Notes: =====
+
+
+  * **Yahweh frustrates** - "Yahweh destroys" or "Yahweh breaks" 
+  * **alliances** - An alliance is an agreement between two or more nations to support each other in a war against a common enemy.
+  * **the plans of the peoples** - "the intentions of the peoples" AT: "the evil plans of the peoples"
+  * **the plans of his heart for all generations** - AT: "the plans of his heart stand for all generations" (See: [[:vi:ta:vol2:translate:figs_ellipsis]])
+  * **the plans of his heart** - AT: "his plans" (UDB) (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **for all generations** - AT: "for all future generations" or "forever" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **whose God is Yahweh** - AT: "for whom only Yahweh is God" or "who only worship Yahweh as God"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:033|Psalms Chapter 033 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/033/007|<<]] | [[en/bible/notes/psa/033/013|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

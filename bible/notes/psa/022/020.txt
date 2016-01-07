@@ -1,0 +1,64 @@
+====== Psalms 022:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 Rescue me from \add those who want to kill me with\add* their swords.
+\q2 Save my life from the power of those who are \add like wild\f + \ft Or: fierce \f*\add* dogs \f + \ft metaphor \f*.
+\q1
+\v 21 Snatch me away from \add my enemies who are\add* like lions whose jaws \add are already open, ready to chew me up\add*!
+\q2 Grab me away from \add those men who are like\add* wild oxen \add that attack other animals with\add* their horns \f + \ft metaphor \f*!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 Rescue me from those who want to kill me with their swords.
+\q2 Save my life from the power of those who are like wild dogs.
+\q1
+\v 21 Snatch me away from my enemies who are like lions with jaws open and ready to chew me up!
+\q2 Grab me away from those men who are like wild oxen that attack other animals with their horns!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 Rescue my soul from the sword,
+\q my precious life from the paws of the dogs.
+\q
+\v 21 Save me from the lion’s mouth;
+\q rescue me from the horns of the wild oxen.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul|soul]]
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:lion]]
+  * [[:vi:obe:other:horn]]
+  * [[:vi:obe:other:ox|ox, oxen]]
+===== Translation Notes: =====
+
+  * **my soul** - AT: "me" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **the sword** - The sword is a common way of refering to a violent enemy. AT: "my enemies" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **my precious life** - "the only thing I have left"
+  * **paws of the dogs ... lion's mouth ... horns of the wild ox** - Each of these is a double figure of speech. First, the paws, mouth, and horns stand for the animal as a whole in a synecdoche. Second, all three animals refer to David's enemies as a metaphor. (See: [[:vi:ta:vol2:translate:figs_synecdoche]] and [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **the horns of the wild oxen** - AT: "the strength of the wild oxen" or "the wild oxen" (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **wild oxen** - The word "wild" here means that has not been captured and tamed by humans.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:018|<<]] | [[:vi:bible:notes:psa:022:022|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

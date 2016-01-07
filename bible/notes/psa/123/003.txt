@@ -1,0 +1,56 @@
+====== Psalms 123:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh, act very mercifully \f + \ft doublet \f* toward us
+\q2 because \add our enemies\add* have acted very contemptuously toward us.
+\q1
+\v 4 Rich people have made fun of us for a long time,
+\q2 and proud people who have oppressed\f + \ft Or: acted cruelly toward \f* us have acted toward us as though we were worthless.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh, act very mercifully  toward us
+\q2 because our enemies have acted very contemptuously toward us.
+\q1
+\v 4 Arrogant people have made fun of us for a long time,
+\q2 and proud people have oppressed us and have acted as though we were worthless.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Have mercy on us, Yahweh, have mercy on us,
+\q for we are filled with humiliation.
+\q
+\v 4 We are more than full 
+\q of the scoffing of the insolent
+\q and with the contempt of the proud.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:mercy]]
+  * [[:En:obe:other:humiliate]]
+  * [[:vi:obe:other:contempt]]
+  * [[:vi:obe:other:proud|proud, pride, prideful]]
+
+===== Translation Notes: =====
+
+  * **we are filled with humiliation**  - "we have been disgraced"
+  * **We are more than full** - AT: "We have had too much" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **scoff** - to mock or insult
+  * **the insolent** - rude and arrogant people
+  * **of the scoffing ... and with the contempt ...** - There two phrases have very similar meanings and are used together to emphasize how much they have been mocked by the people. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:123|Psalms Chapter 123 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:123:001|<<]] | [[:vi:bible:notes:psa:124:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

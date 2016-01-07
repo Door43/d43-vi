@@ -1,0 +1,54 @@
+====== Leviticus 26:37-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 You will stumble over each other. So you will not be able to stand and fight your enemies.
+\v 38 Many of you will die in the countries that belong to your enemies \f + \ft doublet \f*.
+\v 39 And those of you who remain alive will slowly die and rot in the countries of your enemies because of your sins and because of the sins of your ancestors.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 You will run as if a man with a sword were chasing you, and you will fall down, even though no one is coming behind you. You will stumble over each other trying to flee. You will not be able to stand and fight your enemies.
+\v 38 Many of you will die in your enemies'  countries.
+\v 39 And those of you who remain alive will slowly die and rot there because of your sins and the sins of your ancestors.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 37 You will stumble over each other as though you were running from the sword, even though no one is chasing you. You will have no power to stand before your enemies.
+\v 38 You will perish among the nations, and your enemies' land will itself devour you.
+\v 39 Those who are left among you will waste away in their sins, there in your enemies’ lands, and because of their fathers' sins they will waste away as well.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:power]]
+  * [[:vi:obe:kt:perish]]
+  * [[vi:obe:other:devour]]
+  * [[:vi:obe:other:waste]]
+  * [[:vi:obe:kt:sin]]
+ 
+
+===== Translation Notes: =====
+Yahweh continues describing how frightened the Israelites will be while in exile.
+  * **your enemy's land will itself devour you** - Yahweh speaks about the land as if it were a wild animal. This emphasizes that most of the Israelites will not survive in the land of their enemies. (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:26|Leviticus Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:26:34|<<]] | [[:vi:bible:notes:lev:26:40|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

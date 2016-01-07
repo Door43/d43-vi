@@ -1,0 +1,67 @@
+====== Psalms 105:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 But he did not others to oppress them.
+\q2 He warned those kings by saying to them,
+\q1
+\v 15 "Do not do harm the people whom I have chosen!
+\q2 Do not harm my prophets!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 But he did not allow others to oppress them.
+\q2 He warned those kings by saying to them,
+\q1
+\v 15 "Do not do harm to the people whom I have chosen!
+\q2 Do not harm my prophets!"
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 He did not allow anyone to oppress them;
+\q he rebuked kings for their sakes.
+\q
+\v 15 He said, "Do not touch my anointed ones,
+\q and do not harm my prophets."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:oppress]]
+  * [[vi:obe:other:rebuke]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:kt:anoint]]
+  * [[:vi:obe:kt:prophet]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **for their sakes** - "for their own well-being"
+    * **Do not touch my anointed ones** - AT: "Do not harm the people I have anointed" (See: [[:vi:ta:vol2:translate:figs_euphemism]])
+    
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:105|Psalms Chapter 105 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:105:012|<<]] | [[:vi:bible:notes:psa:105:016|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

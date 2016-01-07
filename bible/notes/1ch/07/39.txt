@@ -1,0 +1,48 @@
+====== 1 Chronicles 07:39-40 ======
+
+===== TFT: =====
+
+<usfm>
+\v 39 \add Another descendant of Asher was\add* Ulla, whose sons were Arah, Hanniel, and Rizia.
+\p
+\v 40 All those men were descendants of Asher, and they were all leaders of their clans. They were brave warriors and excellent leaders. In the record of the clans that are descended from Asher are \add the names of\add* 26,000 men who were able to be in the army.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 39 Another descendant of Asher was Ulla, whose sons were Arah, Hanniel, and Rizia.
+\p
+\v 40 All those men were descendants of Asher, and they were all leaders of their clans. They were brave warriors and excellent leaders. In the record of the clans that are descended from Asher are the names of 26,000 men who were able to be in the army.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 39 Ulla's descendants were Arah, Hanniel, and Rizia.
+\v 40 All these were descendants of Asher. They were originators of clans, leaders of their families, distinguished men, fighting men, and chief among the leaders.
+There were 26,000 men listed fit for military service, according to their enumerated lists.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:descendant]]
+  * [[:vi:obe:other:clan]]
+  * [[vi:obe:other:family]]
+  * [[vi:obe:other:chief]]
+
+===== Translation Notes: =====
+
+  * **Ulla ... Rizia** - These are names of people. (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **orgininators** - "fathers" or "founders"
+  * **distinguished men** - "important men"
+  * **There were 26,000 men listed fit for military service, according to their enumerated lists** - AT: "According to the clan records, there were twenty six thousand men able to serve in the military" (See: [[:vi:ta:vol2:translate:figs_activepassive]] and [[:vi:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ch:07|1 Chronicles Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:1ch:07:36|<<]] | [[:vi:bible:notes:1ch:08:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

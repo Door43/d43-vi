@@ -1,0 +1,85 @@
+====== Psalms 074:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, why have you abandoned\f + \ft Or: rejected \f* us?
+\q2 Will you keep rejecting us forever \f + \ft rhetorical question \f*?
+\q1 Why are you angry with us,
+\q2 since we are like sheep in your pasture \add and you are like our shepherd\add*? \f + \ft metaphor, rhetorical question \f*
+\q1
+\v 2 Do not forget your people whom you chose long ago,
+\q2 the people whom you freed \add from being slaves in Egypt\add* and caused to become your tribe.
+\q1 Do not forget Jerusalem, which was your home\f + \ft Or: where you dwelt \f* \add on this earth\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, why have you abandoned us?
+\q2 Will you keep rejecting us forever?
+\q1 Why are you angry with us
+\q2 since we are like sheep in your pasture and you are like our shepherd? 
+\q1
+\v 2 Do not forget your people whom you chose long ago,
+\q2 the people whom you freed from being slaves in Egypt and caused to become your tribe.
+\q1 Do not forget Jerusalem, which is your home on this earth.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 74
+\d A maschil of Asaph.
+\b
+\q
+\v 1 God, why have you rejected us forever?
+\q Why does your anger burn against the sheep of your pasture?
+\q
+\v 2 Call to mind your people, whom you redeemed in ancient times,
+\q whom you have purchased to be your own heritage,
+\q and Mount Zion, where you live.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:asaph]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:reject]]
+  * [[:vi:obe:kt:forever]]
+  * [[:vi:obe:other:angry]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:other:mind]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:kt:redeem]]
+  * [[:vi:obe:other:zion]]
+  * [[:vi:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **A maschil of Asaph**  - This can also be written as a sentence. AT: “This is a maschil of Asaph" or “This is a maschil Asaph wrote”
+  * **maschil**  - See how you translated this in [[:vi:bible:notes:psa:032:001|32:1]].
+  * **God, why have you rejected us forever?**  - This phrase emphasizes the distress that Asaph feels.(See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **against the sheep of your pasture**  - The word "sheep" here refers to the people of Israel. AT: "against Israel, who are like the sheep of your pasture." (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **your own heritage**  - AT: "your own inheritance"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:074|Psalms Chapter 074 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:073:027|<<]] | [[:vi:bible:notes:psa:074:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

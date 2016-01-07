@@ -1,0 +1,49 @@
+====== Exodus 14:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then the angel of God, who had been in front of the Israelite people, moved and went behind them. The tall bright cloud that had been in front of them also moved behind them,
+\v 20 until it was between the Egyptian army and the Israelite people. The cloud caused the Egyptian army to be in the darkness but it gave light for the Israelites. As a result, neither group could come near the other group during the whole night.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then the angel of God, who had been in front of the Israelite people, moved and went behind them. The tall, bright cloud that had been in front of them also moved behind them
+\v 20 until it was between the Egyptian army and the Israelite people. The cloud caused the Egyptian army to be in the darkness, but it gave light for the Israelites. As a result, neither group could come near the other group during the whole night.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 The angel of God, who went before the Israelites, moved and went behind them. The pillar of cloud moved from before them and went to stand behind them.
+\v 20 The cloud came between the camp of Egypt and the camp of Israel. It was a dark cloud to the Egyptians, but it lit the night for the Israelites, so one side did not come near the other all night.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:angel]]
+  * [[:vi:obe:other:pillar]]
+ 
+
+===== Translation Notes: =====
+
+  * **the camp of Israel**  - "the Israelite people" (UDB)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:exo:14|Exodus Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:exo:14:15|<<]] | [[:vi:bible:notes:exo:14:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

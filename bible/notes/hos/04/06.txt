@@ -1,0 +1,85 @@
+====== Hosea 04:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 It is because my people do not know \add about me\add* that they will be destroyed.
+\q1 And their not knowing about me is because you have refused \add to teach them about me\add*;
+\q2 so I will no longer allow you to be my priests.
+\q1 You have forgotten the things that I taught you,
+\q2 so I will forget \add to bless\add* your children.
+\q1
+\v 7 As there are more and more priests,
+\q2 they have sinned against me more and more.
+\q1 So I will no longer allow them to be honored;
+\q2 instead, I will cause them to be disgraced.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 You, my people, are perishing because they do not know me.
+\q1 And why do you know me so little? Because you have rejected what you can know about me,
+\q2 so I am rejecting you from being priests to me. 
+\q1 Look what you have forgotten: You have forgotten the law that I, your God, gave to you.
+\q2 Because you forgot me, I will forget your children.
+\q1
+\v 7 The more numerous you priests become,
+\q2 the more you do what I have forbidden.
+\q2 
+\q1 Everyone respects you now, but I will make them dishonor you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 6 My people are being destroyed for lack of knowledge.
+\q Because you have rejected knowledge,
+\q I will also reject you as priests to me.
+\q Because you have forgotten the law of me, your God,
+\q I also will forget your children.
+\q
+\v 7 The more the priests multiplied,
+\q the more they sinned against me.
+\q I will change their honor into shame.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+  * [[:vi:obe:other:reject|reject, push away]]
+  * [[:vi:obe:other:know|know, knowledge, make know]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:other:law|law, principle]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:children|children, child]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:vi:obe:other:honor|honor]]
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+
+===== Translation Notes: =====
+
+Yahweh is talking about Israel.
+
+  * **My people are being destroyed for lack of knowledge.**  - Yahweh is saying that the destruction of Israel is happening because the priests and prophets (the spiritual leaders of Israel) were not teaching the people about Yahweh and his commands.
+  * **multiplied**  - "became more numerous"
+  * **I will change their honor into shame.**  - Priests were honored in Israel; now, because of their poor examples and great sin, the priests would be rejected by Yahweh and face great shame. (see: Metonymy)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:04|Hosea Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:04:04|<<]] | [[:vi:bible:notes:hos:04:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

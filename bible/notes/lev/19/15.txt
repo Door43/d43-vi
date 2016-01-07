@@ -1,0 +1,59 @@
+====== Leviticus 19:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Always \f + \ft litotes \f* judge people fairly \f + \ft doublet \f*. Do not do special favors for either poor people or rich people.
+\p
+\v 16 Do not spread false rumors about other people.
+\p Do not say anything \add in court\add* that would result in some \add innocent\add* person being executed. I, Yahweh, \add am commanding this\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Always judge people fairly. Do not do special favors for either poor people or rich people.
+\p
+\v 16 Do not spread false rumors about other people.
+\p Do not remain silent in court if your testimony would keep an innocent person being executed. I, Yahweh, am commanding this.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Do not cause judgment to be false. You must not show favoritism to someone because he is poor, and you must not show favoritism to someone because he is important. Instead, judge your neighbor righteously.
+\p
+\v 16 Do not walk around spreading false gossip among your people, but seek to protect your neighbor's life. I  am Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:judge|judge, judgment]]
+  * [[:vi:obe:kt:favor|favor, favorable, favoritism]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:other:gossip|gossip]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:neighbor|neighbor]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **Do not cause judgment to be false** - "Do not judge unfairly." AT: "Judge everyone fairly" (See: [[:vi:ta:vol2:translate:figs_litotes]])
+  * **You must not show favoritism to someone because he is poor, and you must not show favoritism to someone because he is important** - The words "poor" and "important" can be combined to mean "anyone." AT: "You must not show favoritism to anyone" (See: [[:vi:ta:vol2:translate:figs_merism]])
+  * **judge your neighbor righteously** - "judge everyone according to what is right"
+  * **Do not walk around spreading false gossip** - "Do not go around speaking gossip to other people"
+  * **seek to protect your neighbor's life** - "seek to protect a person's life by telling the truth"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:19|Leviticus Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:19:13|<<]] | [[:vi:bible:notes:lev:19:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

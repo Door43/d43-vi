@@ -1,0 +1,62 @@
+====== Psalms 118:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 I will not be killed \add in battle\add*;
+\q2 I will live to proclaim the great things that Yahweh has done.
+\q1
+\v 18 Yahweh has punished me severely,
+\q2 but he has not allowed me to die\f + \ft Or: my enemies to kill me \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 I will not be killed in battle;
+\q2 I will live to proclaim the great things that Yahweh has done.
+\q1
+\v 18 Yahweh has punished me severely,
+\q2 but he has not allowed me to die.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 I will not die, but live
+\q and declare the deeds of Yahweh.
+\q
+\v 18 Yahweh has punished me harshly;
+\q but he has not handed me over to death.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:declare]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:other:punish|punish, punishment]]
+  * [[:vi:obe:other:hand|hand]]
+
+===== Translation Notes: =====
+
+  * **I will not die, but live** - (See: [[:vi:ta:vol2:translate:figs_litotes]] and [[:vi:ta:vol2:translate:figs_doublet]])
+  * **Yahweh has punished me** - AT: "Yahweh has disciplined me"
+  * **he has not handed me over to death** - AT: "taken my life" (See: [[:vi:ta:vol2:translate:figs_exclusive]], [[:vi:ta:vol2:translate:figs_euphemism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:118|Psalms Chapter 118 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:118:015|<<]] | [[:vi:bible:notes:psa:118:019|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

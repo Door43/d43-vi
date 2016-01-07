@@ -1,0 +1,60 @@
+====== Deuteronomy 24:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 But if he is poor, do not keep that cloak all night.
+\v 13 When the sun sets, take the cloak back to him, in order that he may wear it while he sleeps. If you do that, he will \add ask God to\add* bless you, and Yahweh our God will be pleased with you.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 But if he is poor, do not keep that cloak overnight.
+\v 13 When the sun sets, take the cloak back to him, in order that he may wear it while he sleeps. If you do that, he will ask God to bless you, and Yahweh our God will be pleased with you.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 If he is a poor man, you must not sleep with his pledge in your possession.
+\v 13 You must surely restore to him the pledge by the time that the sun goes down, so that he may sleep in his cloak and bless you; it will be righteousness for you before Yahweh your God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pledge]]
+  * [[:vi:obe:other:possess|possess, possession]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+
+===== Translation Notes: =====
+
+
+    * **cloak**  - This is a large rectangular piece of cloth, which the person can wrap around himself to keep warm at night.
+    * **so that he may sleep in his cloak and bless you**  - AT: "So that he will be able to keep himself warm through the night and will be grateful to you for not taking it away from him."
+    * **it will be righteousness for you before Yahweh your God.**  - AT: "Yahweh your God will approve of the way you handled this matter."
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/10|<<]] | [[en/bible/notes/deu/24/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Deuteronomy 28:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 "If you do what Yahweh our God tells you to do and faithfully obey everything that I am today commanding you to do, he will cause you to become greater than any other nation on the earth.
+\v 2 If you obey Yahweh, this is what he will do to bless you:
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 "If you do what Yahweh our God tells you to do and faithfully obey everything that I am today commanding you to do, he will cause you to become greater than any other nation on the earth.
+\v 2 If you obey Yahweh, this is what he will do to bless you:
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 28
+\p
+\v 1 If you listen carefully to the voice of Yahweh your God so as to keep all his commandments that I am commanding you today, Yahweh your God will set you above all the other nations of the earth.
+\v 2 All these blessings will come on you and overtake you, if you listen to the voice of Yahweh your God.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:voice|voice]]
+  * [[:vi:obe:kt:yahweh|Yahweh]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:other:nation|nation]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+  * **so as to keep**  - "and obey"
+  * **set you above**  - "make you more important" or "make you greater than"
+  * **All these blessings will come on you and overtake you** - Moses describes the blessing as a person who will come and stay with them. Moses will list the blessings in 28:3-14. AT: "Yahweh will always bless you in these ways" (See: [[:vi:ta:vol2:translate:figs_personification]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:27:26|<<]] | [[:vi:bible:notes:deu:28:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

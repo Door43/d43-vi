@@ -1,0 +1,44 @@
+====== 2 Chronicles 25:17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Some time later Amaziah, the king of Judah, consulted his advisors. Then he sent a message to Jehoash, the king of Israel. He wrote, "Come here and let's talk together."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Some time later Amaziah, the king of Judah, consulted his advisors. Then he sent a message to Jehoash, the king of Israel. He wrote, "Come and meet me face to face in battle."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Then Amaziah king of Judah consulted with advisors and sent messengers to Jehoash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, “Come, let us meet each other face to face in battle.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:send]]
+  * [[:vi:obe:other:messenger|messenger]]
+  * [[:vi:obe:other:jehu|Jehu]]
+  * [[:vi:obe:other:kingdomofisrael]]
+
+===== Translation Notes: =====
+
+  * **Jehoahaz...Jehoash** - (See: [[:vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:25|2 Chronicles Chapter 25 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:25:16|<<]] | [[:vi:bible:notes:2ch:25:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

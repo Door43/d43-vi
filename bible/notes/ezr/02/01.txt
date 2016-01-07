@@ -1,0 +1,74 @@
+====== Ezra 02:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 King Nebuchadnezzar's \add soldiers\add* captured many \add Israelite\add* people and took them to Babylonia. \add Many years later, some Israelite people\add* returned to Judah. Some returned to Jerusalem, and some returned to \add other places in\add* Judah. They went to the towns where their ancestors had lived. This is a list of the groups who returned.
+\v 2 The leaders of those groups were Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
+\p There were:
+\tr \tc1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 King Nebuchadnezzar's soldiers captured many Israelite people and took them to Babylonia. Many years later, some Israelite people returned to Judah. Some returned to Jerusalem, 
+and some returned to other places in Judah. They went to the towns where their ancestors had lived. This is a list of the groups who returned.
+\v 2 The leaders of those groups were Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
+\p The groups of people included:
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 These are the people in the province who went up from the captivity of King Nebuchadnezzar, who had exiled them in Babylon, the people who returned to each of their cities of Jerusalem and in Judea.
+\v 2 They came with Zerubbabel, Joshua, Nehemiah, Seraiah, Reeliaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. 
+\p This is the record of the people of Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:captive]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:nebuchadnezzar]]
+  * [[:vi:obe:other:Exile]]
+  * [[:vi:obe:other:babylon]]
+  * [[:vi:obe:other:jerusalem]]
+  * [[:vi:obe:other:judea]]
+  * [[:vi:obe:other:Zerubbabel]]
+  * [[:vi:obe:other:joshua]]
+  * [[:vi:obe:other:nehemiah]]
+  * [[:vi:obe:other:mordecai]]
+  * [[:vi:obe:other:israel]]
+===== Translation Notes: =====
+
+Begins a list of names of people.
+
+
+  * **Seraiah** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Reeliaiah** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Bilshan** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * ** Mispar** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Bigvai** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Rehum** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+  * **Baanah** - This is a man's name. (See: [[ vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/01/09|<<]] | [[en/bible/notes/ezr/02/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Hosea 04:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 The people of Israel have chosen to worship idols \f + \ft metaphor \f*,
+\q2 so allow them \add to do what they want to do\add*.
+\q1
+\v 18 When their rulers finish drinking \add their wine\add*,
+\q2 they go to find prostitutes;
+\q2 they love their disgraceful behavior.
+\q1
+\v 19 But they will disappear
+\q2 \add as though\add* \f + \ft metaphor \f* they were blown away by a whirlwind.
+\q1 They will become very ashamed because of their offering sacrifices \add to idols\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Ephraim has gone to join idols. 
+\q2 Leave those people alone!
+\v 18 When they have finished drinking all their alcoholic drinks
+\q2 then they will commit even more sexual sins.
+\q2 Their rulers love to do these shameful things.
+\v 19 Someone will attack them; he will be like a whirlwind that lifts them up and carries them away to another place.
+\q2 Only then will they be ashamed because they gave offerings to the idols."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Ephraim united himself with idols;
+\q leave him alone.
+\q
+\v 18 Even when their strong drink is gone,
+\q they continue to commit adultery;
+\q her rulers dearly love their shame.
+\q
+\v 19 The wind will wrap her up in its wings;
+\q and they will be ashamed because of their sacrifices.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:idol|idol, idolatrous]]
+  * [[:vi:obe:other:strongdrink|strong drink]]
+  * [[:vi:obe:kt:adultery|adultery, adulterous, adulterer, adulteress]]
+  * [[:vi:obe:other:ruler|ruler, rulers]]
+  * [[:vi:obe:kt:love]]
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+
+===== Translation Notes: =====
+
+Yahweh is talking about Israel.
+
+  * **Ephraim united himself with idols; leave him alone. **- Ephraim has made the choice to worship idols, instead of Yahweh. Ephraim will therefore have to take the consequences of his actions ("leave him alone" to see what will happen).
+  * **her rulers dearly love their shame**  - This means that Israel's rulers are NOT ashamed of what they are doing when they worship idols and turn against Yahweh. (see: Litotes)
+  * **The wind will wrap her up in its wings**  - The "wind" is symbolic of God's judgment and wrath against the nation of Israel. Yahweh will literally allow Israel to be captured and taken into exile. (see: metaphor and metonymy)
+  * **they will be ashamed because of their sacrifices**  - //they will be ashamed because of their sacrifices //  can be made explicit: "Only then will they be ashamed because they gave offerings to the idols." (UDB) (see: Explicit and implicit information)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:04|Hosea Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:04:15|<<]] | [[:vi:bible:notes:hos:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

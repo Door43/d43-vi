@@ -1,0 +1,63 @@
+====== Psalms 119:83-84 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 83 I have become \add as useless as\add* \f + \ft metaphor \f* a wineskin that is \add shriveled from hanging a long time\add* in the smoke \add inside a house\add*,
+\q2 but I have not forgotten your statutes\f + \ft Or: what you have decreed that we should do \f*.
+\q1
+\v 84 How long must I wait?
+\q2 When will you punish those who persecute\f + \ft Or: cause trouble for \f* me?
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 83 I have become as useless as a wineskin that is shriveled from hanging a long time in the smoke inside a house,
+\q2 but I have not forgotten your statutes.
+\q1
+\v 84 How long must I wait?
+\q2 When will you punish those who persecute me?
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 83 For I have become like a wineskin in the smoke;
+\q I do not forget your statutes.
+\q
+\v 84 How long must your servant endure this;
+\q when will you judge those who persecute me?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:statute]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:kt:endure]]
+  * [[:vi:obe:kt:judge|judge, judgment]]
+  * [[:vi:obe:other:persecute|persecute, persecution]]
+
+===== Translation Notes: =====
+
+  * **wineskin**  - a bag made of animal skin for holding wine
+  * **like a wineskin in the smoke**  - AT: "useless" (See: [[:vi:ta:vol1:translate:figs_simile|Simile]])
+  * **How long must your servant endure this; when will you judge those who persecute me?**  - (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:081|<<]] | [[:vi:bible:notes:psa:119:085|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

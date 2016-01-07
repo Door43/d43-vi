@@ -1,0 +1,67 @@
+====== Psalms 119:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Yahweh, I try to carefully cling to your requirements\f + \ft Or: what you have instructed \add us to do\add* \f*;
+\q2 do not \add abandon me, with the result that\add* I would become disgraced.
+\q1
+\v 32 I will eagerly obey [IDI] your commands\f + \ft Or: what you have commanded \f*,
+\q2 because you have enabled me to understand more \add what you want me to do\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Yahweh, I try to carefully cling to your requirements;
+\q2 do not abandon me or let me be disgraced.
+\q1
+\v 32 I will eagerly obey your commands
+\q2 because you have helped me understand better and better what you want me to do.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 31 I cling to your covenant decrees;
+\q Yahweh, do not let me be shamed.
+\q
+\v 32 I will run in the path of your commandments,
+\q for you enlarge my heart to do so.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:command]]
+  * [[:vi:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+  * **I cling to your covenant decrees** - AT: "I hold tightly to your covenant decrees." Holding tightly to them means being committed to obeying them. AT: "I am committed to obeying your covenant decrees" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **covenant decrees**- AT: "your requirements" (UDB)
+  * **I will run in the path of your commandments**  - AT: "I will move swiftly to obey your commandments" or "I will be quick to obey your commands"
+  * **you enlarge my heart** - Possible meanings are "you help me understand your commands" or 2) 'you make me want to obey your commands" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:029|<<]] | [[:vi:bible:notes:psa:119:033|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

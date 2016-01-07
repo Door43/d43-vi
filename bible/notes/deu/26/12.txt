@@ -1,0 +1,62 @@
+====== Deuteronomy 26:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Every third year, you must bring to the descendants of Levi and to the foreigners \add who are living among you\add* and the orphans and the widows a tithe\f + \ft Or: 10 percent \f* of your crops, in order that in every town they will have plenty to eat.
+\v 13 Then you must say to Yahweh, 'I have brought to you, from my house, all of the sacred tithe \add from my harvest this year\add*. I am giving it to the descendants of Levi, to the foreigners, the orphans, and the widows, as you commanded us to do. I have not disobeyed any of your commands \add about the tithes\add*, and I have not forgotten any of your commands \add about tithes\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Every third year, you must bring to the descendants of Levi and to the foreigners who are living among you and the orphans and the widows a tithe of your crops, in order that in every town they will have plenty to eat.
+\v 13 Then you must say to Yahweh, 'I have brought to you, from my house, all of the tenth from my harvest this year, the tenth that I have set aside for you. I am giving it to the descendants of Levi, to the foreigners, the orphans, and the widows, as you commanded us to do. I have not disobeyed any of your commands about the thenth portion, and I have not forgotten any of your commands about it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 When you have finished giving all the tithe of your harvest in the third year, that is, the year of tithing, then you must give it to the Levite, to the foreigner, to the fatherless, and to the widow, so that they may eat within your city gates and be filled.
+\v 13 You must say before Yahweh your God, "I have brought out of my house the things that have been set apart, and have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your commandments that you have given me. I have not transgressed any of your commandments, neither have I forgotten them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:tenth|tenth, tithe]]
+  * [[:vi:obe:kt:harvest]]
+  * [[:vi:obe:other:Levite]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:kt:gate|gate, gate bar]]
+  * [[:vi:obe:kt:setapart|set apart]]
+  * [[:vi:obe:other:command|command, to command, commandment]]
+  * [[:vi:obe:kt:transgression|transgress, transgression]]
+
+===== Translation Notes: =====
+
+  * **in the third year** - The Israelites gave a tenth of their harvest to Yahweh every year. Every three years they gave the tenth of the harvest to the poor.
+  * **fatherless** - children whose parents have both died and do not have relatives to care for them
+  * **widow** - a true widow is a woman who's husband has died and has no children to care for her in her old age
+  * **eat within your city gates and be filled** - AT: “so that those within your towns may have enough food to eat”  (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **I have brought out of** - This is the start of another statement that the Israelite was supposed to say. It will continue to the end of 26:15.
+  * **nor have I forgotten them** - This means that he has not neglected to obey any of God's commandments.
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:26|Deuteronomy Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/26/10|<<]] | [[en/bible/notes/deu/26/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>text}}
+
+~~NOCACHE~~

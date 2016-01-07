@@ -1,0 +1,65 @@
+====== Job 40:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Their tails are stiff \f + \ft Or: bend down \f* like the branches of a cedar tree.
+\q2 The sinews\f + \ft Or: muscles \f* of their thighs are close together.
+\q1
+\v 18 Their thigh bones are like tubes made of bronze,
+\q2 and the bones of their legs are like bars made of iron.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Their tails are stiff  like the branches of a cedar tree.
+\q2 The muscles of their thighs are close together.
+\q1
+\v 18 Their thigh bones are like tubes made of bronze,
+\q2 and the bones of their legs are like bars made of iron.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 He moves his tail like a cedar;
+\q his thighs’ muscles are joined together.
+\q
+\v 18 His bones are like tubes of bronze;
+\q his legs are like bars of iron.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:cedar]]
+  * [[:vi:obe:other:bronze]]
+ 
+
+===== Translation Notes: =====
+
+  * **like a cedar, like tubes of brass, like bars of iron - These three comparisons describe the largeness, toughness, and the strength of this great animal. (See: Simile)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:40|Job Chapter 40 Comprehension Questions]]**
+**[[:vi:bible:notes:job:40:15|<<]] | [[:vi:bible:notes:job:40:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

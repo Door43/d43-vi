@@ -1,0 +1,55 @@
+====== Amos 06:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add Terrible things like that will happen\add* because Yahweh has commanded that large houses \add in Israel\add* must be smashed into pieces,
+\q2 and small houses must be smashed into tiny bits.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Terrible things like that will happen because Yahweh has commanded that the large houses in Israel must be smashed into pieces,
+\q2 and small houses must be smashed into tiny bits.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 For, look, Yahweh will give a command,
+\q and the big house will be smashed to pieces,
+\q and the little house to bits.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:command]]
+===== Translation Notes: =====
+
+
+  * **look**  - AT: “Listen” or “Pay attention to what I am about to tell you.”
+  * **the big house will be smashed to pieces, and the little house to bits** - Possible meanings: 1) Yahweh will command others to destroy every house or 2) Yahweh himself will destroy every house himself simply by giving a command.
+  * **big house ... and ... little house**  - all houses (See: [[:vi:ta:vol2:translate:figs_merism]])
+  * **pieces ... and ... bits**  - You can use the same word for both if you need to. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+
+  
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:amo:06|Amos Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:amo:06:09|<<]] | [[:vi:bible:notes:amo:06:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

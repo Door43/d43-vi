@@ -1,0 +1,58 @@
+====== Ezekiel 18:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 He does not mistreat\f + \ft Or: oppress \f* people;
+\q2 if someone \add borrows money from him and gives him his cloak to guarantee \add that he will pay the money back\add*, he always gives the cloak back to that person \add before the sun goes down\add*.
+\q1 He does not rob people.
+\q2 He gives food to hungry people.
+\q2 He gives clothing to people who need clothes.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 He does not mistreat people;
+\q2 if a person borrows money from him and gives him something to guarantee that he will pay the money back, this man always gives it back to that person before the sun goes down.
+\q1 He does not rob people.
+\q2 He gives food to hungry people.
+\q2 He gives clothing to people who need clothes.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 if he has not oppressed anyone but instead has returned a pledge to its debtor—if he has not taken what was stolen, but instead gives his food to the hungry and covers the naked with clothes;
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:oppress]]
+  * [[:vi:obe:other:pledge]]
+  * [[:vi:obe:other:profit]]
+  * [[vi:obe:kt:justice]]
+  * [[:vi:obe:kt:faithful]]
+  * [[:vi:obe:kt:walk]]
+  * [[vi:obe:other:statute]]
+  * [[vi:obe:other:decree]]
+  * [[vi:obe:kt:righteous]]
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:other:declare]]
+===== Translation Notes: =====
+
+  * **interest** - "additional money"
+  * **excessive** - "too much"
+  * **This is the Lord Yahweh's declaration** - See how you translated this in [[:vi:bible:notes:ezk:05:11|5:11]].
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:ezk:18|Ezekiel Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:ezk:18:05|<<]] | [[:vi:bible:notes:ezk:18:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

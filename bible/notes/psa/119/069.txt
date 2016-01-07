@@ -1,0 +1,61 @@
+====== Psalms 119:69-70 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 69 Proud people have told many lies about me,
+\q2 but \add the truth is that\add* with all my inner being I obey your principles of behavior\f + \ft Or: what you have declared that we should do \f*.
+\q1
+\v 70 Those people are stupid\f + \ft Or: do not understand your laws \f* [IDI],
+\q2 but as for me, I am delighted with your laws.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 69 Proud people have told many lies about me,
+\q2 but as for me, I obey your principles of behavior.
+\q1
+\v 70 Those people are stubborn,
+\q2 but as for me, I am delighted with your laws.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 69 The arrogant have smeared me with lies,
+\q but I keep your instructions with my whole heart.
+\q
+\v 70 Their hearts are hardened,
+\q but I delight in your law.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:arrogant|arrogant]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:delight]]
+
+===== Translation Notes: =====
+
+  * **smeared me with lies**  - AT: "spread many bad lies about me" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **whole heart **  - See how you translated this in [[:vi:bible:notes:psa:009:001|9:1]].
+  * **hearts are hardened**  - See how you translated this in [[:vi:bible:notes:psa:095:008|95:8]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:067|<<]] | [[:vi:bible:notes:psa:119:071|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== 2 Samuel 06:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 When David had finished offering those sacrifices, he \add asked\add* Yahweh, the leader of the armies of \add angels in\add* heaven, to bless the people.
+\v 19 He also distributed food to all the people. To each Israelite man and woman he gave a loaf of bread, some meat, and a raisin cake. Then all the people returned to their homes.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 When David had finished offering those sacrifices, he asked Yahweh, Commander of the angel armies, to bless the people.
+\v 19 He also distributed food to all the people. To each man and woman he gave a loaf of bread, some meat, and a raisin cake. Then they all returned to their homes.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 When David had finished sacrificing the burnt offerings and the fellowship offerings, he blessed the people in the name of Yahweh of hosts.
+\v 19 Then he distributed among all the people, the whole multitude of Israel, both to men and women, a loaf of bread, a portion of meat, and a cake of raisins. Then all the people left; each one returned to his own house.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup]]
+  * [[vi:obe:kt:name]]
+  * [[:vi:obe:kt:yahwehofhosts]]
+  * [[:vi:obe:other:bread]]
+ 
+===== Translation Notes: =====
+
+  * **the whole multitude of Israel, both to men and women **  -  "Israel" here is a shortened name for nation of Israel. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **cake of raisins**  - a baked sweetbread made with dried grapes.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2sa:06|2 Samuel Chapter 06 Comprehension Questions]]**
+**[[:vi:bible:notes:2sa:06:16|<<]] | [[:vi:bible:notes:2sa:06:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

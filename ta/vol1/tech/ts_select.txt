@@ -1,0 +1,47 @@
+===== Select Source and Target Languages =====
+
+This module answers the question: How do I select source and target languages?\\
+Before you start this module have you learned about:
+  * [[vi:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+
+==== Source & Target Languages ====
+
+You can select and change your source language and target language whenever you use translationStudio.\\
+
+**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. \\
+
+Complete these steps to select or change the target language, which is the language you are translating TO:
+  - Tap the three dots icon.
+  - Choose **My Translations**
+  - Tap the blue circle with a + sign.
+  - Swipe up to find the target language or tap the look-up icon. The search field opens and the keyboard appears. Type the first few letters of your language to navigate to that portion of the list.
+  - Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
+  - Choose a project to start translating.
+
+
+Complete these steps to select or change the source language, which is the language you are translating FROM:
+In the translation project:
+  - Tap the square icon with the + and - sign found at the top right of the source text window.
+  - Tap the empty square box next to the desired source language.
+  - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language.
+
+
+
+Next we recommend you learn about:
+  * [[vi:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[vi:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[vi:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[vi:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[vi:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_request|Find my Language]]
+  * [[vi:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[vi:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[vi:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[vi:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[vi:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[vi:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[vi:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[vi:ta:vol1:tech:ts_problem|Report a Problem]]
+

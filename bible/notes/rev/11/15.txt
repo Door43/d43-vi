@@ -1,0 +1,51 @@
+====== Revelation 11:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then the seventh angel blew  \add his trumpet\add*. Voices in heaven shouted loudly, "Our Lord  \add God\add* and the Messiah  \add whom he has appointed\add* can now govern  \add all the people in\add* \f + \ft metonymy \f* the world, and they will continue to rule those people forever!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then the seventh angel blew his trumpet. Voices in heaven shouted loudly, "Our Lord God and the Christ whom he has appointed can now govern all the people in the world, and they will continue to rule those people forever!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Then the seventh angel sounded his trumpet, and loud voices spoke in heaven and said, 
+\q "The kingdom of the world has become the kingdom of our Lord and of his Christ. 
+\q He will reign forever and ever."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:angel]]
+  * [[:vi:obe:other:trumpet|trumpet, horn]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:kt:world]]
+  * [[:vi:obe:kt:lord|lord, master, sir]]
+  * [[:vi:obe:kt:christ|Christ, Messiah]]
+  * [[:vi:obe:other:reign|reign]]
+  * [[:vi:obe:kt:forever]]
+===== Translation Notes: =====
+
+There are no notes for this chunk.
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:11|Revelation Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:11:13|<<]] | [[:vi:bible:notes:rev:11:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

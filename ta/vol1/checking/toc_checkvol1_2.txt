@@ -1,0 +1,9 @@
+===== Table of Contents - Checking Manual =====
+
+This module answers the question: What is in the checking manual?\\
+{{page>vi:ta:vol1:checking:toc_checkvol1}}
+
+{{page>vi:ta:vol2:checking:toc_checkvol2}}
+
+
+

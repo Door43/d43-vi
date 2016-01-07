@@ -1,0 +1,54 @@
+====== Psalms 013:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 But I trust that you will faithfully love me;
+\q2 I will rejoice when you rescue me.
+\q1
+\v 6 Yahweh, you have done many good things for me,
+\q2 so I will sing to you.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 But I trust that you will faithfully love me;
+\q2 I will rejoice when you rescue me.
+\q1
+\v 6 Yahweh, you have done many good things for me,
+\q2 so I will sing to you.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 But I have trusted in your covenant faithfulness;
+\q my heart rejoices in your salvation.
+\q
+\v 6 I will sing to Yahweh
+\q because he has treated me very generously.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[vi:obe:other:heart]]
+  * [[vi:obe:other:rejoice]]
+  * [[:vi:obe:kt:salvation]]
+  * [[vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **my heart rejoices in your salvation** - Here "my heart" represents the whole person. AT: "I will rejoice because you have rescued me." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:013|Psalms Chapter 013 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:013:003|<<]] | [[:vi:bible:notes:psa:014:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

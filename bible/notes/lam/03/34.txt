@@ -1,0 +1,77 @@
+====== Lamentations 03:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 If people mistreat all the prisoners\f + \ft Or: crush all the prisoners under their feet \f*
+\q1
+\v 35 or if they rebel against God
+\q2 by refusing to give to people the things that it is right for them to receive,
+\q1
+\v 36 or if they cause judges to decide matters unjustly,
+\q2 does Yahweh not see all those things?\f + \ft Or: Yahweh certainly sees all those things! \f* \f + \ft rhetorical question \f*
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 If people mistreat and oppress all the prisoners,
+\q1
+\v 35 or if they rebel against God
+\q2 by refusing to do for others what is right,
+\q1
+\v 36 or if they cause judges to decide matters unjustly,
+\q2 Yahweh certainly sees all those things.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 34 To crush all the captives of the earth under his foot,
+\q
+\v 35 to turn aside the justice of men before the face of the Most High,
+\q
+\v 36 to suppress a person in his cause—does not the Lord see?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:captive]]
+  * [[:vi:obe:other:earth]]
+  * [[:vi:obe:kt:justice]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:kt:mosthigh]]
+  * [[:vi:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+    * **To crush ... under his foot** - "To abuse" or "To kill" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **turn aside the justice of men** - "keep men from receiving justice" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **suppress a person in his cause** - "keep courts from giving justice to people"
+    * **does not the Lord see?** - Possible meanings are 1) "the Lord sees it all" or 2) "the Lord does not approve of these things." (See: [[:vi:ta:vol1:translate:figs_rquestion]] and [[:vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lam/03/30|<<]] | [[en/bible/notes/lam/03/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish text}}
+
+~~NOCACHE~~

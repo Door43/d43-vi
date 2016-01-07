@@ -1,0 +1,73 @@
+====== Psalms 011:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 I trust that Yahweh will protect \f + \ft metonymy \f* me.
+\q2 So do not \f + \ft rhetorical question \f* say to me, "You need to escape\f + \ft Or: flee \f* to the mountains like birds do,
+\q1
+\v 2 because wicked people have hidden in the darkness,
+\q1 they have pulled back their bowstrings and aimed their arrows
+\q2 to shoot them at godly\f + \ft Or: righteous \f* [IDI] people.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I trust that Yahweh will protect me.
+\q2 So I do not fly off to the mountains like birds do.
+\q1
+\v 2 It is true that wicked people have hidden in the darkness,
+\q1 that they have pulled back their bowstrings and aimed their arrows
+\q2 to shoot them at people who honor Yahweh.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\d For the chief musician. A psalm of David.
+\b
+\q
+\v 1 I take refuge in Yahweh; 
+\q how will you say to my soul,
+\q "Flee like a bird to the mountain"?
+\q
+\v 2 For see! The wicked prepare their bows.
+\q They make ready their arrows on the strings
+\q to shoot in the darkness at the upright in heart.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:chief]]
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:kt:darkness]]
+  * [[:vi:obe:other:heart]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of David** - “This is a psalm that David wrote.”
+  * **I take refuge in Yahweh** - A "refuge" is a kind of shelter. Here it represents the protection that Yahweh can provided. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **how will you say to my soul, "Flee like a bird to the mountain?"** - AT: "So do not ask me to run away!" ([[:vi:ta:vol1:translate:figs_rquestion]])
+  * **For see! The wicked prepare their bows. They make ready their arrows on the strings to shoot in the darkness at the upright in heart** - AT: "Look! the wicked are preparing to attack upright people."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:011|Psalms Chapter 011 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:010:017|<<]] | [[:vi:bible:notes:psa:011:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

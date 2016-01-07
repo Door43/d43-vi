@@ -1,0 +1,53 @@
+====== John 20:28-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 Thomas answered him, "\add You are truly\add* my Lord and my God!"
+\v 29 Jesus said to him, "Because you have seen me, you have believed \add that about me\add*. But God \add is truly\add* pleased with those who have believed \add that about me\add*, even though they have not seen me!"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 Thomas answered him, "My Lord and my God!"
+\v 29 Jesus said to him, "Now you believe that I have risen because you see me. Yet God gives great happiness to those who have not seen me and still believe."
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 28 Thomas answered and said to him, “My Lord and my God.”
+\v 29 Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and yet have believed.”
+</usfm>
+
+===== Important Terms: =====
+
+  *[[vi:obe:other:thomas]]
+  *[[vi:obe:kt:lord]]
+  *[[vi:obe:kt:god]]
+  *[[vi:obe:kt:jesus]]
+  *[[vi:obe:kt:bless]]
+
+
+===== Translation Notes: =====
+
+  * **you have believed** - AT: "you have believed that I am alive" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **who have not seen** - AT: "who have not seen me alive" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jhn:20|John Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jhn:20:26|<<]] | [[:vi:bible:notes:jhn:20:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

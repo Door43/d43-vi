@@ -1,4 +1,4 @@
-====== priest ======
+====== priest, priesthood ======
 
 ===== Definition: =====
 
@@ -20,7 +20,7 @@ In the Bible, a priest was someone who was chosen to pray and offer sacrifices t
   * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
   * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
 
-(See also: [[en:obe:other:aaron]], [[en:obe:other:sacrifice]], [[en:obe:other:chiefpriests]], [[:vi:obe:kt:highpriest]], [[:vi:obe:other:mediator]])
+(See also: [[vi:obe:other:aaron]], [[vi:obe:other:sacrifice]], [[vi:obe:other:chiefpriests]], [[:vi:obe:kt:highpriest]], [[:vi:obe:other:mediator]])
 
 
 ===== Bible References: =====

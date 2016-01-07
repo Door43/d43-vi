@@ -1,0 +1,74 @@
+====== Psalms 039:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Yahweh, listen to me while I pray;
+\q2 pay attention to me while I cry out to you.
+\q2 Help me while I am crying.
+\q1 I am here on the earth for only a short time,
+\q2 like all my ancestors.
+\q1
+\v 13 Now please allow me to be alone \add and do not punish me anymore\add*
+\q2 in order that I may smile and be happy for a while before I die. \f + \ft euphemism, doublet \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Yahweh, listen to me while I pray;
+\q2 pay attention to me while I cry out to you.
+\q2 Help me while I am crying.
+\q1 I am here on the earth for only a short time,
+\q2 like all my ancestors.
+\q1
+\v 13 Now please allow me to be alone and do not punish me anymore
+\q2 so that I may smile and be happy for a while before I die."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Hear my prayer, Yahweh, and listen to me;
+\q listen to my weeping!
+\q Do not be deaf to me,
+\q for I am like a foreigner with you, a refugee like all my ancestors were.
+\q
+\v 13 Turn your gaze from me so that I may smile again
+\q before I die."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:pray]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Hear my prayer, Yahweh, and listen to me**  - (See: [[:vi:ta:vol2:translate:figs_doublet]] and [[:vi:ta:vol2:translate:figs_personification]])
+    * **I am like a foreigner with you, a refugee**  - AT: "I am a complete stranger to you." (See: [[:vi:ta:vol1:translate:figs_simile]])
+    * **Turn your gaze from me so that I may smile again before I die.**  - The writer is expressing how he feels like he is being punished by God, and, in his discouragement, wants God to stop dealing with him. (See: [[:vi:ta:vol2:translate:figs_personification]])
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:039|Psalms Chapter 039 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/039/010|<<]] | [[en/bible/notes/psa/040/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book1}}
+
+~~NOCACHE~~

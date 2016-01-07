@@ -1,0 +1,83 @@
+====== Psalms 026:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, show that I am innocent\f + \ft Or: have not done what is wrong \f*.
+\q1 I always do what is right;
+\q2 I have trusted in you and never doubted \add that you would help me\add*.
+\q1
+\v 2 Yahweh, examine what I have done and test me;
+\q2 thoroughly evaluate what I think in my inner being [IDI].
+\q1
+\v 3 I never forget that you faithfully love me,
+\q2 I conduct my life according to your truth.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, show that I am innocent.
+\q1 I always do what is right;
+\q2 I have trusted in you and never doubted that you would help me.
+\q1
+\v 2 Yahweh, examine what I have done and test me;
+\q2 thoroughly evaluate what I think in my inner being.
+\q1
+\v 3 I never forget that you are true to your covenant and faithfully love me;
+\q2 I conduct my life according to your truth.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 26
+\d A psalm of David.
+\b
+\q
+\v 1 Judge me, Yahweh, for I have walked with integrity;
+\q I have trusted in Yahweh without wavering.
+\q
+\v 2 Examine me, Yahweh, and test me;
+\q test the purity of my inner parts and my heart!
+\q
+\v 3 For your covenant faithfulness is before my eyes,
+\q and I walk about in your truth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:psalm]]
+  * [[:vi:obe:other:david]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:walk]]
+  * [[:vi:obe:other:integrity]]
+  * [[:vi:obe:kt:trust]]
+  * [[:vi:obe:kt:test]]
+  * [[:vi:obe:kt:purify]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:covenantfaith]]
+  * [[:vi:obe:kt:true]]
+
+===== Translation Notes: =====
+
+See: [[vi:ta:workbench:translate:poetry]] and [[:vi:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of David** - This can also be written as a sentence: “This is a psalm of David" or “This is a psalm that David wrote.”
+  * **without wavering** - The idea of "wavering" here represents doubting. AT: "without doubting"
+  * **Examine me** - "Test me" or "Try me" 
+  * **test the purity of my inner parts and my heart** - AT: "Test my inner parts and my heart to see if they are pure" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **my inner parts and my heart** - These body parts represent David's thoughts and attitude. Some languages may use different body parts of these. 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:026|Psalms Chapter 026 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:025:022|<<]] | [[:vi:bible:notes:psa:026:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

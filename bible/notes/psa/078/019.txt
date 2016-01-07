@@ -1,0 +1,61 @@
+====== Psalms 078:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 They insulted God by saying, "Can God supply food for us \add here\add* in this desert?
+\q1
+\v 20 \add It is true that\add* he struck the rock,
+\q2 with the result that water gushed\f + \ft Or: flowed \f* out,
+\q1 but can he also provide bread and meat for us, his people?\f + \ft Or: we doubt that he can also provide bread and meat for us, his people. \f*" \f + \ft rhetorical question \f*
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 They insulted God by saying, "Can God supply food for us here in this desert?
+\q1
+\v 20 It is true that he struck the rock,
+\q2 with the result that water gushed out,
+\q1 but can he also provide bread and meat for us, his people?"
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 They spoke against God;
+\q they said, "Can God really lay out a table for us in the wilderness?
+\q
+\v 20 See, when he struck the rock, waters gushed out
+\q and streams overflowed.
+\q But can he give bread also?
+\q Will he provide meat for his people?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:other:bread|bread]]
+  * [[:vi:obe:kt:peopleofgod|people of God, my people]]
+
+===== Translation Notes: =====
+
+  * **They spoke**  - the Israelites spoke
+  * **Can God really lay out a table for us in the wilderness?** - AT: "We don't believe that God can really lay out a table for us in the wilderness!" or "God, prove to us that you can really lay out a table for us in the wilderness!"
+  * **lay out a table** - "provide us with food" (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **waters gushed out** - much water came out quickly
+  * **But can he give bread also? Will he provide meat for his people?** - "But we will not believe that he can give us bread also or provide meat for his people until we see him do it."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:017|<<]] | [[:vi:bible:notes:psa:078:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

@@ -18,7 +18,7 @@ The term "Messiah" comes from a Hebrew word and is used in the Old Testament. Th
   * The borrowed word could be followed by the definition of the term as in, "Christ, 'the Anointed One'.".
   * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
 
-(See: [[:vi:ta:translate:translatenames|How to Translate Names]])
+(See: [[vi:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:vi:obe:kt:sonofgod]], [[:vi:obe:other:david]], [[:vi:obe:kt:jesus]], [[:En:obe:kt:anoint]])
 

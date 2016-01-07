@@ -1,0 +1,73 @@
+====== 1 Samuel 02:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add You people who oppose God\add*, stop boasting!
+\q2 Yahweh is a God who knows \add everything\add*,
+\q1 and he will evaluate\f + \ft Or: judge \f* everyone's actions.
+\q2 So don't speak so arrogantly!
+\b
+\q1
+\v 4 Yahweh, you break the bows\f + \ft Or: weapons \f* of mighty soldiers,
+\q2 and you give strength to those who stumble \add because they are\add* weak.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 You people who oppose God, stop boasting!
+\q2 Yahweh is a God who knows everything,
+\q1 and he will evaluate everyone's actions.
+\q2 So do not speak so arrogantly!
+\b
+\q1
+\v 4 Yahweh, you break the bows of mighty soldiers,
+\q2 but you give strength to those who stumble because they are weak.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Boast no more so very proudly;
+\q let no arrogance come out of your mouth.
+\q For Yahweh is a God of knowledge;
+\q by him actions are weighed.
+\q
+\v 4 The bows of the mighty men are broken,
+\q but those who stumble put on strength like a belt.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:boast]]
+  * [[:vi:obe:other:proud]]
+  * [[:vi:obe:other:arrogant]]
+  * [[:vi:obe:other:know]]
+  * [[:vi:obe:other:bowweapon]]
+  * [[:vi:obe:other:mighty]]
+ 
+===== Translation Notes: =====
+
+Hannah continues speaking. Here she speaks as if other people were there listening to her.
+
+  * **actions are weighed** - God understands why people act as they do. AT: "he weighs people's actions" or "he evaluates what people do"
+  * **those who stumble put on strength like a belt** - They will no longer stumble, but their strength will remain with them as tightly as if it were a belt. AT: "They will no longer stumble but will remain strong." (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+ 
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:1sa:02:02|<<]] | [[:vi:bible:notes:1sa:02:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

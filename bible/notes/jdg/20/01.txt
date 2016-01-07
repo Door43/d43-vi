@@ -1,0 +1,53 @@
+====== Judges 20:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 All the Israelites, from Dan \add city in the north\add* to Beersheba \add city in the south\add*, and even from the Gilead \add region on the east side of the Jordan River, heard what had happened\add*. So they gathered together at Mizpah, \add the city where they worshiped\add* Yahweh.
+\v 2 The leaders of \add eleven of\add* the tribes of Israel stood in front of the people who gathered there. There were 400,000 men with swords who were there.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 All the soldiers of Israel came out at one men, from the city of Dan in the north to Beersheba in the south, and from the region of Gilead to the east of the Jordan River, all of them heard what had happened. So they gathered together before Yahweh at Mizpah.
+\v 2 The leaders of eleven of the tribes of Israel stood in front of the people who gathered there. There were 400,000 men on foot, fighting men who were there.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 20
+\p
+\v 1 Then all the people of Israel came out as one man, from Dan to Beersheba, including the land of Gilead also, and they assembled together before Yahweh at Mizpah.
+\v 2 The leaders of all the people, of all the tribes of Israel, took their places in the assembly of the people of God—400,000 men on foot, who were ready to fight with the sword.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:dan]]
+  * [[:vi:obe:other:beersheba]]
+  * [[:vi:obe:other:gilead]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:mizpah]]
+  * [[:vi:obe:other:tribe]]
+  * [[:vi:obe:kt:assembly]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:sword]]
+
+===== Translation Notes: =====
+
+  * **as one man** - "unified"
+  * **God—400,000 men on foot, who were** - "God, including 400,000 men on foot who were"
+  * **400,000 men** - (See: [[vi:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:20|Judges Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:19:29|<<]] | [[:vi:bible:notes:jdg:20:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

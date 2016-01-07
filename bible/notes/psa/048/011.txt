@@ -1,0 +1,52 @@
+====== Psalms 048:11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 The people who live near Zion Hill should be happy!
+\q1 The people in all the cities \f + \ft metonymy \f* of Judah should rejoice
+\q2 because you judge people fairly.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 The people who live at Mount Zion should be happy!
+\q1 The people in all the cities of Judah should rejoice
+\q2 because you judge people fairly.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Let Mount Zion be glad,
+\q let the daughters of Judah rejoice
+\q because of your righteous decrees.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:zion]]
+  * [[:vi:obe:other:judah|Judah]]
+  * [[:vi:obe:other:rejoice|rejoice]]
+  * [[:vi:obe:kt:righteous|righteous, righteousness]]
+  * [[:vi:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+
+  * **the daughters of Judah** - Smaller cities in Judah are referred to as daughters because they developed within the nation. The smaller cities refer to the people who live in those cities. AT: "the smaller cities of Judah" or "the people who live in the smaller cities in Judah" (See: [[:vi:ta:vol1:translate:figs_metaphor]] and [[:vi:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:048|Psalms Chapter 048 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:048:009|<<]] | [[:vi:bible:notes:psa:048:012|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,91 @@
+====== Nehemiah 10:9-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 The descendants of Levi who signed it were:
+\li1 Jeshua the son of Azaniah, Binnui from the clan of Henadad, Kadmiel,
+\li1
+\v 10 Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+\li1
+\v 11 Mica, Rehob, Hashabiah,
+\li1
+\v 12 Zaccur, Sherebiah, Shebaniah,
+\li1
+\v 13 Hodiah, Bani, and Beninu.
+\b
+\m
+\v 14 The Israelite leaders who signed it were:
+\li1 Parosh, Pahath-Moab, Elam, Zattu, Bani,
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 The descendants of Levi who signed it were:
+\li1 Jeshua son of Azaniah, Binnui from the clan of Henadad, Kadmiel,
+\li1
+\v 10 Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+\li1
+\v 11 Mica, Rehob, Hashabiah,
+\li1
+\v 12 Zaccur, Sherebiah, Shebaniah,
+\li1
+\v 13 Hodiah, Bani, and Beninu.
+\b
+\m
+\v 14 The Israelite leaders who signed it were:
+\li1 Parosh, Pahath Moab, Elam, Zattu, and Bani.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 The Levites were: 
+    Jeshua, the son of Azaniah, Binnui of the family of Henadad, Kadmiel, 
+\v 10 and their fellow Levites, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+\v 11 Mica, Rehob, Hashabiah,
+\v 12 Zaccur, Sherebiah, Shebaniah,
+\v 13 Hodiah, Bani, and Beninu.
+\v 14 The leaders of the people were: 
+Parosh, Pahath-Moab, Elam, Zattu, Bani,
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:levite]]
+  * [[:vi:obe:other:peoplegroup]]
+  * [[:vi:obe:other:moab]]
+  * [[:vi:obe:other:elam]]
+ 
+
+===== Translation Notes: =====
+
+In these verses, Nehemiah continues to list the names of the people who signed the sealed document. 
+
+    * **Jeshua, Azaniah, Binnui, Henadad, Kadmiel, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, Mica, Rehob, Hashabiah, Zaccur, Sherebiah, Shebaniah, Hodiah, Bani, and Beninu, Parosh, Pahath-Moab, Elam, Zattu, Bani** - These are the names of men. (See: [[:vi:ta:vol1:translate:translate_names]])
+    * **The Levites were** - "The Levites who signed the document were"
+    * **The leaders of the people were** - “The leaders of the people who signed the document were”
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:neh:10|Nehemiah Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/10/04|<<]] | [[en/bible/notes/neh/10/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

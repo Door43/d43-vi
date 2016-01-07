@@ -1,0 +1,46 @@
+====== Leviticus 04:26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 Then he must burn all the fat on the altar, like was done with the fat of the offering to maintain good fellowship \add with Yahweh\add*. As a result of the priest's doing that, the leader will no longer be guilty for his sin and he will be forgiven.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 Then he must burn all the fat on the altar, like was done with the fat of the offering to promise friendship with Yahweh. As a result of the priest's doing that, the leader will no longer be guilty for his sin and he will be forgiven.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 26 He will burn all the fat on the altar, just like the fat of the sacrifice of peace offerings. The priest will make atonement for the ruler concerning his sin, and the ruler will be forgiven.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:altar|altar]]
+  * [[vi:obe:other:fellowshipoffering]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:kt:atonement]]
+  * [[:vi:obe:other:ruler|ruler, rulers]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[vi:obe:kt:forgive]]
+
+===== Translation Notes: =====
+
+  * **He will burn** - "The priest will burn"
+  * **the ruler will be forgiven**  - AT: "God will forgive the ruler's sins" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:04|Leviticus Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:04:24|<<]] | [[:vi:bible:notes:lev:04:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

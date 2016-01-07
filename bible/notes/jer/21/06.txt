@@ -1,0 +1,56 @@
+====== Jeremiah 21:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 I will send a very terrible plague\f + \ft Or: big sickness \f* on the people of this city, and on their domestic animals, and many of them will die."
+\v 7 And Yahweh says there are many people in this city who want to kill you. So, he will enable the army of King Nebuchadnezzar of Babylon and other people in this city to capture you, King Zedekiah, and your officials, and all the other people who do not die from the plague. His army will slaughter your soldiers; they will not act mercifully toward you\f + \ft plural \f* or pity you at all. \f + \ft doublet \f*'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 I will send a very terrible plague on the people of this city, and on their domestic animals, and many of them will die."
+\v 7 And Yahweh says there are many people in this city who want to kill you. So, he will enable the army of King Nebuchadnezzar of Babylon and other people in this city to capture you, King Zedekiah, and your officials, and all the other people who do not die from the plague. His army will slaughter your soldiers; they will not act mercifully toward you or pity you at all.'
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 For I will attack the inhabitants of this city, both man and beast They will die in a severe plague.
+\v 7 After this"—this is Yahweh’s declaration—"Zedekiah king of Judah, his servants, the people, and whoever remains in this city after the plague, the sword, and the famine—I will give them all into the hand of Nebuchadnezzar king of Babylon, of their enemies, and of the ones seeking their life. Then he will kill them with the edge of the sword; he will not pity them, spare them, or have compassion.’”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:beast|beast]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+  * [[:vi:obe:other:plague|plague]]
+  * [[:vi:obe:other:kingdomofjudah|Judah, kingdom of Judah]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:other:peoplegroup|people group, people]]
+  * [[:vi:obe:other:sword|sword]]
+  * [[:vi:obe:other:famine|famine]]
+  * [[:vi:obe:other:hand|hand]]
+  * enemy
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:compassion|compassion, compassionate]]
+
+===== Translation Notes: =====
+
+  * **inhabitants of this city**  - those who live in Jerusalem
+  * **Zedekiah king of Judah, his servants, the people, and whoever remains in this city after the plague, the sword, and**** the famine**  - Yahweh uses much repetition to emphasize that everyone in Jerusalem will be affected by the coming destruction.
+  * **the hand of Nebuchadnezzar king of Babylon, of their enemies, and of the ones seeking their life**- The attackers of Jerusalem are described in three different ways; this emphasizes the number and power of the enemy that Israel faces.
+  * **he will not pity them, spare them, or have compassion**  - The repetition in this phrase emphasizes the cruelty of what they are about to suffer.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jer:21|Jeremiah Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:jer:21:03|<<]] | [[:vi:bible:notes:jer:21:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

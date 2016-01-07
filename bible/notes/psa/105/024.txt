@@ -1,0 +1,92 @@
+====== Psalms 105:24-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 And \add years later\add* Yahweh caused the descendants of Jacob to become very numerous.
+\q2 As a result, their enemies, \add the Egyptians\add*, considered that the Israelites were too strong.
+\q1
+\v 25 So Yahweh caused the rulers of Egypt to turn against\f + \ft Or: hate \f* the Israelite people,
+\q2 and they planned ways to get rid of his people.
+\q1
+\v 26 But then Yahweh sent his servant Moses
+\q2 along with \add Moses' older brother\add* Aaron, whom Yahweh had also chosen \add to be his servant\add*.
+\q1
+\v 27 Those two performed amazing miracles among the people of Egypt,
+\q2 in that land where the descendants of Ham lived.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Years later Yahweh caused the descendants of Jacob to become very numerous.
+\q2 As a result, their enemies, the Egyptians, considered that the Israelites were too strong.
+\q1
+\v 25 So Yahweh caused the rulers of Egypt to turn against the Israelite people,
+\q2 and they began to oppress his people.
+\q1
+\v 26 But then Yahweh sent his servant Moses
+\q2 along with Moses' older brother Aaron, whom Yahweh had also chosen to be his servant.
+\q1
+\v 27 Those two performed amazing miracles among the people of Egypt
+\q2 in that land where the descendants of Ham lived.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 God increased his people greatly
+\q and made them more numerous than their adversaries.
+\q
+\v 25 He caused their enemies to hate his people,
+\q to mistreat his servants.
+\q
+\v 26 He sent Moses, his servant,
+\q and Aaron, whom he had chosen.
+\q
+\v 27 They performed his signs among the Egyptians,
+\q his wonders in the land of Ham.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:god]]
+  * [[vi:obe:kt:peopleofgod]]
+  * [[vi:obe:other:adversary]]
+  * [[vi:obe:other:servant]]
+  * [[vi:obe:other:send]]
+  * [[vi:obe:other:moses]]
+  * [[vi:obe:other:aaron]]
+  * [[vi:obe:kt:elect]]
+  * [[vi:obe:kt:miracle]]
+  * [[vi:obe:other:egypt]]
+ 
+===== Translation Notes: =====
+
+    * **They performed his signs ... his wonders ...** - These two phrases have basically the same meaning and are used together for emphasis. AT: "Moses and Aaron performed God's miracles in Egypt among the descendants of Ham" (See: [[:vi:ta:vol2:translate:figs_parallelism]]) 
+    * **his wonders in the land of Ham** - "and they preformed his wonders in the land of Ham"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:105|Psalms Chapter 105 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/105/020|<<]] | [[en/bible/notes/psa/105/028|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish book4}}
+
+~~NOCACHE~~

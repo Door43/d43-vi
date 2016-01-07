@@ -1,0 +1,69 @@
+====== Psalms 128:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Happy are\f + \ft Or: Yahweh is pleased with \f* those of you who have an awesome respect for him
+\q2 and do what he wants you to do [IDI].
+\q1
+\v 2 You will \add be able to earn the money\add* that you \f + \ft metonymy \f* need to buy food;
+\q1 you will be happy and you will be prosperous.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 How fortunate are you who have an awesome respect for him
+\q2 and do what he wants you to do.
+\q1
+\v 2 You will be able to enjoy the food you provide yourself with;
+\q1 you will be fortunate and prosperous.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 128
+\d A song of ascents.
+\b
+\q
+\v 1 Blessed is everyone who honors Yahweh,
+\q who walks in his ways.
+\q
+\v 2 What your hands provide, you will enjoy;
+\q you will be blessed and prosper.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:other:honor|honor]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:walk|walk]]
+  * [[:vi:obe:other:hand|hand]]
+  * [[:En:obe:other:prosper]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:workbench:translate:poetry|Translating Poetry]] and [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **Song of Ascents**- See how you translated this in [[:vi:bible:notes:psa:120:001|120:1]]
+  * **Blessed is everyone who honors Yahweh** - "Yahweh will bless everyone who honors him" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **What your hands provide**  - Here a man is being referred to by his hands because that is the part of the body he works with. AT: "What you provide" or "What you work for" (See: [[vi:ta:vol2:translate:figs_synecdoche]])
+  * **blessed and prosper**  - These two words emphasize God's favor. (See: [[vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:128|Psalms Chapter 128 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:127:003|<<]] | [[:vi:bible:notes:psa:128:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

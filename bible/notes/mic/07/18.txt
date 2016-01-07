@@ -1,0 +1,63 @@
+====== Micah 07:18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Yahweh, there is no \f + \ft rhetorical question \f* God like you;
+\q2 you forgive the sins \f + \ft doublet \f* that were committed by the people who have survived,
+\q2 the people who belong to you.
+\q1 You do not remain angry forever;
+\q2 you are very happy \add to show us\add* that you faithfully love us.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Yahweh, there is no God like you;
+\q2 you forgive the sins that the people who have survived committed,
+\q2 the people who belong to you.
+\q1 You do not remain angry forever;
+\q2 you are very happy to show us that you faithfully love us.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 18 Who is a God like you,
+\q you who take away sin,
+\q you who pass over the transgression
+\q of the remnant of your inheritance?
+\q You do not keep your anger forever,
+\q because you love to show us your covenant faithfulness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:vi:obe:kt:transgression|transgress, transgression]]
+  * [[:vi:obe:kt:remnant|remnant]]
+  * [[:vi:obe:kt:inherit|inherit, inheritance]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:kt:love|love]]
+  * [[:vi:obe:kt:covenantfaith|covenant faithfulness]]
+
+===== Translation Notes: =====
+
+  * **Who is a God like you**  - Micah uses a question to emphasize that there is no else who does the things that Yahweh does. (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **the remnant of your inheritance **- "those of us your chosen people who have survived your punishment "
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mic:07|Micah Chapter 07 Comprehension Questions]]**
+**[[:vi:bible:notes:mic:07:16|<<]] | [[:vi:bible:notes:mic:07:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

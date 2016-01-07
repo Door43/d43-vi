@@ -1,0 +1,60 @@
+====== Deuteronomy 09:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add I say again that\add* it is not because you are righteous within yourselves or because you do things that are righteous that you will enter and capture that land. It is because those people-groups are very wicked that Yahweh our God will expel them as you advance, and because he intends to do what he solemnly promised to your ancestors Abraham, Isaac, and Jacob that he would do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 I say again that it is not because you are righteous within yourselves or because you do things that are righteous that you will enter and capture that land. It is because those people groups are very wicked that Yahweh our God will expel them as you advance, and because he intends to do what he solemnly promised to your ancestors Abraham, Isaac, and Jacob that he would do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 It is not because of your righteousness or the uprightness of your heart that you are going in to possess their land; but because of the wickedness of these nations that your God is driving them out from before you, and so that he may make come true the word that he swore to your ancestors, to Abraham, Isaac, and Jacob.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:righteous]]
+  * [[:ru:obe:other:heart]]
+  * [[vi:obe:other:possess]]
+  * [[:tr:obe:kt:evil]]
+  * [[vi:obe:other:nation]]
+  * [[vi:obe:other:castout]]
+  * [[:vi:obe:kt:true]]
+  * [[:vi:obe:kt:word]]
+  * [[:vi:obe:other:oath]]
+  * [[:vi:obe:other:abraham]]
+  * [[:vi:obe:other:isaac]]
+  * [[:vi:obe:other:jacob]]
+ 
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+  * **so that he may make come true the word** - "so that he may fulfill the promise"
+    
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:09|Deuteronomy Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/09/04|<<]] | [[en/bible/notes/deu/09/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

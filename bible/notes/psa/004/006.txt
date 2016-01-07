@@ -1,0 +1,66 @@
+====== Psalms 004:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Some people ask, "Who will allow good things to happen to us?"
+\q2 \add But I say\add*, "Yahweh, continue to act kindly toward us.
+\q1
+\v 7 You have caused me to be very happy;
+\q2 I am happier than people who have harvested a great amount of grain and grapes.
+\q1
+\v 8 I can lie down \add at night\add* and sleep soundly
+\q2 because \add I know that\add* you, Yahweh, will keep me safe."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Some people ask, "Will somone please bring good things to us?"
+\q2 But I say, "Yahweh, continue to act kindly toward us.
+\q1
+\v 7 You have caused me to be very happy;
+\q2 I am happier than people who have harvested a great amount of grain and grapes.
+\q1
+\v 8 It is in peace and security that I will lie down at night and sleep soundly
+\q2 because I know that it is only you, Yahweh, who will keep me safe."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Many say, "Who will show us anything good?"
+\q Yahweh, lift  up the light of your face on us.
+\q
+\v 7 You have given my heart more gladness
+\q  than others have when their grain and new wine abound.
+\q
+\v 8 It is in peace that I will lie down and sleep,
+\q for you alone, Yahweh, make me safe and secure.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:light]]
+  * [[:vi:obe:kt:face]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:other:grain]]
+  * [[:vi:obe:other:wine]]
+  * [[:vi:obe:other:peace]]
+
+===== Translation Notes: =====
+
+  * **You have given my heart more gladness** - AT: "You have made me glad" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **lift up the light of your face on us** - AT: "continue to treat us kindly" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **than others have when their grain and new wine abound** - AT: "than other people have when they reap plentiful harvests of grain and grapes."
+  * **make me safe and secure** - AT: "can keep me safe." (See: [[:vi:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:004|Psalms Chapter 004 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:004:004|<<]] | [[:vi:bible:notes:psa:005:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

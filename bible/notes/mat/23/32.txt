@@ -1,0 +1,48 @@
+====== Matthew 23:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 \bd You\bd* are as ready to murder people as \f + \ft metaphor \f* your ancestors were!
+\v 33 \add You people are so wicked\add*! You are \add as dangerous as poisonous\add* snakes \f + \ft doublet, metaphor \f*! You \add foolishly\add* think that you will escape being punished in hell!\f + \ft Or: Do you \add foolishly\add* think that you will escape when \add God\add* punishes \add wicked people\add* in hell? \f* \f + \ft rhetorical question \f*
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 You also, go ahead and finish committing all the sins that your ancestors began committing.
+\v 33 You people are so wicked! You are as dangerous as poisonous snakes! You foolishly think that you will escape from God punishing you in hell!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 You also, fill up the quota of your fathers' sin.
+\v 33 You serpents, you offspring of vipers, how will you escape the judgment of hell?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:father]]
+  * [[:vi:obe:kt:sin]]
+  * [[vi:obe:other:serpent]]
+  * [[vi:obe:other:offspring]]
+  * [[:vi:obe:kt:judge]]
+  * [[:vi:obe:kt:hell]]
+
+===== Translation Notes: =====
+
+Jesus continues to speak against the religious leaders because of their hypocrisy.
+
+  * **you fill up the measure of your fathers' sin**  - "you finish the sins your ancestors began" (See: [[:vi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **You serpents, you offspring of vipers**  - "you are as evil as dangerous and poisonous snakes" (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **how will you escape the judgment of hell?**  - "there is no way for you to escape the judgment of hell!" (See: [[:vi:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:mat:23|Matthew Chapter 23 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:23:29|<<]] | [[:vi:bible:notes:mat:23:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish hell}}
+
+~~NOCACHE~~

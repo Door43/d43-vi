@@ -1,0 +1,71 @@
+====== Ecclesiastes 11:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 You young people, be happy while you are still young.
+\q2 Enjoy [IDI] doing the things that you want to do.
+\q1 But do not forget that some day God will judge you
+\q2 concerning all the things that you do.
+\q1
+\v 10 So \add when you are young\add* \f + \ft metonymy \f*, do not worry about anything,
+\q2 and do not pay attention to the pains that you have in your body,
+\q1 because we will not remain young and strong forever.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 You young people, be happy while you are still young.
+\q2 Enjoy doing the things that you want to do.
+\q1 But do not forget that God will judge you one day
+\q2 concerning all the things that you do.
+\q1
+\v 10 So when you are young, do not worry about anything,
+\q2 and do not pay attention to the pains that you have in your body,
+\q1 because we will not remain young and strong forever.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1 
+\v 9 Take joy, young man, in your youth, 
+\q2 and let your heart be joyful in the days of your youth. 
+\q1 Pursue the good desires of your heart, 
+\q2 and whatever is within the sight of your eyes. 
+\q1 However, know that God will bring you into judgment for all these things.
+\q1 
+\v 10 Drive anger away from your heart, 
+\q2 and ignore any pain in your body, 
+\q1 because youth and its strength are vapor.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:joy]]
+  * [[:vi:obe:other:heart]]
+  * [[vi:obe:other:know]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:judge]]
+  * [[vi:obe:other:castout]]
+  * [[vi:obe:other:angry]]
+  * [[vi:obe:other:strength]]
+
+===== Translation Notes: =====
+
+  * **Take joy, young man, in your youth, and let your heart be joyful in the days of your youth** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+  * **let your heart be joyful** - Here the word "heart" refers to the emotions. AT: "be joyful" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **Pursue the good desires of your heart** - Here the word "heart" may refer to the mind or emotions. AT: "Pursue the good things that you desire" or "Pursue the good things that you have determined to pursue"
+  * **whatever is within the sight of your eyes** - AT: "whatever you see that you desire" or "whatever you see to be best" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **God will bring you into judgment for all these things** - AT: "God will make you account for all of your actions"
+  * **Drive anger away from your heart** - AT: "Refuse to be angry" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:ecc:11|Ecclesiastes Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:ecc:11:06|<<]] | [[:vi:bible:notes:ecc:12:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr}}
+
+~~NOCACHE~~

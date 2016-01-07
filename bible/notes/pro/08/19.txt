@@ -1,0 +1,75 @@
+====== Proverbs 08:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 What I can give people is more valuable than fine\f + \ft Or: pure \f* gold and the best silver.
+\q1
+\v 20 I always do what is righteous and just\f + \ft Or: fair \f*.
+\q1
+\v 21 I give wealth to those who love me;
+\q2 I fill their houses with valuable things.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 What I can give people is more valuable than fine gold and the best silver.
+\q1
+\v 20 I always do what is right.
+\q1
+\v 21 I give wealth to those who love me,
+\q2 and I fill up their treasuries. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 My fruit is better than gold, better even than fine gold;
+\q what I produce is better than pure silver.
+\q
+\v 20 I walk in the way that is right,
+\q in the paths that lead to justice,
+\q
+\v 21 so I may give an inheritance to those who love me
+\q and fill up their treasuries.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:fruit]]
+  * [[:En:obe:kt:wise]]
+  * [[:En:obe:other:gold]]
+  * [[:En:obe:other:profit]]
+  * [[:vi:obe:kt:purify]] 
+  * [[:En:obe:other:silver]]
+  * [[:En:obe:kt:justice]]
+  * [[:vi:obe:kt:inherit]] 
+  * [[:vi:obe:kt:love]] 
+
+===== Translation Notes: =====
+
+  * **my fruit** - what wisdom produces or causes
+  * **what I produce**  - the benefit or gain that wisdom produces or causes
+  * **I walk in the way that is right**  - Living the right way is spoken of as walking on the right road. AT: "I live right" or “I do what is right” (See: [[:vi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **in the paths that lead to justice**  - This tells more of what is meant by “in the way that is right.” AT: “I do what is perfectly just” or “I only do what leads to justice”
+  * **treasuries**  - storehouses for valuable things
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:08|Proverbs Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:08:17|<<]] | [[:vi:bible:notes:pro:08:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

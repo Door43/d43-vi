@@ -1,0 +1,63 @@
+====== Deuteronomy 21:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Then the parents must say to the elders of that city, 'This son of ours is stubborn and always rebelling against us. He will not pay attention to what we tell him \f + \ft metonymy \f*. He wastes a lot of money \f + \ft Or: eats too much food \f* and gets drunk.'
+\v 21 Then all the elders of that city must execute him by throwing stones at him. By doing that, you will get rid of this evil practice from among you. And everyone in Israel will hear \add about what happened\add* and they will be afraid \add to do what he did\add*.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Then the parents must say to the elders of that city, 'This son of ours is stubborn and always rebelling against us. He will not pay attention to what we tell him. He eats too much, and he gets drunk.'
+\v 21 Then all the elders of that city must execute him by throwing stones at him. By doing that, you will get rid of this evil practice from among you. And everyone in Israel will hear about what happened and they will be afraid to do what he did.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 They must say to the elders of his city, "This son of ours is stubborn and rebellious; he will not obey our voice; he is a glutton and a drunkard."
+\v 21 Then all the men of his city must stone him to death with stones. In this manner you must eradicate the evil from among you. All Israel will hear of it and fear.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:stone]]
+  * [[vi:obe:kt:death]]
+  * [[:vi:obe:kt:evil]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:kt:fear]]
+
+===== Translation Notes: =====
+
+Moses continues speaking to the people of Israel.
+
+
+  * **This son of ours**  - "Our son"
+  * **he will not obey our voice**  - AT: "he will not obey us." (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **a glutton**  - a person who eats and drinks too much
+  * **a drunkard**  - a person who drinks too much alcohol and gets drunk often
+  * **In this manner**  - "In this way"
+  * **you must eradicate the evil**  - "you must get rid of the evil" or "you must destroy the evil"
+  * **All Israel**  - AT: "All the people of Israel." 
+  * **will hear of it and fear**  - AT: "will hear about what happened to the son and they will be afraid of getting the same punishment." (See: [[:vi:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:21:18|<<]] | [[:vi:bible:notes:deu:21:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

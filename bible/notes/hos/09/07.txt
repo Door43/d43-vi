@@ -1,0 +1,72 @@
+====== Hosea 09:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 It is now the time for me to punish you,
+\q2 to pay you back for all the sins that you have committed.
+\q2 You people will \add soon\add* know that.
+\q1 You have \add committed\add* very many sins,
+\q2 and you very much hate me.
+\q1 You consider that the prophets are foolish,
+\q2 and you think that those who proclaim messages from me are crazy.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 It is now the time for God to punish you;
+\q2 the time has come in which God will pay you back for every sin you have committed.
+\q2 And all you people of Israel must realize that these things will happen.
+\q1 So your false prophets are fools,
+\q2 and those who you thought were inspired by God are actually insane.
+\q1 This is because you have sinned so much
+\q2 and because you have become Yahweh's enemies.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 The days for punishment are coming;
+\q the days for retribution are coming.
+\q Let all Israel know these things. 
+\q The prophet is a fool,
+\q and the inspired man is insane,
+\q because of your great iniquity
+\q and great hostility.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:punish|punish, punishment]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:know|know, knowledge, make known]]
+  * [[:vi:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:vi:obe:kt:foolish|fool, foolish, folly]]
+  * [[:vi:obe:kt:iniquity|iniquity]]
+
+===== Translation Notes: =====
+
+Hosea, the prophet, is speaking.
+
+  * **The days for punishment are coming; the days for retribution are coming. **- "retribution" means "deserved punishment" - The prophet Hosea uses these two ways of emphasizing that Israel would soon be judged by Yahweh for their evil deeds. (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **The prophet is a fool, and the inspired man is insane **- Hosea is using two different ways to say similar things to create emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism|Parallelism]])
+  * **because of your great iniquity and great hostility**  - Hosea is emphasizing how much sin and wrongdoing is being done. (See: [[:vi:ta:vol2:translate:figs_doublet|Doublet]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:09|Hosea Chapter 09 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:09:05|<<]] | [[:vi:bible:notes:hos:09:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

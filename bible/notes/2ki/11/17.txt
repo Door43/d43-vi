@@ -1,0 +1,53 @@
+====== 2 Kings 11:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Then Jehoiada made a solemn agreement between the king and the people, that they would always obey\f + \ft Or: be faithful to \f* Yahweh. He also made an agreement requiring the people to be loyal to Joash their king.
+\v 18 Then all the people of Israel who were there went to the temple of Baal and tore it down. They smashed the altars and the statues of Baal. They also killed Mattan, the priest of Baal, in front of the altars.
+\p Jehoiada stationed\f + \ft Or: put \f* guards at the temple of Yahweh.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Then Jehoiada made a covenant between the king and the people, that they would always obey Yahweh. He also made an covenant requiring the people to be loyal to Joash their king.
+\v 18 Then all the people of Israel who were there went to the temple of Baal and tore it down. They smashed the altars and the statues of Baal. They also killed Mattan, the priest of Baal, in front of the altars.
+\p Jehoiada stationed guards at the temple of Yahweh.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Then Jehoiada made a covenant among Yahweh, King Joash, and the people, that they should be Yahweh’s people, and also between the king and the people.
+\v 18 So all the people of the land went to the house of Baal and tore it down. They smashed Baal’s altars and his idol figures to pieces, and they killed Mattan, the priest of Baal, in front of those altars. Then the priest appointed guards over the temple of Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:covenant]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:joash]]
+  * [[:vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:baal]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:idol]]
+  * [[:vi:obe:kt:appoint]]
+  * [[:vi:obe:kt:temple]]
+
+===== Translation Notes: =====
+
+  * **and also between the king and the people ** - "and also made a covenant between the king and the people."
+  * **the house of Baal** - "the temple of Baal"
+  * **Mattan** - (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Then the priest appointed guards over the temple of Yahweh** - AT: "Then Jehoiada, the priest, posted guards to protect the temple of Yahweh."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ki:11|2 Kings Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:2ki:11:15|<<]] | [[:vi:bible:notes:2ki:11:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

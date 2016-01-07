@@ -1,0 +1,65 @@
+====== Job 30:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 And now I \f + \ft synecdoche \f* am about to die [IDI];
+\q2 I suffer every day.
+\q1
+\v 17 My bones ache during the nights,
+\q2 and the pain that torments me never stops.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Now I am about to die;
+\q2 I suffer every day.
+\q1
+\v 17 My bones ache during the nights,
+\q2 and the pain that torments me never stops.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 Now my life is pouring out from within me;
+\q many days of suffering have laid hold on me.
+\q
+\v 17 In the night my bones in me are pierced;
+\q the pains that gnaw at me take no rest.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:life]]
+  * [[:vi:obe:kt:suffer]]
+  * [[:vi:obe:kt:rest]]
+ 
+
+===== Translation Notes: =====
+
+  * **my life is poured out - This expression means that Job feels like his life is like a liquid being destroyed as it is poured out on the ground, and he is feeling weaker and weaker.(See: Simile)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:30|Job Chapter 30 Comprehension Questions]]**
+**[[:vi:bible:notes:job:30:14|<<]] | [[:vi:bible:notes:job:30:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Psalms 041:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Praise Yahweh, the God whom we Israelites \add worship\add*;
+\q2 Praise him forever!
+\q2 Amen! I desire that it will be so!
+\ms1 Book Two
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Praise Yahweh, the God whom we Israelites worship;
+\q2 Praise him forever!
+\q2 Amen! I desire that it will be so!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 May Yahweh, the God of Israel, be praised
+\q from everlasting to everlasting.
+\q Amen and Amen.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:praise]]
+  * [[:vi:obe:kt:eternity]]
+  * [[:vi:obe:kt:amen]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **May Yahweh, the God of Israel...**  - This entire verse is not part of Psalm 41.  This verse is a prayer of praise to God that closes this portion of Psalms, called book 1. 
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:psa:041|Psalms Chapter 041 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/041/010|<<]] | [[en/bible/notes/psa/042/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

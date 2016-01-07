@@ -1,0 +1,72 @@
+====== Nehemiah 09:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 But they disobeyed you and rebelled against you. They turned their backs on\f + \ft Or: rejected \f* your laws. They killed the prophets who warned them that they should return to you. They badly insulted you.
+\v 27 So you allowed their enemies to defeat them. But when their enemies caused them to suffer, they called out to you. You heard them from heaven, and because you are very merciful, you sent them people to help them, and those leaders rescued them from their enemies.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 But they disobeyed you and rebelled against you. They turned their backs on your laws. They killed the prophets who warned them that they should return to you. They cursed your name.
+\v 27 So you handed them over to their enemies to defeat them. But when their enemies caused them to suffer, they called out to you. You heard their cry from heaven, and because you are very merciful, you sent whomever could deliver them from their enemies. And they did.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 Then they became disobedient and they rebelled against you. They threw your law behind their backs. They murdered your prophets who had warned them to turn back to you, and they committed great blasphemies. 
+\v 27 So you handed them over into the hand of their enemies, who made them suffer. And in the time of their suffering, they cried out to you and you heard them from heaven and many times you rescued them out of the hand of their enemies, because of your great mercies.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:disobey]]
+  * [[vi:obe:other:rebel]]
+  * [[vi:obe:kt:lawofmoses]]
+  * [[:vi:obe:kt:prophet]]
+  * [[vi:obe:kt:blasphemy]]
+  * [[vi:obe:other:adversary]]
+  * [[:vi:obe:kt:suffer]]
+  * [[vi:obe:kt:heaven]]
+  * [[:vi:obe:kt:mercy]]
+ 
+===== Translation Notes: =====
+
+In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+
+  * **they threw your law behind their backs** - This is a Hebrew idiom meaning "they disregarded your law" or "they paid no attention to your law." (See: [[vi:ta:vol1:translate:figs_idiom]])
+  * **they threw your law** - The word "they" refers to the Israelites, and "your" refers to Yahweh. 
+  * **you handed them over into** - This is an idiom meaning "placed them under the control of"
+  * **the hand of their enemies** - Here the word "hand" (a part) signifies the "enemies" (as a whole).  AT: "their enemies" (See: [[vi:ta:vol2:translate:figs_synecdoche]])
+  * **and many times you rescued them out of the hand of their enemies because of your great mercies** - "and because of your great mercies, you rescued them from out of the hand of their enemies"
+ 
+
+
+
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:neh:09|Nehemiah Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/09/25|<<]] | [[en/bible/notes/neh/09/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

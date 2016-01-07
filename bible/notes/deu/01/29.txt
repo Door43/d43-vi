@@ -1,0 +1,63 @@
+====== Deuteronomy 01:29-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Then I said to your ancestors, 'Do not be afraid at all\f + \ft Or: even a little bit \f* \f + \ft doublet \f* of those people!
+\v 30 Yahweh our God will go ahead of you, and he will fight for you, just like you saw him do for you in Egypt
+\v 31 and in the desert. You saw how he brought you safely here, like a man would carry his son. \f + \ft simile \f*'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Then I said to your ancestors, 'Do not be afraid at all of those people!
+\v 30 Yahweh our God will go ahead of you, and he will fight for you, just like you saw him do for you in Egypt
+\v 31 and in the desert. You saw how he brought you safely here, like a man would carry his son. '
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 Then I said to you, "Do not be afraid, neither be afraid of them.
+\v 30 Yahweh your God who goes before you, he will fight for you, like everything that he did for you in Egypt before your eyes,
+\v 31 and also in the wilderness, where you have seen how Yahweh your God carried you, as a man carries his son, everywhere you went until you came to this place."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[vi:obe:other:Egypt]]
+  * [[vi:obe:other:desert]]
+
+===== Translation Notes: =====
+Moses continues reminding the people of Israel what the previous generation of Israelites did.
+
+    * **before your eyes** - AT: "which you yourselves saw" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **Yahweh your God carried you, as a man carries his son** - AT: "Yahweh your God took care of you, like a father takes care of his son" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **until you came to this place** - "until you came to this land that God promised to give you"
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:01|Deuteronomy Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/01/26|<<]] | [[en/bible/notes/deu/01/32|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

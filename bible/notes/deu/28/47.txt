@@ -1,0 +1,59 @@
+====== Deuteronomy 28:47-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 Because Yahweh blessed you abundantly in many ways, you should have served him very joyfully \f + \ft doublet \f*, but you did not do that.
+\p
+\v 48 Therefore, you will work for the enemies whom Yahweh will send to attack you. You will be hungry and thirsty; you will not have clothes to wear; and you will lack everything else that you need. And Yahweh will cause you to become slaves \f + \ft metaphor \f* and work hard until he gets rid of you.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 Because Yahweh blessed you abundantly in many ways, you should have served him very joyfully, but you did not do that.
+\p
+\v 48 Therefore, you will work for the enemies whom Yahweh will send to attack you. You will be hungry and thirsty; you will not have clothes to wear; and you will lack everything else that you need. And Yahweh will cause you to become slaves and work hard until he destroys you.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 47 Because you did not worship Yahweh your God with joyfulness and gladness of heart when you were in prosperity,
+\v 48 therefore will you serve the enemies that Yahweh will send against you; you will serve them in hunger, in thirst, in nakedness, and in poverty. He will put a yoke of iron on your neck until he destroys you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:worship]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:kt:joy|joy, joyful]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:prosper]]
+  * [[:vi:obe:other:serve|serve, service]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:send|send, send out]]
+  * [[:vi:obe:other:yoke|yoke]]
+
+===== Translation Notes: =====
+
+  * **joyfulness and gladness of heart** - These mean the same thing. They emphasize that the people should have been very glad to worship Yahweh. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+  * **​He will put a yoke of iron on your neck** ​- This means Yahweh will allow the enemy to treat the Israelites cruelly and make them slaves. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:28:45|<<]] | [[:vi:bible:notes:deu:28:49|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

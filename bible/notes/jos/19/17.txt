@@ -1,0 +1,46 @@
+====== Joshua 19:17-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 The fourth\f + \ft Or: next \f* tribe that was allotted land was the tribe of Issachar. Each of the clans of that tribe was allotted some of the land.
+\v 18 Their land included the cities of Jezreel, Kesulloth, Shunem,
+\v 19 Hapharaim, Shion, Anaharath,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 The fourth tribe that was assigned land was the tribe of Issachar. Each of the clans of that tribe was assigned some of the land.
+\v 18 Their land included the cities of Jezreel, Kesulloth, Shunem,
+\v 19 Hapharaim, Shion, and Anaharath.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 The fourth casting of lots fell to Issachar, and it was given to their clans.
+\v 18 Their territory included Jezreel, Chesulloth, Shunem,
+\v 19 Hapharaim, Shion, and Anaharath.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:issachar]]
+  * [[:En:obe:other:jezreel]]
+
+===== Translation Notes: =====
+
+  * **fourth casting**  - number four in a series (See: [[vi:ta:vol2:translate:translate_numbers]])
+  * **Jezreel**  - Translate this name the same way as in Joshua 15:56 and 17:16. Also found repeatedly in 1 & 2 Samuel, 1 & 2 Kings and Hosea. (See: [[vi:ta:vol1:translate:translate_names]])
+  * **Kesulloth, Shunem, Hapharaim, Shion, and Anaharath**  - names of cities given to Issachar's tribe (See: [[vi:ta:vol1:translate:translate_names]])
+  * **Kesulloth (UDB) and Chesulloth (ULB)** - are two ways to spell the same beginning sound.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:19|Joshua Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:19:14|<<]] | [[:vi:bible:notes:jos:19:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

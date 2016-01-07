@@ -1,0 +1,50 @@
+====== Deuteronomy 08:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So he caused you to have\f + \ft Or: experience \f* difficulties. He allowed you to become hungry. Then he gave you manna \add food from heaven\add*, food that you and your ancestors had never eaten before. He did that to teach you that people need food \add for their bodies\add*; but \add they also need food for their spirits, which comes from paying attention to\add* everything that Yahweh says \f + \ft metonymy \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So he caused you to have difficulties. He allowed you to become hungry. Then he gave you manna, food from heaven, food that you and your ancestors had never eaten before. He did that to teach you that people need food for their bodies, but they also need food for their spirits, which comes from paying attention to everything that Yahweh says.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 He humbled you, and made you hunger, and fed you with manna, which you had not known, nor which your ancestors had known, nor your fathers. He did those to make you know that people do not live by bread only, but rather, it is by everything that proceeds out of the mouth of Yahweh that people live.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:humble]]
+  * [[:vi:obe:other:manna]]
+  * [[vi:obe:other:father]]
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:other:bread]]
+  * [[vi:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+Moses is still talking to the people of Israel.
+
+  * **He humbled you** - "Yahweh made you humble"
+  * **fed you with manna** - "gave you manna to eat"
+  * **people do not live by bread only** - Bread is a symbol of all food. AT: "food is not the only thing people need to live." (See: [[vi:ta:vol2:translate:figs_synecdoche]])
+  * **it is by everything that proceeds out of the mouth of Yahweh that people live** - The mouth is a symbol for the things that Yahweh says. AT: "people must obey the commands of Yahweh so they can live" or "people must do what Yahweh tells them to do so they can live." (See: [[vi:bible:team-info:training:quick-reference:figures:synecdoche]]) 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:08|Deuteronomy Chapter 08 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:08:01|<<]] | [[:vi:bible:notes:deu:08:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

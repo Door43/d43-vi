@@ -1,0 +1,62 @@
+====== Deuteronomy 24:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 When you harvest your crops, if you have forgotten \add that you left\add* one bundle in the field, do not go back to get it. \add Leave it there\add* for foreigners, orphans, and widows. If you do that, Yahweh will bless you in everything that you do.
+\v 20 And when you have harvested\f + \ft Or: picked \f* all your olives from the trees once, do not go back \add to pick the ones that are still\add* on the trees.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 When you harvest your crops, if you have forgotten that you left one bundle in the field, do not go back to get it. Leave it there for foreigners, orphans, and widows. If you do that, Yahweh will bless you in everything that you do.
+\v 20 And when you have harvested all your olives from the trees once, do not go back to pick the ones that are still on the trees.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 When you reap your harvest in your field, and if you have forgotten a sheaf in the field, you must not go back to get it; it must be for the foreigner, for the fatherless, or for the widow; so that Yahweh your God may bless you in all the work of your hands.
+\v 20 When you shake your olive tree, you must not go over the branches again; it will be for the foreigner, for the fatherless, or for the widow.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:reap]]
+  * [[:vi:obe:kt:harvest|harvest]]
+  * [[:vi:obe:other:foreigner]]
+  * [[:vi:obe:other:father]]
+  * [[:vi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:vi:obe:kt:works|works, deeds, work]]
+  * [[:vi:obe:other:olive|olive]]
+
+===== Translation Notes: =====
+
+
+    * **you must not go back to get it** - AT: "You must not walk back to the field in order to recover the forgotten sheaf."
+    * **it must be for the foreigner** - "It" refers to the forgotten sheaf.
+    * **all the work of your hands**  - That is, all the work that you do with your hands. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **when you shake your olive tree** - That is, when you shake its branches, causing the olives to fall to the ground to be picked up.
+    * **you must not go over the branches again**  - That is, do not pick every single olive from the tree.
+    * **it will be for the foreigner**  - "It" refers to the olives that remain on the branches.
+
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/17|<<]] | [[en/bible/notes/deu/24/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

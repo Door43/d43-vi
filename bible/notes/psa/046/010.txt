@@ -1,0 +1,66 @@
+====== Psalms 046:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add God says\add*, "Be quiet, and remember that I am God!
+\q2 I will be honored by the people of all nations.
+\q2 I will be honored all over the earth."
+\b
+\q1
+\v 11 \add So never forget that\add* Yahweh, the commander of the armies of heaven, is with us;
+\q2 the God whom Jacob worshiped \f + \ft Or: we Israelite people worship \f* is our refuge.
+\qr (Think about that!)
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 God says, "Be quiet and remember that I am God!
+\q2 People of all nations will honor me.
+\q2 People all over the earth will honor me."
+\b
+\q1
+\v 11 So never forget that Yahweh, Commander of the angel armies, is with us;
+\q2 the God whom Jacob worshiped is our refuge.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Be quiet and know that I am God;
+\q I will be exalted among the nations; I will be exalted on the earth.
+\q
+\v 11 Yahweh of hosts is with us;
+\q the God of Jacob is our refuge. 
+\qs Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:exalt]]
+  * [[vi:obe:other:nation]]
+  * [[vi:obe:kt:yahwehofhosts]]
+  * [[vi:obe:other:jacob]]
+  * [[vi:obe:kt:refuge]]
+  * [[vi:obe:other:selah]]
+ 
+===== Translation Notes: =====
+
+   * **I will be exalted among the nations; I will be exalted on the earth** - These two phrases mean basically the same thing and are used together to emphasize that God will be exalted everywhere. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+   * **God of Jacob is our refuge** - See how you translated this in [[vi:bible:notes:psa:046:006|46:7]].
+
+​
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:046|Psalms Chapter 046 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:046:008|<<]] | [[:vi:bible:notes:psa:047:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,70 @@
+====== Psalms 078:35-37 ======
+
+===== TFT: =====
+
+<usfm>
+\v 35 They remembered that God is like a huge rock \add under which they would be safe\add* \f + \ft metaphor \f*,
+\q1 and that he, who was greater than any other god, is the one who protected\f + \ft Or: rescued \f* them.
+\q1
+\v 36 But they \add tried to\add* deceive God by what they said \f + \ft metonymy \f*;
+\q2 their words \f + \ft metonymy \f* were all lies.
+\q1
+\v 37 They were not loyal to him;
+\q2 they disregarded\f + \ft Or: ignored \f* the agreement that he had made with them.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 35 They would remember that God was like a huge rock on which they would be safe,
+\q1 and that he, who was greater than any other god, was the one who protected them.
+\q1
+\v 36 But they tried to deceive God by what they said;
+\q2 their words were all lies.
+\q1
+\v 37 They were not loyal to him;
+\q2 they ignored the covenant that he had made with them.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 35 They would call to mind that God was their rock
+\q and that the Most High God was their rescuer.
+\q
+\v 36 But they would flatter him with their mouth
+\q and lie to him with their words.
+\q
+\v 37 For their hearts were not firmly fixed on him,
+\q and they were not faithful to his covenant.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:call|call, calling]]
+  * [[:vi:obe:other:mind|mind]]
+  * [[:vi:obe:kt:mosthigh|Most High]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:kt:faithful|faithful, faithfulness]]
+  * [[:vi:obe:kt:covenant|covenant]]
+
+===== Translation Notes: =====
+
+The tells of what the Israelites did.
+
+  * **flatter him** - "tell him he was wonderful when they did not believe it"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:078:033|<<]] | [[:vi:bible:notes:psa:078:038|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

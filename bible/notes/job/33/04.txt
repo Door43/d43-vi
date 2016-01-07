@@ -1,0 +1,67 @@
+====== Job 33:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Almighty God has created me \add as well as you\add*,
+\q2 and with his breath he has caused me to live.
+\q1
+\v 5 So, answer what I \add say\add* if you can;
+\q2 think carefully \add what you will reply to me\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Almighty God has created me as well as you,
+\q2 and with his breath he has caused me to live.
+\q1
+\v 5 So answer what I say if you can;
+\q2 think carefully what you will reply to me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 The Spirit of God has made me;
+\q the breath of the Almighty has given me life.
+\q
+\v 5 If you can, answer me;
+\q set your words in order before me and stand up.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:holyspirit]]
+  * [[:vi:obe:kt:almighty]]
+  * [[:vi:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+  * Verse 4 - This is a case of parallelism, with the two clauses saying the same thing similarly, for emphasis.(See: Parallelism)
+  * **if you can answer me - This is a rhetorical question with an expected negative answer.(See:Rhetorical question)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:33|Job Chapter 33 Comprehension Questions]]**
+**[[:vi:bible:notes:job:33:01|<<]] | [[:vi:bible:notes:job:33:06|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Psalms 049:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 by evil men who trust that \add things will always go well for them because\add* they are wealthy,
+\q2 and who boast about being very rich.
+\q1
+\v 7 \add They may be rich\add*, but no one can pay money,
+\q2 with the result that he would live forever!
+\q1 No one can pay God enough so that God will allow him \add to continue\add* to live,
+\q1
+\v 8 because that is cost is too big,
+\q2 and he will never be able to pay enough,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 These are evil men who trust that things will always go well for them because they are wealthy
+\q2 and who boast about being very rich.
+\q1
+\v 7 They may be rich, but no one can pay God money
+\q2 so that he can live forever!
+\q1 No one can pay God enough so that God will allow him to continue to live
+\q1
+\v 8 because that cost is too big,
+\q2 and he will never be able to pay enough
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Those who trust in their wealth
+\q and boast of the multitude of their riches—
+\q
+\v 7 None of them can by any means redeem his brother
+\q or give God a ransom for him,
+\q
+\v 8 For the redemption of one’s life is costly,
+\q and always costs too much.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:trust|trust, trustworthy, trustworthiness]]
+  * [[:vi:obe:kt:boast]]
+  * [[:vi:obe:kt:redeem|redeem, redemption]]
+  * [[:vi:obe:kt:brother]]
+  * [[:vi:obe:kt:god|God]]
+  * [[:vi:obe:kt:ransom|ransom]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **Those who trust in their wealth**  - These people trust their wealth will keep them from having to suffer. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **multitude** - a large amount of something
+  * **None of them can by any means** - "There is no way that any of them can" or AT: "No one can" 
+  * **redeem his brother or give God a ransom for him** - Both of these phrases express that a person cannot pay to save his brother from God.  It is understood that he is trying to save his brother from death. AT: "pay money so their brother will not die" (See: [[:vi:ta:vol1:translate:figs_explicit]] and [[:vi:ta:vol2:translate:figs_parallelism]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:049:003|<<]] | [[:vi:bible:notes:psa:049:009|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

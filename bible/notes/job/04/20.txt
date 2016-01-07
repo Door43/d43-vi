@@ -1,0 +1,57 @@
+====== Job 04:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 People are sometimes well in the morning, but in the evening they are dead.
+\q2 They are gone forever and do not even know it \f + \ft Or: and no one pays any attention to it \f*.
+\q1
+\v 21 They are like \f + \ft metaphor \f* tents that collapse \add suddenly:\add*
+\q2 they die \add suddenly\add* without becoming wise.'~"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 People are sometimes in good health in the morning, but by the evening they are dead.
+\q2 They are gone forever and no one even pays attention.
+\q1
+\v 21 They are like tents that collapse suddenly when you pull up their stakes;
+\q2 they die suddenly without ever knowing why.'"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 Between morning and evening they are destroyed;
+\q they perish forever without anyone noticing them.
+\q
+\v 21 Are not their tent cords plucked up among them?
+\q They die; they die without wisdom.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:perish]]
+  * [[:vi:obe:kt:forever]]
+  * [[vi:obe:other:tent]]
+  * [[:vi:obe:kt:death]]
+  * [[:vi:obe:kt:wise]]
+===== Translation Notes: =====
+
+These verses continue the earlier use of parallelism, here emphasizing in different ways the idea that people die suddenly without having achieved wisdom and without concern from others. (See: [[vi:ta:vol2:translate:figs_parallelism]])
+
+  * **Between morning and evening they are destroyed** - This is a figurative way of saying that humans die quickly, that life is short, just at the time between morning and evening is short. (See: [[vi:ta:vol1:translate:figs_metaphor]])
+  * **they are destroyed** - "something destroys them" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **Are not their tent cords plucked up among them?** - The writer describes human beings like tents that collapse when someone pulls up the cords that hold it up. This is a figurative way of asking, "Are not they about to die?"  AT:  "Something plucks up their tent cords among them" or "Something plucks their lives from them."(See: [[vi:ta:vol1:translate:figs_rquestion]] and [[:vi:ta:vol2:translate:figs_activepassive]]).
+  * **Are not their tent cords plucked up among them?** - "Yes, their tent cords are plucked up among them." (See: [[:vi:ta:vol2:translate:figs_litotes]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:04|Job Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:job:04:18|<<]] | [[:vi:bible:notes:job:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

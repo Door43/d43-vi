@@ -1,0 +1,88 @@
+====== Hosea 10:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Israel was like \f + \ft metaphor \f* a large healthy\f + \ft Or: luxuriant \f* vine
+\q2 that produced \add a lot of\add* grapes.
+\q1 But as the people became richer,
+\q2 they made more altars \add at which to worship idols\add*.
+\q1 As the people prospered,
+\q2 they built and decorated sacred pillars \add that they worshiped\add*.
+\q1
+\v 2 They are deceitful in their inner beings;
+\q2 so now they are guilty and must be punished.
+\q1 I, Yahweh, will tear down their altars
+\q2 and smash those pillars.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Israel is like a vine
+\q2 that produces many bundles of grapes.
+\q1 But the more their fruit increased, the richer they became.
+\q2 With that money they made more stone columns in honor of their idols.
+\q1
+\v 2 They are deceitful and cannot be trusted;
+\q2 but the time has come that they must pay for their sins. 
+\q1 Yahweh will break their altars into pieces—  
+\q2 the places where they gave sacrifices to their idols, 
+\q2 and he promises to destroy those sacred pillars beside which they worshiped their false gods.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 10
+\p
+\q
+\v 1 Israel is a luxuriant vine that produces his fruit.
+\q As his fruit increased,
+\q the more altars he built.
+\q As his land produced more,
+\q he improved his sacred pillars.
+\q
+\v 2 Their heart is deceitful;
+\q now they must bear their guilt.
+\q Yahweh will demolish their altars;
+\q he will destroy their sacred pillars.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:vine]]
+  * [[:vi:obe:kt:fruit]]
+  * [[:vi:obe:other:altar]]
+  * [[:vi:obe:other:sacred]]
+  * [[:vi:obe:other:pillar]]
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:deceive]]
+  * [[:vi:obe:kt:guilt]]
+  * [[:vi:obe:kt:yahweh]]
+===== Translation Notes: =====
+
+Hosea is speaking about Israel.
+
+  * **Israel is a luxuriant vine that produces his fruit** - Israel is compared to a vine that is very fruitful. (See how you translated this in [[:vi:bible:notes:hos:09:13|9:13]].). (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **a luxuriant vine** - This vine is producing more fruit than normal.
+  * **As his land produced more, he improved his sacred pillars** - AT: "With that money they made more stone columns in honor of their idols" (UDB)
+  * **Their heart is deceitful** - This means that Israel is being dishonest toward Yahweh by their worship of idols. (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **now they must bear their guilt** - AT: "but the time has come that they must pay for their sins." (UDB)
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:10|Hosea Chapter 10 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:09:16|<<]] | [[:vi:bible:notes:hos:10:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

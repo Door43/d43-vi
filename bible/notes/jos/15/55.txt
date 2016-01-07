@@ -1,0 +1,59 @@
+====== Joshua 15:55-57 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 55 The tribe of Judah was also allotted these towns in \add the southeastern part of the hilly region\add*: Maon, Carmel, Ziph, Juttah,
+\v 56 Jezreel, Jokdeam, Zanoah,
+\v 57 Kain, Gibeah, and Timnah. There were ten towns altogether with their surrounding villages.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 55 The tribe of Judah was also assigned these towns in the southeastern part of the hill country: Maon, Carmel, Ziph, Juttah,
+\v 56 Jezreel, Jokdeam, Zanoah,
+\v 57 Kain, Gibeah, and Timnah. There were ten cities, together with their surrounding villages.
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 55 Maon, Carmel, Ziph, Juttah,
+\v 56 Jezreel, Jokdeam, Zanoah,
+\v 57 Kain, Gibeah, and Timnah. These were ten cities, not counting their villages.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:carmel]]
+  * [[vi:obe:other:jezreel]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **Maon ... Timnah**- names of places (See: [[vi:ta:vol2:translate:translate_names]]) 
+
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/15/52|<<]] | [[en/bible/notes/jos/15/58|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

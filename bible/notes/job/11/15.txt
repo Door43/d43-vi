@@ -1,0 +1,78 @@
+====== Job 11:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 If you do what I have said, surely you will lift up your head because you will not be ashamed;
+\q2 you will be strong, and not afraid \add of anything\add*.
+\q1
+\v 16 You will forget all your troubles;
+\q2 they will be like the water \add of a flood\add* that has all disappeared.
+\q1
+\v 17 \add Your troubles will be ended, like the darkness ends\add* at the dawn;
+\q2 \add it will be as though\add* \f + \ft metaphor \f* the sun is shining brightly on you, like \add it shines\add* at noon.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 If you do that, surely you will be able to carry your head high, because you will not be ashamed;
+\q2 you will be strong and not afraid of anything.
+\q1
+\v 16 You will forget all your troubles;
+\q2 they will be like the water that has all flowed away and dried up.
+\q1
+\v 17 Your troubles will be ended, like the darkness ends at the dawn;
+\q2 it will be as though the sun were shining brightly on you, like it shines at noon.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 Then you would certainly lift up your face without a sign of shame;
+\q indeed, you would be steadfast and would not fear.
+\q
+\v 16 You would forget your misery;
+\q you would remember it only like waters that have flowed away.
+\q
+\v 17 Your life would be brighter than the noonday;
+\q though there were darkness, it would become like the morning.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:face|face]]
+  * [[:vi:obe:kt:sign|sign (proof, reminder)]]
+  * [[:vi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:vi:obe:kt:fear|fear, afraid]]
+  * [[:vi:obe:other:water|water, waters]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:kt:darkness|darkness]]
+
+===== Translation Notes: =====
+
+  * Then you would - - This sentence is continues the thought expressed previously by Zophar that Job was evil and needed to turn to God, and if he would God would bless him.
+  * **Your life will – ;through the darkness. - In the UDB the order of these two parts of this sentence is reversed.**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:11|Job Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:job:11:13|<<]] | [[:vi:bible:notes:job:11:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

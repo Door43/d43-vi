@@ -1,0 +1,53 @@
+====== Joshua 15:29-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Baalah, Iim, Ezem,
+\v 30 Eltolad, Kesil, Hormah,
+\v 31 Ziklag, Madmannah, Sansannah,
+\v 32 Lebaoth, Shilhim, Ain, and Rimmon. There were twenty-nine towns altogether and their surrounding villages.
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Also Baalah, Iyim, Ezem,
+\v 30 Eltolad, Kesil, Hormah,
+\v 31 Ziklag, Madmannah, Sansannah,
+\v 32 Lebaoth, Shilhim, Ain, and Rimmon. There were twenty-nine cities, together with their surrounding villages.
+\m
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 Baalah, Iyim, Ezem,
+\v 30 Eltolad, Chesil, Hormah,
+\v 31 Ziklag, Madmannah, Sansannah,
+\v 32 Lebaoth, Shilhim, Ain, and Rimmon. These were twenty-nine cities in all, not counting their villages.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **Baalah ... Rimmon**  - names of places (See: [[vi:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:15:25|<<]] | [[:vi:bible:notes:jos:15:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

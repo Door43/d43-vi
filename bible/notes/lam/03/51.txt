@@ -1,0 +1,92 @@
+====== Lamentations 03:51-54 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 51 I am very grieved
+\q2 because of \add what has happened to\add* the women of my city.
+\b
+\q1
+\v 52 Those who are my enemies hunted for me
+\q2 like \f + \ft simile \f* \add people hunt for\add* a bird \add to kill it\add*
+\q1 even though there was no reason \add for them to do that\add*.
+\q1
+\v 53 They threw me into a pit to kill me,
+\q2 and they threw stones on top of me.
+\q1
+\v 54 The water \add in the pit\add* rose above my head,
+\q2 and I said to myself, "I am about to die\f + \ft Or: drown \f*!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 51 I am very grieved
+\q2 because of what has happened to the women of my city.
+\b
+\q1
+\v 52 My enemies hunted for me
+\q2 like  people hunt for a bird to kill it
+\q1 even though there was no reason for them to do that.
+\q1
+\v 53 They threw me into a pit to kill me,
+\q2 and placed a heavy stone over the top of it.
+\q1
+\v 54 The water in the pit rose above my head,
+\q2 and I said to myself, "I am about to die!"
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 51 My eye brings severe pain to my life because of all the daughters of my city.
+
+\q
+\v 52 My enemies have relentlessly hunted me like a bird, without cause.
+\q
+\v 53 They have destroyed my life in a well and have placed a stone over me.
+\q
+\v 54 Waters flowed over my head; I said, "I have been cut off!"
+\b
+</usfm>
+
+
+===== Important Terms: =====
+ 
+  * [[vi:obe:kt:life]]
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:well]]
+  * [[vi:obe:kt:cutoff]]
+
+===== Translation Notes: =====
+
+    * **My eye brings severe pain to my life** - AT: "What I see causes me much pain" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+    * **all the daughters of my city** - Possible meanings are 1) the women of Jerusalem (see UDB) or 2) all the inhabitants of Jerusalem. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+    * **they have destroyed my life in a well** - AT: "they have killed me by drowning me in a well" (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+    * **have placed a stone over me** - Possible meanings are 1) "have covered the well with a stone" (see UDB) or 2) "have thrown stones at me."
+    * **I have been cut off** - AT: "I have been killed" or "I am drowning" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lam/03/48|<<]] | [[en/bible/notes/lam/03/55|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

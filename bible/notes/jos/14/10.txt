@@ -1,0 +1,48 @@
+====== Joshua 14:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Now Yahweh has done for me what he promised. Forty-five years have passed since Moses said that to me during the time that we were wandering around in the desert. And just like Yahweh promised, he has kept me alive and well all during that time. Now I am eighty-five years old.
+\v 11 I am as strong today as I was on the day that Moses sent me \add to explore this land\add*. I am as ready to fight now as I was then.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Now Yahweh has done for me as he promised he would. Forty-five years have passed since Moses said that to me during the time that we were still in the wilderness. And just as Yahweh promised, he has kept me alive and well all during that time. Look at me! I am eighty-five years old.
+\v 11 I am as strong today as I was on the day that Moses sent me to explore this land. My strength is now as my strength was when I was young. I can wage war or I can travel far away and still have the strength to come home.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Now, look! Yahweh has kept me alive these forty-five years, just as he said—from the time when Yahweh spoke this word to Moses, while Israel walked in the wilderness. Now, look! I am this day eighty-five years old.
+\v 11 I am still as strong this day as I was in the day that Moses sent me out. My strength is now as my strength was then, for war and for going and coming.
+</usfm>
+
+
+===== Important Terms: =====
+
+   * [[:vi:obe:kt:yahweh]]
+   * [[vi:obe:kt:walk]]
+   * [[:En:obe:other:desert]]
+
+===== Translation Notes: =====
+
+
+    * **look** - AT: “listen” or “pay attention to what I am about to tell you.”
+    * **My strength is now as my strength was then**  - AT: "I am still as strong as I was then"
+    * **for going and coming** - "for the things I do every day" (See: [[vi:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jos:14|Joshua Chapter 14 Comprehension Questions]]**
+**[[:vi:bible:notes:jos:14:08|<<]] | [[:vi:bible:notes:jos:14:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,44 @@
+====== Judges 13:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then Manoah killed a young goat and burned it on a rock, along with a grain offering, as a sacrifice to Yahweh. And Yahweh did an amazing thing while Manoah and his wife watched.
+\v 20 Flames from the altar blazed up toward the sky, and Yahweh ascended in the flames. When Manoah and his wife saw that, they prostrated themselves on the ground.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then Manoah killed a young goat and burned it on a rock, along with a grain offering, as a sacrifice to Yahweh/ Then Yahweh did an amazing thing as Manoah and his wife watched.
+\v 20 When the flames went up from the altar toward the sky, Yahweh's angel went up in the flame from the altar. Manoah and his wife saw that and lay facedown  on the ground.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 So Manoah took the young goat with the grain offering and offered them on the rock to Yahweh. He did something marvelous while Manoah and his wife were watching.
+\v 20 When the flame went up from the altar toward the sky, the angel of Yahweh went up in the flame of the altar. Manoah and his wife saw this and lay facedown on the ground.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:goat]]
+  * [[:vi:obe:other:grainoffering]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:other:amazed]]
+  * [[:vi:obe:other:altar|altar]]
+  * [[vi:obe:kt:heaven]]
+  * [[vi:obe:kt:angel]]
+===== Translation Notes: =====
+
+  * **the angel of Yahweh went up in the flame of the altar** - "the angel of Yahweh went back up into heaven through the flames on the altar"
+  * **lay facedown on the ground** -  “lay with their faces to the ground.” This is a sign of respect and honor, but it also shows their fear of Yahweh.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:13|Judges Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:13:17|<<]] | [[:vi:bible:notes:jdg:13:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

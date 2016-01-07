@@ -1,0 +1,60 @@
+====== Psalms 071:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 God, do not stay far away from me;
+\q2 hurry to help me!
+\q1
+\v 13 Cause those who accuse me\f + \ft Or: say that I have done things that are wrong \f* to be defeated and destroyed;
+\q2 cause those who want to harm me to be shamed and disgraced.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 God, do not stay far away from me;
+\q2 hurry to help me!
+\q1
+\v 13 Cause those who accuse me to be defeated and destroyed;
+\q2 cause those who want to harm me to be shamed and disgraced.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 God, do not be far from me;
+\q my God, hurry to help me.
+\q
+\v 13 Let them be put to shame and consumed, those who are hostile to my life;
+\q let them be covered with rebuke and dishonor, those who seek my hurt.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:consume]]
+  * [[:vi:obe:other:dishonor]]
+  * [[:vi:obe:other:wrong]]
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:071|Psalms Chapter 071 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:071:010|<<]] | [[:vi:bible:notes:psa:071:014|>>]]**
+
+~~DISCUSSION~~{{tag>checkbook2}}
+
+~~NOCACHE~~

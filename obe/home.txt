@@ -1,10 +1,16 @@
-====== Complete List of Important Terms - Vietnamese ======
+====== Complete List of Important Terms - English ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
   * [[:vi:obe:kt:home]]
   * [[:vi:obe:other:home]]
 
-==== All Important Terms: ====
+==== Does a term need to be in either of these lists? ====
+  * [[:vi:bible:team-info:training:topics:kt-yes-no]]
+  * [[vi:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
+  * [[:vi:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
+==== All Terms in the OBE: ====
 
 <nspages vi:obe -r -title -exclude:home -textPages="">
+

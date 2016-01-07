@@ -1,0 +1,53 @@
+====== Deuteronomy 21:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Suppose someone has been murdered in a field in the land that Yahweh our God is giving to you, and you do not know who killed that person.
+\v 2 \add If that happens\add*, your elders and judges must go out to where that person's corpse was found and measure the distance from there to each of the nearby towns.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Suppose someone has been murdered in a field in the land that Yahweh our God is giving to you, and you do not know who killed that person.
+\v 2 If that happens, your elders and judges must go out to where that person's corpse was found and measure the distance from there to each of the nearby towns.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 If someone is found killed in the land that Yahweh your God is giving you to possess, lying in the field, and it is not known who has attacked him;
+\v 2 then your elders and your judges must go out, and they must measure to the cities that are around him who has been killed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:possess]]
+  * [[:vi:obe:other:elder]]
+  * [[:vi:obe:kt:judge]]
+
+===== Translation Notes: =====
+
+Moses continues to speak to the people of Israel.
+
+  * **If someone is found killed**  - AT: "If someone finds a dead person." (See: [[:vi:ta:vol2:translate:figs_activepassive]]) 
+  * **lying in the field**  - This refers to the dead person.
+  * **and it is not known who has attacked him**  - AT: "and nobody knows who attacked him."
+  * **and they must measure...has been killed** - "and they must measure the distance from the dead body to the cities that are around the dead body"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:20:19|<<]] | [[:vi:bible:notes:deu:21:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

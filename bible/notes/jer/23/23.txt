@@ -1,0 +1,72 @@
+====== Jeremiah 23:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Yahweh also says, "Am I a God who is only nearby \f + \ft rhetorical question \f*?
+\q2 No, I am a God who is far away, also.
+\q1
+\v 24 So, no one can hide in some secret place
+\q2 with the result that I cannot see him.
+\q2 I am everywhere, in heaven and on the earth!
+\q1 That is what I, Yahweh, say!
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Yahweh also says, "Am I a God who is only nearby ?
+\q2 No, I am a God who is far away, also.
+\q1
+\v 24 So, no one can hide in some secret place
+\q2 with the result that I cannot see him.
+\q2 I am everywhere, in heaven and on the earth!
+\q1 That is what I, Yahweh, say!
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Am I only a God nearby"—this is Yahweh’s declaration—and not also a God far away?
+\q
+\v 24 Can anyone hide in a secret place so I cannot see him?"—this is Yahweh’s declaration.
+\q "Do I not fill the heavens and the earth?"—this is Yahweh’s declaration.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:heaven]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Yahweh's declaration** - "what Yahweh has declared" or "what Yahweh has said"    
+    * **Am I only a God nearby... and not also far away?**  - Yahweh is emphasizing the point that he is both close and far away. AT : I am a God that is both near and far away. (See [[:vi:ta:vol1:translate:figs_rquestion]])
+    * **Can anyone hide in a secret place so I cannot see him?**  - This question emphasizes the point that Yahweh can see everything and there is nothing that is hidden from his sight. (See : [[vi:ta:vol1:translate:figs_rquestion]])
+    * **Do I not fill the heavens and the earth?**  - Yahweh is emphasizing that he is everywhere, both in the heavens and the earth. (See : [[vi:ta:vol1:translate:figs_rquestion]])    
+   
+  
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:jer:23|Jeremiah Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/23/21|<<]] | [[en/bible/notes/jer/23/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

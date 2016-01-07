@@ -1,0 +1,63 @@
+====== Judges 05:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 The Kishon River swept them away—
+\q2 that river that has been there for ages.
+\q2 I will tell myself to be brave and continue marching on.
+\q1
+\v 22 The hooves of the horses of Sisera's \add army\add* pounded the ground.
+\q2 Those powerful horses kept galloping along.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 The Kishon River swept them away—
+\q2 that river that has been there for ages.
+\q2 I will tell myself to be brave and continue marching on.
+\q1
+\v 22 The hooves of the horses of Sisera's army pounded the ground.
+\q2 Those powerful horses kept galloping along.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 The Kishon River swept them away,
+\q That old river, the Kishon River.
+\q March on my soul, be strong!
+\q
+\v 22 Then the sound of horses' hooves—
+\q galloping, the galloping of his mighty ones.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:soul]]
+  * [[:vi:obe:other:horse]]
+  * [[:vi:obe:other:hooves]]
+  * [[:vi:obe:other:mighty]]
+
+===== Translation Notes: =====
+
+  * **The Kishon River swept them away** - Because of a summer rain referred to as stars, the river flooded quickly and the water forced the enemy army down stream.
+  * **Kishon**  - See how you translated this in [[:vi:bible:notes:jdg:04:06|4:6]].
+  * **swept** - to flow quickly and forcefully.
+  * **March on my soul** - The author refers to herself by the part of her associated with bravery. (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **Then the sound of horses' hooves—galloping, the galloping of his mighty ones** - This sentence is used to describe the sound of the enemy solider's retreat. AT: "Then I heard the sound by the retreat of the enemy solider who rode on horses.  It was the sound of a horse's gallop, the sound his mighty warrior's horses made as they galloped away. (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **galloping** - when a horse runs.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:05:19|<<]] | [[:vi:bible:notes:jdg:05:23|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

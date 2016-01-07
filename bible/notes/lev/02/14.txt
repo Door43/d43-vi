@@ -1,0 +1,50 @@
+====== Leviticus 02:14-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 If you bring to Yahweh an offering of the first part of your harvest of grain, offer some new grain that has been crushed and roasted in a fire.
+\v 15 Put olive oil and incense on it, and that will be your offering made from grain.
+\v 16 The priest will take a part of it that will symbolize that all the offering truly belongs to Yahweh. He will burn that part on the altar, to be an offering given to Yahweh by \add burning\add* it in a fire."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 If you bring to Yahweh a flour offering from the first part of your harvest of grain, offer some new grain that has been crushed and roasted in a fire.
+\v 15 Put olive oil and incense on it, and that will be your offering made from flour.
+\v 16 The priest will take a part of it that will symbolize that all the offering truly belongs to Yahweh. He will burn that part on the altar, to be an offering given to Yahweh by burning it in a fire.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 If you offer a grain offering of first fruits to Yahweh, offer fresh grain that is roasted with fire and then crushed into meal.
+\v 15 Then you must put oil and incense on it. This is a grain offering.
+\v 16 Then the priest will burn part of the crushed grain and oil and incense to gratefully think about Yahweh's goodness. This is an offering made by fire to Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:grainoffering]]
+  * [[vi:obe:kt:firstfruit]]
+  * [[vi:obe:kt:yahweh]]
+  * [[vi:obe:other:oil]]
+  * [[vi:obe:other:incense]]
+  * [[vi:obe:kt:priest]]
+  * [[vi:obe:kt:good]]
+
+===== Translation Notes: =====
+Yahweh continues telling Moses what the people must do.
+  * **that is roasted with fire**  - AT: "that you have cooked over a fire" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **to gratefully think about Yahweh's goodness. This is an offering made by fire to Yahweh** - See how you translated this in [[vi:bible:notes:lev:02:01|2:2]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:02|Leviticus Chapter 02 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:02:11|<<]] | [[:vi:bible:notes:lev:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

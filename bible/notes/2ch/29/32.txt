@@ -1,0 +1,45 @@
+====== 2 Chronicles 29:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 Altogether they brought 70 bulls, 100 rams, and 200 male lambs to be completely burned on the altar.
+\v 33 The other animals that they brought were 600 bulls and 3,000 sheep and goats that were set apart to be sacrifices.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 Altogether they brought seventy bulls, one hundred rams, and two
+hundred male lambs to be completely burned on the altar.
+\v 33 The other animals that they brought were six hundred bulls and three thousand sheep and goats that were set apart for the honor of Yahweh, to be sacrifices.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 The number of the burnt offerings that the assembly brought was seventy bulls, one hundred rams, and two
+hundred male lambs. All these were for a burnt offering to Yahweh.
+\v 33 The consecrated animals were six hundred oxen and three thousand sheep.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:burntoffering|burnt offering, offering by fire]]
+  * [[:vi:obe:other:cow|cow, calf, bull, cattle]]
+  * [[:vi:obe:other:ox]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:kt:lamb|lamb, Lamb of God]]
+
+===== Translation Notes: =====
+
+See: [[:vi:ta:vol2:translate:translate_numbers]]
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:2ch:29|2 Chronicles Chapter 29 Comprehension Questions]]**
+**[[:vi:bible:notes:2ch:29:31|<<]] | [[:vi:bible:notes:2ch:29:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

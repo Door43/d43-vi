@@ -1,0 +1,71 @@
+====== Psalms 003:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 But Yahweh, you are like a shield \add that protects me\add* \f + \ft metaphor \f*.
+\q1 You greatly honor me, and you encourage me \f + \ft Or: enable me to triumph over my enemies \f* [IDI].
+\q1
+\v 4 I cry out to you, Yahweh,
+\q2 and you answer me from \add Zion\add*, your sacred hill.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 But Yahweh, you are like a shield that protects me.
+\q1 You greatly honor me, and you encourage me.
+\q1
+\v 4 I cry out to you, Yahweh,
+\q2 and you answer me from Zion, your sacred hill.
+\qr 
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 But you, Yahweh, are a shield around me,
+\q my glory, and the one who lifts up my head.
+\q
+\v 4 I lift up my voice to Yahweh,
+\q and he answers me from his holy hill. 
+\qs Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:shield]]
+  * [[:vi:obe:kt:glory]]
+  * [[:vi:obe:other:head]]
+  * [[:vi:obe:other:voice]]
+  * [[:vi:obe:kt:holy]]
+  * [[:vi:obe:other:selah]]
+ 
+
+===== Translation Notes: =====
+
+  * **a shield around me** - God is protecting him. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **my glory** - AT: "You give me victory" (See: [[:vi:ta:vol2:translate:figs_abstractnouns]])
+  * **the one who lifts my head** - AT: "the one who encourages me" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **your holy hill** - AT: "the hill where your temple is"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:003|Psalms Chapter 003 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:003:001|<<]] | [[:vi:bible:notes:psa:003:005|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

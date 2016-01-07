@@ -1,0 +1,51 @@
+====== 1 Kings 20:20-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 20 Each \add Israelite soldier\add* killed a \add Syrian\add* soldier. The rest of the Syrian army then ran away, and the Israelite soldiers pursued them. But King Ben-Hadad escaped riding his horse, along with some other men riding horses.
+\v 21 Then the king of Israel went out \add of the city\add*, and he and his soldiers captured \add all the other Syrian\add* horses and chariots, and also killed a large number of Syrian soldiers.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 20 Each Israelite soldier killed an Aramean soldier. The rest of the Aramean army then ran away, and the Israelite soldiers pursued them. But King Ben Hadad escaped riding his horse, along with some other men riding horses.
+\v 21 Then the king of Israel went out of the city; he and his soldiers captured all the other Aramean horses and chariots, and also killed a large number of Aramean soldiers.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 20 They each killed his enemy, and the Arameans fled; Israel pursued them. Benhadad the king of Aram escaped
+on a horse with some horsemen.
+\v 21 Then the king of Israel went out and attacked the horses and chariots, and killed the Arameans in a great slaughter.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:adversary]]
+  * [[:vi:obe:other:aram]]
+  * [[vi:obe:other:kingdomofisrael]]
+  * [[:vi:obe:other:horse]]
+  * [[vi:obe:other:horsemen]]
+  * [[:vi:obe:other:chariot]]
+  * [[:vi:obe:other:slaughter]]
+
+===== Translation Notes: =====
+
+  * **Israel pursued them** - AT: "the men of the army of Israel pursued them" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **the king of Israel went out and attacked** - AT: "The king of Israel and his soldiers went out and attacked" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:1ki:20|1 Kings Chapter 20 Comprehension Questions]]**
+**[[:vi:bible:notes:1ki:20:18|<<]] | [[:vi:bible:notes:1ki:20:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

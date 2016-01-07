@@ -1,0 +1,60 @@
+====== Psalms 038:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 I say that because I am about to fall down,
+\q2 and I constantly have pain.
+\q1
+\v 18 I confess the wrong things that I have done;
+\q2 I am very sorry for the sins that I have committed.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 I say that because I am about to fall down,
+\q2 and I constantly have pain.
+\q1
+\v 18 I confess the wrong things that I have done;
+\q2 I am very sorry for the sins that I have committed.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 For I am about to stumble,
+\q and I am in constant pain.
+\q
+\v 18 I confess my guilt;
+\q I am concerned about my sin.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:stumble]]
+  * [[:vi:obe:kt:confess]]
+  * [[:vi:obe:kt;guilt]]
+ 
+
+===== Translation Notes: =====
+
+  * **and I am in constant pain**. - AT: "and I am always in pain."
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:038|Psalms Chapter 038 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:038:015|<<]] | [[:vi:bible:notes:psa:038:019|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

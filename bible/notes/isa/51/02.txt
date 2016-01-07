@@ -1,0 +1,59 @@
+====== Isaiah 51:2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 Think about your ancestor Abraham and \add his wife\add* Sarah, of whom all of you are descendants.
+\q2 When I first spoke to Abraham,
+\q1 he had no children.
+\q2 But after I blessed him, he had a huge number of descendants.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 Think about your ancestor Abraham and his wife Sarah, of whom all of you are descendants.
+\q2 When I first spoke to Abraham,
+\q1 he had no children.
+\q2 But after I blessed him, he had a huge number of descendants.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 2 Look at Abraham, your father, and to Sarah, who bore you; for when he was a lone individual, 
+\q1 I called him. I blessed him and made him many.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:Abraham]]
+  * [[:vi:obe::other:father]]
+  * [[:vi:obe:other:Sarah]]
+  * [[:vi:obe:kt:call]]
+  * [[:vi:obe:kt:bless]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Israel.
+
+  * **Abraham … Sarah**  - The people of Israel are //descendants//  of Abraham and Sarah not their literal children in this context. (See: [[:vi:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:51|Isaiah Chapter 51 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:51:01|<<]] | [[:vi:bible:notes:isa:51:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

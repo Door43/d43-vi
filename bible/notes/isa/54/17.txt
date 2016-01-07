@@ -1,0 +1,61 @@
+====== Isaiah 54:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 \add But I am promising you that I will\add* not allow you to be defeated\f + \ft Or: injured \f* by soldiers using weapons
+\q2 that have been made to attack you,
+\q1 and when others try to accuse you, you will refute them\f + \ft Or: show that they are wrong \f*.
+\q2 That is the reward that I will give to the people who serve me;
+\q1 I will defend them;
+\q2 that is what I, Yahweh, promise."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 But I am promising you that I will not allow you to be defeated by soldiers using weapons
+\q2 that have been made to attack you,
+\q1 and when others try to accuse you, you will prove that they are wrong, and you will condemn them to punishment.
+\q2 That is the reward that I will give to the people who serve me;
+\q1 I will defend them and show everyone else that they are right to trust me;
+\q2 that is what I, Yahweh, promise."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 17 No weapon that is formed against you will succeed; 
+\q1 and you will condemn everyone who accuses you.
+\q1 This is the heritage of the servants of Yahweh, and their vindication from me"—this is the declaration of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:condemn]]
+  * [[:vi:obe:other:accuse]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:yahweh]]
+  * [[:vi:obe:other:declare]]
+ 
+
+===== Translation Notes: =====
+
+Yahweh continues speaking to the people of Jerusalem.
+
+  * **No weapon that is formed against you will succeed**  - AT: "No one who makes a weapon to attack you can hurt you" (See: [[:vi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **declaration of Yahweh**  - See how you translated this in [[:vi:bible:notes:isa:14:21|14:22]].
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:isa:54|Isaiah Chapter 54 Comprehension Questions]]**
+**[[:vi:bible:notes:isa:54:15|<<]] | [[:vi:bible:notes:isa:55:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

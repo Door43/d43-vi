@@ -1,0 +1,60 @@
+====== Numbers 25:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 The Israelite man who was killed with the woman of the Moab people-group was named Zimri. He was the son of Salu, who was the leader of a family from the tribe of Simeon.
+\v 15 The woman's name was Cozbi. She was the daughter of Zur, who was the leader of one of the clans of the Midian people-group.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 The Israelite man who was killed with the woman of the Moab people group was named Zimri son of Salu, who was the leader of a family from the tribe of Simeon.
+\v 15 The woman's name was Cozbi. She was the daughter of Zur, who was the leader of one of the clans of the Midian people group.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Now the name of the Israelite man who was killed with the Midianite woman was Zimri son of Salu, a leader of an ancestor’s family among the Simeonites.
+\v 15 The name of the Midianite woman who was killed was Cozbi daughter of Zur, who was head of a tribe and family in Midian.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:name|name]]
+  * [[:vi:obe:other:midian|Midian, Midianites]]
+  * [[:vi:obe:other:simeon|Simeon]]
+  * [[:vi:obe:other:head|head]]
+  * [[:vi:obe:other:tribe|tribe]]
+
+===== Translation Notes: =====
+
+  *
+
+**Now the name of the Israelite man who was killed with the Midianite woman was Zimri son of Salu ** - AT: The name of the Israelite man whom Phinehas killed with the Midianite woman was Zimri son of Salu.
+
+  *
+
+**
+The name of the Midianite woman who was killed was Cozbi daughter of Zur, who was head of a tribe and family in Midian
+
+ **
+- AT:  The name of the Midianite woman whom Phinehas killed was Cozbi daughter of Zur, who was head of a tribe and family in Midian.
+
+
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:num:25|Numbers Chapter 25 Comprehension Questions]]**
+**[[:vi:bible:notes:num:25:12|<<]] | [[:vi:bible:notes:num:25:16|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

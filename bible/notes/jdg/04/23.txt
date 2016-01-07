@@ -1,0 +1,46 @@
+====== Judges 04:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 On that day God enabled the Israelites to defeat \add the army of\add* Jabin, the king of the people of Canaan.
+\v 24 From that time, the Israelite people continued to become stronger, and \add the army of\add* King Jabin continued to become weaker. Finally the Israelites were able to completely subdue the people ruled by the king of Canaan.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 On that day God enabled the Israelites to defeat the army of Jabin, one of the kings of the Canaanites.
+\v 24 The Israelites became stronger and stronger, and they destroyed Jabin and his army.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 So on that day God defeated Jabin the king of Canaan before the people of Israel.
+\v 24 The might of the people of Israel grew stronger and stronger against Jabin the king of Canaan, until they destroyed him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:god]]
+  * [[:vi:obe:other:king]]
+  * [[:vi:obe:other:Canaan]]
+  * [[:vi:obe:other:israel]]
+  * [[:vi:obe:other:mighty]]
+
+===== Translation Notes: =====
+
+  * **Jabin**  - See how you translated this in [[:vi:bible:notes:jdg:04:01|4:2]].
+  * **before the people of Israel** - Before means in front, so the people could see it happen and understand it. AT: "in the sight of Israel, who then  understood that God had enabled their victory" (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **The might** - "the military power" (See: [[:vi:ta:vol2:translate:figs_metonymy]])
+  * **stronger and stronger** - The word "stronger" is repeated to show the people of Israel's growing strength. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:04|Judges Chapter 04 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:04:21|<<]] | [[:vi:bible:notes:jdg:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

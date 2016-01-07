@@ -1,0 +1,66 @@
+====== Psalms 045:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 The perfume of various spices is on your robes.
+\q2 People entertain you\f + \ft Or: make you happy \f* in ivory palaces
+\q2 by playing stringed instruments.
+\q1
+\v 9 Among the women who stay in the place where the women who sleep with you \f + \ft euphemism \f* stay are daughters of other kings.
+\q2 And at your right hand stands \add your bride\add*, the queen, wearing beautiful ornaments of gold that comes from Ophir.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 The perfume of various spices is on your robes.
+\q2 Musicians entertain you in ivory palaces
+\q2 by playing stringed instruments.
+\q1
+\v 9 Among your wives are daughters of other kings.
+\q2 At your right hand stands your bride, the queen, wearing beautiful ornaments of gold that comes from Ophir.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 All your garments smell of myrrh, aloes, and
+cassia;
+\q out of ivory palaces stringed instruments have made you glad.
+\q
+\v 9 Kings’ daughters are among your honorable women;
+\q at your right hand stands the queen clothed in gold of Ophir.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:myrrh|myrrh]]
+  * [[vi:obe:other:palace]]
+  * [[:vi:obe:other:honor|honor]]
+  * [[vi:obe:kt:righthand]]
+  * [[:vi:obe:other:queen|queen]]
+  * [[:vi:obe:kt:clothed|clothe, clothed]]
+  * [[:vi:obe:other:gold|gold]]
+
+===== Translation Notes: =====
+
+  * **myrrh, aloes, and cassia - **  These are substances collected from plants to make perfume. (See: [[:vi:ta:vol1:translate:translate_unknown]])
+  * **ivory palaces** - Ivory is a hard white substance that forms animal's tusks. This phrase describes a palace decorated with items made of ivory.
+  * **honorable women **- These women are wives of the king who receive his approval.
+  * **Ophir** - This is the name of a city. (See: [[:vi:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:045|Psalms Chapter 045 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:045:005|<<]] | [[:vi:bible:notes:psa:045:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

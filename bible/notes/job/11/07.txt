@@ -1,0 +1,85 @@
+====== Job 11:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add Tell me\add*, will you ever be able to find out the things about God that are very difficult to understand?
+\q2 Will you be able to find out everything that there is to know about Almighty God?
+\q1
+\v 8 \add What there is to know about God\add* is greater than \add the distance from earth to\add* heaven;
+\q2 so there is no way \f + \ft rhetorical question \f* that you can \add understand it all\add*.
+\q1 It is greater than \add the distance from here to\add* the place of the dead;
+\q2 so it is impossible for you \f + \ft rhetorical question \f* to know it all.
+\q1
+\v 9 What there is to know about God is wider than the earth
+\q2 and wider than the ocean.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Tell me, will you ever be able to find out the things about God that are very difficult to understand?
+\q2 Will you be able to find out everything that there is to know about Almighty God?
+\q1
+\v 8 What there is to know about God is greater than the distance from earth to heaven;
+\q2 so there is no way that you can understand it all.
+\q1 It is greater than the distance from here to the place of the dead;
+\q2 so it is impossible for you to know it all.
+\q1
+\v 9 What there is to know about God is wider than the earth
+\q2 and wider than the ocean.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Can you understand God by searching for him?
+\q Can you comprehend the Almighty perfectly?
+\q
+\v 8 The matter is as high as heaven; what can you do?
+\q [It is deeper] than Sheol; what can you know?
+\q
+\v 9 Its measure is longer than the earth,
+\q   and wider than the sea.
+\q
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:god]]
+  * [[:vi:obe:kt:almighty]]
+  * [[:vi:obe:kt:heaven]]
+  * [[:vi:obe:other:hades]]
+  * [[vi:obe:other:know]]
+  * [[vi:obe:other:earth]]
+ 
+=====   =====
+
+===== Translation Notes: =====
+
+  * **Can you understand God by searching for him** and **Can you comprehend the Almighty perfectly** - These two parallel questions are asking the same thing. The writer uses the form of a question to add emphasis. AT: "You cannot understand God by searching for him!" and AT: "You will never have a complete understanding of the Almighty!" (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **The matter** - AT: "To know God fully"
+  * **high as heaven ... deeper than Sheol ... longer than the earth ... wider than the sea** - These parallel clauses compare the greatness of God with concepts or ideas that are already familiar to the reader. (See: [[:vi:ta:vol2:translate:figs_parallelism]] and [[:vi:ta:vol1:translate:figs_simile]])
+  * **What can you do** - AT: "You cannot understand it fully." (See: [[:vi:ta:vol1:translate:figs_rquestion]])
+  * **What can you know**  - AT: "You cannot know all there is to know." (See: [[:vi:ta:vol1:translate:figs_rquestion]])  
+  * **its measure** - AT: "What there is to know about God" 
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:11|Job Chapter 11 Comprehension Questions]]**
+**[[:vi:bible:notes:job:11:04|<<]] | [[:vi:bible:notes:job:11:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

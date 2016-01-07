@@ -1,0 +1,62 @@
+====== Leviticus 19:5-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 When you bring an offering to maintain fellowship with me, offer it in a way that will cause me to accept it.
+\v 6 The meat should be eaten on the day that you sacrifice it, but you are permitted to eat some of it on the next day. Anything that remains until the third\f + \ft Or: next \f* day must be completely burned.
+\v 7 For any of it to be eaten on the third day is very displeasing to me, and I will not accept that offering.
+\v 8 I will punish anyone who eats it \add after the second day\add*, because he will have not respected what I say is holy. And that person must no longer be allowed to associate with my people.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Yahweh also says this: 'When you bring an offering to promise friendship with me, offer it in a way that I will accept.
+\v 6 The meat should be eaten on the day that you sacrifice it, but you may eat some of it on the next day. However, you must burn anything that remains until the third day.
+\v 7 For any of it to be eaten on the third day is very displeasing to me, and I will not accept that offering.
+\v 8 I will punish anyone who eats it after the second day, because he will have not respected what I say is holy. And that person must no longer be allowed to associate with my people.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 When you offer a sacrifice of fellowship offerings to Yahweh, you must offer it that you may be accepted.
+\v 6 It must be eaten the same day you offer it, or on the next day. If  anything remains until the third day, it must be burned.
+\v 7 If it is eaten at all on the third day, it is defiled. It must not be accepted, 
+\v 8 but everyone who eats it must carry his own guilt because he has desecrated what is holy to Yahweh. That person must be cut off from his people.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:sacrifice|sacrifice, offering]]
+  * [[vi:obe:other:fellowshipoffering]]
+  * [[:vi:obe:other:defile|defile, be defiled, desecrate]]
+  * [[:vi:obe:kt:guilt|guilt, guilty]]
+  * [[:vi:obe:kt:holy|holy, holiness]]
+  * [[:vi:obe:kt:cutoff|cut off]]
+
+===== Translation Notes: =====
+Yahweh continues telling Moses what the people must do.
+  * **When you offer a sacrifice of fellowship offerings to Yahweh** - "When you bring an offering of peace to Yahweh"
+  * **you must offer it** - AT: "you must offer it properly" or "you must offer in the way that Yahweh tells you" (See: [[:vi:ta:vol1:translate:figs_explicit]])
+  * **that you may be accepted** - AT: "so that Yahweh will accept you" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **It must be eaten** - AT: "You must eat the meat of the animal you sacrificed"
+  * **it must be burned** - AT: "you must burn it"
+  * **If it is eaten at all** - AT: "If you eat any of it all"
+  * **It must not be accepted** - AT: "You may not accept it for eating"
+  * **must carry his own guilt** - "is responsible for the wrong he has done" or "Yahweh will punish him" (See: [[vi:ta:vol1:translate:figs_idiom]])
+  * **That person must be cut off from his people** - AT: "You must remove him from the people"
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:lev:19|Leviticus Chapter 19 Comprehension Questions]]**
+**[[:vi:bible:notes:lev:19:01|<<]] | [[:vi:bible:notes:lev:19:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

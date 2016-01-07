@@ -1,0 +1,64 @@
+====== Job 18:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 \add Because those who died had no descendants\add*,
+\q2 they were like trees whose roots have dried up and whose branches have all withered \f + \ft metaphor \f*.
+\q1
+\v 17 No one on the earth remembers them anymore;
+\q2 no \add one on any\add* street \add even remembers\add* their names \f + \ft metonymy \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Because they will die and leave no descendants,
+\q2 they will be like trees whose roots have dried up and whose branches have all withered.
+\q1
+\v 17 No one on the earth will remember them anymore;
+\q2 no one on any street will even remember their names.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 His roots will be dried up beneath;
+\q above will his branch be cut off.
+\q
+\v 17 His memory will perish from the earth;
+\q he will have no name in the street.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:kt:perish]]
+  * [[:vi:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+  * **they will be  like trees - This is a comparison between people like Job and trees in the view of his friends.(See: Simile)**
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:job:18|Job Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:job:18:14|<<]] | [[:vi:bible:notes:job:18:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

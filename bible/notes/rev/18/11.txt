@@ -1,0 +1,56 @@
+====== Revelation 18:11-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 The merchants of the earth will weep and will mourn \f + \ft doublet \f* \add for those cities\add*, because no one will ever again buy the things that they have  \add to sell to the people in those cities\add*.
+\v 12-13  \add They sell ornaments made\add* of gold, silver, precious stones, and pearls. They sell  \add expensive cloth made of\add* fine linen and silk, \add expensive cloth that is dyed\add* purple and crimson. They sell all kinds of  \add rare\add* wood, all kinds of items  \add made of\add* ivory, costly wood, bronze, iron, and marble. They sell cinnamon, spice, perfume, frankincense, wine, olive oil, fine flour, and grain. They sell cattle, sheep, horses, and chariots. They even sell human beings \f + \ft synecdoche, doublet \f* to become slaves.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 The merchants of the earth will weep and will mourn for her because no one in her will ever again buy the things that they have to sell.
+\v 12-13  They sell ornaments made of gold, silver, precious stones, and pearls. They sell expensive cloth made of fine linen and silk, expensive cloth that is dyed purple and crimson. They sell all kinds of rare wood, all kinds of items made of ivory, costly wood, bronze, iron, and marble. They sell cinnamon, spice, perfume, frankincense, wine, olive oil, fine flour, and grain. They sell cattle, sheep, horses, and chariots. They even sell human beings as slaves.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 The merchants of the earth weep and mourn for her, since no one buys her merchandise anymore— 
+\v 12 merchandise of gold, silver, precious stone, pearls, fine linen, purple, silk, scarlet, all kinds of scented wood, every vessel of ivory, every vessel made of most precious wood, bronze, iron, marble,
+\v 13 cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves and human souls.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:other:gold]]
+  * [[vi:obe:other:silver]]
+  * [[vi:obe:other:bronze]]
+  * [[:vi:obe:other:incense]]
+  * [[vi:obe:other:myrrh]]
+  * [[vi:obe:other:frankincense]]
+  * [[vi:obe:other:wine]]
+  * [[:vi:obe:other:oil]]
+  * [[vi:obe:other:wheat]]
+  * [[:vi:obe:other:cow]]
+  * [[:vi:obe:other:sheep]]
+  * [[:vi:obe:other:horse]]
+  * [[:vi:obe:other:chariot]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:soul]]
+
+===== Translation Notes: =====
+
+  * **mourn for her** - "mourn for the people of Babylon"
+  * **marble** - a precious stone used for building
+  * **spice** - a substance used to add flavor to food
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:rev:18|Revelation Chapter 18 Comprehension Questions]]**
+**[[:vi:bible:notes:rev:18:09|<<]] | [[:vi:bible:notes:rev:18:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

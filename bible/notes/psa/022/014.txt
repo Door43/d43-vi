@@ -1,0 +1,73 @@
+====== Psalms 022:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 I am completely exhausted \f + \ft metaphor \f*,
+\q2 and all my bones are out of their joints\f + \ft Or: places \f*.
+\q1 I \add no longer expect that God will save me\add*;
+\q2 \add that expectation is gone completely\add*, like wax that has melted away.
+\q1
+\v 15 My strength is \add all dried up\add* \f + \ft metaphor \f*
+\q2 like a broken piece of a clay jar that has dried \add in the sun\add*.
+\q2 \add I am so thirsty that\add* my tongue sticks to the roof of my mouth.
+\q2 O God, \add I think that you are about to let\add* my body die and become dust!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 I am completely exhausted,
+\q2 and all my bones are out of their joints.
+\q1 I no longer expect that God will save me;
+\q2 I am completely discouraged.
+\q1
+\v 15 My strength is all dried up 
+\q2 like a broken piece of a clay jar that has dried in the sun.
+\q2 I am so thirsty that my tongue sticks to the roof of my mouth.
+\q2 God, I think that you are about to let my body die and become dust!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 I am being poured out like water,
+\q and all my bones are dislocated.
+\q My heart is like wax;
+\q it melts away within my inner parts.
+\q
+\v 15 My strength has dried up like a piece of pottery;
+\q my tongue sticks to the roof of my mouth.
+\q You have laid me in the dust of death.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart|heart]]
+  * [[:vi:obe:other:strength]]
+  * [[:vi:obe:other:tongue|tongue]]
+  * [[:vi:obe:kt:death|death, die, dead]]
+===== Translation Notes: =====
+
+  * **I am being poured out like water** - "Someone is pouring me out like water." The writer is comparing himself to water that is wasted on the ground. (See: [[:vi:ta:vol1:translate:figs_simile]] and [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **all my bones are dislocated** - "all my bones are out of place." This describes the emotional pain the writer experiences as if it were physical pain. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **My heart is like wax** - This means his emotions and his willpower are extremely weak. (See: [[:vi:ta:vol2:translate:figs_metonymy]] and [[:vi:ta:vol1:translate:figs_simile]])
+  * **wax** - Wax is a soft substance that melts at a relatively low temperature, for example when you rub it between your hands.
+  * **strength has dried up like a piece of pottery** - This describes how little strength he has left. (See: [[:vi:ta:vol1:translate:figs_simile]])
+  * **piece of pottery** - an object made of baked clay that can be used in the house
+  * **my tongue sticks to the roof of my mouth** - He describes the dryness of his strength as if it were a physical dryness. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+  * **You have laid me in the dust of death** - AT: “You have brought me very close to dying” or "You are about to let me die and become dust"  (See [[:vi:ta:vol2:translate:figs_hyperbole]])
+  * **You have laid me** - The "you" is singular and refers to God.
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:022:011|<<]] | [[:vi:bible:notes:psa:022:016|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

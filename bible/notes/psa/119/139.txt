@@ -1,0 +1,58 @@
+====== Psalms 119:139-140 ======
+
+===== TFT: =====
+
+<usfm>
+\v 139 I am furious\f + \ft Or: very angry \f*
+\q2 because my enemies disregard your words\f + \ft Or: what you have told us to do \f*.
+\q1
+\v 140 Your promises are\f + \ft Or: All the things that you have said that you will do are \f* dependable
+\q2 and I love them.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 139 I am furious
+\q2 because my enemies disregard your words.
+\q1
+\v 140 I have found that your promises are dependable,
+\q2 and I love them.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 139 Anger has destroyed me
+\q because my adversaries forget your words.
+\q
+\v 140 Your word has been tested very much,
+\q and your servant loves it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:angry|angry, anger]]
+  * [[:vi:obe:other:adversary|adversary, enemy]]
+  * [[:vi:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+  * [[:vi:obe:kt:test|test]]
+  * [[:vi:obe:other:servant|servant, slave, slavery]]
+  * [[:vi:obe:kt:love|love]]
+
+===== Translation Notes: =====
+
+  * **tested very much **- AT: "proven true"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:119:137|<<]] | [[:vi:bible:notes:psa:119:141|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

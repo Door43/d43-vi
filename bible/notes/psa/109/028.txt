@@ -1,0 +1,69 @@
+====== Psalms 109:28-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 They may curse me, but I ask that you bless me.
+\q2 Cause those who persecute\f + \ft Or: cause problems for \f* me \add to be defeated and as a result\add* to be disgraced, Or: ashamed,
+\q1 and cause me to be glad\f + \ft Or: happy \f*!
+\q1
+\v 29 Cause those who accuse me to be completely disgraced;
+\q2 cause other people to see that they are disgraced, as easily as they see the clothes that they wear \f + \ft simile \f*!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 They may curse me, but I ask that you bless me.
+\q2 Cause those who persecute me to be defeated and disgraced, 
+\q1 but cause me to be glad!
+\q1
+\v 29 Cause those who accuse me to be completely disgraced;
+\q2 cause other people to see that they are disgraced as easily as they see the clothes that they wear!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 28 Though they curse me, please bless me;
+\q when they attack, may they be put to shame,
+\q but may your servant rejoice.
+\q
+\v 29 May my adversaries be clothed with shame;
+\q may they wear their shame like a robe.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[vi:obe:kt:curse]]
+  * [[vi:obe:kt:bless]]
+  * [[:vi:obe:other:shame]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:other:rejoice]]
+  * [[:vi:obe:other:adversary]]
+  * [[vi:obe:kt:clothed]]
+  * [[:vi:obe:other:robe]]
+
+===== Translation Notes: =====
+
+  * **Though they curse me** - The word "they" refers to the people who accuse David and say bad things about him.
+  * **may they be put to shame** - AT: "may they be ashamed" or "let them be ashamed" (See: [[:vi:ta:vol2:translate:figs_activepassive]])
+  * **but may your servant rejoice** - David uses the phrase "your servant" to refer to himself. AT: "but may I, your servant, rejoice" or "I am your servant, let me rejoice"
+  * **be clothed with shame** - AT: "will be very ashamed" (See: [[:vi:ta:vol2:translate:figs_activepassive]], [[:vi:ta:vol1:translate:figs_metaphor]], and 5. Clothing is a Moral Quality in [[vi:ta:workbench:translate:biblicalimagery]])
+  * **May my adversaries be clothed ... and may they wear ...** - These two phrase have them same meaning and are used together for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]]) 
+  * **and may they wear their shame like a robe** - AT: "and their shame will cover them just like their robe is wrapped around them." (See: [[:vi:ta:vol1:translate:figs_simile]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:109|Psalms Chapter 109 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:109:026|<<]] | [[:vi:bible:notes:psa:109:030|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

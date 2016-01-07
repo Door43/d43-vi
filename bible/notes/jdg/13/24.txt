@@ -1,0 +1,43 @@
+====== Judges 13:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 When their son was born, they named him Samson. Yahweh blessed him as he grew up.
+\v 25 And while he was in Mahaneh-Dan, which is between Zorah and Eshtaol \add towns\add*, Yahweh's Spirit began to control him.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 When their son was born, they named him Samson. Yahweh blessed him as he grew up.
+\v 25 While he was in Mahanehdan, which is between the towns of Zorah and Eshtaol, Yahweh's Spirit began to control him.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 Later the woman gave birth to a son, and called his name Samson. The child grew up and Yahweh blessed him.
+\v 25 Yahweh's Spirit began to stir him in Mahaneh Dan, between Zorah and Eshtaol.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:samson]]
+  * [[:vi:obe:kt:Yahweh]]
+  * [[:vi:obe:kt:bless]]
+  * [[:vi:obe:kt:holyspirit]]
+===== Translation Notes: =====
+
+  * **the woman gave birth** - AT: "Manoah's wife gave birth"
+  * **grew up** - This phrase refers to a child becoming an adult.  AT: "became an adult" or "matured"
+  * **Mahaneh Dan...Zorah and Eshtaol**  - Mahaneh Dan was a temporary camp that the tribe of Dan lived in while they looked for a permanent home. Zorah and Eshtaol are the names of towns.  (See: [[:vi:ta:vol1:translate:translate_names]])
+  * **Yahweh's Spirit began to stir him** - The word "stir" refers to Yahweh's influence on Samson like a spoon that stirs food in a pot.  Yahweh was beginning to influence the way Samson thought. (See: [[:vi:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:jdg:13|Judges Chapter 13 Comprehension Questions]]**
+**[[:vi:bible:notes:jdg:13:23|<<]] | [[:vi:bible:notes:jdg:14:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr }}
+
+~~NOCACHE~~

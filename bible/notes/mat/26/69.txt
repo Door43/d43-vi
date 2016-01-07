@@ -1,0 +1,45 @@
+====== Matthew 26:69-70 ======
+
+===== TFT: =====
+
+<usfm>
+\v 69 Peter was sitting outside in the courtyard. A servant girl came up to him \add and looked at him\add*. She said, "You also were with Jesus, \add that man\add* from Galilee \add district\add*!"
+\v 70 But while everyone there was listening, he denied it. He said, "I do not know what you are talking about!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 69 Peter was sitting outside in the courtyard. A servant girl came up to him and looked at him. She said, "You also were with Jesus, that man from the district of Galilee!"
+\v 70 But while everyone there was listening, he denied it. He said, "I do not know what you are talking about!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 69 Now Peter was sitting outside in the courtyard, and a servant girl came to him and said, "You were also with Jesus of Galilee."
+\v 70 But he denied it in front of them all, saying, "I do not know what you are talking about."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:peter]]
+  * [[:vi:obe:other:courtyard]]
+  * [[:vi:obe:other:servant]]
+  * [[:vi:obe:kt:jesus]]
+  * [[:vi:obe:other:galilee]]
+
+===== Translation Notes: =====
+
+This begins the account of how Peter denies he knows Jesus.
+
+  * **I do not know what you are talking about**  - Peter was able to understand what the servant girl was saying. He used these words to deny that he had been with Jesus.
+===== Links: =====
+
+  * **[[vi:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:vi:bible:notes:mat:26:67|<<]] | [[:vi:bible:notes:mat:26:71|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

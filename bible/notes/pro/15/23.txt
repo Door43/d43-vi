@@ -1,0 +1,69 @@
+====== Proverbs 15:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 People rejoice when they are able to reply well to what others have asked them;
+\q2 truly, it is very delightful to be able to say the right thing at the right time.
+\b
+\q1
+\v 24 Wise people walk on a road that leads up to a long life;
+\q2 they do not walk on a road that leads down to the place where dead people are.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 People rejoice when they give a good answer,
+\q2 and how nice is the right word spoken at the right moment.
+\b
+\q1
+\v 24 The path leading to life goes up, away from death;
+\q2 he follows that way and turns from the place of the dead.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 A person finds joy when he gives a pertinent reply;
+\q how good is a timely word!
+\q
+\v 24 The path of life leads upward for the prudent, 
+\q that he may turn away from Sheol beneath.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:joy]]
+  * [[:En:obe:kt:good]]
+  * [[:En:obe:kt:word]]
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:turn]]
+  * [[:vi:obe:other:hades]]
+
+===== Translation Notes: =====
+
+    * **a pertinent reply** - "a good answer" (UDB) or "an answer"
+    * **how good is a timely word** - This is an exclamation that functions to emphasize that a timely word is very good. AT: "a word at the right time is very good"
+    * **leads upward** - This is a positive thing. AT: "makes life go better"
+    * **prudent** - "wise"
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:pro:15|Proverbs Chapter 15 Comprehension Questions]]**
+**[[:vi:bible:notes:pro:15:21|<<]] | [[:vi:bible:notes:pro:15:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

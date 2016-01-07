@@ -2,20 +2,17 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Amos was an Israelite prophet who lived during the time of King Uzziah of Judah. He also lived during the time of the prophet Isaiah.
 
-(Translation suggestions: [[en:ta:translate:translatenames]])
+  * Before being called as a prophet, Amos was originally a shepherd and fig farmer living in the kingdom of Judah.
+  * Amos prophesied against the prosperous northern kingdom of Israel regarding their unjust treatment of people.
 
-(See also: other)
+(Translation suggestions: [[:vi:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Bible References: =====
 
-{{topic>amos&nocomments}}
-
-~~DISCUSSION~~
+{{topic>amos&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create amo01 ktlink}}
+{{tag>publish}}

@@ -1,0 +1,58 @@
+====== Psalms 079:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 In return for their having often insulted you,
+\q1 punish them seven times as much!
+\q1
+\v 13 After you do that, we, whom you \add take care of like a shepherd takes care of\add* his sheep, will continue praising you;
+\q2 we will continue to praise you forever \f + \ft hyperbole \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 In return for their having often insulted you,
+\q1 punish them seven times as much!
+\q1
+\v 13 After you do that, we, whom you take care of as a shepherd takes care of his sheep, will continue praising you;
+\q2 we will continue to praise you from generation to generation forever.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Pay back into the laps of our neighboring countries seven times as much 
+\q as the insults with which they have insulted you, Lord.
+\q
+\v 13 So we your people and sheep of your pasture
+\q will give you thanks forever.
+\q We will tell your praises to all generations.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:neighbor|neighbor]]
+  * [[:vi:obe:kt:lordyahweh|Lord Yahweh]]
+  * [[vi:obe:kt:peopleofgod]]
+  * [[:vi:obe:other:sheep|sheep, ram, ewe]]
+  * [[:vi:obe:kt:forever|forever]]
+  * [[:vi:obe:other:praise|praise]]
+  * [[:vi:obe:other:generation|generation]]
+
+===== Translation Notes: =====
+
+  * **Pay back** - AT: "Return" or "Retaliate"
+  * **into the laps** - AT: "onto their knees and thighs as they are sitting." This means directly and personally. (See: [[:vi:ta:vol1:translate:figs_idiom]])
+  * **we your people and sheep of your pasture will give you thanks forever. We will tell your praises to all generations**  - These two phrases share similar meanings and are combined for emphasis. (See: [[:vi:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:079|Psalms Chapter 079 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:079:010|<<]] | [[:vi:bible:notes:psa:080:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

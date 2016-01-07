@@ -1,0 +1,75 @@
+====== Hosea 05:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Blow the rams' horns in Gibeah \add town\add*
+\q2 \add and blow\add* the trumpets in Ramah \add town\add*!
+\q1 Warn the people at Beth-Aven \add town\add*;
+\q2 you warriors of the tribe of Benjamin, lead the troops \add into the battle\add*.
+\q1
+\v 9 Israel will be ruined on the day that I destroy them.
+\q2 What I am telling to the tribes of Israel will certainly \add happen\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Yahweh says, "Blow the ram horns at the city of Gibeah!
+\q2 Blow the trumpets at the city of Ramah!
+\q1 Shout a battle cry at the city of Beth Aven!
+\q2 Lead us into battle, you people of the tribe of  Benjamin!
+\q1
+\v 9 I will punish the people of Ephraim and turn their city into a pile of rubble.
+\q2 This is my promise to the tribes of Israel—I pledge to you all that I will do this.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 8 Blow the horn in Gibeah,
+\q and the trumpet in Ramah.
+\q Sound a battle cry at Beth Aven:
+\q 'We will follow you, Benjamin!'
+\q
+\v 9 Ephraim will become a desolation on the day of punishment.
+\q Among the tribes of Israel I have declared what is certain to happen.
+</usfm>
+
+
+===== Important Terms: =====
+
+Yahweh is talking about Israel.
+
+  * [[:vi:obe:other:trumpet|trumpet, horn]]
+  * [[:vi:obe:other:ramah|Ramah]]
+  * [[:vi:obe:other:benjamin|Benjamin]]
+  * [[:vi:obe:other:ephraim|Ephraim]]
+  * [[:vi:obe:other:desolate|desolate, desolation]]
+  * [[:vi:obe:other:punish|punish, punishment]]
+  * [[:vi:obe:other:12tribesofisrael|twelve tribes of Israel]]
+  * [[:vi:obe:other:declare|declare, declaration]]
+
+===== Translation Notes: =====
+
+  * **Blow the horn in Gibeah, and the trumpet in Ramah. **- Gibeah and Ramah were two cities in Israel close to Israel's southern border. This command is given to both Gibeah and Ramah in order to emphasize that the enemy is approaching. (see: parallelism)
+  * **Sound a battle cry at Beth Aven: 'We will follow you, Benjamin!' **- Beth Aven was probably on the border between Israel (the northern kingdom) and the tribe of Benjamin (part of the southern kingdom). This could have been a warning to Benjamin or a request for help from Benjamin. (see: metonymy)
+  * **Among the tribes of Israel I have declared what is certain to happen.**  - AT:  "I will do to the tribes of Israel what I have declared." (see: Active/Passive)
+
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:hos:05|Hosea Chapter 05 Comprehension Questions]]**
+**[[:vi:bible:notes:hos:05:05|<<]] | [[:vi:bible:notes:hos:05:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

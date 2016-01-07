@@ -1,0 +1,54 @@
+====== Deuteronomy 17:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 When he becomes your king, he must \add appoint someone to\add* copy these laws. He must copy them from the scroll that is kept by the priests descended from Levi.
+\v 19 He must keep this new scroll near him and read from it every day of his life, in order that he may learn to have an awesome respect for Yahweh, and to faithfully obey \f + \ft doublet \f* all the rules and regulations \add that are written\add* in these laws.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 When he becomes your king, he must appoint someone to copy these laws. He must copy them from the scroll that is kept by the priests descended from Levi.
+\v 19 He must keep this new scroll near him and read from it every day of his life, in order that he may learn to have an awesome respect for Yahweh, and to faithfully obey  all the rules and regulations that are written in these laws.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 When he sits on the throne of his kingdom, he must write for himself in a scroll a copy of this law, from the law that is before the priests, who are Levites.
+\v 19 The scroll must be with him, and he must read in it all the days of his life, so that he may learn to honor Yahweh his God, so as to keep all the words of this law and these statutes, to observe them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:throne|throne]]
+  * [[:vi:obe:other:kingdom|kingdom]]
+  * [[:vi:obe:other:scroll|scroll]]
+  * [[:vi:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:vi:obe:kt:priest|priest, priesthood]]
+  * [[:vi:obe:other:levite|Levite, Levi]]
+  * [[:vi:obe:kt:life|life, live, living, alive]]
+  * [[:vi:obe:other:honor|honor, to honor]]
+  * [[vi:obe:kt:Yahweh]]
+  * [[vi:obe:kt:God]]
+  * [[:vi:obe:kt:word|word]]
+  * [[:vi:obe:other:statute|statute, statutes]]
+
+===== Translation Notes: =====
+
+  * **so as to keep all the words of this law and these statutes, to observe them** - The words "to keep" and "to observe" mean the same thing. They emphasize that the king must obey all of God's law. (See: [[:vi:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+**[[:vi:bible:notes:deu:17:16|<<]] | [[:vi:bible:notes:deu:17:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

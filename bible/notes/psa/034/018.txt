@@ -1,0 +1,70 @@
+====== Psalms 034:18-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Yahweh is always ready to help those who are discouraged;
+\q2 he rescues those who have nothing good to hope for.
+\b
+\q1
+\v 19 Righteous people may have many troubles,
+\q2 but Yahweh rescues them from all those troubles.
+\q1
+\v 20 Yahweh protects them from being harmed;
+\q2 \add when their enemies attack them\add*,
+\q3 they will not break any bones of those righteous people.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Yahweh is always ready to help those who are discouraged;
+\q2 he rescues those who have no hope for anything good.
+\b
+\q1
+\v 19 Righteous people may have many troubles,
+\q2 but Yahweh rescues them from all those troubles.
+\q1
+\v 20 Yahweh protects them from being harmed;
+\q2 when their enemies attack them,
+\q3 they will not break any bones of those righteous people.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 Yahweh is near the  brokenhearted,
+\q and he saves those with a crushed spirit.
+\q
+\v 19 Many are the troubles of the righteous,
+\q but Yahweh gives him victory over them all.
+\q
+\v 20 He protects all his bones;
+\q not one of them will be broken.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:vi:obe:other:heart]]
+  * [[:vi:obe:kt:save|save]]
+  * [[:vi:obe:kt:spirit|spirit, spiritual]]
+===== Translation Notes: =====
+
+  * **Yahweh is near the brokenhearted** - AT: "Yahweh comforts those who are very sad" (See: [[:vi:ta:vol1:translate:figs_idiom]] and [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **those with a crushed spirit** - AT: "those who feel like they are completely crushed" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+  * **He protects all his bones; not one of them will be broken** - AT: "He provides complete protection for him; he will not be harmed in any way" (See: [[:vi:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:vi:bible:questions:comprehension:psa:034|Psalms Chapter 034 Comprehension Questions]]**
+**[[:vi:bible:notes:psa:034:015|<<]] | [[:vi:bible:notes:psa:034:021|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~
