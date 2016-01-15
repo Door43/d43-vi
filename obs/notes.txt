@@ -1,7 +1,7 @@
 ====== Translation & Checking Notes ======
 
 //In order to help translators of [[:vi:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
-  - [[:vi:obs:notes:01|The Creation]]
+  - [[:vi:obs:notes:01|Sự Sáng Tạo]]
   - [[:vi:obs:notes:02|Sin Enters the World]]
   - [[:vi:obs:notes:03|The Flood]]
   - [[:vi:obs:notes:04|God's Covenant with Abraham]]
