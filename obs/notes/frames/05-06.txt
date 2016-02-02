@@ -6,13 +6,13 @@ Khi Y-sác còn là một đứa trẻ, Chúa đã thử thách đức tin của
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham's]]**
-  * **[[:vi:key-terms:faith|đức tin]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:sacrifice|dâng]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:faith]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:other:obey]]**
 ===== Phụ chú: =====
 
   * **Đức Chúa Trời đã thử đức tin của Áp-ra-ham-**  Đức Chúa Trời muốn Áp-ra-ham bày tỏ rằng ông hoàn toàn đầu phục Đức Chúa Trời, rằng ông sẽ vâng phục mọi điều Đức Chúa Trời truyền bảo.
