@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:life|sự sống]]**
-  * **[[:vi:key-terms:good|điều thiện]]**
-  * **[[:vi:key-terms:evil|điều ác]]**
-  * **[[:vi:key-terms:adam|A-đam]]**
-  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
