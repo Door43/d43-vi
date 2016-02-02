@@ -6,9 +6,9 @@ Chúa phán cùng Rê-bê-ca: "Hai quốc gia sẽ ra từ hai đứa con trai �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:rebekah|Rê-bê-ca]]**
-  * **[[:vi:key-terms:son|con trai]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Rebekah]]**
+  * **[[:vi:obe:kt:son]]**
 
 ===== Phụ chú: =====
 
