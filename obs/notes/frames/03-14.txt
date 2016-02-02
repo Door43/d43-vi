@@ -6,11 +6,11 @@ Sau khi xuống tàu, Nô-ê liền lập một bàn thờ và dâng một số 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:noah|Nô-ê]]**
-  * **[[:vi:key-terms:altar|bàn thờ]]**
-  * **[[:vi:key-terms:sacrifice|dâng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
+  * **[[:vi:obe:other:Noah]]**
+  * **[[:vi:obe:other:altar]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:bless]]**
 
 ===== Phụ chú: =====
 
