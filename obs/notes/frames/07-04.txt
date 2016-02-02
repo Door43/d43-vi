@@ -6,10 +6,10 @@ Gia-cốp đến gần Y-sác và nói: "Con là Ê-sau đây, con đến để 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:esau|Ê-sau]]**
-  * **[[:vi:key-terms:bless|chúc phước]]**
+  * **[[:vi:obe:other:Jacob]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:Esau]]**
+  * **[[:vi:obe:kt:bless]]**
 
 ===== Phụ chú: =====
 
