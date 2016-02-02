@@ -6,10 +6,10 @@ Người nữ trả lời rằng: "Chúa nói chúng tôi có thể ăn bất c�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:good|điều thiện]]**
-  * **[[:vi:key-terms:evil|điều ác]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
