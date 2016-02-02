@@ -6,8 +6,8 @@ Vào ngày thứ sáu của công cuộc sáng tạo, Đức Chúa Trời phán:
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:good|tốt lành]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
 
 ===== Phụ chú: =====
 
