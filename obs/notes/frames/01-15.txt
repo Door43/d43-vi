@@ -6,9 +6,9 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:good|tốt lành]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:kt:good]]**
 
 ===== Phụ chú: =====
 
