@@ -6,11 +6,11 @@ Khi Áp-ram đến Ca-na-an, Chúa phán cùng ông rằng: "Hãy nhìn chung qu
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:inherit|của thừa kế]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:kt:inherit]]**
 
 ===== Phụ chú: =====
 
