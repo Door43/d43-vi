@@ -6,11 +6,11 @@ Khi Áp-ra-ham và Y-sác đi đến chỗ dâng của lễ. Y-sác hỏi: " Cha
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:sacrifice|của lễ thiêu]]**
-  * **[[:vi:key-terms:lamb|chiên con]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:lamb]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
