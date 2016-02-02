@@ -6,13 +6,13 @@ Sau đó, Chúa phán rằng: "Bây giờ loài người đã trở nên giống
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:good|điều thiện]]**
-  * **[[:vi:key-terms:evil|điều ác]]**
-  * **[[:vi:key-terms:life|sự sống]]**
-  * **[[:vi:key-terms:adam|A-đam]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:angel|các thiên sứ]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:kt:angel]]**
 
 ===== Phụ chú: =====
 
