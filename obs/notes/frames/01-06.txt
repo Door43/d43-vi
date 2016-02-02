@@ -6,8 +6,8 @@ Vào ngày thứ tư của công cuộc sáng tạo, Đức Chúa Trời phán v
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Ngài]]**
-  * **[[:vi:key-terms:good|tốt lành]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
 
 
 ===== Phụ chú: =====
