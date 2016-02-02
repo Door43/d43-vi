@@ -6,9 +6,9 @@ Vào ngày thứ năm, Đức Chúa Trời phán và tạo ra mọi loài bơi �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:good|tốt lành]]**
-  * **[[:vi:key-terms:bless|chúc phước]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:bless]]**
 
 ===== Phụ chú: =====
 
