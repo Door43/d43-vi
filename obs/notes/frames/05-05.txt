@@ -6,12 +6,12 @@ Ngày hôm đó, Áp-ra-ham làm lễ cắt bì cho tất cả người nam tron
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:circumcise|phép cắt bì]]**
-  * **[[:vi:key-terms:sarah|Sa-ra]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:circumcise]]**
+  * **[[:vi:obe:other:Sarah]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
