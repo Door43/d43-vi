@@ -6,12 +6,12 @@ Sau đó, Chúa thiết lập một giao ước với Áp-ram. Giao ước là m
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:descendant]]**
 
 ===== Phụ chú: =====
 
