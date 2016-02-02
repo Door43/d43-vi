@@ -6,12 +6,12 @@ Mười năm sau kể từ khi tới xứ Ca-na-an, Áp-ram và Sa-rai vẫn ch�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:sarah|Sa-ra]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:servant|con đòi]]**
-  * **[[:vi:key-terms:hagar|A-ga]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Sarah]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:Hagar]]**
 
 ===== Phụ chú: =====
 
