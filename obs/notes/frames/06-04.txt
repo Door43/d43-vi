@@ -6,13 +6,13 @@ Sau một thời gian dài, Áp-ra-ham qua đời, tất cả những lời hứ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:rebekah|Rê-bê-ca]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:other:Rebekah]]**
 
 ===== Phụ chú: =====
 
