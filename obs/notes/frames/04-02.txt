@@ -6,11 +6,11 @@ Họ rất kiêu ngạo và không quan tâm đến những gì Chúa đã phán
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:proud|kiêu ngạo]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:evil|điều gian ác]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:obe:other:proud]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
