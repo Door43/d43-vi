@@ -6,8 +6,8 @@ Chúa bảo Nô-ê đóng một chiếc tàu dài khoảng 140 mét, rộng 23 m
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:noah|Nô-ê]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Noah]]**
 
 ===== Phụ chú: =====
 
