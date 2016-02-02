@@ -6,10 +6,10 @@ Sau cuộc hành trình dài trở về quê hương, Chúa đưa dắt người
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ra-ham's]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:servant|đầy tớ]]**
-  * **[[:vi:key-terms:rebekah|Rê-bê-ca]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:Rebekah]]**
 ===== Phụ chú: =====
 
   * **Sau một chuyến đi dài-**  Có thể sẽ rõ ràng hơn nếu như thêm vào- “đi đến nơi họ hàng của Áp-ra-ham sinh sống”
