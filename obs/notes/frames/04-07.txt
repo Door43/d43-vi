@@ -6,11 +6,11 @@ Một ngày kia, Áp-ram gặp Mên-chi-xê-đéc là thầy tế lễ của Đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời Chí Cao]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:priest]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:kt:heaven]]**
 
 ===== Phụ chú: =====
 
