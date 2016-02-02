@@ -6,10 +6,10 @@ Hàng trăm năm sau, Chúa phán cùng một người nam tên là Áp-ram. Ch�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:curse|nguyền rủa]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:kt:curse]]**
 
 ===== Phụ chú: =====
 
