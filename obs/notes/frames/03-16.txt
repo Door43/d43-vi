@@ -6,8 +6,8 @@ Sau đó, Chúa làm cái cầu vồng đầu tiên để làm dấu hiệu cho 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
 
 ===== Phụ chú: =====
 
