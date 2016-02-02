@@ -6,12 +6,12 @@ Ngài phán với người nam: "Vì con đã nghe lời vợ và không vâng l
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:disobey|không vâng phục]]**
-  * **[[:vi:key-terms:curse|bị rủa sả]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:adam|A-đam]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:kt:curse]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:other:Adam]]**
 
 ==== Translation Notes: ====
 
