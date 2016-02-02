@@ -6,9 +6,9 @@ Sau đó, Đức Chúa Trời phán rằng: "Con người ở một mình thì k
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:good|tốt”]]**
-  * **[[:vi:key-terms:adam|cho A-đam]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:other:Adam]]**
 
 ===== Phụ chú: =====
 
