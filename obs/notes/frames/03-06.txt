@@ -6,9 +6,9 @@ Chúa sai mỗi cặp đực cái, trống mái trong mọi loài súc vật và
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:noah|Nô-ê]]**
-  * **[[:vi:key-terms:sacrifice|của dâng]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Noah]]**
+  * **[[:vi:obe:other:sacrifice]]**
 
 ===== Phụ chú: =====
 
