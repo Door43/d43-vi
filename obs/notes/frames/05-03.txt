@@ -6,12 +6,12 @@ Chúa phán: "Ta là Đức Chúa Trời Toàn Năng, Ta sẽ lập một giao �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:circumcise|phép cắt bì]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:circumcise]]**
 
 ===== Phụ chú: =====
 
