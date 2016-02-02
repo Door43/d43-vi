@@ -6,8 +6,8 @@ Sự sáng tạo được khởi đầu như thế này. Đức Chúa Trời sá
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:holy-spirit|Thần của Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
 
 
 ===== Phụ chú: =====
