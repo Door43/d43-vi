@@ -6,11 +6,11 @@ Con rắn trả lời người nữ rằng: "Điều đó không đúng đâu! N
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:true|đúng]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:good|điều thiện]]**
-  * **[[:vi:key-terms:evil|điều ác]]**
+  * **[[:vi:obe:kt:true]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:evil]]**
 
 ===== Phụ chú: =====
 
