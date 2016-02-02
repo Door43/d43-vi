@@ -6,11 +6,11 @@ Chúa phán rằng: "Ta hứa sẽ không bao giờ rủa sả mặt đất vì 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|hứa]]**
-  * **[[:vi:key-terms:curse|rủa sả]]**
-  * **[[:vi:key-terms:evil|những việc gian ác]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:curse]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
