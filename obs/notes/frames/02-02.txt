@@ -6,7 +6,7 @@ Nhưng trong khu vườn có một con rắn xảo quyệt. Nó hỏi người n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Ðức Chúa Trời]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
