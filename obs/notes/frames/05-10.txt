@@ -6,13 +6,13 @@ Sau đó, Chúa phán cùng Áp-ra-ham: "Vì ngươi sẵn lòng dâng tất c�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:other:obey]]**
 
 ===== Phụ chú: =====
 
