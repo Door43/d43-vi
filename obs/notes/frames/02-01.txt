@@ -6,9 +6,9 @@ A-đam và vợ mình sống hạnh phúc trong khu vườn xinh đẹp mà Chú
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:adam|A-đam]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
