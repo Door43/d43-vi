@@ -6,9 +6,9 @@ Vậy Đức Chúa Trời lấy bụi đất, nắn nên hình người nam và 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:life|sanh khí]]**
-  * **[[:vi:key-terms:adam|A-đam]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:other:Adam]]**
 
 ===== Phụ chú: =====
 
