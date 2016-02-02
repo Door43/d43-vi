@@ -6,11 +6,11 @@ Vậy Áp-ram cưới A-ga làm vợ, A-ga sinh cho ông một con trai và Áp-
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:hagar|A-ga]]**
-  * **[[:vi:key-terms:ishmael|Ích-ma-ên]]**
-  * **[[:vi:key-terms:sarah|Sa-ra]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Hagar]]**
+  * **[[:vi:obe:other:Ishmael]]**
+  * **[[:vi:obe:other:Sarah]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
