@@ -6,10 +6,10 @@ Khi hai đứa trẻ lớn lên, Gia-Cốp thường quanh quẩn ở nhà, còn
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
-  * **[[:vi:key-terms:esau|Ê-sau]]**
-  * **[[:vi:key-terms:rebekah|Rê-bê-ca]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
+  * **[[:vi:obe:other:Jacob]]**
+  * **[[:vi:obe:other:Esau]]**
+  * **[[:vi:obe:other:Rebekah]]**
+  * **[[:vi:obe:other:Isaac]]**
 
 ===== Phụ chú: =====
 
