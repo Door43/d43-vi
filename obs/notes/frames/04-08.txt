@@ -6,14 +6,13 @@ Nhiều năm trôi qua mà Áp-ram và Sa-rai vẫn chưa có con. Chúa lại p
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ram]]**
-  * **[[:vi:key-terms:sarah|Sa-rai]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|hứa]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:righteous|công bình]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Sarah]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:kt:righteous]]**
 
 ===== Phụ chú: =====
 
