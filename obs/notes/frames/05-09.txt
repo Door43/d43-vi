@@ -6,10 +6,10 @@ Rồi Áp-ra-ham nhìn thấy một con chiên đực bị kẹt trong bụi câ
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:other:Isaac]]**
 ===== Phụ chú: =====
 
   * **Con chiên đực-**  Chiên là một trong những loài vật mà con người có thể dâng làm của lễ thiêu cho Đức Chúa Trời.
