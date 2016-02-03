@@ -6,10 +6,10 @@ Khi Môi-se xuống núi và nhìn thấy thần tượng, ông rất giận d�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:ten-commandments|Mười Điều Răn]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:TenCommandments]]**
 
 ===== Phụ chú: =====
 
