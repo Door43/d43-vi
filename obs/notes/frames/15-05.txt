@@ -6,11 +6,11 @@ Và thế là tường thành sụp đổ! Dân Y-sơ-ra-ên bèn tiêu huỷ m�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jericho|Giê-ri-cô]]**
-  * **[[:vi:key-terms:israel|Dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:rahab|Ra-háp]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
+  * **[[:vi:obe:other:Jericho]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Rahab]]**
+  * **[[:vi:obe:other:Canaan]]**
 
 ===== Phụ chú: =====
 
