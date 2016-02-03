@@ -6,10 +6,10 @@ Sau trận chiến này, Đức Chúa Trời ban cho mỗi chi phái Y-sơ-ra-ê
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:peace|hòa bình]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:other:peace]]**
 
 ===== Phụ chú: =====
 
