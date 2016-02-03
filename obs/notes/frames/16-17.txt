@@ -6,13 +6,13 @@ Việc này cứ lặp đi lặp lại: Dân Y-sơ-ra-ên phạm tội, Đức C
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:deliverer|giải cứu]]**
-  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:deliverer]]**
+  * **[[:vi:obe:kt:save]]**
 
 ===== Phụ chú: =====
 
