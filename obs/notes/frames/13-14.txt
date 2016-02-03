@@ -6,9 +6,9 @@ Sau đó, Môi-se nghiền thần tượng ra tro, hoà lẫn với nước rồ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
