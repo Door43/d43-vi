@@ -6,10 +6,10 @@ Ngay lập tức, Ca-lép và Giô-suê, là hai thám tử còn lại nói: "Qu
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:caleb|Ca-lép]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Caleb]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
