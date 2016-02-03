@@ -6,12 +6,12 @@ Chúa làm cho cả xứ Ai-cập đầy ếch nhái, Pha-ra-ôn van xin Môi-se
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:beg|van xin]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:beg]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Israel]]**
 ===== Phụ chú: =====
 
   * **Đức Chúa Trời làm cho cả xứ Ai-cập đầy ếch nhái**- Điều này có thể được dịch thành “Đức Chúa Trời đã khiến rất nhiều ếch nhái xuất hiện khắp Ai-cập”.
