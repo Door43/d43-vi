@@ -6,10 +6,10 @@ Một ngày kia khi Môi-se đang chăm sóc bầy chiên, ông nhìn thấy m�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:sheep|bầy chiên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:holy|thánh]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:sheep]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:holy]]**
 
 ===== Phụ chú: =====
 
