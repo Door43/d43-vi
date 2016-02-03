@@ -6,10 +6,10 @@ Giô-suê liền tập hợp binh sĩ Y-sơ-ra-ên, và họ đi suốt đêm đ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:gibeon|dân Ga-ba-ôn]]**
-  * **[[:vi:key-terms:amorite|dân A-mô-rít]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Gibeon]]**
+  * **[[:vi:obe:other:Amorite]]**
 
 ===== Phụ chú: =====
 
