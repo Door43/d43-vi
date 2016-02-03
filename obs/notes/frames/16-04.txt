@@ -6,10 +6,10 @@ Trong bảy năm quân Ma-đi-an đã cướp phá tất cả mùa màng của n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:midian|Người Mi-đi-an]]**
-  * **[[:vi:key-terms:israel|của dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:obe:other:Midian]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
 
 ===== Phụ chú: =====
 
