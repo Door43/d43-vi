@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:peace|hòa ước]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:gibeon|dân Ga-ba-ôn]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Gideon]]**
+  * **[[:vi:obe:other:Joshua]]**
 
 ===== Phụ chú: =====
 
