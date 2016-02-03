@@ -6,11 +6,11 @@ Khi người Y-sơ-ra-ên tiến vào ranh giới Ca-na-an, Môi-se chọn mư�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:canaan|người Ca-na-an]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Canaan]]**
 
 ===== Phụ chú: =====
 
