@@ -6,11 +6,11 @@ Sau-lơ là vị vua đầu tiên của Y-sơ-ra-ên. Ông cao lớn và đẹp 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:saul|Sau-lơ]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Saul]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
