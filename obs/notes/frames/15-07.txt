@@ -6,16 +6,16 @@ Dân Y-sơ-ra-ên rất bực mình khi phát hiện ra rằng dân Ga-bê-ôn �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|Dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:gibeon|người Ga-ba-ôn]]**
-  * **[[:vi:key-terms:peace|hòa ước]]**
-  * **[[:vi:key-terms:promise|hứa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:amorite|A-mô-rít]]**
-  * **[[:vi:key-terms:gibeon|Ga-ba-ôn]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Gibeon]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Amorite]]**
+  * **[[:vi:obe:other:Gibeon]]**
+  * **[[:vi:obe:other:Joshua]]**
 
 ===== Phụ chú: =====
 
