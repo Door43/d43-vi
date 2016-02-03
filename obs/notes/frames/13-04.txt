@@ -6,14 +6,14 @@ Sau đó Chúa ban cho họ giao ước và phán: "Ta là Giê-hô-va, Đức C
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:save|đã cứu]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:god-false|các thần khác]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:falsegod]]**
 
 ===== Phụ chú: =====
 
