@@ -6,16 +6,16 @@ Cuối cùng cũng đến lúc dân Y-sơ-ra-ên vào Đất Hứa Ca-na-an. Gi�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:canaan|xứ Ca-na-an]]**
-  * **[[:vi:key-terms:jericho|Giê-ri-cô]]**
-  * **[[:vi:key-terms:rahab|Ra-háp]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Jericho]]**
+  * **[[:vi:obe:other:Rahab]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
 
 ===== Phụ chú: =====
 
