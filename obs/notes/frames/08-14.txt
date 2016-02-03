@@ -6,9 +6,9 @@ Mặc dù đã già nhưng Gia-cốp vẫn quyết định chuyển sang Ai-cậ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:bless|chúc phước]]**
+  * **[[:vi:obe:other:Jacob]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:kt:bless]]**
 
 ===== Phụ chú: =====
 
