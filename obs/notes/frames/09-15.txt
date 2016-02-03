@@ -6,10 +6,10 @@ Môi-se sợ hãi và không muốn đi đến với Pha-ra-ôn, vì ông nghĩ 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:aaron|A-rôn]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Aaron]]**
 
 ===== Phụ chú: =====
 
