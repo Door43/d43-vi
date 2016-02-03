@@ -6,16 +6,16 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:obey|tuân theo]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:god|Đứcc Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:sinai|Si-nai]]**
-  * **[[:vi:key-terms:promise|hứa nguyện]]**
-  * **[[:vi:key-terms:faithful|trung thành]]**
-  * **[[:vi:key-terms:gods-law|luật lệ của Ngài]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Sinai]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:kt:lawofmoses]]**
 
 ===== Phụ chú: =====
 
