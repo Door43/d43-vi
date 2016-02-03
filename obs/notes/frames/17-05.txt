@@ -6,14 +6,14 @@ Cuối cùng thì Sau-lơ cũng chết nơi trận mạc và Đa-vít trở thà
 
 ===== Những cụm tự quan trọng: =====
 
-  * **[[:vi:key-terms:saul|Sau-lơ]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:love|được lòng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:obe:other:Saul]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:other:Jerusalem]]**
 
 ===== Phụ chú: =====
 
