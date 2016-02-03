@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:tent-of-meeting|Trại Hội Kiến]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:caleb|Ca-lép]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:TentofMeeting]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Caleb]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
 
 ===== Phụ chú: =====
 
