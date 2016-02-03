@@ -6,10 +6,10 @@ Một con gái của Pha-ra-ôn thấy cái giỏ và nhìn vào bên trong. Khi
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:israel|người nữ Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Moses]]**
 
 ===== Phụ chú: =====
 
