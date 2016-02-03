@@ -6,12 +6,12 @@ Sau khi dân sự đã qua sông Giô-đanh, Đức Chúa Trời nói với Giô
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jordan-river|Sông Giô-đanh]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:jericho|Giê-ri-cô]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:priest|các thầy tế lễ]]**
+  * **[[:vi:obe:other:JordanRiver]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Jericho]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:priest]]**
 
 ===== Phụ chú: =====
 
