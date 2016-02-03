@@ -6,12 +6,12 @@ Nhiều năm sau đó, Đa-vít qua đời, và con trai ông là Sa-lô-môn b�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:solomon|Sa-lô-môn]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:wise|khôn ngoan]]**
-  * **[[:vi:key-terms:judge|vị quan án]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:Solomon]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:wise]]**
+  * **[[:vi:obe:kt:judge]]**
 
 ===== Phụ chú: =====
 
