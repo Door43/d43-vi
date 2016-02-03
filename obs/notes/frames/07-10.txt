@@ -6,16 +6,16 @@ Nhưng Ê-sau đã tha thứ cho Gia-cốp rồi, và họ rất vui khi đượ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:esau|Ê-sau]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
-  * **[[:vi:key-terms:peace|yên bình]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
+  * **[[:vi:obe:other:Esau]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:other:Jacob]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
 
 ===== Phụ chú: =====
 
