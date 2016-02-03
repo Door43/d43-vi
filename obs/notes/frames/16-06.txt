@@ -6,11 +6,11 @@ Cha của Ghi-đê-ôn có một bàn thờ dâng cho thần tượng. Chúa ph�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:gideon|của Ghê-đê-ôn]]**
-  * **[[:vi:key-terms:altar|bàn thờ]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
+  * **[[:vi:obe:other:Gideon]]**
+  * **[[:vi:obe:other:altar]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:sacrifice]]**
 
 ===== Phụ chú: =====
 
