@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:aaron|A-rôn]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Aaron]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Egypt]]**
 
 ===== Phụ chú: =====
 
