@@ -6,14 +6,14 @@ Nhưng hình phạt cho tội lỗi mà Đa-vít gây ra là con trai của vua 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:punish|hình phạt]]**
-  * **[[:vi:key-terms:david|của Đa-vít]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:faithful|thành tín]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:bathsheba|Bát-sê-ba]]**
-  * **[[:vi:key-terms:solomon|Sô-lô-môn]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Bathsheba]]**
+  * **[[:vi:obe:other:Solomon]]**
 
 ===== Phụ chú: =====
 
