@@ -6,10 +6,10 @@ Khi dân sự nghe như vậy, họ rất hối hận. Họ bèn lấy vũ khí 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:sin|Tội lỗi]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
