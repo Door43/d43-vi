@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:jordan-river|sông Giô-đanh]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:JordanRiver]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:kt:priest]]**
 
 ===== Phụ chú: =====
 
