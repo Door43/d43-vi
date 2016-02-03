@@ -6,17 +6,17 @@ Sau khi U-ri bị giết, Đa-vít cưới Bát-sê-ba về. Sau đó, Bát-sê-
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:uriah|U-ri]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:bathsheba|Bát-sê-ba]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:nathan|Na-than]]**
-  * **[[:vi:key-terms:evil|xấu]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:obey|vâng lời]]**
+  * **[[:vi:obe:other:Uriah]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:Bathsheba]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Nathan]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:other:obey]]**
 
 ===== Phụ chú: =====
 
