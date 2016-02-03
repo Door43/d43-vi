@@ -6,12 +6,12 @@ Môi-se đáp: "Nếu dân chúng hỏi ai đã sai con, thì con phải trả l
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:Jacob]]**
 
 ===== Phụ chú: =====
 
