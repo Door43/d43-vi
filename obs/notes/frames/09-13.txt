@@ -6,17 +6,17 @@ Chúa phán: "Ta đã thấy sự cực khổ của dân Ta. Ta sẽ sai ngươi
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:suffer|cực khổ]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:servant|ách nô lệ]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:suffer]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:Jacob]]**
 
 ===== Phụ chú: =====
 
