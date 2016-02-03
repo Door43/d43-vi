@@ -6,14 +6,14 @@ Vậy A-rôn bèn làm một cái tượng vàng hình bò con. Dân sự bắt 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:aaron|A-rôn]]**
-  * **[[:vi:key-terms:idol|thần tượng]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:pray|đã cầu thay]]**
+  * **[[:vi:obe:other:aaron]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:pray]]**
 
 ===== Phụ chú: =====
 
