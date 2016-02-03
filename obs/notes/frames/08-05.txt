@@ -6,11 +6,11 @@ Vợ của người chủ tìm cách ăn nằm với Giô-sép, nhưng Giô-sép
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:joseph|Giô-sép]]**
-  * **[[:vi:key-terms:sin|tội]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:faithful|trung tín]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
+  * **[[:vi:obe:other:Josephot]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:kt:bless]]**
 
 ===== Phụ chú: =====
 
