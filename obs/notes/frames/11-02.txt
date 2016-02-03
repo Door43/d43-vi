@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:lamb|con chiên]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:lamb]]**
 
 ===== Phụ chú: =====
 
