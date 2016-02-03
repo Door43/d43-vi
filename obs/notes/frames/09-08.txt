@@ -6,11 +6,11 @@ Một ngày kia, khi Môi-se khôn lớn, ông nhìn thấy người Ai-cập đ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:egypt|người Ai-cập]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:save|cứu]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:save]]**
 
 ===== Phụ chú: =====
 
