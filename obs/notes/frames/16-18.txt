@@ -6,8 +6,8 @@ Cuối cùng, dân Y-sơ-ra-ên cầu xin Chúa ban cho họ một vị vua như
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:king]]**
 
 ===== Phụ chú: =====
 
