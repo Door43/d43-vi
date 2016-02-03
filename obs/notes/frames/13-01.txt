@@ -6,11 +6,11 @@ Sau khi Đức Chúa Trời dẫn dân Y-sơ-ra-ên băng qua Biển Đỏ, Ngà
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:red-sea|Biển Đỏ]]**
-  * **[[:vi:key-terms:sinai|Si-nai]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:RedSea]]**
+  * **[[:vi:obe:other:Sinai]]**
+  * **[[:vi:obe:other:Moses]]**
 
 ===== Phụ chú: =====
 
