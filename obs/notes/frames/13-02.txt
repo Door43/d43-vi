@@ -6,14 +6,14 @@ Chúa phán cùng Môi-se và dân sự rằng: "Nếu các ngươi vâng lời 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:kingdom|nước]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
-  * **[[:vi:key-terms:holy|thánh]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:kingdom]]**
+  * **[[:vi:obe:kt:priest]]**
+  * **[[:vi:obe:kt:holy]]**
 
 ===== Phụ chú: =====
 
