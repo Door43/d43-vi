@@ -6,15 +6,15 @@ Sau đó Đức Chúa Trời viết mười điều răn trên hai bảng đá v
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:ten-commandments|Mười Điều Răn]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:gods-law|các luật pháp]]**
-  * **[[:vi:key-terms:obey|vâg phục]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:disobey|không vâng phục]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:TenCommandments]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:lawofMoses]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:other:punish]]**
 
 ===== Phụ chú: =====
 
