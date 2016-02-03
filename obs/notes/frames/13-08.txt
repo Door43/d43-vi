@@ -6,10 +6,10 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:tent-of-meeting|Trại Hội Kiến]]**
-  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:TentofMeeting]]**
+  * **[[:vi:obe:kt:highpriest]]**
 
 ===== Phụ chú: =====
 
