@@ -6,8 +6,8 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Moses]]**
 
 ===== Phụ chú: =====
 
