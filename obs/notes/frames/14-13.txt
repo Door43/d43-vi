@@ -6,9 +6,9 @@ Một lần kia dân sự không có nước uống. Chúa phán cùng Môi-se: 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
 
 ===== Phụ chú: =====
 
