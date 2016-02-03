@@ -6,11 +6,11 @@ Nhưng Sa-lô-môn yêu thích những người phụ nữ từ các nước ngo
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:solomon|Sa-lô-môn]]**
-  * **[[:vi:key-terms:disobey|không vâng phục]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:god-false|thần]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
+  * **[[:vi:obe:other:Solomon]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:falsegod]]**
+  * **[[:vi:obe:kt:worship]]**
 
 ===== Phụ chú: =====
 
