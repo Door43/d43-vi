@@ -6,12 +6,12 @@ Sau khi thử xem các anh mình có thay đổi hay không, Giô-sép nói cùn
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:joseph|Giô-sép]]**
-  * **[[:vi:key-terms:evil|ác]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:good|tốt]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:obe:other:Josephot]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:other:Egypt]]**
 
 ===== Phụ chú: =====
 
