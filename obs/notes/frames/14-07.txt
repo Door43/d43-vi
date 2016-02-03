@@ -6,12 +6,12 @@ Nhưng dân sự không nghe theo lời của Ca-lép và Giô-suê. Họ bỗng
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:caleb|Ca-lép]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:aaron|A-rôn]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
+  * **[[:vi:obe:other:Caleb]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Aaron]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:servant]]**
 
 ===== Phụ chú: =====
 
