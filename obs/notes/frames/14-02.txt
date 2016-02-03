@@ -6,19 +6,19 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:people-group|nhiều dân tộc]]**
-  * **[[:vi:key-terms:canaan|người Ca-na-an]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:god-false|tà thần]]**
-  * **[[:vi:key-terms:evil|gian ác]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:Jacob]]**
+  * **[[:vi:obe:kt:promisedland]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:other:peoplegroup]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:falsegod]]**
+  * **[[:vi:obe:kt:evil]]**
 
 ===== Phụ chú: =====
 
