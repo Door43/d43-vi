@@ -6,12 +6,12 @@ Sau khi Đức Chúa Trời nói với người Y-sơ-ra-ên về những luật
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:sinai|Núi Si-nai]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:Sinai]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:other:Canaan]]**
 
 ===== Phụ chú: =====
 
