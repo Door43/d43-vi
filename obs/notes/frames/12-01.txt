@@ -6,13 +6,13 @@ Dân Y-sơ-ra-ên vô cùng hạnh phúc khi rời khỏi xứ Ai-cập. Họ kh
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:promised-land|Vùng Đất Hứa]]**
-  * **[[:vi:key-terms:egypt|người Ai-cập]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
