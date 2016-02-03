@@ -6,10 +6,10 @@ Sau-lơ trở nên ghen tỵ vì sự yêu mến mà dân chúng dành cho Đa-v
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:saul|Sau-lơ]]**
-  * **[[:vi:key-terms:love|yêu mến]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:obe:other:Saul]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:king]]**
 
 ===== Phụ chú: =====
 
