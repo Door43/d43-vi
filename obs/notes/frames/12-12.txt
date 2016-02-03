@@ -6,12 +6,12 @@ Khi người Y-sơ-ra-ên nhìn thấy đoàn quân Ai-cập chết hết, họ 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:egypt|người Ai-cập]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
