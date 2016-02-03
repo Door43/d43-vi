@@ -6,11 +6,11 @@ Môi-se ở trên núi Si-nai nhiều ngày hầu chuyện cùng Đức Chúa Tr
 
 ===== Những cụm từ quan trọng =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:sinai|Núi Si-nai]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:aaron|A-rôn]]**
-  * **[[:vi:key-terms:idol|thần tượng]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Sinai]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Aaron]]**
+  * **[[:vi:obe:other:idol]]**
 
 ===== Phụ chú: =====
 
