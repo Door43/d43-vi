@@ -6,14 +6,14 @@ Sau khi dân Y-sơ-ra-ên lang thang trong đồng vắng suốt bốn mươi n�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:rebel|phản nghịch]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:rebel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
