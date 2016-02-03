@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:obey|vâng lời]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:other:obey]]**
 
 ===== Phụ chú: =====
 
