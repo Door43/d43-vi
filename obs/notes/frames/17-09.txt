@@ -6,12 +6,12 @@ Vua Đa-vít đã cai trị đất nước một cách công chính và trung th
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:justice|sự công bình]]**
-  * **[[:vi:key-terms:faithful|thành tín]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:kt:justice]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
