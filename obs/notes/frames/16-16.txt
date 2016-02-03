@@ -6,14 +6,14 @@ Sau đó, Ghi-đê-ôn dùng số vàng này để làm thành một áo lễ gi
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:gideon|Ghê-đê-ôn]]**
-  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:idol|thần tượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:deliverer|giải cứu]]**
+  * **[[:vi:obe:other:Gideon]]**
+  * **[[:vi:obe:kt:highpriest]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:deliverer]]**
 
 ===== Phụ chú: =====
 
