@@ -6,14 +6,14 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:solomon|Sa-lô-môn]]**
-  * **[[:vi:key-terms:temple|đền thờ]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:tent-of-meeting|Trại Hội Kiến]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:other:Solomon]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:other:TentofMeeting]]**
 
 ===== Phụ chú: =====
 
