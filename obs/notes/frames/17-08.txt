@@ -6,13 +6,13 @@ Khi Đa-vít nghe những lời này ông liền cảm tạ và ngợi khen Đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:praise|ngợi khen]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|hứa]]**
-  * **[[:vi:key-terms:bless|phước hạnh]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si-a]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:praise]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
