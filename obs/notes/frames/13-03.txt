@@ -6,9 +6,9 @@ Sau ba ngày, khi dân sự đã chuẩn bị tâm linh của họ, Đức Chúa
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sinai|Núi Si-nai]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:sinai]]**
+  * **[[:vi:obe:other:Moses]]**
 
 ===== Phụ chú: =====
 
