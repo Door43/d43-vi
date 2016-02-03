@@ -6,9 +6,9 @@ Môi-se trở thành người chăn chiên trong hoang mạc một nơi rất xa
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:shepherd|người chăn chiên]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:shepherd]]**
+  * **[[:vi:obe:other:Egypt]]**
 
 ===== Phụ chú: =====
 
