@@ -6,14 +6,14 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:faithful|thành tín]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:Jacob]]**
 
 ===== Phụ chú: =====
 
