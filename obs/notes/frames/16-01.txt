@@ -6,18 +6,18 @@ Sau khi Giô-suê qua đời, dân Y-sơ-ra-ên không còn vâng lời Đức C
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:disobey|không vâng phục]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:canaan|người Ca-na-an]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:gods-law|luật pháp của Chúa]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:god-false|thần khác]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:true|đúng]]**
-  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:lawofMoses]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:falsegod]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:true]]**
+  * **[[:vi:obe:other:king]]**
 
 ===== Phụ chú: =====
 
