@@ -6,14 +6,14 @@ Môi-se làm hai bảng đá mới có viết Mười Điều Răn để thay th
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:pray|đã cầu xin]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:ten-commandments|Mười Điều Răn]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:sinai|Núi Si-nai]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:other:TenCommandments]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Sinai]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
 
 ===== Phụ chú: =====
 
