@@ -6,9 +6,9 @@ Sáng hôm sau, dân chúng thấy bàn thờ thần tượng đã bị ai đó 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:altar|bàn thờ]]**
-  * **[[:vi:key-terms:gideon|của Ghê-đê-ôn]]**
-  * **[[:vi:key-terms:god-false|thần]]**
+  * **[[:vi:obe:other:altar]]**
+  * **[[:vi:obe:other:Gideon]]**
+  * **[[:vi:obe:kt:falsegod]]**
 
 ===== Phụ chú: =====
 
