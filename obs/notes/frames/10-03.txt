@@ -6,10 +6,10 @@ Chúa biến nước sông Nin thành máu, nhưng Pha-ra-ôn vẫn không chị
 
 ===== Những cụm từ quan trọng​: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:nile-river|Sông Nin]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:NileRiver]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:Israel]]**
 ===== Phụ chú: =====
 
   * **Biến sông Nin thành huyết-**  Ở một vài nơi có thể cần phải nói “biến nước sông Nin thành máu”. Thay vì nước sông thì là máu, vậy nên mọi loài cá sống dưới đó đều chết và người ta không có nước để uống.
