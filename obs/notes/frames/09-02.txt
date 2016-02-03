@@ -6,11 +6,11 @@ Sau hàng trăm năm, dân Y-sơ-ra-ên ngày càng trở nên đông đúc. Ng�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
-  * **[[:vi:key-terms:joseph|Giô-sép]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:Josephot]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:servant]]**
 
 ===== Phụ chú: =====
 
