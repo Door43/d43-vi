@@ -6,12 +6,12 @@ Sau đó, những người buôn nô lệ đem Giô-sép đến xứ Ai-cập. A
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:joseph|Giô-sép]]**
-  * **[[:vi:key-terms:egypt|Ai cập]]**
-  * **[[:vi:key-terms:nile-river|Sông Nin]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:Josephot]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:NileRiver]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:bless]]**
 
 ===== Phụ chú: =====
 
