@@ -6,13 +6,13 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:joshua|Giô-suê]]**
-  * **[[:vi:key-terms:trust|trông cậy]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Joshua]]**
+  * **[[:vi:obe:kt:trust]]**
+  * **[[:vi:obe:other:obey]]**
 
 ===== Phụ chú: =====
 
