@@ -6,14 +6,14 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:canaan|dân Ca-na-an]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:peace|hòa bình]]**
-  * **[[:vi:key-terms:idol|thần tượng]]**
-  * **[[:vi:key-terms:obey|vâng lời]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:promisedland]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:worship]]**
 
 ===== Phụ chú: =====
 
