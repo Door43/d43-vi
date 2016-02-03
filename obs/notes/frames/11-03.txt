@@ -6,11 +6,11 @@ Chúa bảo dân Y-sơ-ra-ên bôi huyết của chiên con quanh cửa nhà mì
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:lamb|của con chiên]]**
-  * **[[:vi:key-terms:blood|máu]]**
-  * **[[:vi:key-terms:egypt|Ai-cập]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:lamb]]**
+  * **[[:vi:obe:kt:blood]]**
+  * **[[:vi:obe:other:Egypt]]**
 
 ===== Phụ chú: =====
 
