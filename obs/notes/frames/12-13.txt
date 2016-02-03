@@ -6,12 +6,12 @@ Dân Y-sơ-ra-ên rất đỗi vui mừng vì Đức Chúa Trời đã cứu h�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|đã cứu]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:praise|tôn vinh]]**
-  * **[[:vi:key-terms:egypt|người Ai-cập]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:praise]]**
+  * **[[:vi:obe:other:Egypt]]**
 
 ===== Phụ chú: =====
 
