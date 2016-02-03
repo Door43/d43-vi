@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:red-sea|Biển đỏ]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:other:RedSea]]**
 
 ===== Phụ chú: =====
 
