@@ -6,9 +6,9 @@ Cơn đói kém dữ dội không chỉ xảy ra tại Ai-cập nhưng cũng x�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:egypt|Ai cập]]**
-  * **[[:vi:key-terms:canaan|Ca-na-an]]**
-  * **[[:vi:key-terms:jacob|Gia-cốp]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:other:Jacob]]**
 
 ===== Phụ chú: =====
 
