@@ -6,18 +6,18 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:saul|Sau-lơ]]**
-  * **[[:vi:key-terms:shepherd|chăn chiên]]**
-  * **[[:vi:key-terms:bethlehem|Bết-lê-hem]]**
-  * **[[:vi:key-terms:sheep|đàn chiên]]**
-  * **[[:vi:key-terms:humble|khiêm nhường]]**
-  * **[[:vi:key-terms:righteous|công chính]]**
-  * **[[:vi:key-terms:trust|tin cậy]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Saul]]**
+  * **[[:vi:obe:other:shepherd]]**
+  * **[[:vi:obe:other:Bethlehem]]**
+  * **[[:vi:obe:other:sheep]]**
+  * **[[:vi:obe:other:humble]]**
+  * **[[:vi:obe:kt:righteous]]**
+  * **[[:vi:obe:kt:trust]]**
+  * **[[:vi:obe:other:obey]]**
 
 ===== Phụ chú: =====
 
