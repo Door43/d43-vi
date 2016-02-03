@@ -6,18 +6,18 @@ Nhưng Đức Chúa Trời đã sai tiên tri Na-than đến gặp Đa-vít và 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:nathan|Na-than]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:temple|đền]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:bless|ban phước]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:sin|tội]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Nathan]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
