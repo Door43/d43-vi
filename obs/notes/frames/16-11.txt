@@ -6,11 +6,11 @@ Tối hôm đó, Đức Chúa Trời phán với Ghi-đê-ôn rằng: "Ngươi h
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:gideon|Ghê-đê-ôn]]**
-  * **[[:vi:key-terms:midian|người Ma-đi-an]]**
-  * **[[:vi:key-terms:dream|giấc mơ]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Gideon]]**
+  * **[[:vi:obe:other:Midian]]**
+  * **[[:vi:obe:other:dream]]**
+  * **[[:vi:obe:kt:worship]]**
 
 ===== Phụ chú: =====
 
