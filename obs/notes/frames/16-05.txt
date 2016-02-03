@@ -6,12 +6,12 @@ Một ngày kia, có một người nam Y-sơ-ra-ên tên là Ghi-đê-ôn đang
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:gideon|Ghê-đê-ôn]]**
-  * **[[:vi:key-terms:midian|người Ma-đi-an]]**
-  * **[[:vi:key-terms:angel|Thiên sứ]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
+  * **[[:vi:obe:other:Gideon]]**
+  * **[[:vi:obe:other:Midian]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Israel]]**
 
 ===== Phụ chú: =====
 
