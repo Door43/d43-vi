@@ -6,10 +6,10 @@ Chúa ban cho Giô-sép khả năng giải nghĩa giấc mơ, cho nên Pha-ra-ô
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:joseph|Giô-sép]]**
-  * **[[:vi:key-terms:dream|giấc mơ]]**
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Josephot]]**
+  * **[[:vi:obe:other:dream]]**
+  * **[[:vi:obe:other:Pharaoh]]**
 
 ===== Phụ chú: =====
 
