@@ -6,12 +6,12 @@ Khi ấy Đức Chúa Trời dấy lên cho họ một người để giải c�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:deliverer|người giải cứu]]**
-  * **[[:vi:key-terms:peace|hòa bình]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:midian|người Ma-đi-an]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:deliverer]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:other:Midian]]**
 
 ===== Phụ chú: =====
 
