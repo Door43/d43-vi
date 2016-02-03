@@ -6,11 +6,11 @@ Sau một thời gian ngắn, Pha-ra-ôn và dân sự của mình lại thay đ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:pharaoh|Pha-ra-ôn]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:servant|nô lệ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:god-false|các thần tượng]]**
+  * **[[:vi:obe:other:Pharaoh]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:falsegod]]**
 
 ===== Phụ chú: =====
 
