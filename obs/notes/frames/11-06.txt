@@ -6,9 +6,9 @@ Nhưng người Ai-cập không tin Chúa hoặc không vâng theo mạng lệnh
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:egypt|người Ai-cập]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Egypt]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
