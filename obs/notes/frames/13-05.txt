@@ -6,13 +6,13 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:idol|thần khác]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sabbath|ngày Sa-bát]]**
-  * **[[:vi:key-terms:holy|thánh]]**
-  * **[[:vi:key-terms:sabbath|ngày thứ 7]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sabbath]]**
+  * **[[:vi:obe:kt:holy]]**
+  * **[[:vi:obe:kt:sabbath]]**
 
 ===== Phụ chú: =====
 
