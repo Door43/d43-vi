@@ -6,12 +6,12 @@ Tất cả dân Y-sơ-ra-ên, trong đó có 450 tiên tri của thần Ba-anh �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:baal|Ba-anh]]**
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Baal]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:god]]**
 ===== Phụ chú: =====
 
   * **Toàn bộ dân Y-sơ-ra-ên:**  Ở đây, điều này có nghĩa là “toàn bộ dân của nước Y-sơ-ra-ên”.
