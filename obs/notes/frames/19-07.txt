@@ -6,12 +6,12 @@ Sau đó, Ê-li nói với các tiên tri của thần Ba-anh rằng: "Các ông
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:baal|Ba-anh]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Baal]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:priest]]**
 
 ===== Phụ chú: =====
 
