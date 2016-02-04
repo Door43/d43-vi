@@ -6,9 +6,9 @@ Sau đó, tiên tri Ê-li bảo rằng: "Chớ để bất kì một tiên tri n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:baal|Ba-anh]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Baal]]**
 
 ===== Phụ chú: =====
 
