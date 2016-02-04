@@ -6,11 +6,11 @@ Giăng cảnh báo các nhà lãnh đạo tôn giáo rằng: "Hỡi dòng dõi r
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:jewish-leaders|những lãnh đạo tôn giáo]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:fulfill]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
