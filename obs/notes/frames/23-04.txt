@@ -6,12 +6,12 @@ Khi ngày sinh nở của Ma-ri đã gần đến, chính quyền La-mã thông 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:rome|La-mã]]**
-  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
-  * **[[:vi:key-terms:nazareth|Na-xa-rét]]**
-  * **[[:vi:key-terms:bethlehem|Bết-lê-hem]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:other:Rome]]**
+  * **[[:vi:obe:other:Josephnt]]**
+  * **[[:vi:obe:other:Nazareth]]**
+  * **[[:vi:obe:other:Bethlehem]]**
+  * **[[:vi:obe:other:David]]**
 
 ===== Phụ chú: =====
 
