@@ -6,15 +6,15 @@ Các thầy tế lễ Y-sơ-ra-ên thay mặt dân chúng dâng của lễ chu�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|hình phạt]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:pray|cầu thay]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:priest-high|Thầy tế lễ thượng phẩm]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:priest]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:highpriest]]**
 
 ===== Phụ chú: =====
 
