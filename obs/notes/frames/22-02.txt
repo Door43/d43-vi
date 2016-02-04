@@ -6,11 +6,11 @@ Thiên sứ nói với Xa-cha-ri: "Vợ ông sẽ sinh một con trai. Hãy đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:other:Zechariahnt]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
