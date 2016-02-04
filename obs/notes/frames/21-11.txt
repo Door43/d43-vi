@@ -6,11 +6,10 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:isaiah|Ê-sai]]**
-  * **[[:vi:key-terms:prophet|dự báo]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:betray|phản bội]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Isaiah]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:betray]]**
 
 ===== Phụ chú: =====
 
