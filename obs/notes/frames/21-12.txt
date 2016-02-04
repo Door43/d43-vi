@@ -6,11 +6,11 @@ Các tiên tri còn nói trước về việc Đấng Mê-si sẽ chết cách n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|Các tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:isaiah|Ê-sai]]**
-  * **[[:vi:key-terms:prophet|tiên đoán]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:Isaiah]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
