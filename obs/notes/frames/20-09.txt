@@ -6,10 +6,10 @@ Vua Nê-bu-cát-nết-sa và quân lính của ông bắt phần lớn người 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:nebuchadnezzar|Nê-bu-cát-nết-sa]]**
-  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
-  * **[[:vi:key-terms:babylon|Ba-by-lôn]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:obe:other:nebuchadnezzar]]**
+  * **[[:vi:obe:other:KingdomofJudah]]**
+  * **[[:vi:obe:other:Babylon]]**
+  * **[[:vi:obe:kt:promisedLand]]**
 
 ===== Phụ chú: =====
 
