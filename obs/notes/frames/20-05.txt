@@ -6,17 +6,17 @@ Mặc dù dân Giu-đa đã thấy cách Đức Chúa Trời hình phạt dân Y
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:god-false|các thần]]**
-  * **[[:vi:key-terms:canaan|người Ca-na-an]]**
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
+  * **[[:vi:obe:other:KingdomofJudah]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:falsegod]]**
+  * **[[:vi:obe:other:Canaan]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
