@@ -6,9 +6,9 @@ Vương quốc Y-sơ-ra-ên và vương quốc Giu-đa trở thành thù địch
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:kingdom|Nước]]**
-  * **[[:vi:key-terms:kingdom-of-judah|Giu-đa]]**
-  * **[[:vi:key-terms:kingdom-of-israel|Y-sơ-ra-ên]]**
+  * **[[:vi:obe:other:kingdom]]**
+  * **[[:vi:obe:other:kingdomofJudah]]**
+  * **[[:vi:obe:other:kingdomofIsrael]]**
 
 ===== Phụ chú: =====
 
