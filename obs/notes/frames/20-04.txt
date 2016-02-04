@@ -6,11 +6,11 @@ Rồi sau đó người A-si-ri đem những dân ngoại bang đến sinh sốn
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:assyria|A-si-ri]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:samaria|người Sa-ma-ri]]**
+  * **[[:vi:obe:other:Assyria]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:other:Samaria]]**
 
 ===== Phụ chú: =====
 
