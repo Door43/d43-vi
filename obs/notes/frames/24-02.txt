@@ -6,10 +6,10 @@ Nhiều người đến với Giăng trong đồng vắng để nghe ông giản
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:preach|giảng]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:kingdom-of-god|nước Đức Chúa Trời]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:KingdomofGod]]**
 
 ===== Phụ chú: =====
 
