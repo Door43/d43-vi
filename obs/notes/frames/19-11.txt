@@ -6,9 +6,9 @@ Ngay lập tức, lửa từ trời giáng xuống thiêu cháy thịt, gỗ, đ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:altar|bàn thờ]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:altar]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
