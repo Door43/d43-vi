@@ -6,11 +6,11 @@ Trước đây, Đức Chúa Trời đã dùng các thiên sứ và các tiên t
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:angel|các thiên sứ]]**
-  * **[[:vi:key-terms:prophet|các đấng tiên tri]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
-  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:priest]]**
+  * **[[:vi:obe:other:Zechariahnt]]**
 
 ===== Phụ chú: =====
 
