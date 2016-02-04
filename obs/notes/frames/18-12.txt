@@ -6,11 +6,11 @@ Tất cả các vị vua và phần lớn dân Y-sơ-ra-ên đều thờ cúng t
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:king|các vua]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:kingdomofIsrael]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:other:sacrifice]]**
 
 ===== Phụ chú: =====
 
