@@ -6,15 +6,15 @@ Các tiên tri báo trước rằng Đấng Mê-si sẽ chết và Ngài sẽ s�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:raise|nâng]]**
-  * **[[:vi:key-terms:resurrection|sự sống lại]]**
-  * **[[:vi:key-terms:save|cứu rỗi]]**
-  * **[[:vi:key-terms:sin|tội nhân]]**
-  * **[[:vi:key-terms:covenant-new|Giao ước mới]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:resurrection]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:newcovenant]]**
 
 ===== Phụ chú: =====
 
