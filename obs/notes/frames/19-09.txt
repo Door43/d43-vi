@@ -6,10 +6,10 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:altar|bàn thờ]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:altar]]**
 
 ===== Phụ chú: =====
 
