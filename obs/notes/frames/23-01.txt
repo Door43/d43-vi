@@ -6,11 +6,11 @@ Ma-ri đã hứa hôn cùng một người có tình nghĩa tên là Giô-sép. 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:righteous|công chính]]**
-  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:dream|giấc mơ]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:kt:righteous]]**
+  * **[[:vi:obe:other:Josephnt]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:other:dream]]**
 
 ===== Phụ chú: =====
 
