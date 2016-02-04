@@ -6,11 +6,11 @@ Tại vương quốc Y-sơ-ra-ên mới, tất cả các vị vua đều gian á
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:kingdom|nước]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:king|các vua]]**
-  * **[[:vi:key-terms:evil|gian ác]]**
-  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
+  * **[[:vi:obe:other:kingdom]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:other:Israel]]**
 
 ===== Phụ chú: =====
 
