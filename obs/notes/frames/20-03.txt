@@ -6,9 +6,9 @@ Quân A-si-ri bắt tất cả các lãnh đạo, người giàu và những ng�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:assyria|A-si-ri]]**
-  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
+  * **[[:vi:obe:other:Assyria]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
 
 ===== Phụ chú: =====
 
