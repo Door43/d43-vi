@@ -6,11 +6,11 @@ Tiên tri Ê-sai đã báo trước rằng Đấng Mê-si sẽ sống tại vùn
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:isaiah|Ê-sai]]**
-  * **[[:vi:key-terms:galilee|Ga-li-lê]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:heal|chữa lành]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Isaiah]]**
+  * **[[:vi:obe:other:Galilee]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:other:heal]]**
 
 ===== Phụ chú: =====
 
