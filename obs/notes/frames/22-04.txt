@@ -6,12 +6,12 @@ Khi Ê-li-sa-bét mang thai đến tháng thứ sáu thì thiên sứ đó lại
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:virgin|đồng trinh]]**
-  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:other:virgin]]**
+  * **[[:vi:obe:other:Josephnt]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
