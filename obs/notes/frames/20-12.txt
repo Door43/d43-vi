@@ -6,10 +6,10 @@ Vương quốc Ba-Tư rất mạnh nhưng lại có lòng khoan dung đối vớ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:mercy|thương xót]]**
-  * **[[:vi:key-terms:jew|người Giu-đa]]**
-  * **[[:vi:key-terms:temple|Đền thờ]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:obe:kt:mercy]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:other:Jerusalem]]**
 
 ===== Phụ chú: =====
 
