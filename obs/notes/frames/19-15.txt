@@ -6,10 +6,10 @@ Lúc đầu, Na-a-man rất tức giận không làm như tiên tri bảo vì ch
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:naaman|Na-a-man]]**
-  * **[[:vi:key-terms:jordan-river|Sông Giô-đanh]]**
-  * **[[:vi:key-terms:heal|được chữa lành]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Naaman]]**
+  * **[[:vi:obe:other:JordanRiver]]**
+  * **[[:vi:obe:other:heal]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
