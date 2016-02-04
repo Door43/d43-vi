@@ -6,10 +6,10 @@ Khoảng 70 năm sau đó, vua Si-ru của vương quốc Ba-Tư đánh bại Ba
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:babylon|Ba-by-lôn]]**
-  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:jew|dân Giu-đa]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Babylon]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Jew]]**
 
 ===== Phụ chú: =====
 
