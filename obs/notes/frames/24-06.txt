@@ -6,12 +6,12 @@ Ngày hôm sau, Chúa Giê-su đến để Giăng làm báp-tem cho mình. Khi t
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:baptize|phép báp-têm]]**
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:lamb|Chiên Con]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:kt:lamb]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
