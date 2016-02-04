@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:glory|Sáng danh Chúa]]**
-  * **[[:vi:key-terms:heaven|các từng trời]]**
-  * **[[:vi:key-terms:peace|bình an]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:glory]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:other:peace]]**
 
 ===== Phụ chú: =====
 
