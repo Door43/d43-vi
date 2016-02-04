@@ -6,13 +6,13 @@ Các tiên tri của Đức Chúa Trời đã nói trước nhiều điều khá
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:prophet|Các tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:isaiah|Ê-sai]]**
-  * **[[:vi:key-terms:prophet|báo trước]]**
-  * **[[:vi:key-terms:virgin|người nữ đồng trinh]]**
-  * **[[:vi:key-terms:bethlehem|Bết-lê-hem]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:other:Isaiah]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:virgin]]**
+  * **[[:vi:obe:other:Bethlehem]]**
 
 ===== Phụ chú: =====
 
