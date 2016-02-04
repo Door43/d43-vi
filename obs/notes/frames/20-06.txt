@@ -6,15 +6,15 @@ Khoảng 100 năm sau khi người A-si-ri xâm chiếm Y-sơ-ra-ên, Đức Ch�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:assyria|dân A-si-ri]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:nebuchadnezzar|Nê-bu-cát-nết-sa]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:babylon|người Ba-by-lôn]]**
-  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
-  * **[[:vi:key-terms:babylon|Ba-by-lôn]]**
-  * **[[:vi:key-terms:servant|đầy tớ]]**
+  * **[[:vi:obe:other:Assyria]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Nebuchadnezzar]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Babylon]]**
+  * **[[:vi:obe:other:KingdomofJudah]]**
+  * **[[:vi:obe:other:Babylon]]**
+  * **[[:vi:obe:other:servant]]**
 
 ===== Phụ chú: =====
 
