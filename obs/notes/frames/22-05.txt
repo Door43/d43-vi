@@ -6,15 +6,15 @@ Ma-ri trả lời: "Làm sao điều đó xảy ra được khi mà tôi còn l�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:virgin|gái đồng trinh]]**
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:power|quyền năng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:holy|Con Thánh]]**
-  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:other:virgin]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:power]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:holy]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
