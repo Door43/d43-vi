@@ -6,15 +6,15 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:ahab|A-háp]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:evil|gian ác]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:god-false|tà thần]]**
-  * **[[:vi:key-terms:baal|Ba-anh]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Ahab]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:kingdomofIsrael]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:falsegod]]**
+  * **[[:vi:obe:other:Baal]]**
 
 ===== Phụ chú: =====
 
