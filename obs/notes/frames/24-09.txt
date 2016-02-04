@@ -6,14 +6,14 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:baptize|báp-têm]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
-  * **[[:vi:key-terms:god-father|Đức Chúa Cha]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:god-son|Đức Chúa Con]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:SonofGod]]**
 
 ===== Phụ chú: =====
 
