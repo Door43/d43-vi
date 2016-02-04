@@ -6,10 +6,10 @@ Giăng nói với Chúa Giê-su rằng: "Tôi không xứng đáng để làm b�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:baptize|phép báp-têm]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
