@@ -6,10 +6,10 @@ Sau khi trở về Giê-ru-sa-lem, dân sự của Chúa xây dựng lại đề
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:temple|Đền thờ]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
+  * **[[:vi:obe:kt:worship]]**
 
 ===== Phụ chú: =====
 
