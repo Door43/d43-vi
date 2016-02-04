@@ -6,11 +6,11 @@ Các nhà tiên tri của Đức Chúa Trời cũng dự ngôn rằng Đấng M�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
-  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:priest]]**
+  * **[[:vi:obe:other:king]]**
 
 ===== Phụ chú: =====
 
