@@ -6,12 +6,12 @@ Chẳng mấy chốc những người chăn chiên đã tìm đến nơi và th�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:shepherd|người chăn chiên]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:praise|ngợi khen]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:shepherd]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:other:praise]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
