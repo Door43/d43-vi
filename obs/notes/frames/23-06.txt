@@ -8,11 +8,11 @@
 
 Đêm đó, đã có một số
 
-  * **[[:vi:key-terms:shepherd|kẻ chăn chiên]]**
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:bethlehem|Bết-lê-hem]]**
+  * **[[:vi:obe:other:shepherd]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:other:Bethlehem]]**
 
 ===== Phụ chú: =====
 
