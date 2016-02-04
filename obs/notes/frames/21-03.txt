@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
