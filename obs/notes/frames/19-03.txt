@@ -6,9 +6,9 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:ahab|A-háp]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:other:Ahab]]**
 
 ===== Phụ chú: =====
 
