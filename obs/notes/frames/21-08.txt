@@ -6,11 +6,11 @@ Vua là người cai trị vương quốc và xét đoán dân sự. Đấng Mê
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:kingdom|đất nước]]**
-  * **[[:vi:key-terms:judge|xét đoán]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:kingdom]]**
+  * **[[:vi:obe:kt:judge]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:other:David]]**
 
 ===== Phụ chú: =====
 
