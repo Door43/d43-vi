@@ -6,19 +6,19 @@ Các vua của Giu-đa đều là con cháu của Đa-vít. Một số vị vua 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:king|các vua]]**
-  * **[[:vi:key-terms:kingdom-of-judah|Giu-đa]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:good|tốt]]**
-  * **[[:vi:key-terms:justice|công bình]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:evil|gian ác]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:sacrifice|của lễ]]**
-  * **[[:vi:key-terms:god-false|các tà thần]]**
-  * **[[:vi:key-terms:rebel|phản nghịch]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:kingdomofJudah]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:justice]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:falsegod]]**
+  * **[[:vi:obe:other:rebel]]**
 
 ===== Phụ chú: =====
 
