@@ -6,10 +6,10 @@ Thiên sứ bèn đáp lời Xa-cha-ri: "Đức Chúa Trời đã sai ta đến 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:other:Zechariahnt]]**
 
 ===== Phụ chú: =====
 
