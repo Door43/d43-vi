@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:punish|trừng trị]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:kingdom-of-judah|Giu-đa]]**
-  * **[[:vi:key-terms:nebuchadnezzar|của Nê-bu-cát-nết-sa]]**
-  * **[[:vi:key-terms:son|các con trai]]**
-  * **[[:vi:key-terms:babylon|Ba-by-lôn]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:KingdomofJudah]]**
+  * **[[:vi:obe:other:Nebuchadnezzar]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:Babylon]]**
 
 ===== Phụ chú: =====
 
