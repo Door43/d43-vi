@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|những nhà tiên tri]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
