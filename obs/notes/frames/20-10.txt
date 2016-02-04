@@ -6,12 +6,12 @@ Mặc dù Đức Chúa Trời trừng phạt dân Ngài vì cớ tội lỗi c�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
-  * **[[:vi:key-terms:promised-land|Đất Hứa]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:PromisedLand]]**
 
 ===== Phụ chú: =====
 
