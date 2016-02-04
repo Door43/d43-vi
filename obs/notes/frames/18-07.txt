@@ -6,11 +6,11 @@ Mười chi phái của vương quốc Y-sơ-ra-ên nổi dậy chống nghịch
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:rebel|phản nghịch]]**
-  * **[[:vi:key-terms:rehoboam|Rô-bô-am]]**
-  * **[[:vi:key-terms:faithful|trung thành]]**
-  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:rebel]]**
+  * **[[:vi:obe:other:Rehoboam]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:other:kingdomofJudah]]**
 
 ===== Phụ chú: =====
 
