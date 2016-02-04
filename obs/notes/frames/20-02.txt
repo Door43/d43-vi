@@ -6,10 +6,10 @@ Vì vậy, Đức Chúa Trời trừng phạt cả hai nước bằng cách đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|hình phạt]]**
-  * **[[:vi:key-terms:assyria|đế chế A-si-ri]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:other:Assyria]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
 
 ===== Phụ chú: =====
 
