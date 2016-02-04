@@ -6,9 +6,9 @@ Không lâu sau khi thiên sứ phán với Ma-ri, cô đến thăm Ê-li-sa-bé
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
