@@ -6,11 +6,11 @@ Sau khi nghe Giăng giảng, nhiều người đã ăn năn tội lỗi mình v�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:john-baptist|của Giăng]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:sin|tội]]**
-  * **[[:vi:key-terms:baptize|báp-tem]]**
-  * **[[:vi:key-terms:jewish-leaders|nhà lãnh đạo tôn giáo]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
 
 ===== Phụ chú: =====
 
