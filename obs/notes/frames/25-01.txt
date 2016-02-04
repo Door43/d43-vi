@@ -6,13 +6,13 @@ Ngay sau khi Đức Chúa Giê-su chịu báp-tem, Đức Thánh Linh dẫn Ngà
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:baptize|chịu báp-têm]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:fast|kiêng ăn]]**
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:tempt|cám dỗ]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:other:fast]]**
+  * **[[:vi:obe:kt:Satan]]**
+  * **[[:vi:obe:kt:tempt]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
