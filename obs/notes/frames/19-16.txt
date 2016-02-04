@@ -6,17 +6,17 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:justice|công bình]]**
-  * **[[:vi:key-terms:mercy|thương xót]]**
-  * **[[:vi:key-terms:evil|gian ác]]**
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:judge|đoán xét]]**
-  * **[[:vi:key-terms:guilt|phạm tội]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:justice]]**
+  * **[[:vi:obe:kt:mercy]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:judge]]**
+  * **[[:vi:obe:kt:guilt]]**
+  * **[[:vi:obe:other:punish]]**
 
 ===== Phụ chú: =====
 
