@@ -6,13 +6,13 @@ Sau ba năm rưỡi Đức Chúa Trời phán bảo Ê-li trở về Y-sơ-ra-ê
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:kingdom-of-israel|nước Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:ahab|A-háp]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-ca]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:baal|Ba-anh]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:other:KingdomofIsrael]]**
+  * **[[:vi:obe:other:Ahab]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:Baal]]**
 
 ===== Phụ chú: =====
 
