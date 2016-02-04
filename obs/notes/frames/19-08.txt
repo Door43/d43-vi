@@ -6,9 +6,9 @@ Sau đó, các tiên tri của thần Ba-anh cầu khẩn với Ba-anh : "Hỡi 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
-  * **[[:vi:key-terms:baal|Ba-anh]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Baal]]**
+  * **[[:vi:obe:other:pray]]**
 
 ===== Phụ chú: =====
 
