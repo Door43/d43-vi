@@ -6,14 +6,14 @@ Giê-rô-bô-am chống nghịch lại Đức Chúa Trời và gây cho dân s�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jeroboam|Giê-rô-bô-am]]**
-  * **[[:vi:key-terms:rebel|chống nghịch]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
-  * **[[:vi:key-terms:idol|hình tượng]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:temple|Đền thờ]]**
-  * **[[:vi:key-terms:kingdom-of-judah|nước Giu-đa]]**
+  * **[[:vi:obe:other:Jeroboam]]**
+  * **[[:vi:obe:other:rebel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:idol]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:other:kingdomofJudah]]**
 
 ===== Phụ chú: =====
 
