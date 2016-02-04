@@ -6,12 +6,12 @@ Vì cớ điều này, Đức Chúa Trời nổi giận với Sa-lô-môn và Ng
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:solomon|Sa-lô-môn]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:promise|hứa]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:kingdom|vương quốc]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Solomon]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:kingdom]]**
 
 ===== Phụ chú: =====
 
