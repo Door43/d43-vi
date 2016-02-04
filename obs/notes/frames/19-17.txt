@@ -6,12 +6,12 @@ Hầu hết thời gian đó, dân chúng đã không vâng lời Đức Chúa T
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:obey|vâng phục]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
-  * **[[:vi:key-terms:jeremiah|Giê-rê-mi]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:mercy|thương xót]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Jeremiah]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:kt:mercy]]**
 
 ===== Phụ chú: =====
 
