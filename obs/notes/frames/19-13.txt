@@ -6,11 +6,11 @@ Sau đó, Ê-li nói với vua A-háp rằng: "Hãy mau trở về thành vì s�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:king|Vua]]**
-  * **[[:vi:key-terms:ahab|A-háp]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Ahab]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
