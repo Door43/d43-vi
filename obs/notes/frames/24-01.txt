@@ -6,9 +6,9 @@ Giăng, con trai của Xa-cha-ri và Ê-li-sa-bét, lớn lên và trở thành 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:john-baptist|Giăng]]**
-  * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:other:Zechariahnt]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
