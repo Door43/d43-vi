@@ -6,17 +6,17 @@ Qua tiên tri Giê-rê-mi, Đức Chúa Trời hứa rằng Ngài sẽ lập m�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:jeremiah|Giê-rê-mi]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:covenant-new|Giao ước mới]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:sinai|Si-nai]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:sin|tội]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Jeremiah]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:newcovenant]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:other:Sinai]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
