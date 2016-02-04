@@ -6,13 +6,13 @@ Ngay từ khi sáng thế, Đức Chúa Trời đã có kế hoạch hứa ban �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:messiah|Mê-si-a]]**
-  * **[[:vi:key-terms:promise|lời hứa]]**
-  * **[[:vi:key-terms:adam|A-đam]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:satan|Sa-tan]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:kt:satan]]**
 
 ===== Phụ chú: =====
 
