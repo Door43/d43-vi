@@ -6,15 +6,15 @@ Thiên sứ báo: "Hỡi Giô-sép đừng ngại lấy Ma-ri làm vợ, vì tha
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
-  * **[[:vi:key-terms:mary|Ma-ri]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:yahweh|Giê-hô-va]]**
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:sin|tội]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:other:Josephnt]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Yahweh]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
