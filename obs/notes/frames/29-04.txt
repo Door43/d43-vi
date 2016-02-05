@@ -6,8 +6,8 @@ Tên đầy tớ quỳ gối trước mặt vua và nài xin: "Xin hoãn lại c
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|đầy tớ]]**
-  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:king]]**
 
 ===== Phụ chú: =====
 
