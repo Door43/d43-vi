@@ -6,12 +6,12 @@ Ngài lại phán rằng: "Thật không có một tiên tri nào được tôn 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:true|quả thật]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:true]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
