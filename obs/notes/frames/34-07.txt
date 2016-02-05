@@ -6,11 +6,11 @@ Vị chức sắc tôn giáo cầu nguyện thế này: "Lạy Đức Chúa Tr�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội nhân]]**
-  * **[[:vi:key-terms:adultery|kẻ phạm tội tà dâm]]**
-  * **[[:vi:key-terms:tax-collector|kẻ thâu thuế]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:adultery]]**
+  * **[[:vi:obe:other:taxcollector]]**
 
 ===== Phụ chú: =====
 
