@@ -6,12 +6,12 @@ Chuyên gia kinh luật này trả lời rằng luật pháp của Đức Chúa 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:gods-law|luật pháp của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:love|kính mến]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:life|sự sống]]**
+  * **[[:vi:obe:kt:lawofmoses]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
