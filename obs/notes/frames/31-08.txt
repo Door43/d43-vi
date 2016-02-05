@@ -6,12 +6,12 @@ Khi Chúa Giê-su và Phi-e-rơ vừa lên thuyền, thì gió liền ngừng th
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:disciple|Các môn đồ]]**
-  * **[[:vi:key-terms:worship|quỳ lạy]]**
-  * **[[:vi:key-terms:true|Quả thật]]**
-  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:true]]**
+  * **[[:vi:obe:kt:SonofGod]]**
 
 ===== Phụ chú: =====
 
