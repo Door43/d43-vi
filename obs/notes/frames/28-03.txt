@@ -6,10 +6,10 @@ Nhưng viên quan thưa rằng: "Tôi đã giữ mọi điều đó từ khi cò
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:obey|tuân giữ]]**
-  * **[[:vi:key-terms:gods-law|luật]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:love|yêu]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:LawofMoses]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:love]]**
 
 ===== Phụ chú: =====
 
