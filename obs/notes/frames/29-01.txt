@@ -6,11 +6,11 @@ Một hôm, Phi-e-rơ hỏi Đức Chúa Giê-su: "Thưa Chúa, nếu anh em con
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:lord|Thầy]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:sin|lỗi]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
