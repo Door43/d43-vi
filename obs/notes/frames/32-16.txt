@@ -6,10 +6,10 @@ Người đàn bà khi nãy run rẩy và sợ hãi quỳ xuống trước mặt
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:faith|đức tin]]**
-  * **[[:vi:key-terms:heal|đã chữa lành]]**
-  * **[[:vi:key-terms:peace|bình an]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:faith]]**
+  * **[[:vi:obe:other:heal]]**
+  * **[[:vi:obe:other:peace]]**
 
 ===== Phụ chú: =====
 
