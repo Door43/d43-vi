@@ -6,10 +6,10 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:sheep|chiên]]**
-  * **[[:vi:key-terms:shepherd|người chăn]]**
-  * **[[:vi:key-terms:heal|chữa lành]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:sheep]]**
+  * **[[:vi:obe:other:shepherd]]**
+  * **[[:vi:obe:other:heal]]**
 
 ===== Phụ chú: =====
 
