@@ -6,9 +6,9 @@ Lúc đó, các môn đồ đang chèo thuyền, nhưng đến khuya họ mới 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:pray]]**
 
 ===== Phụ chú: =====
 
