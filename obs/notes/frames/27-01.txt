@@ -6,11 +6,11 @@ Một ngày kia, có một chuyên gia kinh luật Do Thái đến gặp Đức 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:teacher|thầy]]**
-  * **[[:vi:key-terms:inherit|thừa hưởng]]**
-  * **[[:vi:key-terms:eternal-life|sự sống đời đời]]**
-  * **[[:vi:key-terms:gods-law|Luật pháp của Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:teacher]]**
+  * **[[:vi:obe:kt:inherit]]**
+  * **[[:vi:obe:kt:eternity]]**
+  * **[[:vi:obe:kt:lawofMoses]]**
 
 ===== Phụ chú: =====
 
