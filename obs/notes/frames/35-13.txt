@@ -6,9 +6,9 @@ Người cha đáp: "Con trai, con luôn ở với cha, mọi sự cha có đề
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:death|đã chết]]**
-  * **[[:vi:key-terms:life|sống]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
