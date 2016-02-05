@@ -6,10 +6,10 @@ Sa-tan cám dỗ Chúa Giê-su rằng: "Nếu ngươi là Con của Đức Chúa
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:tempt|cám dỗ]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Satan]]**
+  * **[[:vi:obe:kt:tempt]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:SonofGod]]**
 
 ===== Phụ chú: =====
 
