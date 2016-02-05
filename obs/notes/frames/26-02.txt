@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:nazareth|Na-xa-rét]]**
-  * **[[:vi:key-terms:sabbath|Sa-bát]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:isaiah|Ê-sai]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Nazareth]]**
+  * **[[:vi:obe:kt:sabbath]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Isaiah]]**
 
 ===== Phụ chú: =====
 
