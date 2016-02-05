@@ -6,8 +6,8 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:inherit|người thừa kế]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:inherit]]**
 
 ===== Phụ chú: =====
 
