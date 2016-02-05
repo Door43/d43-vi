@@ -6,9 +6,9 @@ Người con cả nói với cha: "Cha xem bao nhiêu năm nay con phục vụ c
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:faithful|trung tín]]**
-  * **[[:vi:key-terms:disobey|bất tuân]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:obe:kt:faithful]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
