@@ -6,10 +6,10 @@ Chúa Giê-su trả lời cho chuyên gia kinh luật bằng cách kể câu chu
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:jew|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:jericho|Giê-ri-cô]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:other:Jericho]]**
 
 ===== Phụ chú: =====
 
