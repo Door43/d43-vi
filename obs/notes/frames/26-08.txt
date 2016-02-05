@@ -6,9 +6,9 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:galilee|Ga-li-lê]]**
-  * **[[:vi:key-terms:heal|chữa]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Galilee]]**
+  * **[[:vi:obe:other:heal]]**
 
 ===== Phụ chú: =====
 
