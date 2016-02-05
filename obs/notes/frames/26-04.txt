@@ -6,10 +6,10 @@ Rồi Chúa Giê-su ngồi xuống và mọi người trong nhà hội đều ch
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:word-of-god|Kinh Thánh]]**
-  * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]**
-  * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:other:Josephnt]]**
 
 ===== Phụ chú: =====
 
