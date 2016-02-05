@@ -6,9 +6,9 @@ Các quỷ này van xin Chúa Giê-su: "Xin đừng đuổi chúng tôi ra khỏ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:demon|các quỷ]]**
-  * **[[:vi:key-terms:beg|xin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:kt:demon]]**
+  * **[[:vi:obe:other:beg]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
