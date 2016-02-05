@@ -6,12 +6,12 @@ Người ta còn đem đến cho Đức Chúa Giê-su nhiều người bị qu�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:demon|quỷ ám]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:demon|quỷ ám]]**
-  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời ]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:demon]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:demon]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
