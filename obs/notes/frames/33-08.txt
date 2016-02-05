@@ -6,9 +6,9 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:love|tình yêu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
