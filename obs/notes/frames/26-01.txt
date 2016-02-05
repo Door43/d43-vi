@@ -6,12 +6,12 @@ Sau khi chiến thắng những cám dỗ của Sa-tan, Đức Chúa Giê-su đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:satan|của ma quỷ]]**
-  * **[[:vi:key-terms:tempt|sự cám dỗ]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:power|quyền năng]]**
-  * **[[:vi:key-terms:holy-spirit|Thánh Linh]]**
-  * **[[:vi:key-terms:galilee|xứ Ga-li-lê]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:kt:tempt]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:power]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:other:Galilee]]**
 
 ===== Phụ chú: =====
 
