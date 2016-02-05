@@ -6,13 +6,13 @@ Nhưng người thu thuế đứng xa xa chỗ vị chức sắc tôn giáo, và
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:tax-collector|người thâu thuế]]**
-  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:mercy|thương xót]]**
-  * **[[:vi:key-terms:sin|tội nhân]]**
+  * **[[:vi:obe:other:taxcollector]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:mercy]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
