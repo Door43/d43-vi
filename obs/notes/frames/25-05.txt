@@ -6,11 +6,11 @@ Nhưng Chúa Giê-su trả lời Sa-tan bằng cách trích dẫn lời Kinh Th�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:word-of-god|Kinh Thánh]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Satan]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
