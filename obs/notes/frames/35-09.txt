@@ -6,10 +6,10 @@ Nhưng người cha bảo đầy tớ rằng: "Hãy mau mau lấy áo tốt nh�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|những đứa đầy tớ]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:death|đã chết]]**
-  * **[[:vi:key-terms:life|sống]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
