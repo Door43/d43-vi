@@ -6,8 +6,8 @@ Khi những người chăn heo thấy chuyện vừa xảy ra, họ liền chạ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:demon|các quỷ sứ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:demon]]**
 
 ===== Phụ chú: =====
 
