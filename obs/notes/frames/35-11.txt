@@ -6,8 +6,8 @@ Người con cả thấy mọi người đang ăn mừng bởi vì em trai mình
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:beg|nài xin]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:beg]]**
 
 ===== Phụ chú: =====
 
