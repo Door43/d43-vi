@@ -6,9 +6,9 @@ Người trẻ tuổi đó hỏi rằng: "Những điều răn nào mà tôi ph�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:adultery|tà dâm]]**
-  * **[[:vi:key-terms:love|yêu]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:adultery]]**
+  * **[[:vi:obe:kt:love]]**
 
 ===== Phụ chú: =====
 
