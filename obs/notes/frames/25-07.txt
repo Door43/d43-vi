@@ -6,12 +6,12 @@ Nhưng Chúa Giê-su đáp lại rằng: "Hỡi Sa-tan, hãy lui ra khỏi ta! L
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:word-of-god|Lời Chúa]]**
-  * **[[:vi:key-terms:worship|Thờ phượng]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
