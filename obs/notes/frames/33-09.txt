@@ -6,9 +6,9 @@ Còn đất tốt chính là những người nghe Lời Chúa, tin theo và k�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:good|tốt]]**
-  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
