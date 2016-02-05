@@ -6,9 +6,9 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:joy|sự vui mừng]]**
-  * **[[:vi:key-terms:persecute|sự bắt bớ]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:joy]]**
+  * **[[:vi:obe:other:persecute]]**
 
 ===== Phụ chú: =====
 
