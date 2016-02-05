@@ -6,10 +6,10 @@ Người bị quỷ ám khóc và gào thét lên: "Lạy Đức Chúa Giê-su, 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:demon-possessed|người bị quỷ ám]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:god-son|Con]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời Chí Cao]]**
+  * **[[:vi:obe:kt:demonpossessed]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
