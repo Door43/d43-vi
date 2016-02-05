@@ -6,9 +6,9 @@ Chúa Giê-su sai các môn đồ đi truyền giảng và dạy dỗ dân chún
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:apostle|các môn đồ]]**
-  * **[[:vi:key-terms:preach|truyền giảng]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:apostle]]**
+  * **[[:vi:obe:other:preach]]**
 
 ===== Phụ chú: =====
 
