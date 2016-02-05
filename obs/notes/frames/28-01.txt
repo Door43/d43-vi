@@ -6,13 +6,13 @@ Một ngày kia, có một viên quan trẻ giàu có đến gặp và hỏi Đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:good|nhơn lành]]**
-  * **[[:vi:key-terms:teacher|thầy]]**
-  * **[[:vi:key-terms:eternal-life|sự sống đời đời]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:obey|vâng lời]]**
-  * **[[:vi:key-terms:gods-law|luật pháp của Ngài]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:teacher]]**
+  * **[[:vi:obe:kt:eternity]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:lawofMoses]]**
 
 ===== Phụ chú: =====
 
