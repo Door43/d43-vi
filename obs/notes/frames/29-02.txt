@@ -6,9 +6,9 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:kingdom-of-god|nước thiên đàng]]**
-  * **[[:vi:key-terms:king|king]]**
-  * **[[:vi:key-terms:servant|những đầy tớ]]**
+  * **[[:vi:obe:kt:Kingdomofgod]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:servant]]**
 
 ===== Phụ chú: =====
 
