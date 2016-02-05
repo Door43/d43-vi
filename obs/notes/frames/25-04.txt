@@ -6,12 +6,12 @@ Sau đó, Sa-tan đem Chúa Giê-su lên nóc đền thờ và bảo rằng: "N�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:temple|Đền Thờ]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:angel|thiên thần]]**
+  * **[[:vi:obe:kt:Satan]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:kt:Sonofgod]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:angel]]**
 
 ===== Phụ chú: =====
 
