@@ -6,8 +6,8 @@ Khi những người đầy tớ khác thấy sự việc như vậy, họ rất
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|Một số đầy tớ]]**
-  * **[[:vi:key-terms:king|vua]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:king]]**
 
 ===== Phụ chú: =====
 
