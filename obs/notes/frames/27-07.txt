@@ -6,9 +6,9 @@ Không lâu sau, một người Lê-vi đi xuống con đường đó (Người 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jew|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:priest|thầy tế lễ]]**
-  * **[[:vi:key-terms:temple|Đền Thờ]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:kt:priest]]**
+  * **[[:vi:obe:kt:temple]]**
 
 ===== Phụ chú: =====
 
