@@ -6,9 +6,9 @@ Rồi Đức Chúa Giê-su nói: "Nếu mỗi người trong các ngươi không
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]] phán**
-  * **[[:vi:key-terms:god-father|Cha Ta ở trên thiên đàng]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:forgive]]**
 
 ===== Phụ chú: =====
 
