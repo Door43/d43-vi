@@ -6,9 +6,9 @@ Người con trai nói với cha mình: "Cha ơi, con đã phạm tội với Tr
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
