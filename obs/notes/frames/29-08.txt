@@ -6,11 +6,11 @@ Vua truyền lệnh triệu hắn đến và phán: "Hỡi tên đầy tớ gian
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:servant|đầy tớ]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:beg|van xin]]**
-  * **[[:vi:key-terms:evil|gian ác]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe::other:beg]]**
+  * **[[:vi:obe:kt:evil]]**
 
 ===== Phụ chú: =====
 
