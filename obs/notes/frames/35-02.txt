@@ -6,9 +6,9 @@ Có vài nhà lãnh đạo tôn giáo ở đó thấy Đức Chúa Giê-su đố
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|lãnh đạo tôn giáo]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:sin|những tội nhân]]**
+  * **[[:vi:obe:other:jewishleaders]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
