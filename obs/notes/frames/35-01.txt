@@ -6,9 +6,9 @@ Một ngày kia, những kẻ thâu thuế và người có tội đến gần �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:tax-collector|người thâu thuế]]**
-  * **[[:vi:key-terms:sin|tội nhân]]**
+  * **[[:vi:obe:kt:jesus]]**
+  * **[[:vi:obe:other:taxcollector]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
