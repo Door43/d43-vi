@@ -6,11 +6,11 @@ La-xa-rơ liền bước ra. Anh vẫn còn được quấn trong khăn vải li
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:jew|người Giu-đa]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:miracle|phép lạ]]**
+  * **[[:vi:obe:other:Lazarus]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:miracle]]**
 
 ===== Phụ chú: =====
 
