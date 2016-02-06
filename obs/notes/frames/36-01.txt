@@ -6,11 +6,11 @@ Một ngày kia, Đức Chúa Giê-su mang theo ba môn đồ mình là Phi-e-r�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|môn đồ]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:john|Giăng]]**
-  * **[[:vi:key-terms:baptize|báp-tem]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:JohntheBaptist]]**
+  * **[[:vi:obe:kt:baptize]]**
 
 ===== Phụ chú: =====
 
