@@ -6,10 +6,10 @@ Chúa Giê-su đáp rằng: "Ta đã chẳng nói với con nếu con tin thì s
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:glory|sự vinh hiển]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:glory]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
