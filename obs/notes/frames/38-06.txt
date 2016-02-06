@@ -6,10 +6,10 @@ Ngài nói với các môn đồ: "Một người trong số các con sẽ phả
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:betray|phản]]**
-  * **[[:vi:key-terms:judas|Giu-đa]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:betray]]**
+  * **[[:vi:obe:other:JudasIscariot]]**
 
 ===== Phụ chú: =====
 
