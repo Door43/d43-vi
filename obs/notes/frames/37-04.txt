@@ -6,12 +6,12 @@ Khi Chúa Giê-su đến làng của La-xa-rơ thì La-xa-rơ đã chết đư�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
-  * **[[:vi:key-terms:death|đã chết]]**
-  * **[[:vi:key-terms:lord|Thầy]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Lazarus]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
