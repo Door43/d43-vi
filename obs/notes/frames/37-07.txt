@@ -6,9 +6,9 @@ Ngôi mộ là một cái hang được chặn bằng một tảng đá ở trư
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:tomb|mộ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:death|đã chết]]**
+  * **[[:vi:obe:other:tomb]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
