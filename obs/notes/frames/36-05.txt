@@ -6,10 +6,10 @@ Khi Phi-e-rơ đang nói, một đám mây sáng chói từ trời hạ xuống 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:god-son|Con]]**
-  * **[[:vi:key-terms:love|yêu dấu]]**
-  * **[[:vi:key-terms:disciple|môn đồ]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:disciple]]**
 
 ===== Phụ chú: =====
 
