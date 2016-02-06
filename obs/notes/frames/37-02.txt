@@ -6,10 +6,10 @@ Hết hai ngày, Chúa Giê-su nói với các môn đồ mình rằng: "Chúng 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|môn đồ]]**
-  * **[[:vi:key-terms:teacher|Thầy]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:teacher]]**
+  * **[[:vi:obe:other:Lazarus]]**
 
 ===== Phụ chú: =====
 
