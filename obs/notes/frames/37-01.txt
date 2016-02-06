@@ -6,12 +6,12 @@ Một ngày kia, Chúa Giê-su nhận được tin báo rằng La-xa-rơ đang b
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:glory|vinh hiển]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:love|yêu]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Lazarus]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:glory]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:love]]**
 
 ===== Phụ chú: =====
 
