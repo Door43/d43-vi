@@ -6,12 +6,12 @@ Các nhà lãnh đạo Do Thái dưới sự hướng dẫn của thầy tế l�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|Các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
-  * **[[:vi:key-terms:judas|Giu-đa]]**
-  * **[[:vi:key-terms:betray|phản bội]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:highpriest]]**
+  * **[[:vi:obe:other:JudasIscariot]]**
+  * **[[:vi:obe:kt:betray]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
