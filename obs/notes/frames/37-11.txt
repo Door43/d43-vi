@@ -6,10 +6,10 @@ Nhưng các lãnh đạo tôn giáo của người Do Thái ghen tị với Ngà
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo tôn giáo]]**
-  * **[[:vi:key-terms:jew|người Giu-đa]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
+  * **[[:vi:obe:other:jewishleaders]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Lazarus]]**
 
 ===== Phụ chú: =====
 
