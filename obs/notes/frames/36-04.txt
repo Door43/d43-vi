@@ -6,11 +6,11 @@ Khi Môi-se và Ê-li đang nói chuyện với Đức Chúa Giê-su thì Phi-e-
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:good|tốt]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:good]]**
 
 ===== Phụ chú: =====
 
