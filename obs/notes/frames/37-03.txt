@@ -6,12 +6,12 @@ Các môn đồ Chúa Giê-su trả lời: "Thầy ơi, nếu anh ấy đang ng�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:lord|Thầy]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:other:Lazarus]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
