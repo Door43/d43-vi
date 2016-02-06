@@ -6,11 +6,11 @@ Sau đó, Chúa Giê-su ngước mắt lên trời mà rằng: "Thưa Cha, con c
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:god-father|Cha]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:other:Lazarus]]**
 
 ===== Phụ chú: =====
 
