@@ -6,14 +6,14 @@ Giu-đa, một trong các môn đồ của Chúa Giê-su làm thủ quỹ giữ 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các sứ đồ]]**
-  * **[[:vi:key-terms:judas|Giu-đa]]**
-  * **[[:vi:key-terms:apostle|của các sứ đồ]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:betray|phản bội]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:JudasIscariot]]**
+  * **[[:vi:obe:kt:apostle]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:betray]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
