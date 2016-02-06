@@ -6,11 +6,11 @@ Sau đó, Ma-ri ra gặp Chúa Giê-su và quỳ dưới chân Ngài mà rằng:
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:lord|Thầy]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:lazarus|La-xa-rơ]]**
-  * **[[:vi:key-terms:tomb|mộ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:Lazarus]]**
+  * **[[:vi:obe:other:tomb]]**
 
 ===== Phụ chú: =====
 
