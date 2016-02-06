@@ -6,14 +6,14 @@ Chúa Giê-su trả lời: "Ta chính là Sự Sống Lại và Sự Sống. Ng�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:resurrection|Sự sống lại]]**
-  * **[[:vi:key-terms:life|Sự sống]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:lord|Thầy]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:resurrection]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:Sonofgod]]**
 
 ===== Phụ chú: =====
 
