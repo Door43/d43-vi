@@ -6,11 +6,11 @@ Chúa Giê-su và các môn đồ của Ngài tổ chức Lễ Vượt Qua tại
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:passover|Lễ Vượt Qua]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:sacrifice|hy sinh]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:passover]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:sacrifice]]**
 
 ===== Phụ chú: =====
 
