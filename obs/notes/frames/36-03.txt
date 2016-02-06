@@ -6,12 +6,12 @@ Sau đó, Môi-se và tiên tri Ê-li xuất hiện. Những người này đã 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:elijah|Ê-li]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:death|sự chết]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:other:Elijah]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:Jerusalem]]**
 
 ===== Phụ chú: =====
 
