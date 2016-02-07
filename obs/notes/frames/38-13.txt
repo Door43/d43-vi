@@ -6,10 +6,10 @@ Cứ sau mỗi lần cầu nguyện, Chúa Giê-su trở lại cùng các môn �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:betray|kẻ phản bội]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:betray]]**
 
 ===== Phụ chú: =====
 
