@@ -6,10 +6,10 @@ Bên trong nhà, các lãnh đạo Do Thái đã mở phiên tòa để xét x�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:witness|người làm chứng]]**
-  * **[[:vi:key-terms:guilt|mắc tội]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:witness]]**
+  * **[[:vi:obe:kt:guilt]]**
 
 ===== Phụ chú: =====
 
