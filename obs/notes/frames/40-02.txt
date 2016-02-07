@@ -6,12 +6,12 @@ Quân lính dẫn Chúa Giê-su đến một nơi gọi là "Đồi Sọ" và đ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:cross|thập tự]]**
-  * **[[:vi:key-terms:god-father|Cha]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:pilate|Phi-lát]]**
-  * **[[:vi:key-terms:king-of-jews|Vua dân Giu-đa]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:cross]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:other:Pilate]]**
+  * **[[:vi:obe:kt:KingoftheJews]]**
 
 ===== Phụ chú: =====
 
