@@ -6,9 +6,9 @@ Chúa Giê-su đến gần và đi cùng họ nhưng họ không nhận ra Ngài
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-~~COMPLEX_TABLES~~
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+
 
 ===== Phụ chú: =====
 
