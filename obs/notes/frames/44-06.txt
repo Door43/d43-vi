@@ -6,10 +6,10 @@ Các vị lãnh đạo đền thờ rất khó chịu khi nghe Phi-e-rơ và Gi�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:temple|Đền thờ]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:john|Giăng]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:JohntheApostle]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
