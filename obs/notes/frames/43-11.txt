@@ -6,14 +6,14 @@ Phi-e-rơ trả lời rằng: "Mỗi người trong các ngươi hãy ăn năn, 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:baptize|báp-tem]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]][[:vi:key-terms:messiah|Christ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:sin|Tội lỗi]]**
-  * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
 
 ===== Phụ chú: =====
 
