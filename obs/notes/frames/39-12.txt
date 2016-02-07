@@ -6,12 +6,12 @@ Phi-lát bắt đầu thấy lo sợ rằng dân chúng sẽ gây bạo loạn n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:pilate|Phi-lát]]**
-  * **[[:vi:key-terms:crucify|đóng đinh]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:rome|La-mã]]**
-  * **[[:vi:key-terms:mock|chế giễu]]**
-  * **[[:vi:key-terms:king-of-jews|Vua dân Giu-đa]]**
+  * **[[:vi:obe:other:Pilate]]**
+  * **[[:vi:obe:kt:crucify]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Rome]]**
+  * **[[:vi:obe:other:mock]]**
+  * **[[:vi:obe:kt:KingoftheJews]]**
 
 ===== Phụ chú: =====
 
