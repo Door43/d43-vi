@@ -6,14 +6,14 @@ Sau khi quân lính đóng đinh Chúa Giê-su, những nhà lãnh đạo Do Th�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:crucify|đóng đinh]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Do Thái]]**
-  * **[[:vi:key-terms:pilate|Phi-lát]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:death|cõi chết]]**
-  * **[[:vi:key-terms:tomb|mộ]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:obe:kt:crucify]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:other:Pilate]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:tomb]]**
+  * **[[:vi:obe:kt:disciple]]**
 
 ===== Phụ chú: =====
 
