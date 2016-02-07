@@ -6,9 +6,9 @@ Bấy giờ đã là nửa đêm, quân lính giải Chúa Giê-su đến nhà t
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:priest-high|thầy cả thượng phẩm]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:highpriest]]**
+  * **[[:vi:obe:other:Peter]]**
 
 ===== Phụ chú: =====
 
