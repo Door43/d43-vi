@@ -6,11 +6,11 @@ Một đám đông dân chúng liền kéo đến để xem người què đư�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:heal|được chữa lành]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:power|quyền năng]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:faith|đức tin]]**
+  * **[[:vi:obe:other:heal]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:power]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:faith]]**
 
 ===== Phụ chú: =====
 
