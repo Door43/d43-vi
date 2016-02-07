@@ -6,11 +6,11 @@ Ngày hôm sau, các vị lãnh đạo Do Thái đem Phi-e-rơ và Giăng đến
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Do Thái]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:john|Giăng]]**
-  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
-  * **[[:vi:key-terms:power|quyền]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:JohntheApostle]]**
+  * **[[:vi:obe:kt:Highpriest]]**
+  * **[[:vi:obe:kt:power]]**
 
 ===== Phụ chú: =====
 
