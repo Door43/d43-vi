@@ -6,10 +6,10 @@ Phi-e-rơ liền thề: "Nguyện Chúa rủa sả tôi nếu tôi biết ngư�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:curse|rủa sả]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:curse]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
