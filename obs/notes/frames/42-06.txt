@@ -6,10 +6,10 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:peace|Bình an]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:kt:disciple]]**
 
 ===== Phụ chú: =====
 
