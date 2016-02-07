@@ -6,11 +6,11 @@ Hai người nam ấy nói với nhau rằng: "Đó chính là Chúa Giê-su! �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:life|sống lại]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
