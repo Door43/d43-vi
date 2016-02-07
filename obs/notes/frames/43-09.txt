@@ -6,11 +6,11 @@ Các ngươi đã đóng đinh Đức Chúa Giê-su. Nhưng hãy biết chắc r
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:crucify|đã đóng đinh]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:obe:kt:crucify]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
