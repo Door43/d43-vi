@@ -6,14 +6,14 @@ Bốn mươi ngày sau khi Chúa Giê-su sống lại từ cõi chết, Ngài n�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:god-father|Cha]]**
-  * **[[:vi:key-terms:power|quyền phép]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:jerusalem]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:power]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
