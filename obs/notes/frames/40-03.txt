@@ -6,9 +6,9 @@ Quân lính bốc thăm chia nhau áo của Chúa Giê-su. Khi làm điều này
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|của Chúa Giê-xu]]**
-  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
-  * **[[:vi:key-terms:prophet|lời tiên tri]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:fulfill]]**
+  * **[[:vi:obe:kt:prophet]]**
 
 ===== Phụ chú: =====
 
