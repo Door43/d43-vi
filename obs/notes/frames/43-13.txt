@@ -6,12 +6,12 @@ Những người tin đã bền lòng nghe lời dạy của các sứ đồ, d�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:apostle|các sứ đồ]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
-  * **[[:vi:key-terms:praise|sự ngợi khen]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:believer|người tin Chúa]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:apostle]]**
+  * **[[:vi:obe:other:Pray]]**
+  * **[[:vi:obe:other:praise]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:believer]]**
 
 ===== Phụ chú: =====
 
