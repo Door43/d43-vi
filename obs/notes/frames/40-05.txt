@@ -6,13 +6,13 @@ Các lãnh đạo Do Thái và đám đông dân chúng cũng phỉ báng Chúa 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|Các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:mock|chế giễu]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
-  * **[[:vi:key-terms:cross|thập tự giá]]**
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:other:mock]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:cross]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
