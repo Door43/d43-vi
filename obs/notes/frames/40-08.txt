@@ -6,11 +6,11 @@ Thông qua sự chết của mình, Chúa Giê-su đã mở một con đường 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:death|sự chết]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:innocent|vô tội]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:innocent]]**
+  * **[[:vi:obe:kt:SonofGod]]**
 
 ===== Phụ chú: =====
 
