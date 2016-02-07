@@ -6,16 +6,16 @@ Phi-e-rơ trả lời họ rằng: "Người đang đứng trước mặt các �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:heal|chữa lành]]**
-  * **[[:vi:key-terms:power|quyền phép]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:crucify|đóng đinh]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:life|sống]]**
-  * **[[:vi:key-terms:save|được cứu]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:heal]]**
+  * **[[:vi:obe:kt:power]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:crucify]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:kt:save]]**
 
 ===== Phụ chú: =====
 
