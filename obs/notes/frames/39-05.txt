@@ -6,11 +6,11 @@ Các nhà lãnh đạo tôn giáo cùng đáp với vị thầy tế lễ thư�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:priest-high|thầy cả thượng phẩm]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:mock|chế nhạo]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:highpriest]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:mock]]**
 
 ===== Phụ chú: =====
 
