@@ -6,10 +6,10 @@ Sau khi quân lính phỉ báng Chúa Giê-su, chúng dẫn Ngài đến chỗ �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:mock|chế giễu]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:crucify|đóng đinh]]**
-  * **[[:vi:key-terms:cross|thập tự]]**
+  * **[[:vi:obe:other:mock]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:crucify]]**
+  * **[[:vi:obe:kt:cross]]**
 
 ===== Phụ chú: =====
 
