@@ -6,10 +6,10 @@ Bất thình lình, có một trận động đất lớn xảy ra. Một thiên
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:tomb|mộ]]**
-  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:other:tomb]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
