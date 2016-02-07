@@ -6,15 +6,15 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:word-of-god|Kinh Thánh]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:repent|ăn năn]]**
-  * **[[:vi:key-terms:receive|tiếp nhận]]**
-  * **[[:vi:key-terms:forgive|sự tha thứ]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:people-group|các nhóm dân tộc]]**
-  * **[[:vi:key-terms:witness|nhân chứng]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:repent]]**
+  * **[[:vi:obe:kt:receive]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:other:peoplegroup]]**
+  * **[[:vi:obe:kt:witness]]**
 
 ===== Phụ chú: =====
 
