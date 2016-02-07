@@ -6,11 +6,11 @@ Hằng năm, 50 ngày sau lễ Vượt qua người Do Thái tổ chức một n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:passover|Lễ Vượt Qua]]**
-  * **[[:vi:key-terms:jew|người Do Thái]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:obe:kt:passover]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:heaven]]**
 
 ===== Phụ chú: =====
 
