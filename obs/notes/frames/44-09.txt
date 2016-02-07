@@ -6,10 +6,10 @@ Các nhà lãnh đạo vô cùng sốc khi thấy Phi-e-rơ và Giăng nói năn
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:john|Giăng]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:JohntheApostle]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
