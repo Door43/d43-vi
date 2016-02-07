@@ -6,10 +6,10 @@ Bấy giờ Phi-e-rơ ngồi chờ bên ngoài, một đầy tớ gái đến n�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:servant|đầy tớ gái]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:galilee|Ga-li-lê]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Galilee]]**
 
 ===== Phụ chú: =====
 
