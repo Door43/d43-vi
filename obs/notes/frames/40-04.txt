@@ -6,13 +6,13 @@ Chúa Giê-su bị đóng đinh giữa hai tên cướp. Một tên phỉ báng 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:crucify|bị đóng đinh]]**
-  * **[[:vi:key-terms:mock|chế nhạo]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:guilt|có tội]]**
-  * **[[:vi:key-terms:innocent|vô tội]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:crucify]]**
+  * **[[:vi:obe:other:mock]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:guilt]]**
+  * **[[:vi:obe:kt:innocent]]**
+  * **[[:vi:obe:kt:Kingdomofgod]]**
 
 ===== Phụ chú: =====
 
