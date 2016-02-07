@@ -6,13 +6,12 @@ Sau đó, Chúa Giê-su kêu lớn tiếng: "Mọi sự đã xong rồi. Cha ơi
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god-father|Cha]]**
-  * **[[:vi:key-terms:spirit|linh hồn]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:temple|Đền thờ]]**
-
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:spirit]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:temple]]**
 ===== Phụ chú: =====
 
 
