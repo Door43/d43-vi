@@ -6,13 +6,13 @@ Có độ 3000 người tin những lời Phi-e-rơ nói và trở thành môn �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:believe|người tin]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:disciple|môn đồ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:baptize|phép báp-tem]]**
-  * **[[:vi:key-terms:church|hội thánh]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:church]]**
+  * **[[:vi:obe:other:Jerusalem]]**
 
 ===== Phụ chú: =====
 
