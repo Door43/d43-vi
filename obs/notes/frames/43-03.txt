@@ -6,8 +6,8 @@ Trong khi các môn đồ đang nhóm họp cùng nhau, thì thình lình khắp
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:believer|những người tin Chúa Giê-xu]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:obe:kt:believer]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
 
 ===== Phụ chú: =====
 
