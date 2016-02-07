@@ -6,12 +6,12 @@ Sau đó, Giô-sép và Ni-cô-đem là hai lãnh đạo Do Thái tin rằng Ch�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:pilate|Phi-lát]]**
-  * **[[:vi:key-terms:tomb|ngôi mộ]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:other:Pilate]]**
+  * **[[:vi:obe:other:tomb]]**
 
 ===== Phụ chú: =====
 
