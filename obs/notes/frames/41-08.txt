@@ -6,10 +6,10 @@ Trong khi họ đang trên đường đi báo tin, Đức Chúa Giê-su hiện r
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:worship|thờ lạy]]**
-  * **[[:vi:key-terms:galilee|Ga-li-lê]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:other:Galilee]]**
 
 ===== Phụ chú: =====
 
