@@ -6,12 +6,12 @@ Sau đó, thiên sứ nói với họ: "Hãy đi và báo tin cho các môn đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:death|cõi chết]]**
-  * **[[:vi:key-terms:galilee|xứ Ga-li-lê]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:Galilee]]**
 
 ===== Phụ chú: =====
 
