@@ -6,8 +6,8 @@ Những người phụ nữ hết sức kính sợ và vui mừng. Họ chạy �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:joy|vui mừng]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:obe:kt:joy]]**
+  * **[[:vi:obe:kt:disciple]]**
 
 ===== Phụ chú: =====
 
