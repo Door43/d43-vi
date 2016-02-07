@@ -6,11 +6,11 @@ Khi những người phụ nữ đến mộ, thiên sứ nói với họ: "Đừ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:death|cõi chết]]**
-  * **[[:vi:key-terms:tomb|mộ]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:other:tomb]]**
 
 ===== Phụ chú: =====
 
