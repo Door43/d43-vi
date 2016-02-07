@@ -6,11 +6,11 @@ Sáng sớm hôm sau, những nhà lãnh đạo tôn giáo Do Thái giải Chúa
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:pilate|Phi-lát]]**
-  * **[[:vi:key-terms:rome|người La-mã]]**
-  * **[[:vi:key-terms:king-of-jews|vua dân Giu-đa]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Pilate]]**
+  * **[[:vi:obe:other:Rome]]**
+  * **[[:vi:obe:kt:KingoftheJews]]**
 
 ===== Phụ chú: =====
 
