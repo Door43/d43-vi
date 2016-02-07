@@ -6,12 +6,12 @@ Hỡi dân thành Giê-ru-sa-lem, như các ngươi đã thấy và biết Đứ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:israel|người Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:jesus|Giê-xu]]**
-  * **[[:vi:key-terms:miracle|dấu kỳ và phép lạ]]**
-  * **[[:vi:key-terms:power|quyền phép]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:crucify|đã đóng đinh]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:miracle]]**
+  * **[[:vi:obe:kt:power]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:crucify]]**
 
 ===== Phụ chú: =====
 
