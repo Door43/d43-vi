@@ -6,10 +6,10 @@ Sau ngày chôn Chúa Giê-su là ngày Sa-bát. Trong ngày này, người Do T
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:sabbath|Sa-bát]]**
-  * **[[:vi:key-terms:jew|người Do Thái]]**
-  * **[[:vi:key-terms:tomb|mộ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:sabbath]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:other:tomb]]**
 
 ===== Phụ chú: =====
 
