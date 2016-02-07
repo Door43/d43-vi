@@ -6,15 +6,15 @@ Chúa Giê-su nói với các môn đồ rằng: "Mọi quyền phép trên tr�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:people-group|các nhóm dân tộc]]**
-  * **[[:vi:key-terms:baptize|báp-tem]]**
-  * **[[:vi:key-terms:god-father|Đức Chúa Cha]]**
-  * **[[:vi:key-terms:god-son|Đức Chúa Con]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:obey|vâng theo]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:other:peoplegroup]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:GodtheFather]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:other:obey]]**
 
 ===== Phụ chú: =====
 
