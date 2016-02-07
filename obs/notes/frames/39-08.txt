@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:judas|Giu-đa]]**
-  * **[[:vi:key-terms:betray|kẻ phản bội]]**
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:JudasIscariot]]**
+  * **[[:vi:obe:kt:betray]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
