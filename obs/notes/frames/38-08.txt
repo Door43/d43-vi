@@ -6,10 +6,10 @@ Sau buổi tiệc, Chúa Giê-su và các môn đồ Ngài đi lên núi Ô-li-v
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:shepherd|người chăn]]**
-  * **[[:vi:key-terms:sheep|bầy chiên]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:shepherd]]**
+  * **[[:vi:obe:other:sheep]]**
 
 ===== Phụ chú: =====
 
