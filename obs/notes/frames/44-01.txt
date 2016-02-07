@@ -6,10 +6,10 @@ Một ngày kia khi Phi-e-rơ và Giăng đến đền thờ cầu nguyện thì
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:john|Giăng]]**
-  * **[[:vi:key-terms:temple|đền thờ]]**
-  * **[[:vi:key-terms:beg|xin ăn]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:other:JohntheApostle]]**
+  * **[[:vi:obe:kt:temple]]**
+  * **[[:vi:obe:other:beg]]**
 
 ===== Phụ chú: =====
 
