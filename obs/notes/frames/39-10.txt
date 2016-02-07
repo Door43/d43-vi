@@ -6,14 +6,14 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
-  * **[[:vi:key-terms:kingdom|vương quốc]]**
-  * **[[:vi:key-terms:servant|các đầy tớ]]**
-  * **[[:vi:key-terms:true|lẽ thật]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:love|yêu]]**
-  * **[[:vi:key-terms:pilate|Phi-lát]]**
+  * **[[:vi:obe:kt:jesus]]**
+  * **[[:vi:obe:kt:KingdomofGod]]**
+  * **[[:vi:obe:other:Kingdom]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:true]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:other:Pilate]]**
 
 ===== Phụ chú: =====
 
