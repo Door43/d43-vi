@@ -6,15 +6,15 @@ Mặc dù Đức Chúa Giê-su đã chịu chết, nhưng Đức Chúa Trời đ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:death|cõi chết]]**
-  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
-  * **[[:vi:key-terms:prophet|lời tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Thánh]]**
-  * **[[:vi:key-terms:witness|làm chứng]]**
-  * **[[:vi:key-terms:life|sống]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:fulfill]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:witness]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
