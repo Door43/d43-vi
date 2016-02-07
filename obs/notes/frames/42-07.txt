@@ -6,13 +6,13 @@ Chúa Giê-su nói: "Ta đã bảo rằng mọi điều viết về Ta trong L�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:fulfill|được ứng nghiệm]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:suffer|chịu khổ]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:fulfill]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:suffer]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:raise]]**
 
 ===== Phụ chú: =====
 
