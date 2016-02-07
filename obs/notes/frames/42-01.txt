@@ -6,12 +6,12 @@ Vào ngày Chúa Giê-su sống lại từ cõi chết, có hai môn đồ của
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:life|sống]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:kt:believe]]**
 ===== Phụ chú: =====
 
   * //(Không có lưu ý cho phần nầy).//
