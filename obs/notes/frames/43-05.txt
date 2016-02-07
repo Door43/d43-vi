@@ -6,11 +6,11 @@ Nhưng có vài kẻ đã nhạo báng các môn đồ say rượu. Phi-e-rơ li
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:fulfill|ứng nghiệm]]**
-  * **[[:vi:key-terms:prophet|lời tiên tri]]**
-  * **[[:vi:key-terms:holy-spirit|Thánh Linh]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:Peter]]**
+  * **[[:vi:obe:kt:fulfill]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
 
 ===== Phụ chú: =====
 
