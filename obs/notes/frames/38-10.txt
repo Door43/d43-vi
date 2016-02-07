@@ -6,10 +6,10 @@ Phi-e-rơ trả lời Chúa Giê-su: "Dù phải chết, con cũng sẽ không b
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:peter|Phi-e-rơ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
+  * **[[:vi:obe:other:peter]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:disciple]]**
 
 ===== Phụ chú: =====
 
