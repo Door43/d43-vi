@@ -6,11 +6,11 @@ Giu-đa đến cùng với các nhà lãnh đạo Do Thái, quân lính, và m�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:judas|Giu-đa]]**
-  * **[[:vi:key-terms:jewish-leaders|lãnh đạo Giu-đa]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:teacher|Thầy]]**
-  * **[[:vi:key-terms:betray|phản bội]]**
+  * **[[:vi:obe:other:JudasIscariot]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:teacher]]**
+  * **[[:vi:obe:kt:betray]]**
 
 ===== Phụ chú: =====
 
