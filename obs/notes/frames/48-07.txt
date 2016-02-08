@@ -6,15 +6,15 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:people-group|các dân]]**
-  * **[[:vi:key-terms:bless|được phước]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:save|được cứu]]**
-  * **[[:vi:key-terms:spirit|thuộc linh]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:other:peoplegroup]]**
+  * **[[:vi:obe:kt:bless]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:descendant]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:spirit]]**
 
 ===== Phụ chú: =====
 
