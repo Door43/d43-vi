@@ -6,11 +6,10 @@ Cô gái bị quỷ ám này cứ đi theo Phao-lô và Si-la và la lớn tiế
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|đứa tớ gái]]**
-  * **[[:vi:key-terms:servant|đầy tớ]]**
-  * **[[:vi:key-terms:god|Đấng Tối Cao]]**
-  * **[[:vi:key-terms:save|được cứu rỗi]]**
-  * **[[:vi:key-terms:paul|Phao-lô]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:other:Paul]]**
 
 ===== Phụ chú: =====
 
