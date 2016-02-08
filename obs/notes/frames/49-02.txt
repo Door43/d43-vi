@@ -6,13 +6,13 @@ Chúa Giê-su đã làm nhiều phép lạ chứng tỏ Ngài là Đức Chúa T
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:miracle|phép lạ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:heal|chữa lành]]**
-  * **[[:vi:key-terms:demon|các quỷ]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:miracle]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:heal]]**
+  * **[[:vi:obe:kt:demon]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
