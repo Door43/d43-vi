@@ -6,13 +6,13 @@ Phao-lô và các sứ đồ đi khắp mọi nơi để giảng dạy Tin Lành
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:christian|Cơ Đốc]]**
-  * **[[:vi:key-terms:preach|giảng]]**
-  * **[[:vi:key-terms:good-news|tin lành]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:believer|các tín hữu]]**
-  * **[[:vi:key-terms:church|hội thánh]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:kt:Christian]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:kt:goodnews]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:believer]]**
+  * **[[:vi:obe:kt:church]]**
 
 ===== Phụ chú: =====
 
