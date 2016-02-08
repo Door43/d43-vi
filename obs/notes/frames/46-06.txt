@@ -6,13 +6,13 @@ Ngay lập tức, Sau-lơ bắt đầu giảng dạy cho người Do Thái tại
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:preach|giảng]]**
-  * **[[:vi:key-terms:jew|những người Do Thái]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god-son|Con Đức Chúa Trời]]**
-  * **[[:vi:key-terms:believer|tín hữu]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:believer]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
