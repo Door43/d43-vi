@@ -7,10 +7,10 @@ Một sứ đồ của Chúa Giê-su tên là Phi-líp cũng trốn khỏi thàn
 ===== Điều khoản quan trọng: =====
 
 
-    * **[[:vi:key-terms:chariot|chariot]]**
-    * **[[:vi:key-terms:isaiah|prophet Isaiah]]**
-    * **[[:vi:key-terms:lamb|lamb]]**
-    * **[[:vi:key-terms:life|life]]** 
+    * **[[:vi:obe:other:chariot]]**
+    * **[[:vi:obe:other:Isaiah]]**
+    * **[[:vi:obe:kt:lamb]]**
+    * **[[:vi:obe:kt:life]]** 
 ===== Phụ chú: =====
 
 
