@@ -6,11 +6,11 @@ Khi Đức Chúa Trời hủy diệt thế gian bằng trận Đại Hồng Th�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
