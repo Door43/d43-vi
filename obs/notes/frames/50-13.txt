@@ -6,12 +6,12 @@ Chúa Giê-su đã hứa ban tặng vương miện cho những ai tin Ngài. H�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:life|sống]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:peace|bình an]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:promise]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:peace]]**
 
 ===== Phụ chú: =====
 
