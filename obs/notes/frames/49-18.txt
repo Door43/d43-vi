@@ -6,11 +6,11 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
-  * **[[:vi:key-terms:word-of-god|Lời của Ngài]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:kt:WordofGod]]**
+  * **[[:vi:obe:kt:worship]]**
+  * **[[:vi:obe:kt:Christian]]**
 ===== Phụ chú: =====
 
   * **để có được một mối quan hệ sâu sắc với Ngài**- Chỗ nầy có thể dịch là: “để yêu Ngài nhiều hơn” hay “để biết Ngài rõ hơn” hay “để trở nên trung tín cho Ngài hơn”.
