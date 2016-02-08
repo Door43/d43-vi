@@ -6,14 +6,14 @@ Một ngày kia, trong khi Ê-tiên đang giảng dạy về Chúa Giê-su thì 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:jew|người Do Thái]]**
-  * **[[:vi:key-terms:jewish-leaders|các lãnh đạo tôn giáo]]**
-  * **[[:vi:key-terms:evil|điều ác]]**
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
-  * **[[:vi:key-terms:witness|lời làm chứng]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:other:Jewishleaders]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:highpriest]]**
+  * **[[:vi:obe:kt:witness]]**
 
 ===== Phụ chú: =====
 
