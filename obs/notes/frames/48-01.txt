@@ -6,12 +6,12 @@ Khi Đức Chúa Trời sáng tạo thế gian, mọi thứ đều hoàn hảo. 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức CHúa Trời]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:adam|A-dam]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:love|yêu thương]]**
-  * **[[:vi:key-terms:death|sự chết]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
