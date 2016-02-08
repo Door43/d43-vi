@@ -6,16 +6,16 @@ Khi Đức Chúa Trời bảo Áp-ra-ham dâng con mình là Y-sác làm sinh t�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:son|con trai]]**
-  * **[[:vi:key-terms:isaac|Y-sác]]**
-  * **[[:vi:key-terms:sacrifice|của tế lễ]]**
-  * **[[:vi:key-terms:lamb|chiên con]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:lamb|Chiên con của Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:son]]**
+  * **[[:vi:obe:other:Isaac]]**
+  * **[[:vi:obe:other:sacrifice]]**
+  * **[[:vi:obe:kt:lamb]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:lamb]]**
 
 ===== Phụ chú: =====
 
