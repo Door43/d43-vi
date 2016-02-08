@@ -6,13 +6,13 @@ Chúa Giê-su dạy rằng Đức Chúa Trời ghét tội lỗi. Khi A-đam và
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:adam|A-dam]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
-  * **[[:vi:key-terms:descendant|dòng dõi]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:other:descendant]]**
 
 ===== Phụ chú: =====
 
