@@ -6,11 +6,11 @@ Nhưng Đức Chúa Trời sẽ phán xét những kẻ không tin Ngài. Ngài 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:judge|đoán xét]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:hell|địa ngục]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:judge]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:hell]]**
 
 ===== Phụ chú: =====
 
