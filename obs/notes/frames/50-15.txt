@@ -6,12 +6,12 @@ Khi Chúa Giê-su trở lại, Ngài sẽ hủy diệt Sa-tan và Vương Quốc
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:kingdom|vương quốc]]**
-  * **[[:vi:key-terms:hell|địa ngục]]**
-  * **[[:vi:key-terms:obey|vâng lời]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:other:kingdom]]**
+  * **[[:vi:obe:kt:hell]]**
+  * **[[:vi:obe:other:obey]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
