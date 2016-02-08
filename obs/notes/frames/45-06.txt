@@ -6,12 +6,12 @@ Một chàng trai trẻ tên Sau-lơ rất hả hê đắc chí với những g�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:persecute|bắt bớ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:believer|các tín đồ]]**
-  * **[[:vi:key-terms:preach|giảng]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:other:persecute]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:believer]]**
+  * **[[:vi:obe:other:preach]]**
 
 ===== Phụ chú: =====
 
