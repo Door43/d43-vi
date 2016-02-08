@@ -6,15 +6,15 @@ Khi Sau-lơ đi rao giảng khắp Đế quốc La-mã, ông bắt đầu sử d
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:rome|Đế chế La-mã]]**
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:silas|Si-la]]**
-  * **[[:vi:key-terms:philippi|Phi-líp]]**
-  * **[[:vi:key-terms:good-news|tin lành]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:love|yêu mến]]**
-  * **[[:vi:key-terms:worship|thờ phượng]]**
-  * **[[:vi:key-terms:worship|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Rome]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Silas]]**
+  * **[[:vi:obe:other:Philippi]]**
+  * **[[:vi:obe:kt:goodnews]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:worship]]**
+
 ===== Phụ chú: =====
 
   * **rao giảng - **  Tức là: "dạy" hay "giảng".
