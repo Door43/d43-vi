@@ -6,10 +6,10 @@ Sau đó nhiều ngày, người Do Thái lập mưu giết Sau-lơ. Họ sai ng
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jew|những người Do Thái]]**
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:preach|giảng]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:Jew]]**
+  * **[[:vi:obe:other:paul]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
