@@ -6,11 +6,11 @@ Chúa Giê-su dạy rằng Đức Chúa Trời yêu thương tội nhân rất n
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:love|yêu]]**
-  * **[[:vi:key-terms:sin|tội nhân]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:forgive]]**
 
 ===== Phụ chú: =====
 
