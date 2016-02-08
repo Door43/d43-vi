@@ -6,13 +6,13 @@ Phao-lô và Si-la thường gặp mọi người tại nơi cầu nguyện. H�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:silas|Si-la]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
-  * **[[:vi:key-terms:servant|đứa tớ gái]]**
-  * **[[:vi:key-terms:demon-possessed|bị quỷ ám]]**
-  * **[[:vi:key-terms:demon|con quỷ]]**
-  * **[[:vi:key-terms:lord|những người chủ]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Silas]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:demonpossessed]]**
+  * **[[:vi:obe:kt:demon]]**
+  * **[[:vi:obe:kt:Lord]]**
 
 ===== Phụ chú: =====
 
