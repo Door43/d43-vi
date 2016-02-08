@@ -6,13 +6,13 @@ Bởi vì A-đam và Ê-va không vâng lời Đức Chúa Trời và mang tội
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:adam|A-dam]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:disobey|không vâng lời]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:curse|đã rủa sả]]**
-  * **[[:vi:key-terms:heaven|trời]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:curse]]**
+  * **[[:vi:obe:kt:heaven]]**
 
 ===== Phụ chú: =====
 
