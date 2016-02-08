@@ -6,11 +6,11 @@ Nếu bạn là một Cơ đốc nhân, thì Đức Chúa Trời đã tha thứ 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:forgive|tha thứ]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:kt:Christian]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:forgive]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:Jesus]]**
 ===== Phụ chú: =====
 
   * **nhìn xem các ngươi ****là**– Tức là: “suy nghĩ về các ngươi như là” hay “xem các ngươi là” hay “gọi các ngươi”.
