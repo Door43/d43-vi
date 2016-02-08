@@ -6,13 +6,13 @@ Chúa Giê-su và dân sự Ngài sẽ sống trên trái đất mới và Ngài
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:suffer|đau khổ]]**
-  * **[[:vi:key-terms:evil|điều ác]]**
-  * **[[:vi:key-terms:death|sự chết]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
-  * **[[:vi:key-terms:peace|sự bình an]]**
-  * **[[:vi:key-terms:justice|công chính]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:suffer]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:kingdomofGod]]**
+  * **[[:vi:obe:other:peace]]**
+  * **[[:vi:obe:kt:justice]]**
 
 ===== Phụ chú: =====
 
