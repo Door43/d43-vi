@@ -6,14 +6,14 @@ Nhưng Đức Chúa Trời yêu thương mọi người trong thế gian đến 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:love|yêu thương]]**
-  * **[[:vi:key-terms:god-son|Con]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:life|sống]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
