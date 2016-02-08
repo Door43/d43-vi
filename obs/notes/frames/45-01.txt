@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:church|Hội Thánh]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:wise|sự khôn ngoan]]**
-  * **[[:vi:key-terms:miracle|phép lạ]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:kt:church]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:wise]]**
+  * **[[:vi:obe:kt:miracle]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
