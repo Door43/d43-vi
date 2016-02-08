@@ -6,16 +6,16 @@ Thầy tế lễ thượng phẩm hỏi Ê-tiên: "Những điều họ nói v�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:priest-high|thầy tế lễ thượng phẩm]]**
-  * **[[:vi:key-terms:true|đúng]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:abraham|Áp-ra-ham]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:disobey|không vâng lời]]**
-  * **[[:vi:key-terms:rebel|nổi loạn]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:prophet|các tiên tri]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
+  * **[[:vi:obe:kt:highpriest]]**
+  * **[[:vi:obe:kt:true]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Abraham]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:disobey]]**
+  * **[[:vi:obe:other:rebel]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Christ]]**
 
 ===== Phụ chú: =====
 
