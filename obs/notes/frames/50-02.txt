@@ -6,13 +6,13 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:holy|thánh khiết]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:preach|giảng]]**
-  * **[[:vi:key-terms:good-news|tin lành]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:holy]]**
+  * **[[:vi:obe:kt:kingdomofGod]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:kt:goodnews]]**
 
 ===== Phụ chú: =====
 
