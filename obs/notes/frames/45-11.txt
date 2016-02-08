@@ -6,8 +6,8 @@ Trên đường đi, Phi-líp và quan thái giám Ê-thi-ô-bi gặp một nơi
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:baptize|phép báp-tem]]**
-  * **[[:vi:key-terms:chariot|xe ngựa]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:other:chariot]]**
 
 ===== Phụ chú: =====
 
