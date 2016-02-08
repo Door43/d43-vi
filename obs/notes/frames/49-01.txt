@@ -6,10 +6,10 @@ Một thiên sứ đã báo tin cho một nữ đồng trinh tên là Ma-ri rằ
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:virgin|đồng trinh]]**
-  * **[[:vi:key-terms:mary|Mary]]**
-  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:virgin]]**
+  * **[[:vi:obe:other:Mary]]**
+  * **[[:vi:obe:kt:Sonofgod]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
