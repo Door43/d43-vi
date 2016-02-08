@@ -6,12 +6,12 @@ Khi ngày tận thế đến, các thiên sứ sẽ nhóm tất cả những k�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:angel|các thiên sứ]]**
-  * **[[:vi:key-terms:satan|ma quỷ]]**
-  * **[[:vi:key-terms:suffer|đau đớn]]**
-  * **[[:vi:key-terms:righteous|công bình]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
-  * **[[:vi:key-terms:god-father|Đức Chúa Trời là Cha của họ]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:kt:suffer]]**
+  * **[[:vi:obe:kt:righteous]]**
+  * **[[:vi:obe:kt:kingdomofGod]]**
+  * **[[:vi:obe:kt:godthefather]]**
 
 ===== Phụ chú: =====
 
