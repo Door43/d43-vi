@@ -6,12 +6,12 @@ Trong khi đang hấp hối, Ê-tiên cầu nguyện: "Lạy Chúa Giê-su, xin 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:receive|tiếp rước]]**
-  * **[[:vi:key-terms:spirit|linh hồn]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:receive]]**
+  * **[[:vi:obe:kt:spirit]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
