@@ -6,9 +6,9 @@ Trên đường tới Đa-mách, một ánh sáng chói lòa từ trời rọi x
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:persecute|bắt bớ]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:persecute]]**
+  * **[[:vi:obe:kt:Lord]]**
 
 ===== Phụ chú: =====
 
