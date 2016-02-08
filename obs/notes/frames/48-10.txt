@@ -6,14 +6,14 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:passover|Lễ Vượt Qua]]**
-  * **[[:vi:key-terms:lamb|Chiên con]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:blood|huyết]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:passover]]**
+  * **[[:vi:obe:kt:lamb]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:blood]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
 
 ===== Phụ chú: =====
 
