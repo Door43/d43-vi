@@ -6,13 +6,13 @@
 
 ===== Những điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms:david|Đa-vít]]**
-  * **[[:vi:key-terms:king|vua]]**
-  * **[[:vi:key-terms:israel|Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc]]**
-  * **[[:vi:key-terms:justice|sự công chính]]**
-  * **[[:vi:key-terms:peace|bình an]]**
+  * **[[:vi:obe:other:David]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:other:king]]**
+  * **[[:vi:obe:kt:justice]]**
+  * **[[:vi:obe:other:peace]]**
 
 ===== Phụ chú: =====
 
