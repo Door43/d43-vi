@@ -6,13 +6,13 @@ Nếu bạn tin nhận Chúa Giê-su và những điều Ngài đã làm cho b�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:satan|của Sa-tan]]**
-  * **[[:vi:key-terms:kingdom|vương quốc]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc của Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Christian]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:other:kingdom]]**
+  * **[[:vi:obe:kt:KingdomofGod]]**
 
 ===== Phụ chú: =====
 
