@@ -6,12 +6,12 @@ Nhiều dân tộc vẫn chưa được nghe về Chúa Giê-su. Trước khi th
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:people-group|nhiều nhóm người]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:heaven|trời]]**
-  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
-  * **[[:vi:key-terms:good-news|tin lành]]**
-  * **[[:vi:key-terms:disciple|môn đồ]]**
+  * **[[:vi:obe:other:peoplegroup]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:heaven]]**
+  * **[[:vi:obe:kt:Christian]]**
+  * **[[:vi:obe:kt:goodnews]]**
+  * **[[:vi:obe:kt:disciple]]**
 ===== Phụ chú: =====
 
   * **môn đồ ****hóa**
