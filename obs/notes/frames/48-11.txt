@@ -6,12 +6,12 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:covenant|giao ước]]**
-  * **[[:vi:key-terms:israel|dân Y-sơ-ra-ên]]**
-  * **[[:vi:key-terms:covenant-new|Giao Ước Mới]]**
-  * **[[:vi:key-terms:people-group|nhóm dân tộc]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:Israel]]**
+  * **[[:vi:obe:kt:covenant]]**
+  * **[[:vi:obe:other:peoplegroup]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
