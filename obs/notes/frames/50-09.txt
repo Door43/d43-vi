@@ -6,10 +6,10 @@ Cỏ dại tượng trưng cho những ai thuộc về kẻ ác. Kẻ gieo cỏ 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:evil|điều ác]]**
-  * **[[:vi:key-terms:satan|ma quỷ]]**
-  * **[[:vi:key-terms:god|của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:angel|các thiên sứ]]**
+  * **[[:vi:obe:kt:evil]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:angel]]**
 
 ===== Phụ chú: =====
 
