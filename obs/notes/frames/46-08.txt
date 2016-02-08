@@ -6,13 +6,13 @@ Sau-lơ đi đến Giê-ru-sa-lem để gặp các môn đồ, nhưng các môn 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:believer|tín đồ]]**
-  * **[[:vi:key-terms:barnabas|Ba-na-ba]]**
-  * **[[:vi:key-terms:apostle|các sứ đồ]]**
-  * **[[:vi:key-terms:preach|giảng]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:believer]]**
+  * **[[:vi:obe:other:Barnabas]]**
+  * **[[:vi:obe:kt:apostle]]**
+  * **[[:vi:obe:other:preach]]**
 
 ===== Phụ chú: =====
 
