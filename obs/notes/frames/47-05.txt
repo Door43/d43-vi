@@ -6,10 +6,10 @@ Cuối cùng một ngày kia, khi cô gái bắt đầu la lên, Phao-lô quay l
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|đứa tớ gái]]**
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:demon|con quỷ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:kt:demon]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
