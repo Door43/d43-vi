@@ -6,12 +6,12 @@ Sa-tan trong hình hài của một con rắn đã đến để phỉnh dỗ Ê-
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:satan|Sa-tan]]**
-  * **[[:vi:key-terms:eve|Ê-va]]**
-  * **[[:vi:key-terms:adam|A-dam]]**
-  * **[[:vi:key-terms:sin|phạm tội]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:obe:kt:satan]]**
+  * **[[:vi:obe:other:Eve]]**
+  * **[[:vi:obe:other:Adam]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:death]]**
 
 ===== Phụ chú: =====
 
