@@ -6,17 +6,17 @@ Một ngày kia, trong khi các cơ đốc nhân ở tại thành An-ti-ốt đa
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:fast|kiêng ăn]]**
-  * **[[:vi:key-terms:pray|cầu nguyện]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
-  * **[[:vi:key-terms:church|hội thánh]]**
-  * **[[:vi:key-terms:pray|đã cầu nguyện]]**
-  * **[[:vi:key-terms:barnabas|Ba-na-ba]]**
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:preach|giảng]]**
-  * **[[:vi:key-terms:good-news|tin lành]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:believe|tin]]**
+  * **[[:vi:obe:other:fast]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
+  * **[[:vi:obe:kt:church]]**
+  * **[[:vi:obe:other:pray]]**
+  * **[[:vi:obe:other:Barnabas]]**
+  * **[[:vi:obe:other:paul]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:kt:goodnews]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:believe]]**
 
 ===== Phụ chú: =====
 
