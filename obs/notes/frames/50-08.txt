@@ -6,11 +6,11 @@ Các môn đồ không hiểu ý nghĩa của câu chuyện đó nên họ nói 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|các môn đồ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:good|tốt]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:good]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:kingdomofgod]]**
 
 ===== Phụ chú: =====
 
