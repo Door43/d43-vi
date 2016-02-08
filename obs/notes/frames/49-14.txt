@@ -6,16 +6,16 @@ Chúa Giê-su mời gọi bạn tin nhận Ngài và chịu Báp-tem. Bạn có 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:baptize|báp-tem]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:sin|tội nhân]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:cross|thập tự giá]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:SonofGod]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:punish]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:cross]]**
 
 ===== Phụ chú: =====
 
