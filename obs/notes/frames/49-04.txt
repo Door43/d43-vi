@@ -4,10 +4,10 @@
 
 Ngài cũng dạy rằng chúng ta cần phải yêu kính Đức Chúa Trời hơn bất cứ điều gì khác, kể cả tài sản của mình.
 
-===== Những cụm từ quan trọng: =====
+  - Điểm trong danh sách có thứ tự===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:love|yêu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:kt:love]]**
+  * **[[:vi:obe:kt:god]]**
 
 ===== Phụ chú: =====
 
