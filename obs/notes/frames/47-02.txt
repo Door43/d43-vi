@@ -6,11 +6,11 @@
 
 ===== Những cụm từ: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:baptize|báp-tem]]**
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:silas|Si-la]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:baptize]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Silas]]**
 ===== Phụ chú: =====
 
   * **mở lòng của Ly-đi**– Tức là: “khiến Ly-đi”.
