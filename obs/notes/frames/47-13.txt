@@ -6,12 +6,12 @@ Hôm sau, các nhà lãnh đạo của thành Phi-líp thả Phao-lô và Si-la 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:silas|Si-la]]**
-  * **[[:vi:key-terms:philippi|Phi-líp]]**
-  * **[[:vi:key-terms:good-news|tin lành]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:church|Hội thánh]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Silas]]**
+  * **[[:vi:obe:other:Philippi]]**
+  * **[[:vi:obe:kt:goodnews]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:church]]**
 
 ===== Phụ chú: =====
 
