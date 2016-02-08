@@ -6,10 +6,10 @@ Chúa Giê-su dạy rằng Vương Quốc của Đức Chúa Trời có giá tr�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:kingdom-of-god|vương quốc của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|được cứu]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:KingdomofGod]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:sin]]**
 
 ===== Phụ chú: =====
 
