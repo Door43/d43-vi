@@ -6,18 +6,18 @@ Một sứ đồ của Chúa Giê-su tên là Phi-líp cũng trốn khỏi thàn
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|môn đồ]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:believer|những người tín đồ]]**
-  * **[[:vi:key-terms:jerusalem|Giê-ru-sa-lem]]**
-  * **[[:vi:key-terms:persecute|bắt bớ]]**
-  * **[[:vi:key-terms:samaria|Sa-ma-ri]]**
-  * **[[:vi:key-terms:preach|giảng dạy]]**
-  * **[[:vi:key-terms:save|được cứu]]**
-  * **[[:vi:key-terms:angel|thiên sứ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:chariot|chiếc xe ngựa]]**
-  * **[[:vi:key-terms:holy-spirit|Đức Thánh Linh]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:believer]]**
+  * **[[:vi:obe:other:Jerusalem]]**
+  * **[[:vi:obe:other:persecute]]**
+  * **[[:vi:obe:other:Samaria]]**
+  * **[[:vi:obe:other:preach]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:angel]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:chariot]]**
+  * **[[:vi:obe:kt:HolySpirit]]**
 
 ===== Phụ chú: =====
 
