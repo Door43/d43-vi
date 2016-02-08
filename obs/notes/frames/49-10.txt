@@ -6,14 +6,14 @@ Vì cớ tội lỗi mình đã phạm, chúng ta đáng phải chết. Đáng l
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:guilt|có tội]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:cross|thật tự]]**
-  * **[[:vi:key-terms:receive|gánh lấy]]**
-  * **[[:vi:key-terms:punish|trừng phạt]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:guilt]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:cross]]**
+  * **[[:vi:obe:kt:receive]]**
+  * **[[:vi:obe:other:punish]]**
 
 ===== Phụ chú: =====
 
