@@ -6,10 +6,10 @@ Môi-se là một tiên tri vĩ đại, người đã công bố lời của Đ�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:moses|Môi-se]]**
-  * **[[:vi:key-terms:prophet|tiên tri]]**
-  * **[[:vi:key-terms:word-of-god|Lời của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:other:Moses]]**
+  * **[[:vi:obe:kt:prophet]]**
+  * **[[:vi:obe:kt:Wordofgod]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
