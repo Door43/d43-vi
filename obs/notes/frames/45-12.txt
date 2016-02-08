@@ -7,9 +7,9 @@ Họ đi xuống nước và Phi-líp làm báp-tem cho ông. Sau khi họ ra kh
 ===== Điều khoản quan trọng: =====
 
 
-    * **[[:vi:key-terms:baptize|baptized]]**
-    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
-    * **[[:vi:key-terms:jesus|Jesus]]** 
+    * **[[:vi:obe:kt:baptize]]**
+    * **[[:vi:obe:kt:HolySpirit]]**
+    * **[[:vi:obe:kt:Jesus]]** 
 ===== Phụ chú: =====
 
 
