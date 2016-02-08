@@ -6,16 +6,16 @@ Những việc lành không thể cứu được bạn. Chẳng có điều gì 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:sin|tội lỗi]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:god-son|Con của Đức Chúa Trời]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:cross|thập tự]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:life|đời sống]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:sin]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:sonofgod]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:cross]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:life]]**
 
 ===== Phụ chú: =====
 
