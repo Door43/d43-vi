@@ -6,11 +6,11 @@ Sau đó, những Cơ Đốc Nhân vẫn còn đang sống sẽ bay lên trời 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
-  * **[[:vi:key-terms:life|vẫn đang sống]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
+  * **[[:vi:obe:kt:christian]]**
+  * **[[:vi:obe:kt:life]]**
+  * **[[:vi:obe:kt:raise]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:Jesus]]**
 
 ===== Phụ chú: =====
 
