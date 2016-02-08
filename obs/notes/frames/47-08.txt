@@ -6,10 +6,10 @@ Họ nhốt Phao-lô và Si-la vào nơi an toàn nhất của nhà tù và th�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:paul|Phao-lô]]**
-  * **[[:vi:key-terms:silas|Si-la]]**
-  * **[[:vi:key-terms:praise|ngợi khen]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:other:Silas]]**
+  * **[[:vi:obe:other:praise]]**
+  * **[[:vi:obe:kt:god]]**
 ===== Phụ chú: =====
 
   * **vào lúc nửa ****đêm**– Chỗ nầy có thể dịch là: “vào lúc đêm khuya” hay “lúc trời còn rất sớm”. Đây là lúc ở bên ngoài trời rất tốt, lúc mọi người hầu như đang say ngủ.
