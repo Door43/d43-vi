@@ -6,12 +6,12 @@ Có một môn đồ ở tại thành Đa-mách tên là A-na-nia. Đức Chúa 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:disciple|môn đồ]]**
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:paul|Sau-lơ]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:persecute|bắt bớ]]**
-  * **[[:vi:key-terms:suffer|chịu khổ]]**
+  * **[[:vi:obe:kt:disciple]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:other:Paul]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:other:persecute]]**
+  * **[[:vi:obe:kt:suffer]]**
 
 ===== Phụ chú: =====
 
