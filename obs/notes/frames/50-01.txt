@@ -6,11 +6,11 @@ Khoảng gần 2.000 năm nay, ngày càng nhiều người trên thế giới �
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:good-news|tin lành]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:messiah|Đấng Mê-si]]**
-  * **[[:vi:key-terms:church|Hội Thánh]]**
-  * **[[:vi:key-terms:promise|đã hứa]]**
+  * **[[:vi:obe:kt:goodnews]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Christ]]**
+  * **[[:vi:obe:kt:church]]**
+  * **[[:vi:obe:kt:promise]]**
 
 ===== Phụ chú: =====
 
