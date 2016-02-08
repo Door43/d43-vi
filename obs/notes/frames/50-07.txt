@@ -6,8 +6,8 @@ Các đầy tớ nghe vậy liền thắc mắc: "Sao chúng ta không nhổ c�
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:servant|đầy tớ]]**
-  * **[[:vi:key-terms:lord|chủ]]**
+  * **[[:vi:obe:other:servant]]**
+  * **[[:vi:obe:kt:Lord]]**
 
 ===== Phụ chú: =====
 
