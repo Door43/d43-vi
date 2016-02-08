@@ -6,10 +6,10 @@ Chúa Giê-su cũng nói rằng Ngài sẽ trở lại thế gian ngay trước 
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:christian|Cơ Đốc Nhân]]**
-  * **[[:vi:key-terms:death|chết]]**
-  * **[[:vi:key-terms:raise|sống lại]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:Christian]]**
+  * **[[:vi:obe:kt:death]]**
+  * **[[:vi:obe:kt:raise]]**
 
 ===== Phụ chú: =====
 
