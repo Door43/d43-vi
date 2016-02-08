@@ -6,13 +6,13 @@
 
 ===== Những cụm từ quan trọng: =====
 
-  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-  * **[[:vi:key-terms:save|cứu]]**
-  * **[[:vi:key-terms:believe|tin]]**
-  * **[[:vi:key-terms:jesus|Chúa Giê-xu]]**
-  * **[[:vi:key-terms:receive|tiếp nhận]]**
-  * **[[:vi:key-terms:lord|Chúa]]**
-  * **[[:vi:key-terms:love|yêu]]**
+  * **[[:vi:obe:kt:god]]**
+  * **[[:vi:obe:kt:save]]**
+  * **[[:vi:obe:kt:believe]]**
+  * **[[:vi:obe:kt:Jesus]]**
+  * **[[:vi:obe:kt:receive]]**
+  * **[[:vi:obe:kt:Lord]]**
+  * **[[:vi:obe:kt:love]]**
 
 ===== Phụ chú: =====
 
