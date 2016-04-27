@@ -1,9 +1,9 @@
-====== Complete List of Important Terms - Vietnamese ======
+====== Complete  List of translationWords- Vietnamese ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:vi:obe:kt:home]]
-  * [[:vi:obe:other:home]]
+  * [[:vi:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:vi:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
